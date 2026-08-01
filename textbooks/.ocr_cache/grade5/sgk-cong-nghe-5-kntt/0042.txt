@@ -1,0 +1,20 @@
+. Mô hình máy phát điện gió gồm có các bộ phận chính như: máy phát điện
+cánh quạt, khung giá đỡ, dây dẫn điện và thiết bị tiêu thụ điện.
+b) Chi tiết, vật liệu và dụng cụ
+&$ Emhãy lựa chọn đúng số lượng các chỉ tiết, vật liệu và dụng cụ trong bộ lắp ghép
+mô hình kĩ thuật đề lắp mô hình máy phát điện gió trong Hình 3 theo bảng
+gợi ý dưới đây.
+BẢNG CHÍ TIẾT, VẬT LIỆU VÀ DỤNG CỤ
+STT
+GTWYIYTYTYrrrđr
+2 _ Thanh chữ Udài | sSs%ss' F2
+3. ThanhchữUngắn ¡| Sss'`, 2
+4 Thanh chữ L dài ộ 2
+5 Thanh thẳng 3 lố le se) 2
+6 Máy phát điện cánh quạt 1
+và dây dẫn điện
+7 ĐènLED __— PP 1
+8 — Đaiốc 6© 12
+9 Vitngấn — 12
+10 Tuavit =—=“ — =- 1
+40

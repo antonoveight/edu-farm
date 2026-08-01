@@ -1,0 +1,29 @@
+'Tệp: Thông tin trong máy tính được lưu trữ thành Các tệp (tệp văn bản,
+tệp hình ảnh, tệp video,...). Mỗi tệp đều có tên và biểu tượng.
+Thư mục: Các tệp được sắp xếp trong
+các thư mục đẻ dễ quản lí và tìm kiếm,
+giống như việc chúng ta sắp xếp các cuốn
+sách vào các ngăn. Mỗi thư mục có tên l _
+riêng và biểu tượng của thư mục thường là  Phanmem TiengViet Toan  Taileu
+hình kẹp giây (Hình 49). Một thư mục có thê... mình 49. Một số hình ảnh thư mục
+chứa các thư mục khác gọi là các thư mục
+con. Các thư mục con trong cùng thư mục Du lieu (D:)
+không được trùng tên. =
+Truyen tranh
+Ö đĩa: Các thư mục và tệp được lưu trữ Đö3e:mii
+trong các ô đĩa. © đĩa thường được đặt tên  Anhjpg
+là C:, D:, E.,... Ö đĩa còn gọi là thư mục góc.
+Co-nan
+Sử dụng sơ đỏ hình cây, em có thẻ dễ dàng Trang Quynh
+hình dung việc tô chức lưu trữ thông tin Truyen co tich
+trong máy tính (Hình 50). ,.
+Hình 50. Sơ đô cây thư mục
+Ổ đĩa, thư mục và tệp trong máy tính được tổ chức,
+sắp xếp dưới dạng sơ đồ hình cây.
+1. Câu nào sau đây là sai?
+A. Một ỏ đĩa có thể chứa nhiều thư mục.
+B. Một thư mục có thể chứa nhiều tệp và thư mục con.
+€. Thư mục có thẻ chứa nhiều thư mục con cùng tên.
+D. Có thể có hai tệp cùng tên nằm ở hai thư mục khác nhau.
+2. Trong Hình 50, ở đĩa tên là gì? Thư mục Truyen tranh chứa tệp và
+thư mục nào?

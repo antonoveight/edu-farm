@@ -1,0 +1,269 @@
+[
+  {
+    "q": "Trong lập trình Scratch, khối lệnh 'Repeat' thuộc nhóm nào?",
+    "a": "CONTROL (ĐIỀU KHIỂN)",
+    "c": [
+      "CONTROL (ĐIỀU KHIỂN)",
+      "MOTION (CHUYỂN ĐỘNG)",
+      "LOOKS (NGOẠI HÌNH)",
+      "SOUND (ÂM THANH)"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Khối lệnh Scratch dùng để di chuyển nhân vật tiến lên phía trước là lệnh nào?",
+    "a": "MOVE 10 STEPS",
+    "c": [
+      "MOVE 10 STEPS",
+      "TURN 15 DEGREES",
+      "SAY HELLO",
+      "PLAY SOUND"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Để bảo vệ thông tin cá nhân trên mạng, hành vi nào nên làm?",
+    "a": "ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT",
+    "c": [
+      "ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT",
+      "CHIA SẺ ẢNH CÁ NHÂN CHO NGƯỜI LẠ",
+      "BẤM VÀO ĐƯỜNG LINK TRÚNG THƯỞNG LẠ",
+      "TIẾT LỘ ĐỊA CHỈ NHÀ CHO NGƯỜI CHƯA QUEN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Thuật ngữ 'Bug' trong lập trình máy tính có nghĩa là gì?",
+    "a": "LỖI TRONG CHƯƠNG TRÌNH",
+    "c": [
+      "LỖI TRONG CHƯƠNG TRÌNH",
+      "TÊN MỘT LỆNH ĐẶC BIỆT",
+      "MỘT LOẠI PHẦN MỀM",
+      "MỘT BỘ PHẬN CỦA MÁY TÍNH"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Vòng lặp trong lập trình dùng để làm gì?",
+    "a": "LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH",
+    "c": [
+      "LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH",
+      "DỪNG CHƯƠNG TRÌNH",
+      "TẠO MÀU SẮC",
+      "VẼ HÌNH"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để TẠO MỚI (New) một tệp trống:",
+    "a": "ctrl+n",
+    "c": [
+      "ctrl+n"
+    ],
+    "type": "shortcut",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để IN (Print) tài liệu ra máy in:",
+    "a": "ctrl+p",
+    "c": [
+      "ctrl+p"
+    ],
+    "type": "shortcut",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Luyện gõ lệnh lặp Scratch:",
+    "a": "repeat 10 times",
+    "c": [
+      "repeat 10 times"
+    ],
+    "type": "typing",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Trong Scratch, nhóm lệnh nào chứa lệnh 'khi nhấn cờ xanh'?",
+    "a": "NHÓM SỰ KIỆN",
+    "c": [
+      "NHÓM SỰ KIỆN",
+      "NHÓM CHUYỂN ĐỘNG",
+      "NHÓM NGOẠI HÌNH",
+      "NHÓM ÂM THANH"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Bé nên làm gì khi nhận thấy mật khẩu tài khoản bị lộ?",
+    "a": "ĐỔI MẬT KHẨU NGAY",
+    "c": [
+      "ĐỔI MẬT KHẨU NGAY",
+      "KHÔNG LÀM GÌ CẢ",
+      "CHIA SẺ CHO BẠN BÈ",
+      "TẮT MÁY TÍNH THÔI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Mạng máy tính toàn cầu kết nối hàng triệu thiết bị gọi là?",
+    "a": "INTERNET",
+    "c": [
+      "INTERNET",
+      "BLUETOOTH",
+      "WIFI NỘI BỘ",
+      "LAN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Trong Scratch, lệnh nào giúp nhân vật di chuyển?",
+    "a": "DI CHUYỂN ... BƯỚC",
+    "c": [
+      "DI CHUYỂN ... BƯỚC",
+      "PHÁT TIẾNG NHẠC",
+      "ĐỔI MÀU SẮC",
+      "HIỆN RA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Mật khẩu mạnh cần có yếu tố nào?",
+    "a": "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
+    "c": [
+      "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
+      "CHỈ DÙNG SỐ",
+      "TÊN CỦA MÌNH",
+      "NGÀY SINH CỦA MÌNH"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "James Watt (Giêm Oát) là nhà sáng chế nổi tiếng thế giới với phát minh vĩ đại nào?",
+    "a": "Động cơ hơi nước",
+    "c": [
+      "Động cơ hơi nước",
+      "Bóng đèn điện",
+      "Ô tô chạy xăng",
+      "Điện thoại di động"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Thomas Edison (Tô-mát Ê-đi-xơn) nổi tiếng với phát minh nào làm thay đổi lịch sử chiếu sáng của nhân loại?",
+    "a": "Bóng đèn điện sợi đốt",
+    "c": [
+      "Bóng đèn điện sợi đốt",
+      "Động cơ hơi nước",
+      "Máy in",
+      "Máy bay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Khi sử dụng điện thoại thông minh, thói quen nào có thể gây nguy hiểm nghiêm trọng đến tính mạng?",
+    "a": "Vừa sạc pin vừa sử dụng điện thoại",
+    "c": [
+      "Vừa sạc pin vừa sử dụng điện thoại",
+      "Chỉ nhắn tin khi cần thiết",
+      "Giới hạn thời gian sử dụng",
+      "Tắt wifi khi đi ngủ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Đâu là một quy tắc ứng xử lịch sự khi giao tiếp qua điện thoại?",
+    "a": "Chào hỏi, xưng danh và nêu mục đích của cuộc gọi",
+    "c": [
+      "Chào hỏi, xưng danh và nêu mục đích của cuộc gọi",
+      "Nói trống không không xưng tên",
+      "Bất ngờ gác máy không chào",
+      "Nói thật to và gào thét vào mic"
+    ],
+    "type": "multiple_choice",
+    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
+  },
+  {
+    "q": "Ghép cấu trúc máy tính với thành phần đúng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết cấu trúc và các thành phần bên trong máy tính",
+    "pairs": [
+      {
+        "left": "CPU",
+        "right": "Bộ xử lý trung tâm"
+      },
+      {
+        "left": "RAM",
+        "right": "Bộ nhớ tạm thời"
+      },
+      {
+        "left": "Ổ cứng (HDD/SSD)",
+        "right": "Lưu trữ dữ liệu lâu dài"
+      },
+      {
+        "left": "Card màn hình",
+        "right": "Xử lý hình ảnh và đồ họa"
+      }
+    ]
+  },
+  {
+    "q": "Luyện gõ đoạn văn ngắn:",
+    "a": "may tinh la cong cu hoc tap",
+    "c": [
+      "may tinh la cong cu hoc tap"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím tốc độ và độ chính xác cao"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để LÀM MỚI (Refresh) trang web:",
+    "a": "ctrl+r",
+    "c": [
+      "ctrl+r"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng thành thạo phím tắt trong trình duyệt web"
+  },
+  {
+    "q": "Ghép khái niệm lập trình với mô tả đúng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu các khái niệm lập trình cơ bản dành cho học sinh tiểu học",
+    "pairs": [
+      {
+        "left": "Thuật toán",
+        "right": "Dãy các bước giải quyết vấn đề"
+      },
+      {
+        "left": "Vòng lặp",
+        "right": "Thực hiện lại một khối lệnh nhiều lần"
+      },
+      {
+        "left": "Biến",
+        "right": "Ô chứa giá trị có thể thay đổi"
+      },
+      {
+        "left": "Điều kiện",
+        "right": "Kiểm tra để quyết định bước tiếp theo"
+      }
+    ]
+  }
+]

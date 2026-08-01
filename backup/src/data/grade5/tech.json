@@ -1,0 +1,55 @@
+[
+  {
+    "q": "Trong Scratch, nhóm lệnh nào chứa lệnh 'khi nhấn cờ xanh'?",
+    "a": "NHÓM SỰ KIỆN",
+    "c": [
+      "NHÓM SỰ KIỆN",
+      "NHÓM CHUYỂN ĐỘNG",
+      "NHÓM NGOẠI HÌNH",
+      "NHÓM ÂM THANH"
+    ]
+  },
+  {
+    "q": "Bé nên làm gì khi nhận thấy mật khẩu tài khoản bị lộ?",
+    "a": "ĐỔI MẬT KHẨU NGAY",
+    "c": [
+      "ĐỔI MẬT KHẨU NGAY",
+      "KHÔNG LÀM GÌ CẢ",
+      "CHIA SẺ CHO BẠN BÈ",
+      "TẮT MÁY TÍNH THÔI"
+    ]
+  },
+  {
+    "q": "Mạng máy tính toàn cầu kết nối hàng triệu thiết bị gọi là?",
+    "a": "INTERNET",
+    "c": [
+      "INTERNET",
+      "BLUETOOTH",
+      "WIFI NỘI BỘ",
+      "LAN"
+    ]
+  },
+  {
+    "q": "Trong Scratch, lệnh nào giúp nhân vật di chuyển?",
+    "a": "DI CHUYỂN ... BƯỚC",
+    "c": [
+      "DI CHUYỂN ... BƯỚC",
+      "PHÁT TIẾNG NHẠC",
+      "ĐỔI MÀU SẮC",
+      "HIỆN RA"
+    ]
+  },
+  {
+    "q": "Mật khẩu mạnh cần có yếu tố nào?",
+    "a": "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
+    "c": [
+      "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
+      "CHỮ HOA",
+      "CHỮ THƯỜNG",
+      "SỐ VÀ KÝ TỰ ĐẶC BIỆT",
+      "CHỈ DÙNG SỐ",
+      "TÊN CỦA MÌNH",
+      "NGÀY SINH CỦA MÌNH"
+    ]
+  }
+]

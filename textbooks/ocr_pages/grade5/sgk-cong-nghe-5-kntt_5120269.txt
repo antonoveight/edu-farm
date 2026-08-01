@@ -1,0 +1,1275 @@
+[Trang 1 | ocr]
+LÊ HUY HOÀNG (Tống Chủ biên)
+` đã ĐẶNG VĂN NGHĨA (Chủ biên)
+` DƯƠNG GIÁNG THIÊN HƯƠNG - NGUYỄN BÍCH THẢO
+“ ¡0m1 VŨ THỊ NGỌC THUÝ - NGUYỄN THANH TRỊNH
+^ ^ b
+"
+F BE
+NỈ ,
+T4) ` tác
+/ '` ¡ -:
+TU 2 P T—" l te.
+` ⁄
+\ U Ỉ 7
+k ết A.-
+2 l \ '4
+lì 2k“ b
+k- ộ Â >
+¬^—— . ®à
+L2)
+F= NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM `
+
+[Trang 2 | ocr]
+"-::..
+KẾT NỖI TRI THỨC
+VỨI CUỆÿ SĨNB
+
+[Trang 3 | ocr]
+LÊ HUY HOÀNG (Tống Chủ biên)
+ĐĂNG VĂN NGHĨA (Chủ biên)
+
+DƯƠNG GIÁNG THIÊN HƯƠNG - NGUYỄN BÍCH THẢO.
+
+VŨ THỊ NGỌC THUÝ - NGUYỄN THANH TRỊNH
+
+^ ^ =
+-—..-
+_
+"
+GIÁO,
+SN
+á
+TGanb)
+NHÀ XUÁT BẢN GIÁO DỤC VIỆT NAM
+
+[Trang 4 | ocr]
+HƯỚNG DẪN SỬ DỤNG SÁCH
+Sách giáo khoa Công nghệ 5 nối tiếp mạch nội dung Công nghệ 4, được
+cấu trúc thành các bài học với thiết kế hài hoà giữa học liệu và hoạt động.
+Mở đầu là hoạt động khởi động với tình huống tạo sự tò mò, hứng thú
+học tập của học sinh. Các hoạt động học tập với biều tượng là chú robot
+năng động, thông minh được thể hiện dưới dạng các hộp chức năng với
+kí hiệu và ý nghĩa như minh hoạ dưới đây.
+` KHÁMPHÁ:
+“⁄£ .. Hoạt động học tập hình thành kiến thức mới gắn với thực tiễn.
+" LUYỆN TẬP/THỰC HÀNH:
+s9 Trả lời các câu hỏi, thực hiện các bài tập liền quan đến kiến thức mới, khắc
+sâu kiến thức; thao tác với vật liệu, dụng cụ; rèn luyện và phát triển kĩ năng.
+Z»o VẬN DỤNG:
+Được thực hiện trong hoặc ngoài lớp học nhằm vận dụng kiến thức, kĩ năng
+đã học vào thực tiễn cuộc sống.
+Z GHI NHỚ:
+Những nội dung kiến thức cô đọng, cốt lõi cho học sinh.
+ũ Ý TƯỞNG SÁNG TẠO:
+Gợi ý cho học sinh suy nghĩ, đề xuất những cách làm mới.
+~ THÔNG TIN CHO EM:
+Thông tin bổ ích và thú vị, cung cấp cho học sinh những hiểu biết
+mở rộng nội dung bài học.
+Hãy bảo quản, giữ gìn sách giáo khoa đẻ dành tặng
+các em học sinh lớp sau!
+2
+
+[Trang 5 | ocr]
+LỠI NÓI ĐẦU:
+
+Các em thân mén!
+
+Sách giáo khoa Công nghệ 5 tiếp nối mạch kiến thức
+Công nghệ 4 với hai mạch nội dung chính: Công nghệ và
+đời sống, Thủ công kĩ thuật. Nội dung học tập của sách
+hắp dẫn, gần gũi với học sinh tiểu học, gắn két với đời sống,
+với giáo dục STEM và giáo dục tài chính.
+
+Nội dung Công nghệ và đời sống giúp các em hiểu được
+vai trò của công nghệ, quá trình thiết kế ra các sản phẩm
+công nghệ và để sáng chế ra chúng thì nhà sáng chế cần
+những đức tính gì. Các em cũng sẽ được tìm hiểu cách sử dụng
+điện thoại và tủ lạnh, những sản phẩm công nghệ gần gũi và
+cần thiết gắn với đời sống; biết cách khai thác các tính năng của
+chúng một cách an toàn, hiệu quả và văn minh.
+
+Với nội dung Thủ công kĩ thuật, các em sẽ cùng nhau thể
+hiện ý tưởng, thoả sức sáng tạo, lắp ráp được mô hình xe điện
+chạy bằng pin, mô hình máy phát điện gió và mô hình điện
+mặt trời từ bộ lắp ghép mô hình kĩ thuật.
+
+Hãy cùng nhau tiếp tục chinh phục thế giới công nghệ
+hiện đại, gần gũi và vô cùng háp dẫn.
+
+Chúc các em thành công.
+
+CÁC TÁC GIẢ
+3
+
+[Trang 6 | ocr]
+MỤC LỤC:
+.aaa=
+Hướng dẫn sử dụng sách P2
+Lời nói đầu 8
+Bài 1 Vai trò của công nghệ 6
+Bài 2 Nhà sáng chế 9
+Bài 3 Tìm hiểu thiết kế 14
+Bài 4. Thiết kế sản phẩm 17
+Bài5 Sử dụng điện thoại 19
+Bài 6 Sử dụng tủ lạnh 26
+Bài 7. Lắp ráp mô hình xe điện chạy bằng pin 32
+Bài 8 Mô hình máy phát điện gió 38
+Bài 9 Mô hình điện mặt trời 44
+Bảng giải thích thuật ngữ 51
+4
+
+[Trang 7 | ocr]
+MỘT
+Ô sang nõneo,
+=
+
+[Trang 8 | ocr]
+h ñ D ` + n ^
+Œ |) Vai trò của công nghệ
+Ì — Trình bày được vai trò của sản phẩm công nghệ trong đời sống. |
+( — Nhận biết được những mặt trái khi sử dụng công nghệ.
+Nhờ có máy bay, con người
+có thể đi đến những noi rắt xa -
+thật dễ dàng chị nhỉ? . Đúng vậy em ạ.
+` “> 2
+Tam | 2⁄2 —— c z
+_—=-d.- ` =—
+1. VAI TR CỦA SẢN PHẨM CÔNG NGHỆ TRONG Đời SÔNG
+Quan sát các sản phẩm công nghệ trong Hình 1 và cho biết chúng có vai trò
+như thế nào trong đời sống
+í : —. \ - \ Ï*_—. Xc°ˆ-.”
+* Xã
+8) Xe đạp b) Tù lạnh ©) Máy cày
+d) Máy tính điện tử e) Máy đóng nút chai g) Hoa và cây cảnh
+6
+
+[Trang 9 | ocr]
+$“ tên một số sản phẩm công nghệ trong đời sống phù hợp với mô tả về
+vai trò của sản phẩm công nghệ trong các thẻ thông tin dưới đây.
++ nêu vai trò của sản phẩm công nghệ khác mà em biết.
+2. MẶT TRÂI KHI SỬ DỤNG CÔNG NGHỆ
+Quan sát sơ đồ trong Hình 2 và cho biết công nghệ sản xuất giấy dưới đây có
+ảnh hưởng như thế nào đến môi trường.
+mm
+_ Hình2 -
+#
+
+[Trang 10 | ocr]
+3. Quan sát các tình huống trong Hình 3 và lựa chọn các thẻ phù hợp để thẻ hiện
+mặt trái khi sử dụng công nghệ trong mỗi hình.
+'1 Lệ thuộc vào sản phẩm công nghệ 2 Hạn chế giao tiếp trực tiếp của con người
+-3. Mất an toàn thông tin -4. Ảnh hưởng đến sức khỏe
+Để mình lẫy .«.... Đó bạn 5234 x 10 = ? „am
+máy tính ra I8 G7 II
+_ tính nhé. JỆƑT.. +. |
+É° su) »> ”=.. HN
+Ẩn c ° DA SN ọ
+a “ _Œ
+J m
+Ỉ "`. ở ị
+e đ
+- Hình 3
+§ Em hãy trao đổi với bạn và kể thêm những mặt trái khi sử dụng công nghệ
+trong đời sống.
+s2 Bên cạnh những ưu. điểm, việc sử dụng công nghệ ít nhiều mang lại những
+¡— ảnh hưởng tiêu cực đối với đời sống của con người. Nếu sử dụng không
+đúng cách và hợp lí, con người có thể bị lệ thuộc vào công nghệ, giảm
+tư duy và sáng tạo, hạn chế giao tiếp trực tiếp, ảnh hưởng đến sức khoẻ
+người dùng, gây mắt an toàn thông tin. Ị
+& 1. Nêu những thói quen của người thân trong gia đình em khi sử dụng
+công nghệ gây ảnh hưởng đến sức khoẻ.
+2. Tìm kiếm thông tin, hình ảnh và chuẩn bị bài trình bày về chủ đề:
+“Sử dụng công nghệ trong đời sống: Nên hay không nên”.
+8
+
+[Trang 11 | ocr]
+Học xong bãi nâu, em sẽ: .Š
+Í ~ Neu được vai trò dìa sáng chế trong đời sống và sự phát triển của công nghệ.
+~ Tóm tắt được thông tỉn về một số nhà sáng chế nổi bật trong lịch sử loài người.
+~ Nêu được lịch sử sáng chế ra sản phẩm công nghệ tiêu biểu.
+| — Nêu được một số đức tính cần có để trở thành nhà sáng chế.
+Bạn có biết bóng đèn d B Bóng đèn điện là một
+điện là sáng chế của L h )ậ ¡_ sáng chế nỗi tiếng của
+ai không? S: z kì _Š. ị Tô-mát Ê-đi-xon bạn ạ.
+1. VAI TRÕ CỦA SÃNG CHÊ
+a) Trong đời sống
+& Quan sát Hình 1 và cho biết các sáng chế dưới đây có vai trò như thế nào trong
+đời sống.
+'; >
+E
+a) Cách treo cuộn giấy vệ sinh b) Bóng đèn điện
+với đầu cuộn giáy ở phía trên
+c) Giấy viết đ) Guỗng nước
+__ Hình 1 - Một só sáng ché trong đòi sóng
+m hiểu và chia sẻ với bạn về vai trò của một sáng chế đối với đời sống
+con người mà em biết.
+9
+
+[Trang 12 | ocr]
+b) Trong sự phát triển công nghệ
+Quan sát Hình 2 và cho biết sáng chế đã làm công nghệ thay đỏi và phát triển
+-: như thế nào.
+d Sáng chế góp phần ỳ +
+_. tạo ra sản phẩm mới sế
+Ế .... tt /
+Vẽ bằng than củi Vẽ bằng bút chì
+_ Hình2 _
+5; hãy trao đổi với bạn về những sáng chế làm thay đổi và phát triển công
+nghệ mà em tìm hiểu được.
+(2=: Sáng chế góp phần tạo ra sản phẩm mới, cải tiến sản phẩm, thúc đầy
+- sự phát triển của công nghệ, giúp đời sống con người tiện nghỉ và
+văn minh hơn.
+2. MỘT SÔ NHÀ SÂNG CHÊ TIÊU BIỂU TRONG LỊCH SỬ
+$°= sát Hình 3, ghép tên nhà sáng chế và sáng chế của họ cho phù hợp.
+^ ¬
+J vz “2
+ợ
+a) Giêm Oát b) Các Ben c) A-léch-xan-đơ d) Tô-mát Ê-đi-xon
+(1736 — 1819) (1844 — 1929) Gra-ham Beo (1847 — 1931)
+(1847 ~ 1922)
+XS \
+s :
+II "' _Á.
+siS` _
+) ii ma. Ẳ
+1124 -
+1) Bóng đèn sợi đốt 2) Động cơ hơi 3) Điện thoại được 4) Ô tô được cấp
+được cắp bằng nước được cắp cắp bằng sáng bằng sáng ché
+sáng ché bằng sáng chế chế năm 1876 năm 1886
+năm 1879 năm 1784
+_ Hình3 -
+10
+
+[Trang 13 | ocr]
+&e» tìm hiểu thông tin về các nhà sáng chế và lịch sử các sáng chế tiêu biểu
+của họ.
+1. Giêm Oát (James Watt)
+Giêm Oát sinh năm 1736, mắt năm 1819, là một nhà sáng chế,
+một kĩ sư người Xcốt-len (Scotland).
+Năm 1783, ông bắt đầu thí nghiệm với mô hình động cơ hơi nước
+dạng sơ khai. - ⁄
+Năm 1765, ý tưởng về động cơ hơi nước ra đời. Động cơ này
+tiết kiệm được nhiên liệu so với động cơ dạng sơ khai, giúp cho
+hiệu suất làm việc của động cơ tăng lên.
+Năm 1784, Giêm Oát được cấp bằng sáng chế cho động cơ
+hơi nước của mình.
+Động cơ hơi nước do ông sáng chế được sử dụng rộng rãi, mở ra
+thời đại máy hơi nước và tạo ra một cuộc cách mạng công nghiệp
+của thế kỉ XIX.
+` 2. Tô-mát Ê-đi-xơn (Thomas Edison)
+` Tô-mát Ê-đi-xơn sinh năm 1847, mắt năm 1931, là nhà phát minh,
+c* - 4 nhà sáng chế nỏi tiếng người Mỹ.
+“⁄ Tháng 3 năm 1878, ông bắt đầu nghiên cứu về bóng đèn sợi đốt.
+K1 Sau rất nhiều lằn thất bại, ông đã chế tạo thành công chiếc bóng đèn
+sợi đốt và nhận được bằng sáng chế vào năm 1879.
+Bóng đèn điện ra đời giúp con người có thể làm việc và sinh hoạt
+thuận tiện hơn vào buổi tối, thắp sáng đường phố và nhà máy.
+3. A-lếch-xan-đơ Gra-ham Beo (Alexander Graham Bell)
+A-lếch-xan-đơ Gra-ham Beo sinh năm 1847, mắt năm 1922, là
+một nhà sáng chế người Xcốt-len. >
+Năm 1874, ông đã chế tạo được một chiếc máy có thể truyền vài M
+tin điện báo qua một đường dây. MZ)
+Năm 1875, ông nghiên cứu và cải tiến chiếc máy này để truyền `
+tiếng nói của con người qua đường dây. Đây chính là nghiên cứu
+khởi đầu về điện thoại.
+Năm 1876, ông được cấp bằng sáng chế cho chiếc điện thoại
+của mình.
+Chiếc điện thoại ra đời giúp thay đổi phương thức liên lạc của con
+người, giúp con người có thẻ dễ dàng liên lạc với nhau từ những
+khoảng cách xa.
+11
+
+[Trang 14 | ocr]
+4. Các Ben (Karl Benz)
+b Các Ben sinh năm 1844, mắt năm 1929, là một kĩ sư cơ khí
+người Đức.
+vr Những năm 1870, Các Ben đã thiết kế được động cơ chạy bằng
+xăng. Đây là bộ phận quan trọng cho chiếc ô tô của ông sau này.
+Đầu năm 1886, chiếc ô tô của Các Ben đã hoàn thiện và được cấp
+bằng sáng ché.
+Chiếc ô tô này đã mở đầu cho thời kì chế tạo các mẫu ô tô mới,
+giúp cho phương thức di chuyển của con người ngày càng trở nên
+thuận tiện hơn.
+— Lựa chọn sáng chế trong các thông tin trên để điền vào ô trống tương ứng
+với thời gian cắp bằng sáng chế theo mẫu dưới đây.
+— 1876 — 1886
+— Kể tóm tắt những điều em biết về người đã sáng chế ra các sáng chế đó.
+Sâm hiểu và lập sơ đồ tư duy để mô tả những hiểu biết của em về một trong
+những sáng chế mà em biết theo gợi ý dưới đây.
+CN LỰ
+??? ` - ???
+á -
+s
+c^+¿ 2
+ĐÈN SỐ
+???
+???
+® Trong lịch sử, có một số nhà sáng chế tiêu biểu góp phần thay đổi xã hội _
+;—_ loài người với các sáng chế của họ. Có thẻ kẻ đến như: Giêm Oát với động
+cơ hơi nước (1784), A-lếch-xan-đơ Gra-ham Beo với điện thoại (1876),
+Tô-mát Ê-đi-xơn với bóng đèn sợi đốt (1879), Các Ben với ô tô (1886),... ụ
+12
+
+[Trang 15 | ocr]
+3. ĐỨC TÍNH CÂN CÔ CỦA NHÀ SÃNG CHÊ
+& Lựa chọn những thẻ mô tả đức tính cần có để trở thành nhà sáng chế trong
+các thẻ dưới đây.
+Kiên trì : : Thông minh
+'Tò mò khoa học _ Không ngại thất bại ˆ
+_Chịu khó quan sát Tố” Nghị lục
+Chăm chỉ Ham học hỏi
+s$„ trao đổi với bạn về những đức tính cần có để có thể trở thành nhà
+Tñ sáng chế.
+2- Nhà sáng chế thường có những đức tính như: ham tìm tòi, học hỏi, tò mò
+bọ khoa học, chịu khó quan sát, có sự kiên trì, nhẫn nại, không ngại khó khăn,
+vất vả, không sợ thất bại.
+S; CHIÉC MÁY TÍNH ĐIỆN TỬ ĐẢU TIÊN
+ENIAC (Hình 4), tên đầy đủ là "Máy tính I hộ >——
+và tích hợp số điện tử", là máy ¬ `
+tính có thể lập trình đầu tiên được mm. „à cỊ| p
+chế tạo tại Hoa Kỳ trong thời gian lữ 627tr Aì ¬F ly:
+Chiến tranh thế giới thứ hai. Nhà vật li. ly ñIỆ NA lạ
+người Mỹ Giôn Mau-li (John Mauchly), ME: ñ - it
+Kĩ sư người Mỹ Prét-pơ Éc-cơ (Presper MỸNC l] =
+Eckert) và các đồng nghiệp của họ ĐI -
+tại trường đại học Pen-sixvây-ni-a _ Hình4 -
+(Pensylvania) đã bắt đầu nghiên cứu dự
+án này từ năm 1943.
+Năm 1946, ENIAC được hoàn thành. Nó có kích thước rất lớn và có thẻ
+thực hiện được 5 000 phép cộng trong mỗi giây. Chiếc máy tính này được
+xem là máy tinh điện tử đầu tiên, là ông tổ của máy tính hiện đại.
+(Nguôn: hf{ps:⁄www.britannica.com/technology/ENIAC)
+13
+
+[Trang 16 | ocr]
+: ñ «..? è - “
+Tìm hiểu thiết kế
+~ Nhận thức được muốn tạo ra sản phẩm công nghệ cần phải thiết kế; thiết kế |
+là một quá trình sáng tạo.
+~ Kể được tên các công việc chính khi thiết kế.
+\ — Về phác thảo, nêu được ý tưởng thiết kế một sản phẩm ng nghệ đơn giản. _ j
+. Bồ đang làm gì thé ạ? . Íˆ Bố đang xem bân
+- `  L........ |
+NA ˆ & ._ của gia đình mình.
+1. THIÊT KÊ TRONG CUỘC SÔNG
+$ Em hãy ghép thẻ tên hoạt động với hình mô tả hoạt động ở Hình 1 cho phù hợp.
+-_ Hoạt động nào được thực hiện đầu tiên để tạo ra sản phẩm công nghệ?
+: ¿SN
+` e .ầ & h
+Vận hành, sử dụng `ợ. Ị
+I j
+h h
+14
+
+[Trang 17 | ocr]
+$ Em hãy quan sát và nêu sự khác nhau về kiểu dáng, màu sắc của những
+chiếc đồng hò trong Hình 2. Hoạt động nào tạo nên sự khác nhau của những
+sản phẩm đó?
+- x J28/!⁄00 „`,
+“ N
+(] à 9 `2 NÀNG
+th, ‹8 4. Ñ
+``ấ*, LÁ.)
+a b e d
+_ Hình2 _
+mm Muốn tạo ra sản phẩm công nghệ cần phải bắt đầu từ việc thiết kế
+'[— sản phẩm. Thiết ké là quá trình sáng tạo để tạo ra sản phẩm đáp ứng tốt
+hơn nhu cầu của con người.
+2. CÁC CÔNG VIỆC CHÍNH CỦA THIÊT KÊ
+& Em hãy sắp xếp các công việc chính của thiết kế trong Hình 3 theo thứ tự hợp lí.
+© Đánh giá và hoàn thiện sản phẩm
+5 :
+ẾS: Làm sản phẩm mẫu
+° Vẽ phác thảo sản phẩm và lựa chọn
+đi vật liệu, dụng cụ
+@ Hình thành ý tưởng về sản phẩm
+_ Hình3 -
+js Đề thiết kế một sản phẩm, em cần thực hiện 4 bước chính, gồm: Hình
+[_ thành ý tưởng về sản phẩm; Vẽ phác thảo sản phẩm và lựa chọn vật liệu,
+dụng cụ; Làm sản phẩm mẫu; Đánh giá và hoàn thiện sản phẩm.
+16
+
+[Trang 18 | ocr]
+*$= hãy vẽ phác thảo và trình bày ý tưởng thiết kế một sản phẩm công nghệ
+mà em thích theo một số gợi ý trong Hình 4.
+o®
+o® ° |
+O ° )
+° “đ⁄Z 4 > ° ——©%4 j
+l° #  ⁄4 R.Z
+ s FZ „. lo)
+z `
+°{ + »s =2\|o | |
+0Ÿ ) S2. ° ị |
+ö c7 ; chong dưng
+° ì hộp bút Ð -Tan si _: ĐH
+h ; hộp 5 ức nan§:
+_ Ten sản phẩm ước, tẨY:--: -_GP
+lò M." năng: đưủŠ bút, th O_- Vật liệu: SIấY
+O - vật liệu: vt!
+o & ở
+° Sa. —~
+Có", Cà Vẻ 2A4 ^
+"'a VỀ TẠI
+» “lI
+° J)111)2
+s = |
+x vmn7E1:Ấ57k A Hi
+M nâš
+5 _ Tên sản phẩm: `
+O ~ Chứ nông; cần đây Ïu8›-
+o“ Vật liệu? que số,
+_ Hình4 _
+16
+
+[Trang 19 | ocr]
+W | Thiết kế sản phẩm
+Học xong bãi nâu, em sẽ:
+| Thiết kế được một sản phẩm thủ công kĩ thuật đơn giản theo hướng đẫn. |
+Cậu sẽ thiết kế Tớ sẽ thiết kế sản phẩm:
+sản phẩm gì? “Có kim mà chẳng biết khâu
+tế 1” \ Suốt ngày chạy mãi lâu lâu mới dừng
+$ =.
+ Sa\\ :s Không tay, không mắt thế nhưng
+E=i Ề 4 vô Chỉ ra chính xác đúng từng phút giây”.
+VÀ
+1. HỈNH THÀNH Ý TƯỞNG VỀ SẢN PHẨM
+& Em hãy lựa chọn loại đồng hỗ mà em thích theo gợi ý trong Hình 1 và nêu ý
+tưởng thiết kế đồng hồ đồ chơi loại đó.
+=>
+s lo H1 (4 = Đ x sa
+¿, ® XI
+7 6 s4 `
+4 =2) 9 @
+Nc 6 2
+| HIED) Đ |
+_ Hình1 -
+17
+
+[Trang 20 | ocr]
+2. VẼ PHÂC THẢO SẢN PHẨM VÀ LỰA CHỌN VẬT LIỆU, DỤNG CỤ
+3$: hãy vẽ phác thảo sản phẩm đồng hồ đồ chơi mà em thiết kế dựa vào
+gợi ý trong Hình 2.
+[4Ô  nÀnvEPHÁACTHẢOSÀNPHẨM ` “4
+È  pánghồ6đeot © Mô tả về sản phẩm
+| Tung. mua. vết. ~ Yêu cầu sản phẩm: Đúng hình dạng, chắc chắn,
+È £ thẳm mĩ.
+I = + ~ Vật liệu: Giấy bìa.
+) =Í Š — Dụng cụ: kéo, hồ dán, màu vẽ.
+ EÍ : 3m Q7 b -
+tF $ đồng hỗ Mặt số Quaiđeo  Númvặn _.
+Ì tên vân trà thú ( : đi âu hận uất nô đư tẫu nêu hấu lnh (- ˆ : “-¿ da vu lấn nh lnô  ©⁄ `-; di nấu hứ `: trái đai đài râu vấn lờ
+_ Hình2 ˆ
+3. LÂM SẢN PHẨM MẪU
+9= hãy cùng bạn thực hiện các bước làm sản phẩm mẫu theo thiết kế trên.
+—_ Bước †: Làm mặt số.
+— Bước 2: Làm quai đeo và núm vặn. : ]
+— Bước 3: Làm bộ kim đồng hồ. E : X⁄
+— Bước 4: Gắn các bộ phận để sĩ su ^- =
+gi HS. “=. =
+hoàn thiện đồng hồ đồ chơi.
+4. ĐÂNH GIÂ VÀ HOÀN THIỆN SẢN PHẨM
+Cùng bạn đánh giá sản phẩm mẫu theo các tiêu chí đã xây dựng.
+18
+
+[Trang 21 | ocr]
+đc
+: H 3 ^^ *
+Sử dụng điện thoại
+Học xong bãi nâu, em sẽ:
+~ Trình bày được tác dụng của điện thoại.
+~ Nhận biết được các bộ phận cơ bản của điện thoại; nhận biết được đc biểu
+tượng thể hiện trạng thái và chức năng hoạt động của điện thoại.
+~ Ghi nhớ, thực hiện được cuộc gọi tới các số điện thoại của người thân và các
+số điện thoại khẩn dấp khi cần thiết.
+~ Sử dụng điện thoại an toàn, tiết kiệm, hiệu quả và phù hợp với quy tắc
+| giao tiếp.
+Con chào bó ạ! _. Bồ khoẻ con ạ.
+Bồ có khoè không ạ? | Bồ cũng nhớ hai
+Con nhớ bó lắm! _ ; N —„ ,.,W_ mẹcon nhiều!
+..í LÀI À
+1. TÁC DỤNG CỦA ĐIỆN THOẠI
+&$ Quan sát Hình 1 và cho biết tác dụng của điện thoại.
+Ông bà Ả
+có khoẻ & ®,
+không ạ? ( PA Sộ; `
+= § “+: )
+KT = +
+\ Z
+a b e
+_ Hình1 -
+19
+
+[Trang 22 | ocr]
+lớn Điện thoại dùng để liên lạc. Điện thoại di động hiện đại còn hỗ trợ các tiện ích
+'\_ khác như: nghe nhạc, xem phim, định vị, truy cập internet... Điện thoại có thể
+để bàn (điện thoại có định) hoặc mang theo người (điện thoại di động).
+se, Chiếc điện thoại đầu tiên được ra đời năm 1876. Điện thoại đã được
+nghiên cứu và cải tiền với nhiều kiểu dáng và tính năng khác nhau (Hình 2).
+1876 Hiện nay
+_ Hình2 -
+2. MỘT SÔ BỘ PHẬN CƠ BẢN CỦA ĐIỆN THOẠI
+& Em hãy gọi tên một số bộ phận cơ bản trên điện thoại cố định và điện thoại
+di động ở Hình 3.
+1 8 @ 5
+— ¬¬= ñ Re
+1 3 Ì
+h = H
+E
+2 ` =
+, Í
+v4. - '
+— = -
+a b
+_ Hình3 -
+2“ Điện thoại cố định thường gồm hai bộ phận cơ bản là ống nghe và nói,
+“[— bàn phím. Điện thoại di động thường có các bộ phận cơ bản như: loa, micro,
+phím, màn hình, camera, cổng cắm nguồn, đèn pin,...
+20
+
+[Trang 23 | ocr]
+3. THỰC HIỆN CUỘC GỌI
+a) Biểu tượng thể hiện trạng thái, chức năng hoạt động của điện thoại
+$: hãy lựa chọn mô tả ở cột B sao cho phù hợp với biểu tượng, trạng thái
+điện thoại ở cột A.
+—A —B.
++ m¬ :a Chế độ máy bay
+2ø '' Máy ảnh
+: @ @ Phyểu
+® [+ ‹—: Danh bạ điện thoại
+5s :& Mức sóng điện thoại
+8 '8' Kết thúc cuộc gọi
+® % ‹h' Điện thoại đang sạc pin
+8 TiilÌ 1: Mức sóng wifi
+, ® '& Thực hiện cuộc gọi
+sạn sát Hình 4 và cho biết trường hợp nào có thể thực hiện được cuộc gọi
+điện thoại bình thường.
+_ Hình4 -
+21
+
+[Trang 24 | ocr]
+b) Các bước thực hiện cuộc gọi
+Sắp xếp thứ tự các hình minh hoạ trong Hình 5 để thể hiện các bước thực hiện
+một cuộc gọi bằng điện thoại.
+a : b
+x2
+\&‹
+,.
+Á
+e đ
+có c6
+nh
+@® lÃ œe®
+S9 9À
+o9 œ09
+e& @®®
+S\
+_ Hình 5`
+c) Số điện thoại cần nhớ
+$& Tại sao cần phải ghi nhớ số điện thoại của người thân trong gia đình?
+Hãy liệt kê những số điện thoại của người thân trong gia đình mà em nhớ.
+—_ Trong những trường hợp nào em cần gọi tới các số điện thoại khẩn cấp
+dưới đây?
+@ 11 Số dịch vụ gọi Tổng đài điện thoại Quốc gia bảo vệ trẻ em
+@®-‹ Số dịch vụ gọi tìm kiếm, @®++ Số dịch vụ gọi cứu hoả
+cứu nạn
+@®-+ Số dịch vụ gọi công an @®-- Số dịch vụ gọi cắp cứu y tế
+2
+
+[Trang 25 | ocr]
+CC — Em cần nhớ số điện thoại của người thân trong gia đình và các số
+điện thoại khẩn cáp. Lưu ý: chỉ thực hiện cuộc gọi khi thực sự cần thiết.
+—_ Các bước thực hiện một cuộc gọi điện thoại:
+1. Mở ứng dụng Điện thoại Q3.
+2. Chọn người cần gọi bằng một trong các cách sau:
++. Để nhập số, nhắn vào biêu tượng Bàn phim só ŸŸŠ.
+»_ Để lấy số từ danh bạ, nhắn vào biểu tượng VÌ
++ Để chọn số điện thoại đã gọi gần đây, nhắn vào biểu tượng (Ồ.
+- Để chọn trong số những người liên hệ mà bạn đã lưu vào Mục
+yêu thích, hãy nhắn vào biểu tượng Mục yêu thích *
+3. Nhắn vào biểu tượng Gọi ®.
+4. Khi gọi điện xong, nhắn vào biểu tượng Kết thúc cuộc gọi e“.
+4. LƯU Ý KHI SỬ DỤNG ĐIỆN THOẠI
+a) Sử dụng điện thoại an toàn, tiết kiệm
+& Em hãy quan sát Hình 6 và cho biết: Những hình ảnh nào thẻ hiện sử dụng
+điện thoại không an toàn, không tiết kiệm?
+|_ Anh nói chuyện
+- lâu thế. Cả nhà
+# TỈ Ầ vớ, . đang đọi.
+=S. ñ
+Š ~ v?
+` @2 =
+N ' b e
+d e ⁄% . g
+_ Hình 6 _
+23
+
+[Trang 26 | ocr]
+b) Sử dụng điện thoại hiệu quả, phù hợp với quy tắc giao tiếp
+& Hãy chọn cách giao tiếp mà em thấy phù hợp nhất trong các tình huống
+dưới đây.
+1. Khi bắt đầu thực hiện một cuộc gọi bằng điện thoại.
+Cháu chào ông ạ! Cháu là Nam ạ. Alo! An có nhà không bác?
+.Cháugở đẹnhởiăn sức ti 7
+| Ê
+IS ^
+a Đ
+_ Hình7 _
+2. Khi trả lời điện thoại. M á
+Chào Mail Anh là bạn của anh Dũng.
+Anh Dũng có nhà không em? Cho anh
+nói chuyện với anh Dũng nhé!
+_Anh Dũng đi vắng rồi. To Dũng đìw án
+¡ lại sau nhé. "
+—“. rồi. Anh tên là gì ạ?
+Em sẽ báo anh Dũng
+gọi lại cho anh khi
+anh ấy vẻ ạ.
+Â L
+_ Hình8 _
+24
+
+[Trang 27 | ocr]
+đc 1. Lưu ý khi sử dụng điện thoại:
+
+- — Không sử dụng khi đang sạc pin.
+— Chỉ sử dụng khi cần thiết.
+— Sử dụng với thời gian vừa phải.
+— Đảm bảo an toàn, bảo mật thông tin.
+
+2. Quy tắc giao tiếp khi sử dụng điện thoại:
+
+— Chào hỏi, xưng danh và nêu mục đích của cuộc gọi.
+— Thể hiện thái độ thân thiện và lịch sự.
+— Giọng nói từ tốn, vừa phải.
+— Không bắt ngờ kết thúc cuộc gọi.
+
+*»» vai và xử lí các tình huống trong các cuộc gọi điện thoại dưới đây:
+
+1 2
+Khi em ở nhà một mình và Khi gọi điện thoại cho một
+có cuộc gọi đến điện thoại người nhưng người khác
+cố định từ một người lạ. nghe máy.
+3
+Gọi điện thoại cho bạn để
+trao đổi về nội dung bài học.
+Tác
+25
+
+[Trang 28 | ocr]
+: H À +
+Sử dụng tủ lạnh
+Ì — Trình bày được tác dụng của tủ lạnh trong gia đình.
+~ Nhận biết được vị trí, vai trò œíc khoang khác nhau trong tả lạnh.
+~ Thực hiện được việc sắp xếp, bảo quản thực phẩm trong tủ lạnh đúng cách,
+an toàn.
+— Nhận ra được một số biểu hiện bất thường dủa tủ lạnh trong quá trình
+| sửdụng.
+Con cắt đồ vào - : áp xẻ
+từ lạnh giúp me. j mẽ Mình nên sắp xếp
+-Ô Á vào ngăn nào
+là ) '.4 >. được nhỉ?
+® 3 ì Q
+`
+.
+D5
+m..ẽŠ .-
+h N ) à = C
+`
+1. TÂC DỤNG CỦA TỦ LẠNH
+& Em hãy đọc thông tin dưới đây và cho biết tác dụng của tủ lạnh.
+Thịt, cá có thẻ bảo quản được:
+— Từ 3 ngày đến 5 ngày với phương pháp làm lạnh thực phẩm (nhiệt độ
+từ 1 °C đến 7 °C).
+— Từ vài tuần tới vài tháng với phương pháp đông lạnh (nhiệt độ
+dưới 0 °C).
+£- Tủ lạnh là thiết bị điện phỏ biến trong gia đình. Tủ lạnh có chức năng chính
+là bảo quản thực phẩm ở nhiệt độ tháp, giúp kéo dài thời gian sử dụng.
+26
+
+[Trang 29 | ocr]
+2. VỊ TRÍ, VAI TRÔ CÁC KHOANG TRONG TỦ LẠNH
+Ghép thẻ mô tả tên khoang và thẻ mô tả vai trò của khoang với vị trí các
+khoang tương ứng của tủ lạnh trong Hình 1 theo gợi ý dưới đây:
+§m mm mmmmmmmmmmmmmmm. =“=—===~. . 1
+a ¡ÍÍ
+. ¬ '
+HE em ˆ Tà
+©--‡:MM r2 || _
+H - =- h
+..— * xi < ` -# H
+Ị là E 1N
+= —— =—
+“..
+lỊ... Ả Lá TXm== '
+' - - L = '1
+LÒ §U xe 2 (GIẾ ... Ị
+. '
+: —mi th —— s- h
+Œ@-- M.ỳ 'QN 3 H
+t s .
+L.. 3N: SA F SN... (|
+sua 7 á I x* N H
+sẽ \Ì ễ : H
+& | ll ` mm. L
+-_ Hình1-
+TH SE c...._-
+Z Tủ lạnh thường gồm hai khoang: khoang làm lạnh và khoang cấp đông.
+ˆ*[— Trong mỗi khoang thường có các ngăn để thuận tiện sắp xếp và bảo quản
+thực phẩm.
+27
+
+[Trang 30 | ocr]
+Sắp xếp thực phẩm có trong Hình 2 vào các khoang, ngăn của tủ lạnh ở
+Hình 1 cho phù hợp.
+a b € „ve
+Í
+-. Ly £ '
+. .ư“
+_ Hình2 -
+$:, hãy quan sát Hình 3 và cho biết: Những hình ảnh nào thể hiện việc
+T?#T sắp xếp, bảo quản thực phẩm trong tủ lạnh không đúng cách?
+a b
+A“\* m= =1 }⁄ L
+-15I5M; — —
+`
+cm d
+| SST| }—
+ụ '
+_ Hình3 _
+28
+
+[Trang 31 | ocr]
+£>X => Khi sắp xếp, bảo quản thực phẩm trong tủ lạnh, cần lưu ý:
+... 1.. Sử dụng khoang cấp đông đẻ làm đá và bảo quản đông lạnh thực phẩm.
+Sử dụng khoang làm lạnh để bảo quản lạnh thực phẩm.
+2. Không để thực phẩm nóng vào bên trong tủ lạnh.
+3. Không chứa quá nhiều thực phẩm trong tủ lạnh.
+4. Sử dụng màng bọc hoặc hộp đựng để bảo quản thực phẩm trong
+tủ lạnh.
+4. MỘT SÔ BIỂU HIỆN BÂT THƯỜNG CỦA TỦ LẠNH KHI SỬ DỤNG
+Quan sát và chỉ ra biểu hiện bát thường của tủ lạnh trong các tình huống ở
+„Hình 4.
+WNEGWN).——
+J4 -¬-
+-.———.
+a b
+` Í =_ |
+* = Ï
+— .
+| =m..-
+|
+|
+e d
+_ Hình4 -
+29
+
+[Trang 32 | ocr]
+Thảo luận với bạn cách xử lí khi phát hiện các biểu hiện bắt thường của tủ lạnh
+trong các tình huống ở Hình 4.
+É——- Khi phát hiện tủ lạnh có dầu hiệu bắt thường, cản thông báo cho người lớn
+ý. để giải quyết.
+b3 Khử mùi cho tủ lạnh
+5 — Emcó thẻ đặt quả chanh, vỏ cam quýt, bã cà phê,... vào trong tủ lạnh đẻ
+khử mùi hôi.
+— Vệ sinh tủ lạnh thường xuyên giúp loại bỏ mùi hôi, tiết kiệm điện và
+kéo dài thời gian sử dụng của tủ lạnh.
+Tử nx-0=}-t-aaaasunussuuaall
+30
+
+[Trang 33 | ocr]
+l2) Mô hình máy phát điện gió
+e Mô hình điện mặt trời
+`
+ì
+4# )
+ki
+Aè 37 N
+xV đØ@ 1
+/ V® [\ | \
+XIỶ LẠ. Vy
+` xA. ( j ^
+` TA ` N4
+“Sa m : Z (<7
+31
+
+[Trang 34 | ocr]
+~ Kể tên, nhận biết được các chỉ tiết của bộ lắp ghép mô hình xe điện chạy
+bằng pin.
+- Lắp ráp, vận hành được mô hình xe điện chạy bằng pin.
+Xe gì mà có động cơ
+b & Muốn đi lại chẳng bao giờ cần xăng?
+⁄Í 3x là ———-..
+"`". -
+` Em hãy quan sát mô hình xe điện chạy bằng pin trong Hình 1 và cho biết mô
+“hình này gồm có những bộ phận nào.
+Šì B —‡
+[) “
+z _È b) Khung xe c) Trục và bánh xe
+t›
+- d) Động cơ và e) Nguồn điện
+a) Mô hình xe điện chạy bằng pin hệ truyên động
+_ Hình1 -
+Yêu cầu sản phẩm: Đúng và đủ chỉ tiết; đúng hình dạng, gọn gàng; mối ghép
+chắc chắn; xe chạy được khi đóng công tắc.
+32
+
+[Trang 35 | ocr]
+2. CHI TIÊT, VẬT LIỆU VÀ DỤNG CỤ
+Em hãy lựa chọn đúng số lượng các chỉ tiết, vật liệu và dụng cụ trong bộ lắp
+ghép mô hình kĩ thuật để lắp mô hình xe điện chạy bằng pin trong Hình 1 theo
+bảng gợi ý dưới đây.
+BẢNG CHI TIẾT, VẬT LIỆU VÀ DỤNG CỤ
+STT
+gezzzrzzz2zl
+
+"
+
+2 _ Thanh chữ Udài | Ss%s95S_., 2
+
+3 Thanh thẳng 3lỗ le se] 4
+
+4 Trục thằng dài _———— 2
+
+5 Bánh xe 4
+
+ˆ SN ` KanG
+
+H Bánh đai lT 1
+
+8  Đaitruyền lŒẮ 1
+
+9 — Pul tổ 1
+
+10 Giá 2 pin tiểu x 1,5V ‹R 1
+
+33
+
+[Trang 36 | ocr]
+STT
+Em | mm | mmmÀ
+11 Pin tiểu 1,5V (AA) ——- 2
+12 Đaiốc Le) 10
+13 Vitngắn Là 3 8
+14 Vitdài th — 2
+15  Vònghãm L-) 10
+16 — Tuaxvit “—“ZĐ5= = 1
+17 Cờ-lê s 1
+18 Băng dính 2mặt lơm. 1
+_—.-
+3. THỰC HÃNH
+5 Em hãy lắp ráp mô hình xe điện chạy bằng pin theo các bước dưới đây.
+Bước Í Lắp khung xe
+— Dùng hai thanh chữ U dài, bốn thanh thẳng 3 lỗ lắp vào tắm lớn như Hình 2.
+a b
+SH II cn
+bán cm ĐH œm=
+E2: Sải
+cáo
+SG 5
+HH-H???:::::
+h2. Á OÔ96Cc©©co©coo
+_ Hình2 -
+34
+
+[Trang 37 | ocr]
+Bước 2 Lắp động cơ và giá pin vào khung xe |
+— Dùng tắm 2 lỗ để cố định động cơ vào khung xe như Hình 3.
+= b - œ e «e e©
+.. `. E
+%
+— Dùng băng dính 2 mặt để cố định giá 2 pin tiểu vào khung xe và nối 2 đầu
+dây điện của giá 2 pin tiểu với 2 cực của động cơ như Hình 4.
+a = b
+š ›.- + Í
+Œ? #7 5
+›.e <4
+`]
+=: @
+ca
+_ Hình4 -
+Lưu ý: Nỗi dây điện màu đỏ vào cực dương, nối dây điện màu đen vào
+cực âm của động cơ.
+35
+
+[Trang 38 | ocr]
+— Lắp hệ truyền động vào trục bánh xe và động cơ như Hình 5.
+— Lắp bánh xe vào trục bánh xe như Hình 5.
+<6 -.=+z
+5 " \
+4
+® .e- ` Ì
+ec©° ~— h
+eo°Ẳ ì
+Cc)C):: Ti
+°V9
+———————
+————
+— Kiểm tra các mối ghép.
+— Lắp 2 pin tiểu 1,5 V vào giá pin và đóng công tắc để chạy thử mô hình xe
+điện như Hình 6.
+Lưu ý: Khi lắp pin phải mở công tắc và lắp đúng cực.
+— Điều chỉnh lại sản phẩm (nếu cản).
+| lụt _  k
+_ Hình 6 _
+36
+
+[Trang 39 | ocr]
+4. GIỚI THIỆU, ĐÂNH GIÁ VÀ HOÂN THIỆN SẢN PHẨM
+„4Í zZ^
+Ầ . ý
+— Trưng bày sản phẩm.
+— Cùng bạn đánh giá sản phẩm theo các tiêu chí dưới đây.
+PHIẾU ĐÁNH GIÁ SẢN PHẢM
+Tiêu chí © Ss . @
+Đúng và đủ chỉ tiết tả ? tì
+Đúng hình dạng, gọn gàng ? 2 „
+Mối ghép chắc chắn ? ? k
+Xe chạy được khi đóng công tắc vì ? D)
+“ 2“ 2
+= & “2:00 Í | ' " ._ GIỂ xà...
+'Ô X -Š. Ý. Xư -Ắ da _=.
+6““” ”” ca ®\
+_— W ^ xế siẤ ở) Ÿ-~~ :
+_ Hình8 _
+37
+
+[Trang 40 | ocr]
++ ` ^ˆ ` Fà + ^^ ®.
+Mô hình máy phát điện gió
+~ Mô tả được cách tạo ra điện từ gió. |
+— Nhận biết và mô tả được các bộ phận của chính của mô hình máy phát điện gió.
+~ Lắp ráp được mô hình máy phát điện gió.
+k< Kiểm tra được hoạt động qìa mô hình với các tốc độ gió khác nhau. 3
+Bạn biết không, |. Gió có thể lạo ra điện
+WgiMo g2 thê bằng cách nào nhỉ?
+tạo ra điện đấy! ,. g l
++ bì 2 k '. `) lực
+0> 9< tư,
+sánh
+1. ĐIỆN ĐƯỢC TẠO RA TỪ MÂY PHÁT ĐIỆN GIÓ
+& Quan sát Hình 1, đọc thông tin và sắp xếp các từ
+thích hợp dưới đây vào chỗ trống trong đoạn văn sau Bố ¬ Điện
+để mô tả cách tạo ra điện từ gió. —
+¬
+Lo _ Hình1 -
+bỏ Hãy cho biết sự khác nhau về chức năng giữa máy phát điện gió và quạt điện.
+ÊP Máy phát điện gió được dùng để biến đổi năng lượng gió thành năng
+lượng điện.
+38
+
+[Trang 41 | ocr]
+S= Gió là nguồn năng lượng mạnh, sạch, có sẵn trong tự
+nhiên và không giới hạn. Quá trình tạo ra điện từ gió
+không tạo ra bắt kì khí thải nào, giúp giảm thiêu ô nhiễm gia ' :
+' môi trường. Các “trang trại điện gió” với nhiều máy phát ˆ^'ˆ |À„2 +1
+điện gió có thẻ tạo ra đủ điện cho sinh hoạt và sản xuất
+của một địa phương (Hình 2). _ Hình 2 _
+2. THỰC HÀNH LẮP RÂP MÔ HÌNH MÂY PHÁT ĐIỆN GIÔ
+a) Tìm hiểu sản phẩm mẫu
+Quan sát Hình 3 và cho biết mô hình máy phát điện gió gồm có những bộ phận
+chính nào.
+b) Máy phát điện
+cánh quạt và
+dây dẫn điện
+——=
+©) Đèn LED
+a) Mô hình máy phát điện gió g) Khung giá đỡ
+_ Hình3 -
+
+Yêu cầu sản phẩm: Đúng và đủ các bộ phận; đúng hình dạng; mối ghép chắc
+chắn; dây dẫn điện gọn gàng; đèn LED phát sáng khi cánh quạt quay; độ sáng
+đèn LED thay đổi khi tốc độ gió thay đồi.
+
+=> cho biết mỗi mô tả dưới đây nói về bộ phận nào của mô hình máy phát
+điện gió trong Hình 3.
+
+39
+
+[Trang 42 | ocr]
+. Mô hình máy phát điện gió gồm có các bộ phận chính như: máy phát điện
+cánh quạt, khung giá đỡ, dây dẫn điện và thiết bị tiêu thụ điện.
+b) Chi tiết, vật liệu và dụng cụ
+&$ Emhãy lựa chọn đúng số lượng các chỉ tiết, vật liệu và dụng cụ trong bộ lắp ghép
+mô hình kĩ thuật đề lắp mô hình máy phát điện gió trong Hình 3 theo bảng
+gợi ý dưới đây.
+BẢNG CHÍ TIẾT, VẬT LIỆU VÀ DỤNG CỤ
+STT
+GTWYIYTYTYrrrđr
+2 _ Thanh chữ Udài | sSs%ss' F2
+3. ThanhchữUngắn ¡| Sss'`, 2
+4 Thanh chữ L dài ộ 2
+5 Thanh thẳng 3 lố le se) 2
+6 Máy phát điện cánh quạt 1
+và dây dẫn điện
+7 ĐènLED __— PP 1
+8 — Đaiốc 6© 12
+9 Vitngấn — 12
+10 Tuavit =—=“ — =- 1
+40
+
+[Trang 43 | ocr]
+STT
+11 Cờlê Cu gà 1
+12 Băng dính 2 mặt => 1
+13 Băng dính điện _—_ 1
+14 Kéo -_ 1
+©) Thực hành
+k Em hãy thực hành lắp ráp mô hình máy phát điện gió theo các bước dưới đây.
+Bước Lắp khung giá đỡ
+Dùng hai thanh chữ U dài, hai thanh chữ U ngắn, hai thanh chữ L dài và hai
+thanh thẳng 3 lỗ lắp vào tắm lớn để tạo thành khung giá đỡ như Hình 4.
+a b
+sa = Lý l
+nan. œm= © 6Ã 4
+_ Hình4 _
+Lưu ý: Sử dụng dụng cụ lắp ghép an toàn. Các mối ghép chắc chắn.
+41
+
+[Trang 44 | ocr]
+Lắp đèn LED với dây dẫn điện và dùng băng dính điện để cố định đèn LED với
+đầu dây dẫn điện như Hình 5.
+
+Ỉ _ Hình5 ˆ
+Lưu ý: Dây dẫn điện màu đỏ nói với chân dài của đèn LED, dây dẫn điện màu
+đen nối với chân ngắn của đèn LED.
+Gắn cố định máy phát điện lên khung giá đỡ và dùng băng dinh 2 mặt để
+gắn đèn LED lên khung giá đỡ như Hình 8.
+
+_ Hình6 _
+42
+
+[Trang 45 | ocr]
+— Kiểm tra lại các mối ghép, sự chắc chắn của mô hình và vị trí nối dây dẫn
+điện với các chân của đèn LED.
+— Kiểm tra hoạt động của mô hình:
++ Quan sát các trạng thái của đèn LED tương ứng với sự thay đổi của
+tốc độ gió.
++ Ghi chép lại hoạt động của mô hình theo bảng gợi ý dưới đây.
+— Điều chỉnh lại mô hình (nếu cản).
+d) Giới thiệu, đánh giá và hoàn thiện sản phẩm
+— Trưng bày và giới thiệu sản phẩm.
+— Cùng bạn đánh giá sản phẩm theo tiêu chí đánh giá dưới đây.
+Ì đ-.S:
+^ CÂU NAP,
+le `. » “a
+43
+
+[Trang 46 | ocr]
+Œ: W') Mô hình điện mặt trời
+~ Mô tả được cách tạo ra điện từ ánh sáng mặt trời. |
+— Nhận biết và mô tả được các bộ phận của chính của mô hình điện dùng
+năng lượng mặt trời.
+— Lắp ráp được mô hình điện mặt trời.
+k= Kiểm tra được hoạt động của mô hình với những độ sáng mặt trời khác nhau. - }
+Mình biết cách ` Chia sẻ cho mình |
+lắp ráp mô hình = = cách lắp với nhé. _ _
+điện mặt trời từ
+bộ lắp ghép mô , xẾT
+hình kĩ thuật. Ö% lÁ,,
+&* À “
+⁄ lu
+1. ĐIỆN ĐƯỢC TẠO RA TỪ PIN MẶT TRỜI
+&$ Quan sát Hình 1, đọc thông tin và sắp xếp các từ thích hợp dưới đây vào chỗ
+trống trong đoạn văn sau để mô tả cách tạo ra điện từ ánh sáng mặt trời.
+Cách tạo ra điện từ ánh sáng mặt trời: —> Điện
+Pin mặt trời hấp thụ ... (1)... mặt trời
+và chuyển đổi ...(2)... ánh sáng thành Pin mặt trời
+năng lượng ...(3).... _ Hình1 _
+s Hãy cho biết sự khác nhau giữa cách tạo ra điện từ ánh sáng mặt trời với cách
+tạo ra điện từ gió.
+=— Pin mặt trời được dùng để biến đổi năng lượng ánh sáng mặt trời thành
+năng lượng điện.
+44
+
+[Trang 47 | ocr]
+E5 “Điện năng lượng mặt trời” đang được xếp vào nguồn năng lượng tái tạo
+
+*W sạch, cần được khuyến khích phát triển. Quá trình sử dụng pin mặt trời tạo
+ra điện từ năng lượng ánh sáng mặt trời không gây ô nhiễm. Hiện nay, pin
+mặt trời được ứng dụng rất nhiều trong cuộc sống (Hình 2).
+
+_ a b
+sé —
+_ Hình2 -
+Tuy nhiên, các tắm pin mặt trời có thể được làm từ các chất độc hại, bởi vậy
+cần được quản lí chặt chẽ và đúng cách trong quá trình sản xuất, sử dụng
+và thay thế để tránh ảnh hưởng đến môi trường. Ngoài ra, chi phí để
+thực hiện việc lưu trữ điện từ năng lượng mặt trời cũng rất cao.
+2. THỰC HÃNH LẮP RÂP MÔ HĨNH ĐIỆN MẶT TRỜI
+a) Tìm hiểu sàn phầm mẫu
+Quan sát Hình 3 và cho biết mô hình điện mặt trời gồm có những bộ phận
+chính nào.
+b) Tắm pin mặt tròi và ©) Đèn LED
+dây dẫn điện
+8) Mô hình điện mặt tròi đ) Khung giá đỡ
+_ Hình3 -
+Yêu cầu sản phẩm: Đúng và đủ các bộ phận; đúng hình dạng; mối ghép chắc
+chắn; dây dẫn điện gọn gàng; đèn LED phát sáng khi có ánh sáng chiếu vào
+tắm pin; độ sáng đèn LED thay đỏi khi độ sáng chiếu vào tắm pin thay đổi.
+45
+
+[Trang 48 | ocr]
+s» cho biết mỗi mô tả dưới đây nói về bộ phận nào của mô hình điện mặt trời
+trong Hình 3.
+ƒ Mô hình điện mặt trời gồm có các bộ phận chính như: tắm pin mặt trời,
+khung giá đỡ, dây dẫn điện và thiết bị tiêu thụ năng lượng điện.
+b) Chỉ tiết, vật liệu và dụng cụ
+Emhãy lựa chọn đúng số lượng các chỉ tiết, vật liệu và dụng cụ trong bộ lắp ghép
+mô hình kĩ thuật để lắp mô hình máy phát điện gió trong Hình 3 theo bảng
+gợi ý dưới đây.
+=1 RƑ
+Cu — | Mnhnmie — Js2uvm|
+,@ øØƠ#øzzzzz.zz.“.
+SN 01355,» 7S 59.3519 4
+1 Tám lớn v = » p k S l b, ° > " 1
+2 Thanh chữ U dài | SsesSss., 4
+3. Thanh chữ Ungắn ¡ Sss`| 1
+46
+
+[Trang 49 | ocr]
+Sản BẰNG CHÍ TIẾT, VẬT LIỆU VÀ DỤNG CỤ
+T
+CC Hhmg — [  Amnnhhme — [s2wợg
+4 Thanh chữ L dài ộ 4
+5 Tắm pin mặt trời 1
+và dây dẫn điện
+6 Đèn LED —=—_#® 1
+7 Đaiốc ö 9
+8 Vít ngắn bo 9
+9 Tua-vit 'l— _.—~ 1
+10 Cờiê Cam 0à, 1
+11 Băng dính 2 mặt => 1
+12 Băng dính điện _ 1
+13 Kéo ..~ 1
+47
+
+[Trang 50 | ocr]
+c) Thực hành
+5 Em hãy lắp ráp mô hình điện mặt trời theo các bước dưới đây.
+Dùng bốn thanh chữ U dài, bốn thanh chữ L dài và một thanh chữ U ngắn lắp
+vào tắm lớn để tạo thành khung giá đỡ như Hình 4.
+lạcz:bai
+JTÐT
+©@
+rƒ? h
+°6°o
+Lưu ý: Sử dụng dụng cụ lắp ghép an toàn. Các mối ghép chắc chắn.
+Lắp đèn LED với dây dẫn điện và dùng băng dính điện để cố định đèn LED với
+đầu dây dẫn điện như Hình 5.
+l —.
+_ Hình5 -
+Lưu ý: Dây dẫn điện màu đỏ nối với chân dài của đèn LED, dây dẫn điện màu
+đen nối với chân ngắn của đèn LED.
+48
+
+[Trang 51 | ocr]
+Gắn có định tám pin mặt trời lên khung giá đỡ và dùng băng dinh 2 mặt để gắn
+đèn LED lên khung giá đỡ như Hình ô.
+— Kiểm tra lại các mối ghép, sự chắc chắn của mô hình và vị trí nối dây dẫn
+
+điện với các chân của đèn LED.
+— Kiểm tra hoạt động của mô hình:
+
++ Quan sát các trạng thái của đèn LED tương ứng với sự thay đổi của ánh
+
+sáng chiếu tới tắm pin mặt trời.
++ Ghi chép lại hoạt động của mô hình theo bảng gợi ý dưới đây.
+chiếu vào pin mặt trời
+—_ Điều chỉnh lại mô hình (nếu cần).
+49
+
+[Trang 52 | ocr]
+d) Giới thiệu, đánh giá và hoàn thiện sản phẩm
+—_ Trưng bày và giới thiệu sản phẩm.
+— Cùng bạn đánh giá sản phẩm theo tiêu chí đánh giá dưới đây.
+Â)„ ”
+4 Nà
+I4,
+tự -
+50
+
+[Trang 53 | ocr]
+BẰNG GIẢI THÍCH THUẬT NGỮ:
+Trang
+khung Giải thích thuật ngữ xuất hiện
+g đầu tiên
+C Camera Là một thiết bị dùng để quay phim và chụp ảnh. 20
+R Đèn LED (viết tắt của Light Emitting Diode) là
+L2) Đèn LED - tt loại đèn điện tiết kiệm điện hăng. su
+Màn hình QC thiết bị dùng để điều khiển điện thoại bằng
+M ¬—_- cách chạm tay hay bằng bút được chế tạo 19
+cảmứng ^ :
+riêng cho nó.
+S Sáng chẽ r tạo ra một sản phâm công nghệ mà trước 9
+đó chưa có.
+xả Là bước tạo hình tờ giấy bằng cách đưa bột
+X X66 giáƒ giấy đã nghiền vào khung. ?
+Wifi (viết tắt của Wireless Fidelity) là hệ thống
+W xi: internet không dây cho máy tính, điện thoạivà — 21
+các thiết bị điện tử khác.
+51
+
+[Trang 54 | ocr]
+hà xuất bản Giáo dục Liệt Naơn xin trân trọng cảm ơn
+các tác giả có tác phẩm, tự liệu được sử dụng, trích dân
+trong cuôn sácÏt này.
+Chịu trách nhiệm xuất bản:
+Tổng Giám đốc HOÀNG LÊ BÁCH
+Chịu trách nhiệm nội dung:
+Tổng biên tập PHẠM VĨNH THÁI
+Biên tập nội dung: PHẠM VĂN HANH - VŨ THỊ THANH MAI
+Biên tập mĩ thuật: NGUYÊN BÍCH LA
+Thiết kế sách: TRÀN ANH MINH
+Trình bày bìa: NGUYÊN BÍCH LA
+Minh hoạ: NGUYÊN BÍCH LA
+Sửa bản in: TRÀN THU HÀ
+Chế bản: CTCP MĨ THUẬT VÀ TRUYỀN THÔNG
+Bản quyền ® (2023) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách
+này đều không được sao chép, lưu trữ, chuyển thẻ dưới bắt kì hình thức nào khi
+chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+CÔNG NGHỆ 5
+Mã số:
+In ... bàn, (OĐ ...) khổ 19 x 28,5 cm.
+'Đơm vị in: ...
+Cơ sở in:...
+Số ĐKXB: ...-.../CXBIPHI......GD
+Số QĐXEB: .../OÐ - GD - HN ngày ... tháng ... năm 2023
+In xong và nộp lưu. chiều tháng ... năm 20...
+Mã số ISBN: 978-604-0.......
+
+[Trang 55 | ocr]
+ị
+THẾ TOÁN 5_ | | TONG | |xuoanoc5
+ly zÍw ' : =
+Í ịe "lp -_|R “..j x^Z:
+ĐẠOĐứC MĨTHUẬT 9 | | côNoNowt5 | | LIC4 SỬ
+s9wy xử 8 ÌÌ*3.€ ¬
+£ | =1 [vi [ce
+——= 3
+||_ 5eaz
+"` ..... Ø | in
+Sa °t| « : Ỉ bị D $2 Vai te 372V,
+h CS 2A #- + xá
+BỘ SÁCH GIÁO KHOA LỚP 5 — KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+1. Tiếng Việt 5, tập một 9, Công nghệ 5
+2. Tiếng Việt 5, tập hai 10. Lịch sử và Địa lí 5
+3. Toán 5, tập một T1.Tin học 5
+4. Toán 5, tập hai 12. Hoạt động trải nghiệm 5
+5, Khoahọc 5 13. Giáo dục thể chất 5
+6. Đạo đức 5 14. Tiếng Anh 5 - Global Success - SHS, tập một.
+7. Âm nhạc 5 15. Tiếng Anh 5 - Global Success - SHS, tập hai
+8. Mĩ thuật 5
+Các đơn vị đầu mối phát hành
+© Miền Bắc: CTCP Đầu tưvà Phát triển Giáo dục Hà Nội
+CTCP Sách và Thiết bị Giáo dục miền Bắc
+® MiểnTrung: CTCP Đầu tưvà Phát triển Giáo dục Đà Nẵng
+CTCP Sách và Thiết bị Giáo dục miền Trung
+© Miễn Nam: CTCP Đầu tưvà Phát triển Giáo dục Phương Nam
+CTCP Sách và Thiết bị Giáo dục miền Nam.
+CTCP Sách và Thiết bị Giáo dục Cửu Long
+Sách điện tử: - http://hanhtrangsonxbgd.vn
+'Cào lớp nhũ trên tem rồi quét má
+để xác thực và truy cắp học liệu điện từ.

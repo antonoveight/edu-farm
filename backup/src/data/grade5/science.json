@@ -1,0 +1,55 @@
+[
+  {
+    "q": "Năng lượng nào được coi là năng lượng sạch, thân thiện môi trường?",
+    "a": "NĂNG LƯỢNG MẶT TRỜI",
+    "c": [
+      "NĂNG LƯỢNG MẶT TRỜI",
+      "THAN ĐÁ",
+      "DẦU MỎ",
+      "KHÍ ĐỐT"
+    ]
+  },
+  {
+    "q": "Hoa của cây thụ phấn nhờ gió thường có đặc điểm gì?",
+    "a": "HẠT PHẤN NHỎ, NHẸ",
+    "c": [
+      "HẠT PHẤN NHỎ, NHẸ",
+      "HẠT PHẤN NHỎ",
+      "NHẸ",
+      "CÁNH HOA TO",
+      "SẶC SỠ",
+      "CÓ MÙI THƠM NỒNG",
+      "TIẾT NHIỀU MẬT"
+    ]
+  },
+  {
+    "q": "Kim loại nào dẫn điện tốt nhất và dùng phổ biến trong dây điện?",
+    "a": "ĐỒNG",
+    "c": [
+      "ĐỒNG",
+      "NHÔM",
+      "SẮT",
+      "NHỰA"
+    ]
+  },
+  {
+    "q": "Gió thổi từ vùng cao áp sang vùng?",
+    "a": "THẤP ÁP",
+    "c": [
+      "THẤP ÁP",
+      "CAO ÁP",
+      "TRUNG ÁP",
+      "BÌNH NGUYÊN"
+    ]
+  },
+  {
+    "q": "Biến đổi nào là biến đổi HÓA HỌC?",
+    "a": "ĐỐT CHÁY GỖ",
+    "c": [
+      "ĐỐT CHÁY GỖ",
+      "ĐÁ VỠ",
+      "NƯỚC ĐÔNG THÀNH ĐÁ",
+      "GẤP GIẤY"
+    ]
+  }
+]

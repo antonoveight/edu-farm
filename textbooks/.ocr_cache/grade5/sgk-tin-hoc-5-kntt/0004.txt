@@ -1,0 +1,29 @@
+MỤC LỤC
+Chủ đề 1. Máy tính và em 5
+Bài 1. Em có thể làm gì với máy tính? Đ
+Chủ đề 2. Mạng máy tính và Internet 8
+Bài 2. Tìm kiếm thông tin trên website 8
+Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin 14
+Bài 3. Tìm kiếm thông tin trong giải quyết ván đề 14
+Bài 4. Cây thư mục 19
+Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số 24
+Bài 5. Bản quyền nội dung thông tin 24
+Chủ đề 5. Ứng dụng tin học 29
+Bài 6. Định dạng kí tự và bố trí hình ảnh trong văn bản 29
+Bài 7. Thực hành soạn thảo văn bản 34
+A. Sử dụng phần mềm đồ hoạ tạo sản phẩm số đơn giản 37
+Bài 8A. Làm quen với phằn mềm đồ hoạ 37
+Bài 9A. Sử dụng phần mềm đồ hoạ tạo sản phẩm số 43
+B. Sử dụng công cụ đa phương tiện hỗ trợ tạo sản phẩm đơn giản 46
+Bài 8B. Làm sản phẩm thủ công theo video hướng dẫn 46
+Bài 9B. Thực hành tạo đò dùng gia đình theo video hướng dẫn 49
+Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính 52
+Bài 10. Cấu trúc tuần tự 52
+Bài 11. Cấu trúc lặp 56
+Bài 12. Thực hành sử dụng lệnh lặp 59
+Bài 13. Cấu trúc rẽ nhánh 62
+Bài 14. Sử dụng biến trong chương trình 67
+Bài 15. Sử dụng biểu thức trong chương trình 73
+Bài 16. Từ kịch bản đến chương trình 78
+—.. ^
+4

@@ -1,0 +1,16 @@
+ÊÖ Rô-bét gói ba món quà (tháp vòng, quả bóng, khói ru-bích) vào ba chiếc
+hộp giống hệt nhau:
+Mỗi bạn Mai, Việt và Nam lần lượt chọn một hộp quà bát kì. Vậy Mai có
+thể chọn được chiếc hộp đựng món quà nào?
+P.
+BÀ tN‹©
+trong chiếc mũ ảo thuật có 2 con thỏ trắng và 1 con thỏ nâu.
+3
+^, @ Ì
+L4)
+^^ a*
+NG
+V- Ụ _ N
+Nếu nhà ảo thuật cú mèo lầy cùng một lúc 2 con thỏ ra khỏi chiếc mũ đó,
+thì những sự kiện nào có thê xảy ra?
+124

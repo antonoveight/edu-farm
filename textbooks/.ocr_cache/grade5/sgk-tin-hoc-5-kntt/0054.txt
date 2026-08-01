@@ -1,0 +1,27 @@
+Hướng dẫn
+Bước 1: Tạo chương trình cho nhân vật mèo. Bảng sau cho tương ứng mỗi
+bước thực hiện ý tưởng với một lệnh trong Scratch. Em sử dụng các lệnh
+trong bảng để tạo chương trình như minh hoạ trong Hình 73.
+Mèo nói "Xin chào!" trong
+3 giây.
+Mèo nói "Rất vui được
+gặp các bạn.".
+Bước 2: Chạy thử chương trình để xem kết quả.
+Bước 3: Lưu tệp với tên là XinChao vào thư mục của em.
+NHIỆM VỤ B Tạo chương trình điều khiển nhân vật mèo thực hiện tuần tự
+các hành động sau:
+1. Di chuyển 10 bước.
+2. Thay đổi động tác.
+3. Đợi 1 giây.
+4. Di chuyển 10 bước.
+5. Thay đổi động tác.
+6. Đợi 1 giây.
+7. Di chuyển 10 bước.
+8. Thay đổi động tác.
+9. Đợi 1 giây.
+Hướng dẫn
+Bước 7: Mở tệp chương trình mới.
+8ước 2: Tạo chương trình cho nhân vật mèo. Bảng sau cho tương ứng mỗi
+hành động với một lệnh trong Scratch. Em sử dụng các lệnh trong bảng để
+tạo chương trình.
+54

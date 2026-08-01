@@ -1,0 +1,15 @@
+(Ö Đặt tính rồi tính (theo mẫu).
+
+2k
+@ gấp 3 lần [;] giảm 4 lần Ạ
+(2) giảm 3 lần [?] bớt 3 đơn vị ⁄À
+đ gấp 2 làn [;] thêm 2 đơn vị Ạ
+
+€ỒRo-bót dùng 35 m vải để may quần áo công nhân. Mỗi bộ quần áo công
+nhân may hét 3 m vải. Hỏi Rô-bốt có thẻ may được nhiều nhất bao nhiêu
+bộ quần áo công nhân và còn thừa máy mét vải?
+
+(CỒ Trong ngày hội tròng cây, Việt tròng được 5 cây. Số cây Rô-bót trồng được
+gấp 3 làn số cây của Việt. Hỏi cả hai bạn trồng được bao nhiêu cây?
+
+84

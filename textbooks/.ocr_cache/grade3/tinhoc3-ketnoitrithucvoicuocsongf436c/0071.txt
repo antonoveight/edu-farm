@@ -1,0 +1,45 @@
+3.. Rô-bốt có khả năng bước từng bước về phía trước, mỗi bước là một ô và
+có thê quay trái, quay phải. Nhiệm vụ của rô-bốt là di chuyên đến ô chứa
+sách hoặc quả cầu, sau đó di chuyển vẻ ô đích (ô có cờ).
+
+Hình 84. Đường đi của rô-bốt
+
+a)_ Nếu đi đến ô chứa quyền sách rồi về ô đích thì rô-bốt đi như thế nào?
+
+b)_ Nếu đi đến ô chứa quả cầu rồi về ô đích thì rô-bót đi thế nào?
+
+Su -< S2 NV
+
+4. Em hãy hướng dẫn các bạn | “me
+
+phân rác thành ba loại như Hình 85 _——==
+
+bằng cách nói “Nếu... thì..... J4 /a A
+
+ra. XE) U
+
+Mẫu: Né‹: rác là hạt táo í¡ bỏ vào ==
+
+thùng chứa rác hữu cơ.
+
+2. Trò chơi: “Nếu... thì..." Hình 85. Phân loại rác
+
+Chuẩn bị: Mỗi học sinh có một mẫu giấy nhỏ.
+
+Cách chơi: Mỗi tổ chia thành hai nhóm A, B.
+
+«Mỗi học sinh của nhóm A viết một nửa về câu “Nếu ...”.
+
+» Mỗi học sinh của nhóm B viết một nửa về câu “thì... ".
+
+Người quản trò thu lại tất cả các mảu giấy của nhóm A và nhóm B thành hai
+
+tập riêng. Sau đó, người quản trò lầy một mẫu giấy chứa về câu “Nếu ...” của
+
+nhóm A ghép với một mẫu giấy chứa về câu “thì...” của nhóm B.
+
+Với mỗi cặp được ghép, cả tổ xem xét để giữ lại câu diễn đạt một việc thực
+
+hiện phụ thuộc vào điều kiện. Tổ nào có số lượng câu đạt yêu cầu nhiều nhát,
+
+tổ đó thắng cuộc.

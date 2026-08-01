@@ -1,0 +1,32 @@
+7 BÀI `
+XE Ỹ cÁu TRúc RÉ NHÁNH
+Sau bài này em sẽ:
+"- Nêu được ví dụ cụ thể mô tả cấu trúc rẽ nhánh.
+"Sử dụng được cấu trúc rẽ nhánh trong một số chương trình
+đơn giản.
+" . Chạy thử được chương trình.
+øo KHỞI ĐỘNG
+Khi chuẩn bị qua đường, em quan sát đèn tín hiệu giao
+thông dành cho người đi bộ (Hình 83). Em qua đường
+nếu đèn màu xanh và dừng lại nếu đèn màu đỏ. Việc qua
+đường, được thực hiện hay không tuỳ thuộc vào màu của
+đèn tín hiệu, gọi là công việc có cấu trúc rẽ nhánh. Em hãy
+kể thêm ví dụ về công việc có cấu trúc rẽ nhánh. Hình 83. Đèn tín hiêu
+H P > P giao thông
+1 CẤU TRÚC RẼ NHÁNH
+H0ẠT ĐỘNG ằ Mèo đổi màu
+Một chương trình Scratch điều khiển nhân vật mèo như sau:
+Khi chạm vào con trỏ chuột, nhân vật đổi từ màu này sang màu khác.
+1. Em hãy cho biết điều kiện để mèo đổi màu là gì.
+2. Hãy sử dụng cách nói néu.... thì... để mô tả hành động đổi màu của
+nhân vật.
+Trong tình huống khởi động, khi thấy đèn dành cho người đi bộ màu
+3) xanh, em sẽ đi qua đường. Tình huống này được diễn đạt như sau:
+Ñéu đèn tín hiệu cho người đi bộ màu xanh t/:¡ em đi qua đường.
+Tương tự như vậy, trong Hoạt động 1, nhân vật mèo đổi màu khi nó chạm vào
+con trỏ chuột. Điều kiện để mèo đổi màu là “chạm vào con trỏ chuột”. Hành
+động của mèo có thê được mô tả như sau:
+AÑléu chạm con trỏ chuột í/:¡ mèo đổi màu.
+Một công việc được thực hiện hay không được thực hiện tuỳ thuộc vào một
+điều kiện được thoả mãn hay không gọi là công việc có cấu trúc rẽ nhánh.
+62

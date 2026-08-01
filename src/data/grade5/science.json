@@ -1,0 +1,247 @@
+[
+  {
+    "q": "Kim loại nào có tính dẫn điện tốt nhất, màu đỏ cam, thường làm lõi dây điện?",
+    "a": "ĐỒNG",
+    "c": [
+      "ĐỒNG",
+      "SẮT",
+      "NHÔM",
+      "GANG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Nguồn năng lượng nào sau đây được coi là năng lượng sạch, không gây ô nhiễm?",
+    "a": "NĂNG LƯỢNG MẶT TRỜI",
+    "c": [
+      "NĂNG LƯỢNG MẶT TRỜI",
+      "THAN ĐÁ",
+      "DẦU MỎ",
+      "KHÍ ĐỐT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Để phòng tránh bệnh sốt xuất huyết, việc làm nào thiết thực nhất?",
+    "a": "DIỆT LOĂNG QUĂN VÀ MẮC MÀN KHI NGỦ",
+    "c": [
+      "DIỆT LOĂNG QUĂN VÀ MẮC MÀN KHI NGỦ",
+      "UỐNG NHIỀU NƯỚC CAM",
+      "RỬA TAY BẰNG XÀ PHÒNG",
+      "ĐEO KHẨU TRANG KHI RA NGOÀI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Cao su có tính chất đặc trưng nổi bật nhất là gì?",
+    "a": "CÓ TÍNH ĐÀN HỒI CAO",
+    "c": [
+      "CÓ TÍNH ĐÀN HỒI CAO",
+      "DẪN NHIỆT TỐT",
+      "DỄ BỊ GỈ SÉT",
+      "DỄ TAN TRONG NƯỚC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Tính chất nổi bật nhất của thủy tinh là gì?",
+    "a": "TRONG SUỐT, DỄ VỠ",
+    "c": [
+      "TRONG SUỐT, DỄ VỠ",
+      "DẪN ĐIỆN TỐT",
+      "ĐÀN HỒI CAO",
+      "NHẸ",
+      "DẺO"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Nguồn tài nguyên nào sau đây là tái tạo được?",
+    "a": "NĂNG LƯỢNG GIÓ",
+    "c": [
+      "NĂNG LƯỢNG GIÓ",
+      "THAN ĐÁ",
+      "DẦU MỎ",
+      "KHÍ THIÊN NHIÊN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Điền chất thích hợp: Tuyệt đối không dùng ___ dập đám cháy do chập điện.",
+    "a": "nước",
+    "c": [
+      "nước",
+      "cát",
+      "bình CO2",
+      "vải ướt"
+    ],
+    "type": "fill_blank",
+    "sentence": "Tuyệt đối không dùng ___ dập đám cháy do chập điện.",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Điền từ thích hợp: Ánh sáng ___ là nguồn năng lượng tự nhiên vô tận.",
+    "a": "mặt trời",
+    "c": [
+      "mặt trời",
+      "điện",
+      "gió",
+      "than đá"
+    ],
+    "type": "fill_blank",
+    "sentence": "Ánh sáng ___ là nguồn năng lượng tự nhiên vô tận.",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Năng lượng nào được coi là năng lượng sạch, thân thiện môi trường?",
+    "a": "NĂNG LƯỢNG MẶT TRỜI",
+    "c": [
+      "NĂNG LƯỢNG MẶT TRỜI",
+      "THAN ĐÁ",
+      "DẦU MỎ",
+      "KHÍ ĐỐT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Hoa của cây thụ phấn nhờ gió thường có đặc điểm gì?",
+    "a": "HẠT PHẤN NHỎ, NHẸ",
+    "c": [
+      "HẠT PHẤN NHỎ, NHẸ",
+      "CÁNH HOA TO",
+      "SẶC SỠ",
+      "CÓ MÙI THƠM NỒNG",
+      "TIẾT NHIỀU MẬT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Kim loại nào dẫn điện tốt nhất và dùng phổ biến trong dây điện?",
+    "a": "ĐỒNG",
+    "c": [
+      "ĐỒNG",
+      "NHÔM",
+      "SẮT",
+      "NHỰA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Gió thổi từ vùng cao áp sang vùng?",
+    "a": "THẤP ÁP",
+    "c": [
+      "THẤP ÁP",
+      "CAO ÁP",
+      "TRUNG ÁP",
+      "BÌNH NGUYÊN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Biến đổi nào là biến đổi HÓA HỌC?",
+    "a": "ĐỐT CHÁY GỖ",
+    "c": [
+      "ĐỐT CHÁY GỖ",
+      "ĐÁ VỠ",
+      "NƯỚC ĐÔNG THÀNH ĐÁ",
+      "GẤP GIẤY"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Muốn phòng tránh tai nạn giao thông đường bộ, học sinh cần làm gì?",
+    "a": "Học và tuân thủ nghiêm chỉnh luật an toàn giao thông",
+    "c": [
+      "Học và tuân thủ nghiêm chỉnh luật an toàn giao thông",
+      "Đi xe đạp dàn hàng ba hàng bốn",
+      "Vượt đèn đỏ khi đường vắng",
+      "Chạy sang đường không quan sát"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Tài nguyên thiên nhiên nào là tài nguyên vô hạn nếu biết bảo vệ và khai thác hợp lý?",
+    "a": "Năng lượng gió và năng lượng mặt trời",
+    "c": [
+      "Năng lượng gió và năng lượng mặt trời",
+      "Dầu mỏ",
+      "Than đá",
+      "Quặng sắt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Tác nhân chính nào gây ra hiệu ứng nhà kính và biến đổi khí hậu toàn cầu?",
+    "a": "Khí thải carbon dioxide (CO2) từ hoạt động công nghiệp và giao thông",
+    "c": [
+      "Khí thải carbon dioxide (CO2) từ hoạt động công nghiệp và giao thông",
+      "Việc trồng thêm nhiều rừng xanh",
+      "Sử dụng năng lượng mặt trời",
+      "Hơi nước tự nhiên từ đại dương"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học: năng lượng, môi trường và sinh vật học lớp 5"
+  },
+  {
+    "q": "Ghép nguồn năng lượng với đặc điểm:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Phân loại và hiểu đặc điểm của các nguồn năng lượng tái tạo và hóa thạch",
+    "pairs": [
+      {
+        "left": "Năng lượng mặt trời",
+        "right": "Vô tận, sạch, thân thiện môi trường"
+      },
+      {
+        "left": "Than đá",
+        "right": "Hữu hạn, gây ô nhiễm khi đốt"
+      },
+      {
+        "left": "Năng lượng gió",
+        "right": "Tái tạo, không gây ô nhiễm"
+      },
+      {
+        "left": "Dầu mỏ",
+        "right": "Nhiên liệu hóa thạch, có thể cạn kiệt"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp quá trình quang hợp của cây xanh:",
+    "a": "Ánh sáng Cây hút nước Tạo chất dinh dưỡng Thải oxy",
+    "c": [
+      "Ánh sáng Cây hút nước Tạo chất dinh dưỡng Thải oxy"
+    ],
+    "words": [
+      "Ánh",
+      "sáng",
+      "Cây",
+      "hút",
+      "nước",
+      "Tạo",
+      "chất",
+      "dinh",
+      "dưỡng",
+      "Thải",
+      "oxy"
+    ],
+    "type": "reorder",
+    "lo": "Hiểu quá trình quang hợp của cây xanh và tầm quan trọng với sự sống"
+  }
+]

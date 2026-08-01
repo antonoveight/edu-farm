@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Chữ nào đứng đầu trong từ 'Cá'?",
+    "a": "C",
+    "c": [
+      "C",
+      "A",
+      "O",
+      "B"
+    ]
+  },
+  {
+    "q": "Điền chữ thích hợp vào chỗ trống: 'quả ___áo'",
+    "a": "T",
+    "c": [
+      "T",
+      "CH",
+      "H",
+      "B"
+    ]
+  },
+  {
+    "q": "Từ nào chỉ loài vật?",
+    "a": "MÈO",
+    "c": [
+      "MÈO",
+      "BÀN",
+      "BÚT",
+      "HOA"
+    ]
+  },
+  {
+    "q": "Từ nào chỉ hoạt động?",
+    "a": "CHẠY",
+    "c": [
+      "CHẠY",
+      "NHÀ",
+      "CÁT",
+      "ĐẸP"
+    ]
+  }
+]

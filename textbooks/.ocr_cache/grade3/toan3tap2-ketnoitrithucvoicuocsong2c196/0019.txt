@@ -1,0 +1,22 @@
+() Các bạn Mai, Nam, Việt và Rô-bót cùng chơi “Đuổi hình bắt chữ" và lần lượt
+nhận được só điểm là 2 150 điểm, 1 650 điểm, 2 300 điểm và 1 850 điểm.
+Hỏi: a) Bạn nào nhận được số điểm cao nhát?
+
+b) Những bạn nào nhận được nhiều hơn 2 000 điểm?
+c) Những bạn nào nhận được ít hơn 2 000 điểm?
+
+€© ren giá sách có một bộ sách gồm 8 cuốn được đánh só từ I đến VIII.
+Bố của Mai đã lấy 2 cuốn sách để đọc. Hỏi đó là những cuốn được đánh
+số nào?
+
+Qa% :
+
+4128 4
+7 053 7 3
+b) Làm tròn các số 4 128, 5 062, 6 704 và 7 053 đến hàng trăm.
+Chọn câu trả lời đúng.
+a) Trong các số 3 768, 6 783, 3 687, 6 738, số lớn nhất là:
+A. 3768 B.6783 C.3687 D.6738
+b) Trong các số 3 768, 6 783, 3 687, 6 738, số bé nhát là:
+A. 3768 B.6783 C.3687 D.6738
+48

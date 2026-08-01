@@ -1,0 +1,26 @@
+@ Đi nhanh dần theo vạch kẻ vòng trái Ä
+(vòng phải), hai tay phối hợp tự nhiên | `
+Đích Đi nhanh s
++ TTCB: Đứng chân trước chân sau, hai %
+tay buông tự nhiên. f
+« Động tác: ¬
+— Từ vạch xuất phát, đi nhanh dần theo #
+vạch kẻ vòng trái, hai tay phối hợp tự " .
+nhiên, mắt nhìn phía trước. THƠ... guyàu
+XP Đi thường
+F x Ẫ
+— Từ vạch xuất phát, đi nhanh dần theo Nụ
+vạch kẻ vòng phải, hai tay phối hợp tự ì
+nhiên, mắt nhìn phía trước. +
+LÈ Đi nhanh
+l2) Đi nhanh dần theo vạch kẻ vòng trái #
+(vòng phải), hai tay dang ngang Ỉ
++ TTCB: Đứng chân trước chân sau, hai BH haiEes
+tay dang ngang, bàn tay sấp. Ha TU sW
+« Động tác: lÃ
+— Từ vạch xuất phát, đi nhanh dần theo làn
+vạch kẻ vòng trái, hai tay dang ngang, : b /
+bàn tay sắp, mắt nhìn phía trước. Ï .
+—> ca”
+TTCGB Đi thường
+XP

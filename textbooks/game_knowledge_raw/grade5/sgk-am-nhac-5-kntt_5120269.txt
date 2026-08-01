@@ -1,0 +1,1489 @@
+Tệp gốc: grade5/sgk-am-nhac-5-kntt_5120269.pdf
+Mục tiêu: tài nguyên kiến thức thô để tạo game bài tập
+
+## 1. Phần kiến thức chung (từ trang 1)
+
+### Nội dung kiến thức thô
+- vee nhịp và ô nhịp
+- Vạch nhịp là vạch thẳng đứng cắt ngang khuông nhạc dùng để phân chia khuông
+- nhọc thành các ô nhịp.
+- Vạch nhịp kép là một vạch nhạt và một vạch đậm dùng để kết thúc bản nhạc.
+- Ô nhịp là khoảng cách từ vạch nhịp này đến vạch nhịp tiếp theo.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- vee nhịp và ô nhịp Vạch nhịp là vạch thẳng đứng cắt ngang khuông nhạc dùng để phân chia khuông nhọc thành các ô nhịp.
+- Vợch nhịp Vạch nhịp kép là một vạch nhạt và một vạch đậm dùng để kết thúc bản nhạc.
+- Vạch nhịp kép Ô nhịp là khoảng cách từ vạch nhịp này đến vạch nhịp tiếp theo.
+
+### Cặp nối từ/khái niệm
+- Vạch nhịp => vạch thẳng đứng cắt ngang khuông nhạc dùng để phân chia khuông
+- Vạch nhịp kép => một vạch nhạt và một vạch đậm dùng để kết thúc bản nhạc.
+- Ô nhịp => khoảng cách từ vạch nhịp này đến vạch nhịp tiếp theo.
+
+### Đoạn gõ văn bản
+- vee nhịp và ô nhịp Vạch nhịp là vạch thẳng đứng cắt ngang khuông nhạc dùng để phân chia khuông nhọc thành các ô nhịp.
+
+### Từ khóa
+Phần kiến thức chung, vee nhịp và ô nhịp, nhọc thành các ô nhịp., Vợch nhịp, Vạch nhịp kép, Ô nhịp
+
+## 2. Luyện tập (từ trang 9)
+
+### Nội dung kiến thức thô
+- Tìm những ca từ ở phóch mạnh vò phúch nhẹ trong câu hót của bỏi hót squ
+- Gở mà biết gáy là con gờ cha.
+- Vừa phải Nhạc và bi: Y Vân ¡
+- líu lo nghe trời súng chim ca vang lu lo, fu lo ù
+- lu lo chỉm trên cảnh rộn rùng theo bước chân em.
+- Llíu Ío theo từng bước chân thơ ngây bước dị líu lo
+- u lo chim trên cảnh củng ngày mai hút ca.
+- Khi di tung tăng với bạn bè. Khi dị trên
+- phố với người thân. Ríu rít ríu rít với bạn bè
+- như là bằy sơn cd. Nhớ mãi nhớ mãi những con đường.
+- Yêu sơo yêu quá những hàng cớy. Tiu tít tíu
+- với bạn bè như là bảy sơn — ca.
+- Hớt kết hợp vỗ tay theo nhịp.
+- 2 À j À À2) À 2Ò 2l)À2ÀM
+- tíu lo nghe trời súng chm ca vang lu lo,...
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Tìm những ca từ ở phóch mạnh vò phúch nhẹ trong câu hót của bỏi hót squ Gở mà biết gáy là con gờ cha.
+- Llíu Ío theo từng bước chân thơ ngây bước dị líu lo 7 củ — =.== u lo chim trên cảnh củng ngày mai hút ca.
+- EE===== 7 :-:-=::.:=::-=-.—=---::—= ——.ECE Khi di tung tăng với bạn bè.
+- Ríu rít ríu rít với bạn bè như là bằy sơn cd.
+- Tiu tít tíu Ý ————`———`<—* với bạn bè như là bảy sơn — ca.
+- Ụ z2 q © Tập hát Tập hót từng câu.
+- 2 À j À À2) À 2Ò 2l)À2ÀM tíu lo nghe trời súng chm ca vang lu lo,...
+
+### Cặp nối từ/khái niệm
+- Gở mà biết gáy => con gờ cha.
+- như => bằy sơn cd. Nhớ mãi nhớ mãi những con đường.
+- với bạn bè như => bảy sơn — ca.
+
+### Đoạn gõ văn bản
+- Tìm những ca từ ở phóch mạnh vò phúch nhẹ trong câu hót của bỏi hót squ Gở mà biết gáy là con gờ cha.
+- líu lo nghe trời súng chim ca vang lu lo, fu lo ù lu lo chỉm trên cảnh rộn rùng theo bước chân em. Llíu Ío theo từng bước chân thơ ngây bước dị líu lo
+- 7 :-:-=::.:=::-=-.—=---::—= ——.ECE Khi di tung tăng với bạn bè. Khi dị trên phố với người thân. Ríu rít ríu rít với bạn bè như là bằy sơn cd. Nhớ mãi nhớ mãi những con đường. Yêu sơo yêu quá những hàng cớy. Tiu tít tíu
+- Hớt kết hợp vỗ tay theo nhịp. 2 À j À À2) À 2Ò 2l)À2ÀM tíu lo nghe trời súng chm ca vang lu lo,...
+
+### Từ khóa
+Jyyy, Đọc gam Đô trưởng, Vị trí nốt Rê, 6 NỈ, XÃ ©, Vừa phải Nhạc và bi, Y Vân ¡, SE ====ễẽễẽẽõ ~, fu lo ù, 7 củ, EE=====, Ụ z2 q ©, Tập hát, Tập hót từng câu., 2 À j À À2, À 2Ò 2l, À2ÀM, ca 2 2
+
+## 3. Luyện tập (từ trang 12)
+
+### Nội dung kiến thức thô
+- Hát theo hình thức đồng cg, tốp cd.
+- Hớt kết hợp vận động cơ thê theo nhịp điệu.
+- Lliu lo nghe trời súng chim ca vang líu lo,
+- u lo lu lo chỉm trên cảnh rộn rùng theo bước chân em...
+- Khi đi tung tăng với bạn bè. Khi di trên phố với người thân.
+- s35 .x. 6. @ @
+- Riu rÍt ríu rít với bạn bè như là bẩy sơn cơ...
+- Chỉ ra các câu hớt có tiết tấu giống nhgu trong bởi hót.
+- Chia sẻ cảm xúc của em su khi học bi hút Chim sơn cơ.
+- Thể hiện bài hát theo cách của em.
+- Một số hình thức biếu diên nhạc cụ
+- in hiểu về các hình thức biểu diễn
+- Độc tấu là một người biểu diễn một nhạc cụ.
+- Hoà tấu là từ hơi đến nhiều người cùng biểu diễn.
+- Song tấu: hai người biểu diễn hơi nhạc cụ. Tamtốu: bq người biểu diễn ba nhạc cụ.
+- Tứ tấu: bốn người biêu diễn Hoà tấu dàn nhạc: nhiều người biêu diễn
+- bốn nhạc cụ. nhiều nhạc cụ.
+- xe và nhộn biết hình thức biểu diễn nhạc cụ qua trích đoạn các
+- At-tu-ri-gt (Asturias) của An-ben-níc (I. Albeniz).
+- Hành khúc Thổ Nhĩ Kì của Mô-da (V. A. Mozart).
+- đ.. DỤNG - SÁNG TẠO
+- e- tên các nốt nhợc là phách mạnh trong đoạn nhọc
+- Q:s- nhợc Bởi số 7 theo nhóm
+- Nhóm 1 đọc cóc ô nhịp có màu xanh và gõ đệm theo nhịp.
+- Nhóm 2 đọc cúc ô nhịp có màu hồng vò gõ đệm theo tiết tấu.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hát theo hình thức đồng cg, tốp cd.
+- Hớt kết hợp vận động cơ thê theo nhịp điệu.
+- Đoạn 1 Lliu lo nghe trời súng chim ca vang líu lo, u lo lu lo chỉm trên cảnh rộn rùng theo bước chân em...
+- Nà) 4 Đogn 2 Khi đi tung tăng với bạn bè.
+- Riu rÍt ríu rít với bạn bè như là bẩy sơn cơ...
+- ø Aux @ Lỗ Chỉ ra các câu hớt có tiết tấu giống nhgu trong bởi hót.
+- Chia sẻ cảm xúc của em su khi học bi hút Chim sơn cơ.
+- Thể hiện bài hát theo cách của em.
+- SỰ TH5ẾNG THỨc Ar-niBc r^ - ..7 .^ Một số hình thức biếu diên nhạc cụ in hiểu về các hình thức biểu diễn Độc tấu là một người biểu diễn một nhạc cụ.
+- Hoà tấu là từ hơi đến nhiều người cùng biểu diễn.
+- Sản ) \ ì v§ ` É Song tấu: hai người biểu diễn hơi nhạc cụ.
+- Tamtốu: bq người biểu diễn ba nhạc cụ.
+
+### Cặp nối từ/khái niệm
+- Riu rÍt ríu rít với bạn bè như => bẩy sơn cơ...
+- Độc tấu => một người biểu diễn một nhạc cụ.
+- Hoà tấu => từ hơi đến nhiều người cùng biểu diễn.
+- Song tấu => hai người biểu diễn hơi nhạc cụ. Tamtốu: bq người biểu diễn ba nhạc cụ.
+- Tứ tấu => bốn người biêu diễn Hoà tấu dàn nhạc: nhiều người biêu diễn
+- e- tên các nốt nhợc => phách mạnh trong đoạn nhọc
+
+### Đoạn gõ văn bản
+- Lliu lo nghe trời súng chim ca vang líu lo, u lo lu lo chỉm trên cảnh rộn rùng theo bước chân em...
+- Chỉ ra các câu hớt có tiết tấu giống nhgu trong bởi hót. Chia sẻ cảm xúc của em su khi học bi hút Chim sơn cơ. Thể hiện bài hát theo cách của em. SỰ TH5ẾNG THỨc Ar-niBc
+- Một số hình thức biếu diên nhạc cụ in hiểu về các hình thức biểu diễn Độc tấu là một người biểu diễn một nhạc cụ. Hoà tấu là từ hơi đến nhiều người cùng biểu diễn.
+- Song tấu: hai người biểu diễn hơi nhạc cụ. Tamtốu: bq người biểu diễn ba nhạc cụ.
+
+### Từ khóa
+tốp cd., Đoạn 1, Đogn 2, s35 .x. 6. @ @, ø Aux @ Lỗ, SỰ TH5ẾNG THỨc Ar, niBc, 7 .^, v§ ` É, Song tấu, cˆ “.‹, Tứ tấu, nhiều người biêu diễn, tác phẩm, Asturias, của An, I. Albeniz, V. A. Mozart, đ.. DỤNG, So ===“, m1... ., m=====., ˆE =5. ==, é.ẽ 7=.
+
+## 4. bài Chim sơn ca kết hợp một trong hơi hình thức (từ trang 14)
+
+### Nội dung kiến thức thô
+- g) Kết hợp gõ đệm theo nhóm.
+- líu lo nghe trời súng chỉm ca vang líu lo,
+- lu lo lu lo chỉm ° » rộn ràng theo bước ` .
+- Khi đi tung tăng với bạn bè. Khi đi trên phố với người thân.
+- Ríu rí ríu rít với bạn bè như là bảy sơn ca...
+- 2 s0 s ©® .
+- b) Biểu diễn bởi hớt theo ý tưởng sóng tgo của nhóm/ có nhôn.
+- Thể hiện một bài dân ca mò em biết
+- ve “th (3s <4) tt... 99906 è — đ" -ử J/, ác
+- Là `$ n4 Ý h Là. ñ
+- ẵ N- Me ( 4ớœ ?? ⁄ sói ch s
+- Vu, 205 vẽ GA TS VN S- Ề
+- ĐÓ NT Cệc NI 3 ch u NN TÀG Ệ c
+- kia KIẾN THỨC MỚI - LUYỆN TẬP
+- Vừa phải Đặt lời: Đỗ Minh
+- Non nước mình đẹp tựa bài thơ. Câu hớt
+- k—. . Ä⁄X ` : z: Z>———_D
+- vọng từ ngờn nốm xưa. Gió lên, trăng sóng trời
+- mây. Miền quê em nắng - đỏ. Gió đưỡ hương lúa
+- vàng. Tang tình tang - tỉnh tính — tang. Tang tang
+- tình tỉnh tình tính tang. Tang tang tình tỉnh tỉnh tỉnh
+- tang. Nẵng lên gi gónh túa P7
+- về. Lúg thơmmùi nếp mới. Mai ngày lúg lợi trổ
+- bông. Tang tình — tang tỉnh tính tang.
+- Hút kết hợp vỗ tay theo nhịp.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đoạn 1 líu lo nghe trời súng chỉm ca vang líu lo, lu lo lu lo chỉm ° » rộn ràng theo bước ` .
+- Đoạn 2 Khi đi tung tăng với bạn bè.
+- Ríu rí ríu rít với bạn bè như là bảy sơn ca...
+- b) Biểu diễn bởi hớt theo ý tưởng sóng tgo của nhóm/ có nhôn.
+- Thể hiện một bài dân ca mò em biết ve “th (3s <4) tt...
+- 99906 è — đ" -ử J/, ác Là `$ n4 Ý h Là.
+- sói ch s Vu, 205 vẽ GA TS VN S- Ề ĐÓ NT Cệc NI 3 ch u NN TÀG Ệ c mo...
+- kia KIẾN THỨC MỚI - LUYỆN TẬP e9 \ = Lí đất giống Dân ca Nam Bộ Vừa phải Đặt lời: Đỗ Minh Non nước mình đẹp tựa bài thơ.
+- Gió đưỡ hương lúa W-ÑR————————————————*~—-— _—— ` ñ =.
+- Tang tình tang - tỉnh tính — tang.
+
+### Cặp nối từ/khái niệm
+- Ríu rí ríu rít với bạn bè như => bảy sơn ca...
+- k—. . Ä⁄X ` => z: Z>———_D
+- hẻẽ#®h.. 7c => m=m——____x
+- mây. Miền quê em nắng => đỏ. Gió đưỡ hương lúa
+- vàng. Tang tình tang => tỉnh tính — tang. Tang tang
+
+### Đoạn gõ văn bản
+- líu lo nghe trời súng chỉm ca vang líu lo, lu lo lu lo chỉm ° » rộn ràng theo bước ` .
+- Khi đi tung tăng với bạn bè. Khi đi trên phố với người thân. Ríu rí ríu rít với bạn bè như là bảy sơn ca...
+- b) Biểu diễn bởi hớt theo ý tưởng sóng tgo của nhóm/ có nhôn. Thể hiện một bài dân ca mò em biết ve “th (3s <4) tt... 99906 è — đ" -ử J/, ác Là `$ n4 Ý h Là. ñ ẵ N- Me ( 4ớœ ?? ⁄ sói ch s Vu, 205 vẽ GA TS VN S- Ề ĐÓ NT Cệc NI 3 ch u NN TÀG Ệ c
+- Vừa phải Đặt lời: Đỗ Minh Non nước mình đẹp tựa bài thơ. Câu hớt k—. . Ä⁄X ` : z: Z>———_D
+
+### Từ khóa
+Đoạn 1, Đoạn 2, 2 s0 s ©® ., có nhôn., ve “th, 3s <4, tt... 99906 è, mo... Á Nhu, kia KIẾN THỨC MỚI, e9 \ =, Lí đất giống, Dân ca Nam Bộ, Vừa phải Đặt lời, Đỗ Minh, Ä⁄X `, trăng sóng trời, hẻẽ#®h.. 7c, ____x, mây. Miền quê em nắng, đỏ. Gió đưỡ hương lúa, ñ =., vàng. Tang tình tang, tỉnh tính, tang. Tang tang
+
+## 5. Luyện tập (từ trang 17)
+
+### Nội dung kiến thức thô
+- Hút nối tiếp theo hình thức tốp cd.
+- Sóng tgo động tóc vận động phụ hog cho bi hót.
+- È Nêu cảm nhận của em sau khi hớt bởi Lí đắt giỏng.
+- 2 Hứt một câu trong bài hớt dân ca Nam Bộ mò em biết.
+- Nhạc cụ thể! hiện tiết tấu và
+- L1) Nhợc cụ thể hiện tiết tấu
+- g) Gõ hình tiết tấu nối tiếp theo nhóm.
+- b) Gõ đệm cho bởi hút Lí đắt giỏng.
+- Non nước mình đẹp tựa bài thơ.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hút nối tiếp theo hình thức tốp cd.
+- Sóng tgo động tóc vận động phụ hog cho bi hót.
+- ï„ “© và Ñ/ / lim È Nêu cảm nhận của em sau khi hớt bởi Lí đắt giỏng.
+- 2 Hứt một câu trong bài hớt dân ca Nam Bộ mò em biết.
+- hiện tiết tấu và L1) Nhợc cụ thể hiện tiết tấu g) Gõ hình tiết tấu nối tiếp theo nhóm.
+- b) Gõ đệm cho bởi hút Lí đắt giỏng.
+- s= = => ®“>œ Non nước mình đẹp tựa bài thơ.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hút nối tiếp theo hình thức tốp cd. Sóng tgo động tóc vận động phụ hog cho bi hót.
+- È Nêu cảm nhận của em sau khi hớt bởi Lí đắt giỏng. 2 Hứt một câu trong bài hớt dân ca Nam Bộ mò em biết. Nhạc cụ thể! hiện tiết tấu và L1) Nhợc cụ thể hiện tiết tấu g) Gõ hình tiết tấu nối tiếp theo nhóm. b) Gõ đệm cho bởi hút Lí đắt giỏng.
+
+### Từ khóa
+ï„ “©, và Ñ, s= = => ®“>œ
+
+## 6. Câu hứt vọng từ ngàn năm xuu... (từ trang 18)
+
+### Nội dung kiến thức thô
+- Tang tang tình tỉnh tình tỉnh tung.
+- Mec cụ thể hiện giai điệu
+- Lựa chọn một trong hơi nhạc cụ
+- Thực hỏnh thỏi nốt Son.
+- Vị trí nốt Son. ~ Thực hỏnh thổi nốt Son.
+- Bốm các lỗ 0, 1, 2, 3
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Mec cụ thể hiện giai điệu Lựa chọn một trong hơi nhạc cụ g) Ri-coóc-đơ Thực hỏnh thỏi nốt Son.
+- 12a Bốm các lỗ 0, 1, 2, 3 Thổi mẫu âm.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Tang tang tình tỉnh tình tỉnh tung. Mec cụ thể hiện giai điệu Lựa chọn một trong hơi nhạc cụ
+
+### Từ khóa
+coóc, Thực hỏnh thỏi nốt Son., Bốm các lỗ 0, Thổi mẫu âm.
+
+## 7. Bài luyện tập. (từ trang 19)
+
+### Nội dung kiến thức thô
+- Chú cừu nhỏ của bạn Ma-ry
+- EE + 2c te + si—]
+- B- nh 8e #8 h8 £—#z=z—=
+- Vị trí các nốt La, Si, Đô trên kèn phím.
+- Luyện gam đi lên với kĩ thuột luồn ngón 1.
+- lí 2 3 1 2 3 4 5
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Chú cừu nhỏ của bạn Ma-ry Trích) Nhạc nước ngoài EE + 2c te + si—] B- nh 8e #8 h8 £—#z=z—= b) Kèn phím.
+- Vị trí các nốt La, Si, Đô trên kèn phím.
+- Luyện gam đi lên với kĩ thuột luồn ngón 1.
+- lí 2 3 1 2 3 4 5
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Vị trí các nốt La, Si, Đô trên kèn phím. Luyện gam đi lên với kĩ thuột luồn ngón 1.
+
+### Từ khóa
+Bài luyện tập., Trích, Nhạc nước ngoài, nh 8e #8 h8 £, Kèn phím., Vị trí các nốt La, Đô trên kèn phím.
+
+## 8. Bài luyện tập. (từ trang 20)
+
+### Nội dung kiến thức thô
+- 1 Z# 5 1 2 3 ¿2 5 3 1 s3 5 5
+- XU, LH H HY© ¡ HỨC ÂN NHẬC
+- ÂÔ cói thiệu dàn nhị
+- Đèn nhị là nhọc cụ truyền thống ở Việt Nam. Tuỳ theo từng địa phương, đòn nhị
+- còn có tên gọi khác là đờn cò, nhị líu, cò ke. Đàn nhị có 2 dây được nối từ trục dây
+- đến bầu đàn. Cung vĩ làm bằng tre hoặc gỗ được mắc bằng lông đuôi ngựa hoặc
+- dây ni-lông. Khi biểu diễn, người chơi cầm cung vĩ kéo đẩy lên dây đòn để tgo rd
+- Tiếng đòn nhị réo rốt, mượt mỏ thẻ hiện được nhiều tính chốt âm nhọc khóc nhu,
+- từ những bản nhạc nhẹ nhòng, sâu lắng đến sôi nỏi, vui tươi,... Đủn nhị có thể đệm
+- cho hớt, độc tấu, hoà tấu với các nhạc cụ khác.
+- xa tác phẩm Tỉnh quê hương - độc tấu đàn nhị
+- Nêu cấu tạo của đỏn nhị.
+- Nêu cảm nhộn củg em squ khi nghe độc tấu đòn nhị.
+- 3.. DỤNG — SÁNG TẠO
+- ÔÑÔ‹« chọn và thề hiện một trong hơi nhạc cụ
+- b) Hoà tấu kèn phím.
+- 1.2 3 †1 /)=A đc l ng 2 2
+- Q-e tấu các nhạc cụ gõ đệm cho bài hút Lí đất giồng
+- Non nước mình đẹp tựa bài thơ...
+- s« thiệu một nhạc cụ dân tộc ở địa phương mà em biết qua
+- hình ảnh hoặc hình thức khác
+- Thể hiện nhạc cụ theo hình thức hoà tấu
+- N Ñ s2 1 2 1 2
+- h ; H2 1 TIM - 2 1 2
+- mụ lÑ 2 ^á XS. « L ~.. xả ,.
+- N Si) : / '¡..i/ ị ly l F ` F
+- Tš.. | #w¿, H1 . d
+- 9 (. `: VS 02/2 Ý. FỆ//7-`⁄.3/`s¿
+- Au.‹ JZ.*. cy ụạ” FAN y €. ⁄//
+- A G 5À VE: ` Ty << về? EV `, >/Ken
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Tuỳ theo từng địa phương, đòn nhị còn có tên gọi khác là đờn cò, nhị líu, cò ke.
+- Đàn nhị có 2 dây được nối từ trục dây đến bầu đàn.
+- Cung vĩ làm bằng tre hoặc gỗ được mắc bằng lông đuôi ngựa hoặc dây ni-lông.
+- Khi biểu diễn, người chơi cầm cung vĩ kéo đẩy lên dây đòn để tgo rd âm thanh.
+- Đủn nhị có thể đệm cho hớt, độc tấu, hoà tấu với các nhạc cụ khác.
+- s 21ủ N xa tác phẩm Tỉnh quê hương - độc tấu đàn nhị Sáng tác: Thao Giang SÀ .
+- t?zˆ Ầ Ầ / 1 ‹ Nêu cấu tạo của đỏn nhị.
+- Nêu cảm nhộn củg em squ khi nghe độc tấu đòn nhị.
+- DỤNG — SÁNG TẠO ÔÑÔ‹« chọn và thề hiện một trong hơi nhạc cụ g) Hoò tấu ri-coóc-đơ.
+- S::=====:====.=-=.=-=_-_ e — == 1.2 3 †1 /)=A đc l ng 2 2 xxx 4 Q-e tấu các nhạc cụ gõ đệm cho bài hút Lí đất giồng Non nước mình đẹp tựa bài thơ...
+- N Ñ s2 1 2 1 2 h ; H2 1 TIM - 2 1 2 x>.ẺỀŸ mụ lÑ 2 ^á XS.
+- N Si) : / '¡..i/ ị ly l F ` F Tš..
+
+### Cặp nối từ/khái niệm
+- Đèn nhị => nhọc cụ truyền thống ở Việt Nam. Tuỳ theo từng địa phương, đòn nhị
+- còn có tên gọi khác => đờn cò, nhị líu, cò ke. Đàn nhị có 2 dây được nối từ trục dây
+- xa tác phẩm Tỉnh quê hương => độc tấu đàn nhị
+- Sáng tác => Thao Giang
+- N Si) => i/ ị ly l F ` F
+- 9 (. ` => VS 02/2 Ý. FỆ//7-`⁄.3/`s¿
+- A G 5À VE => Ty << về? EV `, >/Ken
+- Nghe và cảm nhận nhịp => qua trích đoạn bài hút Khăn quàng
+- Nhịp nhàng - Vui tươi Nhạc vẻ lời => Trịnh Công Sơn
+- nốt đen. Phách thứ nhất đứng sau vạch nhịp => phách mọnh. Phách thứ hơi lò
+
+### Đoạn gõ văn bản
+- ÂÔ cói thiệu dàn nhị Đèn nhị là nhọc cụ truyền thống ở Việt Nam. Tuỳ theo từng địa phương, đòn nhị còn có tên gọi khác là đờn cò, nhị líu, cò ke. Đàn nhị có 2 dây được nối từ trục dây đến bầu đàn. Cung vĩ làm bằng tre hoặc gỗ được mắc bằng lông đuôi ngựa hoặc dây ni-lông. Khi biểu diễn, người chơi cầm cung vĩ kéo đẩy lên dây đòn để tgo rd
+- Tiếng đòn nhị réo rốt, mượt mỏ thẻ hiện được nhiều tính chốt âm nhọc khóc nhu, từ những bản nhạc nhẹ nhòng, sâu lắng đến sôi nỏi, vui tươi,... Đủn nhị có thể đệm cho hớt, độc tấu, hoà tấu với các nhạc cụ khác.
+- Nêu cấu tạo của đỏn nhị. Nêu cảm nhộn củg em squ khi nghe độc tấu đòn nhị. 3.. DỤNG — SÁNG TẠO ÔÑÔ‹« chọn và thề hiện một trong hơi nhạc cụ g) Hoò tấu ri-coóc-đơ. b) Hoà tấu kèn phím. S::=====:====.=-=.=-=_-_
+- Q-e tấu các nhạc cụ gõ đệm cho bài hút Lí đất giồng Non nước mình đẹp tựa bài thơ...
+
+### Từ khóa
+Bài luyện tập., lại m==, Đàn nHị, ÂÔ cói thiệu dàn nhị, đòn nhị, nhị líu, dây ni, lông. Khi biểu diễn, âm thanh., Trục dây., Dây đòn, Cẩn đản Ñ, Cung vĩ, Bầu đòn, Tiếng đòn nhị réo rốt, sâu lắng đến sôi nỏi, vui tươi, Đủn nhị có thể đệm, cho hớt, độc tấu, s 21ủ N, độc tấu đàn nhị, Sáng tác, Thao Giang
+
+## 9. Luyện tập (từ trang 25)
+
+### Nội dung kiến thức thô
+- Quan sót vò chỉ ra các nốt nhạc là phách mạnh và phéch nhẹ trong
+- È Nhịp 2 có mốy phóch trong một ô nhịp?
+- Trong một ô nhịp 2 có
+- Mấy hình nốt trắng, mấy hình nốt đen, mấy hình nốt móc đơn?
+- Mấy dấu lặng trắng, mấy dấu lặng đen?
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Quan sót vò chỉ ra các nốt nhạc là phách mạnh và phéch nhẹ trong khuông nhọc È Nhịp 2 có mốy phóch trong một ô nhịp?
+- Trong một ô nhịp 2 có Mấy hình nốt trắng, mấy hình nốt đen, mấy hình nốt móc đơn?
+- Mấy dấu lặng trắng, mấy dấu lặng đen?
+
+### Cặp nối từ/khái niệm
+- Quan sót vò chỉ ra các nốt nhạc => phách mạnh và phéch nhẹ trong
+
+### Đoạn gõ văn bản
+- È Nhịp 2 có mốy phóch trong một ô nhịp? Trong một ô nhịp 2 có Mấy hình nốt trắng, mấy hình nốt đen, mấy hình nốt móc đơn? Mấy dấu lặng trắng, mấy dấu lặng đen?
+
+### Từ khóa
+khuông nhọc, Mấy hình nốt trắng, mấy hình nốt đen, mấy hình nốt móc đơn?, Mấy dấu lặng trắng, mấy dấu lặng đen?
+
+## 10. Đọc gam Đô trưởng (từ trang 25)
+
+### Nội dung kiến thức thô
+- Đọc tiết tấu kết hợp gõ đệm hoặc vỗ tay theo phách
+- 4 J2 jJ |2.) E2 ¿ L1 T
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đọc tiết tấu kết hợp gõ đệm hoặc vỗ tay theo phách 4 J2 jJ |2.) E2 ¿ L1 T Ji lở.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Đọc gam Đô trưởng, 4 J2 jJ |2., E2 ¿ L1 T, Ji lở. dd Ì, cự _ ^Z
+
+## 11. Bài số 2 (từ trang 26)
+
+### Nội dung kiến thức thô
+- Đọc kết hợp vỗ tay theo phóch.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- E——=—=-=—=——--= S———EEEEEEẼEẼễ=ẽ==ẼE=E==ễ=EE=ẽ=ễễẽễ Luyện tập Đọc kết hợp vỗ tay theo phóch.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Bài số 2, EEEEEEẼEẼễ=ẽ==ẼE=E==ễ=EE=ẽ=ễễẽễ
+
+## 12. Đọc kết hợp vận động cơ thể theo nhóm. (từ trang 26)
+
+### Nội dung kiến thức thô
+- nụ Dòng nhgc dưới đây được viết ở nhịp nào?
+- È Nói tên và cách đọc cóc nốt nhạc có chấm dôi trong bòi đọc nhạc
+- NI ÁA 2l K. 2,
+- N- đ « ` Tư ^=ẺŠ : (
+- KỈ L`) s5 —x5 “4 ./ bà)
+- ụ /r^~ Bay vào tương tai vì
+- ì Vui ~ Rộn rùng Nhạc và lời: Nguyễn Văn Hiên
+- Í Tuổi tơ của chúng em Tựa như những cứnh
+- chỉm Boy đỉ bay đi xôy mùa xuôn. Tuổi thơ của chúng 4
+- em. Tựa như búp măng non. Vươn lên vươn lên những tồm cao. `
+- tp 7i ø R42) 8g e j ¿
+- Bay đi vào tương lai. Đốt nước đang mong chờ. | \
+- b "= ===.__-= .-.---= Ỉ
+- _ —s..====s==-.cƒẽ co p]Ỷ=Ỷ... .=ẽỶ=Ỷƒ.ẽEnEẽỶẽ
+- Ị \Š Vươn lên từng tôm coơo. Giống như măng mọc thẳng. "
+- Ñ \ Bay đi vào tương lai. Đất nước đang mong chờ.
+- Bay đi vào ngày mai. Những cónh chỉm tuổi thơ.
+- Hát kết hợp vỗ tay theo tiết tấu lời co.
+- Tuôi thơ của chúng em. Tựơ như những cứnh chim.
+- Bay di bay đi xây mùa xuđn...
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- nụ Dòng nhgc dưới đây được viết ở nhịp nào?
+- _=_ c==== P—s—‡$—< s_ <“—'=—ý=_——=ễ' È Nói tên và cách đọc cóc nốt nhạc có chấm dôi trong bòi đọc nhạc số 2.
+- ˆ N- đ « ` Tư ^=ẺŠ : ( a "`...
+- ax—— —=x>——— " LÍ tp 7i ø R42) 8g e j ¿ Bay đi vào tương lai.
+- b "= ===.__-= .-.---= Ỉ _ —s..====s==-.cƒẽ co p]Ỷ=Ỷ...
+- ẽỶ=Ỷƒ.ẽEnEẽỶẽ Ị \Š Vươn lên từng tôm coơo.
+- 1 —=—* __—- T—.ẽ.——".ø Bay đi vào ngày mai.
+- Hát kết hợp vỗ tay theo tiết tấu lời co.
+
+### Cặp nối từ/khái niệm
+- ì Vui ~ Rộn rùng Nhạc và lời => Nguyễn Văn Hiên
+
+### Đoạn gõ văn bản
+- P—s—‡$—< s_ <“—'=—ý=_——=ễ' È Nói tên và cách đọc cóc nốt nhạc có chấm dôi trong bòi đọc nhạc
+- Í Tuổi tơ của chúng em Tựa như những cứnh chỉm Boy đỉ bay đi xôy mùa xuôn. Tuổi thơ của chúng 4
+- tp 7i ø R42) 8g e j ¿ Bay đi vào tương lai. Đốt nước đang mong chờ. | \ b "= ===.__-= .-.---= Ỉ _ —s..====s==-.cƒẽ co p]Ỷ=Ỷ... .=ẽỶ=Ỷƒ.ẽEnEẽỶẽ Ị \Š Vươn lên từng tôm coơo. Giống như măng mọc thẳng. "
+- Ñ \ Bay đi vào tương lai. Đất nước đang mong chờ. 1 —=—* __—- T—.ẽ.——".ø Bay đi vào ngày mai. Những cónh chỉm tuổi thơ.
+
+### Từ khóa
+_=_ c====, s_ <“, số 2., e©EEˆNG, NI ÁA 2l K. 2, Í¬ S5., đ « ` Tư ^=ẺŠ, a "`... «\ \, vs ` S n, KỈ L`, x5 “4 ., mm SÌ, Nguyễn Văn Hiên, Ị là, ẻ. _.ẽ, tp 7i ø R42, 8g e j ¿, b "= ===.__, s..====s==, cƒẽ co p]Ỷ=Ỷ... .=ẽỶ=Ỷƒ.ẽEnEẽỶẽ, M =7 ==, E==_., Tập hút, Tập hót từng câu.
+
+## 13. Luyện tập (từ trang 28)
+
+### Nội dung kiến thức thô
+- Hút kết hợp gõ đệm.
+- Hớt theo hình thức tam ca hoặc tốp cơ có lĩnh xướng.
+- Hút nối tiếp theo nhóm kết hợp sóng tgo động tóc vận động phụ hog.
+- Nhóm 1: Tuổi thơ của chúng em ... xây mùa xuân.
+- Nhóm 2: Tuổi thơ của chúng em ... những tằm cdo.
+- Cả hơi nhóm: Bay đi vdo tương lai ... Những cánh chim tuôi thơ.
+- N / ễ SÀ 4À À NÌ N- Ẳ ẦÀ"
+- CÔ VẩNh ú đS. ). hà)
+- U ° 4 Àl he
+- 3y Hãy nói ước mơ của em trong tương lai.
+- 3 Kê những hoạt động của trường, lớp em vỏ chia sẻ với bạn về
+- ý nghĩa của ngày Nhỏ giáo Việt Nam 20 - 11.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hớt theo hình thức tam ca hoặc tốp cơ có lĩnh xướng.
+- Hút nối tiếp theo nhóm kết hợp sóng tgo động tóc vận động phụ hog.
+- Nhóm 1: Tuổi thơ của chúng em ...
+- Nhóm 2: Tuổi thơ của chúng em ...
+- Cả hơi nhóm: Bay đi vdo tương lai ...
+- N / ễ SÀ 4À À NÌ N- Ẳ ẦÀ" CÔ VẩNh ú đS.
+- U ° 4 Àl he 3y Hãy nói ước mơ của em trong tương lai.
+- 3 Kê những hoạt động của trường, lớp em vỏ chia sẻ với bạn về ý nghĩa của ngày Nhỏ giáo Việt Nam 20 - 11.
+
+### Cặp nối từ/khái niệm
+- Nhóm 1 => Tuổi thơ của chúng em ... xây mùa xuân.
+- Nhóm 2 => Tuổi thơ của chúng em ... những tằm cdo.
+- Cả hơi nhóm => Bay đi vdo tương lai ... Những cánh chim tuôi thơ.
+
+### Đoạn gõ văn bản
+- Hút kết hợp gõ đệm. Hớt theo hình thức tam ca hoặc tốp cơ có lĩnh xướng. Hút nối tiếp theo nhóm kết hợp sóng tgo động tóc vận động phụ hog. Nhóm 1: Tuổi thơ của chúng em ... xây mùa xuân. Nhóm 2: Tuổi thơ của chúng em ... những tằm cdo. Cả hơi nhóm: Bay đi vdo tương lai ... Những cánh chim tuôi thơ. N / ễ SÀ 4À À NÌ N- Ẳ ẦÀ" CÔ VẩNh ú đS. ). hà)
+- 3y Hãy nói ước mơ của em trong tương lai. 3 Kê những hoạt động của trường, lớp em vỏ chia sẻ với bạn về ý nghĩa của ngày Nhỏ giáo Việt Nam 20 - 11.
+
+### Từ khóa
+Hút kết hợp gõ đệm., Nhóm 1, Nhóm 2, Cả hơi nhóm, Ẳ ẦÀ", CÔ VẩNh ú đS., 4 =. = =, U ° 4 Àl he, c ^_, NHg€
+
+## 14. Nghe, cảm nhận lộng theo nhịp điệu bài hát (từ trang 29)
+
+### Nội dung kiến thức thô
+- 4 “Đường đên trường vuí tăm
+- ể Nhạc: Lưu Hà An
+- Đường đến trường vui lắm, đông lúa ...Câu vỗng sớng lung linh, vui bước
+- chín thơm bông. Đường đến trường chân tới trường, và bài học đâu tiên
+- yêu lắm, chiếc câu tre. Mẹ thức dậy biết yêu quê hương. Cầu vòng sớng
+- mỗi sớm, gửi di những yêu thương, lung linh, những ước mơ đến trường,
+- đường gân dường xœ vui tiếng thắp sứng những nụ cười Việt Nam.
+- bạn bẻ... Đường đến trường vui lắm!
+- ò ằ ¿ HÀ q&œ
+- 3 VẬN DỤNG - SÁNG TẠO
+- Ñ+ chơi: Em tập làm chỉ huy
+- Phách >| Ỉ 7 \ Ất. ĐÀ
+- L 1 2 ¬ 1 —. “— )) 2 1
+- _Nhóm 2ˆ W _—_— VY „ 7 HHH
+- ti» ỗ 1 2 12 12
+- 8 Biểu diễn bài hát Bay vào tương lai với các hình thức đã học hoặc
+- theo ý tưởng sóng tạo
+- Khăn quàng thắm mãi vai em
+- Nhạc và bi: Ngô Ngọc Báu
+- Khi trông phương Đông vừa hé ứnh
+- m=. tư th. Ôn ÝẺ.
+- dương. Khăn quảng tên vai chúng em tới trường...
+- v tranh hoặc viết cảm nghĩ của em squ khi học bài hát Bay vờo
+- Trò chơi: Ai nhanh hơn
+- Em nghe thấy âm thanh vơng lên từ nhạc cụ nào?
+- Nghe và vỗ ty theo hình tiết tấu hoặc hót lợi bằng âm "lg" nét giai điệu các
+- nhọc cụ thê hiện. \
+- A% ,À. LÊ. HỆ SN | be $
+- KIẾN THỨC MỚI - LUYỆN TẬP
+- đi + ` â ¬
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- 4 “Đường đên trường vuí tăm ng (Trích) ể Nhạc: Lưu Hà An tời thơ: Nhật Hoa Đường đến trường vui lắm, đông lúa ...Câu vỗng sớng lung linh, vui bước chín thơm bông.
+- Đường đến trường chân tới trường, và bài học đâu tiên yêu lắm, chiếc câu tre.
+- Cầu vòng sớng mỗi sớm, gửi di những yêu thương, lung linh, những ước mơ đến trường, đường gân dường xœ vui tiếng thắp sứng những nụ cười Việt Nam.
+- Khăn quảng tên vai chúng em tới trường...
+- v tranh hoặc viết cảm nghĩ của em squ khi học bài hát Bay vờo tương lai gạ xUÂ ĐỀ" Chào WÙR _..
+- ĐỘNG Trò chơi: Ai nhanh hơn Em nghe thấy âm thanh vơng lên từ nhạc cụ nào?
+- Nghe và vỗ ty theo hình tiết tấu hoặc hót lợi bằng âm "lg" nét giai điệu các nhọc cụ thê hiện.
+- Ầ ` J ĂšÏỗŠẵỗÃủc xẻ 2ï 4 lãi A% ,À.
+- Mùa xuân thắm tươi, cỏ cây — lứ hod.
+- Nụ hoa thắm trên môi người tiến em Cười.
+- Đàn em hót cơ bao ngủy thứng êm đềm.
+- Vườn xuân hút ca, ngàn hoa sắc hương.
+
+### Cặp nối từ/khái niệm
+- ể Nhạc => Lưu Hà An
+- tời thơ => Nhật Hoa
+- Ñ+ chơi => Em tập làm chỉ huy
+- Nhạc và bi => Ngô Ngọc Báu
+- Trò chơi => Ai nhanh hơn
+- Bay bồng Nhẹc và lời => Lê Vinh Phúc
+- Ệ _~ ~ => 4 s kj KV š Ẵ `
+- V “/ \ t => 2 xV⁄Z
+- 8g. mm => mm. “mi cm. mm nan =n='—=.=—=- '——.::——.— '
+
+### Đoạn gõ văn bản
+- Đường đến trường vui lắm, đông lúa ...Câu vỗng sớng lung linh, vui bước chín thơm bông. Đường đến trường chân tới trường, và bài học đâu tiên yêu lắm, chiếc câu tre. Mẹ thức dậy biết yêu quê hương. Cầu vòng sớng mỗi sớm, gửi di những yêu thương, lung linh, những ước mơ đến trường, đường gân dường xœ vui tiếng thắp sứng những nụ cười Việt Nam. bạn bẻ... Đường đến trường vui lắm!
+- 8 Biểu diễn bài hát Bay vào tương lai với các hình thức đã học hoặc theo ý tưởng sóng tạo
+- dương. Khăn quảng tên vai chúng em tới trường... v tranh hoặc viết cảm nghĩ của em squ khi học bài hát Bay vờo
+- Trò chơi: Ai nhanh hơn Em nghe thấy âm thanh vơng lên từ nhạc cụ nào? Nghe và vỗ ty theo hình tiết tấu hoặc hót lợi bằng âm "lg" nét giai điệu các nhọc cụ thê hiện. \
+
+### Từ khóa
+Nghe, Trích, ể Nhạc, Lưu Hà An, tời thơ, Nhật Hoa, Đường đến trường vui lắm, vui bước, và bài học đâu tiên, yêu lắm, mỗi sớm, gửi di những yêu thương, lung linh, những ước mơ đến trường, J2 %$, Ê" ° ` Ộ, ca ý, ò ằ ¿ HÀ q&œ, lÀ `, àà = », Ì \ ` “Ấ, z Í j Ƒ, Í Ô ly, 3 VẬN DỤNG
+
+## 15. Bài luyện tập. (từ trang 35)
+
+### Nội dung kiến thức thô
+- 5 ếI ' 271.2 ZA D 4.8
+- b c6 mm. _. hóc v
+- Ma x7 _. VNẨ "
+- WM—<- VẬNG N "m8 >1 5 Ê
+- L4 ^ Fˆ Ẩ x
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Ä zA^ Noet đâu tiên Trích) Nhạc nước ngoài TT a —..
+- 5 ếI ' 271.2 ZA D 4.8 8 { II II", b c6 mm.
+- VNẨ " uc ' 1a WM—<- VẬNG N "m8 >1 5 Ê lại BÊ L4 ^ Fˆ Ẩ x
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Bài luyện tập., Ä zA^, Noet đâu tiên, Trích, Nhạc nước ngoài, TT a, II II", Ma x7 _. VNẨ ", uc ' 1a, lại BÊ, L4 ^ Fˆ Ẩ x
+
+## 16. Câu chuyện về bản xô-nát Ảnh trăng (từ trang 36)
+
+### Nội dung kiến thức thô
+- Biên soạn theo Tạp chí Âm nhạc
+- Lút-vích Van Bét-tô-ven (1770 — 1827) là nhạc sĩ thiên tài người Đức. Ông là một
+- trong những nhạc sĩ nồi tiếng ở châu Âu đã có nhiều đóng góp cho nền âm nhạc
+- của thế giới. Bản xô-nót Ánh trăng là một trong những sáng tác nồi tiếng của ông
+- được ra đời từ một câu chuyện thật cảm động.
+- l1 hiểu nội dung câu chuyện
+- Vào một đêm trăng đẹp giữa
+- mùa thu ở thị trấn nhỏ của nước me `
+- Đức, nhạc sĩ Bét-tô-ven đang — k&
+- thong thỏ dạo bước trên con "—-..
+- đường dưới hàng côy vò '
+- những thớp chuông nhọn ` VE )
+- hoắt chìm trong không gian
+- tĩnh mịch. Khi đến một ngõ `
+- nhỏ với những ngôi nhỏ cũ kĩ, ( \
+- vẳng tiếng đèn pi-a-nô chơi bản mP
+- mơ-nuy-ết của mình. Lợi gần hơn nữa,
+- ông nghe thấy tiếng nói của người con gói
+- Chd ơi, liệu mình có đủ tiền mua vé đi nghe hoở nhạc tối moi không?
+- Cha đã sửa năm đôi giày rồi mò chưa đủ tiền. May ra chỉ mua được một vé cho
+- Tiếng thở dài của người con gới vang lên trong ngôi nhờ im lặng. Như có điều gì
+- thôi thúc, Bét-tô-ven khẽ gõ cửa, người cha giủ mở cửa bước rd.
+- Thưg ông, tôi đi qua đôy, nghe tiếng pi-g-nô nên xin phép vòo thăm.
+- Mời ông vòo. Con gói tôi yêu thích âm nhọc, nhưng cháu chơi đòn còn kém lắm!
+- Thưa ông, tôi có biết một chút ôm nhạc, nếu ông vỏ cô cho phép, tôi xin đòn
+- Rốt vui, xin ông cứ tự nhiên.
+- Lúc này, người con gói vội đứng dậy để
+- nhường đòn cho khách, tay cô lần Lộ
+- theo thành côy đòn, ánh mắt như Ạ 4 \
+- nhìn vào vô định. Khi đó, , Ñ_ MI
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Biên soạn theo Tạp chí Âm nhạc Lút-vích Van Bét-tô-ven (1770 — 1827) là nhạc sĩ thiên tài người Đức.
+- Ông là một trong những nhạc sĩ nồi tiếng ở châu Âu đã có nhiều đóng góp cho nền âm nhạc của thế giới.
+- Bản xô-nót Ánh trăng là một trong những sáng tác nồi tiếng của ông được ra đời từ một câu chuyện thật cảm động.
+- đường dưới hàng côy vò ' những thớp chuông nhọn ` VE ) hoắt chìm trong không gian tĩnh mịch.
+- Khi đến một ngõ ` nhỏ với những ngôi nhỏ cũ kĩ, ( \ Béttôven chợt nghe văng vẳng tiếng đèn pi-a-nô chơi bản mP mơ-nuy-ết của mình.
+- Lợi gần hơn nữa, ông nghe thấy tiếng nói của người con gói Chd ơi, liệu mình có đủ tiền mua vé đi nghe hoở nhạc tối moi không?
+- Cha đã sửa năm đôi giày rồi mò chưa đủ tiền.
+- May ra chỉ mua được một vé cho con thôi.
+- Tiếng thở dài của người con gới vang lên trong ngôi nhờ im lặng.
+- Như có điều gì thôi thúc, Bét-tô-ven khẽ gõ cửa, người cha giủ mở cửa bước rd.
+- Thưg ông, tôi đi qua đôy, nghe tiếng pi-g-nô nên xin phép vòo thăm.
+- Con gói tôi yêu thích âm nhọc, nhưng cháu chơi đòn còn kém lắm!
+
+### Cặp nối từ/khái niệm
+- Lút-vích Van Bét-tô-ven (1770 — 1827) => nhạc sĩ thiên tài người Đức. Ông là một
+- của thế giới. Bản xô-nót Ánh trăng => một trong những sáng tác nồi tiếng của ông
+- Thưd ông, chính tôi mới => người chịu ơn ông vò cô. Tôi xin phép được mời ông
+
+### Đoạn gõ văn bản
+- Tiếng thở dài của người con gới vang lên trong ngôi nhờ im lặng. Như có điều gì thôi thúc, Bét-tô-ven khẽ gõ cửa, người cha giủ mở cửa bước rd. Thưg ông, tôi đi qua đôy, nghe tiếng pi-g-nô nên xin phép vòo thăm. Mời ông vòo. Con gói tôi yêu thích âm nhọc, nhưng cháu chơi đòn còn kém lắm! Bét-tô-ven mạnh dạn Thưa ông, tôi có biết một chút ôm nhạc, nếu ông vỏ cô cho phép, tôi xin đòn
+- Rốt vui, xin ông cứ tự nhiên. Lúc này, người con gói vội đứng dậy để nhường đòn cho khách, tay cô lần Lộ theo thành côy đòn, ánh mắt như Ạ 4 \ nhìn vào vô định. Khi đó, , Ñ_ MI Bét-tô-ven nhộn ra cô gói bị ÿ ⁄ | Ỷ Ï mù. Niềm thương cỏm tròo : _ li lên trong lòng, Bét-tô-ven PP «. chơi đòn với sự xúc động ; ý mãnh liệt vỏ tình cảm chôn 1
+
+### Từ khóa
+nát Ảnh trăng, vích Van Bét, của thế giới. Bản xô, nhạc sĩ Bét, ven đang, hoắt chìm trong không gian, Béttôven chợt nghe văng, vẳng tiếng đèn pi, nô chơi bản mP, Chd ơi, con thôi., thôi thúc, ven khẽ gõ cửa, Thưg ông, tôi đi qua đôy, nghe tiếng pi, ven mạnh dạn, Thưa ông, tôi xin đòn, một khúc., Rốt vui, xin ông cứ tự nhiên., Lúc này, nhường đòn cho khách
+
+## 17. VẬN DỤNG - SÁNG TẠO (từ trang 38)
+
+### Nội dung kiến thức thô
+- L1) Hoà tếu nhọc cụ tự chọn kết hợp bedt box
+- Beat box ỷ v , h k
+- Q.« chọn một trong hơi nhạc cụ để thể hiện
+- g) Biểu diễn ri-coóc-đơ trích đoạn bài Đởn gở con - Nhạc Phúớp.
+- b) Biểu diễn kèn phím trích đoạn bởi Noel đâu tiên - Nhạc nước ngoài.
+- 4 1 “s.ủg † 8 34 58 4 3$ 2
+- v«t lời giới thiệu và biểu diễn bài hút Duyên dúng mùa xuân
+- theo ý tưởng sáng tạo của nhóm hoặc cá nhân
+- w ôn Tập cuối wọC KỲ 1
+- Q‹+z lựa chọn cóc tiết tấu, cao độ đã học tạo thành nét giai điệu
+- ở nhịp 2 theo sơ đồ
+- Ôn tộp vỏ thể hiện bài đọc nhạc theo hình thức gõ đệm hoặc vận động cơ thê.
+- Bỏi đọc nhọc số 1 (trang 8).
+- Bỏi đọc nhạc số 2 (trang 24).
+- Ôn tập vỏ thê hiện các bởi hút: Chim sơn cg, Lí đắt giòng, Bay vào tương lai,
+- Duyên dáng mùa xuân theo một trong các hình thức đã học.
+- su tầm và chia sẻ hiểu biết của em về tức dụng của âm nhọc
+- Lập kế hoạch và luyện tập Liên khúc chèo mùa xuân
+- Các nhóm học sinh lựa chọn vỏ liên kết các bởi hót, trò chơi về chủ đề
+- Mùa xuân đã học trong cúc sách Âm nhạc. ị
+- Biểu diễn Liên khúc chủo mùa xuân. na ®
+- Mở đầu \ À %2
+- 1.Vộn động theo nhịp điệu hoặc kết „ °
+- hợp gõ đệm nhọc cụ thê hiện tiết tấu © _.. L3 ĐẠI
+- theo bài hót Khót vọng mùa xuân 8x3) D9 \ ¡1U
+- Nhạc: Mô-du; Phỏng dịch: Tô Hải |2 P
+- Âm nhọc 1, trang 36).
+- 2.Vên dộng cơ thê theo nhịp điệu hoặc = „ / P ƒ đ ÿƒ
+- vận động phụ hoợg theo một trong KỸ LÍ x4 k _
+- hơi bòi hớt Mùa xuân ơi (Nhạc và bi: L ” & + „Z
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- b) Biểu diễn kèn phím trích đoạn bởi Noel đâu tiên - Nhạc nước ngoài.
+- Ôn tập vỏ thê hiện các bởi hút: Chim sơn cg, Lí đắt giòng, Bay vào tương lai, Duyên dáng mùa xuân theo một trong các hình thức đã học.
+- ị Biểu diễn Liên khúc chủo mùa xuân.
+- na ® Mở đầu \ À %2 Si dụ 1.Vộn động theo nhịp điệu hoặc kết „ ° hợp gõ đệm nhọc cụ thê hiện tiết tấu © _..
+- L3 ĐẠI theo bài hót Khót vọng mùa xuân 8x3) D9 \ ¡1U Nhạc: Mô-du; Phỏng dịch: Tô Hải |2 P Âm nhọc 1, trang 36).
+- 5SÑ%«& "§x 3.Hết kết hợp gõ đệm hoặc dùng Í @$ : €6 ở Ì nhạc cụ giai điệu đệm cho bởi hớt S” F¬| “.
+- Duyên dáng mùa xuân (Nhạc và lồi: \À2⁄Z LỆ) —) Lê Vinh Phúc).
+- 4.Đọc Rap vỏ nhảy theo trò chơi Nhịp diệu trông cây (Âm nhạc 2, trang 40) hoặc bời Đón xuân về Dân ca Giáy - Âm nhọc 3, trang 34).
+- S@ ki = ÂÑ KIẾN THỨC MỚI - LUYỆN TẬP Xây ö HT THUYẾT-ÂW-NHật Nhịp 3
+
+### Cặp nối từ/khái niệm
+- Ôn tập vỏ thê hiện các bởi hút => Chim sơn cg, Lí đắt giòng, Bay vào tương lai,
+- Nhạc => Mô-du; Phỏng dịch: Tô Hải |2 P
+- hơi bòi hớt Mùa xuân ơi (Nhạc và bi => L ” & + „Z
+- Nguyễn Ngọc Thiện => Âm nhọc 3, ŸỆ Ỉ
+- new yedr sớng tác => Bi-on Un-vi-ớt và L}Tƒ ly,
+- Duyên dáng mùa xuân (Nhạc và lồi => À2⁄Z LỆ) —)
+- Dân ca Giáy => Âm nhọc 3, trang 34).
+
+### Đoạn gõ văn bản
+- Ôn tộp vỏ thể hiện bài đọc nhạc theo hình thức gõ đệm hoặc vận động cơ thê. Bỏi đọc nhọc số 1 (trang 8). Bỏi đọc nhạc số 2 (trang 24). Ôn tập vỏ thê hiện các bởi hút: Chim sơn cg, Lí đắt giòng, Bay vào tương lai, Duyên dáng mùa xuân theo một trong các hình thức đã học. su tầm và chia sẻ hiểu biết của em về tức dụng của âm nhọc
+- Lập kế hoạch và luyện tập Liên khúc chèo mùa xuân Các nhóm học sinh lựa chọn vỏ liên kết các bởi hót, trò chơi về chủ đề Mùa xuân đã học trong cúc sách Âm nhạc. ị Biểu diễn Liên khúc chủo mùa xuân. na ®
+- 4.Đọc Rap vỏ nhảy theo trò chơi Nhịp diệu trông cây (Âm nhạc 2, trang 40) hoặc bời Đón xuân về Dân ca Giáy - Âm nhọc 3, trang 34). Lời kết của chương trình.
+
+### Từ khóa
+Beat box ỷ v, Biểu diễn ri, coóc, Nhạc Phúớp., Nhạc nước ngoài., Nốt kết thúc, Nốt bắt đầu, Q Đọc nhạc, Bỏi đọc nhọc số 1, Bỏi đọc nhạc số 2, Chim sơn cg, Lí đắt giòng, Bay vào tương lai, trong cuộc sông, a TẨY!, trò chơi về chủ đề, Mở đầu \ À %2, Si dụ, D9 \ ¡1U, Nhạc, Phỏng dịch, Tô Hải |2 P, Âm nhọc 1, Nhạc và bi
+
+## 18. Nghe và cảm nhận nhịp 3 qua trích đoạn bài hát (từ trang 42)
+
+### Nội dung kiến thức thô
+- Vừa phải ~ Nhịp nhàng —- Nhạc vẻ lời: Văn Chung
+- Một ông sao sóng, hơi ông súng sao. Ba ông sao
+- sứng, súng chiếu muôn ánh vàng. Bốn ông súng sao kìa
+- Tìm hiểu về nhịp 3
+- Nhịp 3 có bq phóch trong một ô nhịp, mỗi phóch có gió trị trường độ bằng
+- một nốt đen. Phóch thứ nhốt lò phách mạnh, phách thứ hơi và phóch thứ bơ là
+- mạnh nhẹ nhẹ mọnh nhẹ nhẹ mẹnh nhẹ nhẹ mạnh nhẹ nhẹ
+- Phách 1 2 3 1 2 3 1 2 3 1 2 3
+- Nhịp 3 thường được viết cho những tác phẩm âm nhọc có tính chất nhịp nhàng,
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đêm sao 1⁄% Vừa phải ~ Nhịp nhàng —- Nhạc vẻ lời: Văn Chung Một ông sao sóng, hơi ông súng sao.
+- Ba ông sao sứng, súng chiếu muôn ánh vàng.
+- Bốn ông súng sao kìa Tìm hiểu về nhịp 3 Nhịp 3 có bq phóch trong một ô nhịp, mỗi phóch có gió trị trường độ bằng một nốt đen.
+- Phóch thứ nhốt lò phách mạnh, phách thứ hơi và phóch thứ bơ là phóch nhẹ.
+
+### Cặp nối từ/khái niệm
+- Vừa phải ~ Nhịp nhàng —- Nhạc vẻ lời => Văn Chung
+
+### Đoạn gõ văn bản
+- Vừa phải ~ Nhịp nhàng —- Nhạc vẻ lời: Văn Chung Một ông sao sóng, hơi ông súng sao. Ba ông sao sứng, súng chiếu muôn ánh vàng. Bốn ông súng sao kìa Tìm hiểu về nhịp 3 Nhịp 3 có bq phóch trong một ô nhịp, mỗi phóch có gió trị trường độ bằng một nốt đen. Phóch thứ nhốt lò phách mạnh, phách thứ hơi và phóch thứ bơ là
+- mạnh nhẹ nhẹ mọnh nhẹ nhẹ mẹnh nhẹ nhẹ mạnh nhẹ nhẹ Phách 1 2 3 1 2 3 1 2 3 1 2 3 Nhịp 3 thường được viết cho những tác phẩm âm nhọc có tính chất nhịp nhàng,
+
+### Từ khóa
+Đêm sao, Vừa phải ~ Nhịp nhàng, Nhạc vẻ lời, Văn Chung, Một ông sao sóng, sứng, Tìm hiểu về nhịp 3, phóch nhẹ., uyễn chuyển.
+
+## 19. Luyện tập (từ trang 43)
+
+### Nội dung kiến thức thô
+- Nghe vò đọc tên cóc nốt nhạc lò phéch mạnh vò phóch nhẹ trong khuông nhạc
+- 4 Nhịp Ẫ có mấy phách trong một ô nhịp? Phách mọợnh là phách
+- thứ mấy của ô nhịp?
+- k +} Nghe, cảm nhận vỏ vận động theo nhịp} trích đoạn bài hớt
+- Em đi giữa biên vàng
+- Vừa phải - Tình cảm Lời: Nguyễn Khoa Đăng - Bùi Đình Thỏo
+- jÿ 3 › WNEWN. Sẽ co cằẰỀẴOOOOOO ST ẪẪẰŸSS=EC VƯGGHƠN HN TƯ ƠNNNH XNNGG VHNNNNNNNNNHƠƠGG `2 2NNNNNNNEEEƯNNHHUNEESSSG WNNNNH
+- Em di giữa biển vàng, nghe mênh mang trên đông lúa
+- ÿ-Š„——] À—] si—= — +
+- hút. Hương lúa chín thoang thoảng bay làm lung
+- lay hàng cột diện, làm xao động cỏ rặng cây. Em di
+- ý † _! 'MGHENENNESUNNNH NGHHNNNN— ———”^^9 NNNNAIISGE2SS2NNNNNGE2,. tS==mmmSSNM. trr9A2 ANH. WDSE=SSSES — — - —: _..0N NNM w3Nnnmmmmmmmmmm=snnnmmmmmnmmmmmme.
+- lữ biển vàng. nghe mênh mang trên đồng lúa hút Bông lúa ~l
+- _.."“.. ằẽe . .. .cc
+- tĩu ở trong lòng tay nhưđựng đầy mưa giỏ nống, như mơng
+- nặng giọt mò hôi của bao người nuôi lúag n lúa
+- ơil Của bao người nuôi lúa kén lúa
+- gi¿ 0à» li| \ Em! MỘC M277,
+- XH! á Ä “` há 17 %
+- Hát kết hợp vỗ tay theo nhịp.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Nghe vò đọc tên cóc nốt nhạc lò phéch mạnh vò phóch nhẹ trong khuông nhạc dưới đôy 4 Nhịp Ẫ có mấy phách trong một ô nhịp?
+- Phách mọợnh là phách thứ mấy của ô nhịp?
+- k +} Nghe, cảm nhận vỏ vận động theo nhịp} trích đoạn bài hớt Đếm sao.
+- Sẽ co cằẰỀẴOOOOOO ST ẪẪẰŸSS=EC VƯGGHƠN HN TƯ ƠNNNH XNNGG VHNNNNNNNNNHƠƠGG `2 2NNNNNNNEEEƯNNHHUNEESSSG WNNNNH CC, Em di giữa biển vàng, nghe mênh mang trên đông lúa ÿ-Š„——] À—] si—= — + hút.
+- Hương lúa chín thoang thoảng bay làm lung kế.
+- _ lay hàng cột diện, làm xao động cỏ rặng cây.
+- WDSE=SSSES — — - —: _..0N NNM w3Nnnmmmmmmmmmm=snnnmmmmmnmmmmmme.
+- nghe mênh mang trên đồng lúa hút Bông lúa ~l _.."“..
+- cc tĩu ở trong lòng tay nhưđựng đầy mưa giỏ nống, như mơng U # _-== cm" —=-—=—=¬-----=..
+- nặng giọt mò hôi của bao người nuôi lúag n lúa X22?
+- NT Ca TC ơil Của bao người nuôi lúa kén lúa gi¿ 0à» li| \ Em!
+- MỘC M277, lại ` nã | 'Ñe © vi í Ằ vh XH!
+
+### Cặp nối từ/khái niệm
+- Nhạc => Bùi Đình Thỏo
+- Vừa phải - Tình cảm Lời => Nguyễn Khoa Đăng - Bùi Đình Thỏo
+
+### Đoạn gõ văn bản
+- 4 Nhịp Ẫ có mấy phách trong một ô nhịp? Phách mọợnh là phách thứ mấy của ô nhịp? k +} Nghe, cảm nhận vỏ vận động theo nhịp} trích đoạn bài hớt
+- Em đi giữa biên vàng Nhạc: Bùi Đình Thỏo Vừa phải - Tình cảm Lời: Nguyễn Khoa Đăng - Bùi Đình Thỏo
+- Em di giữa biển vàng, nghe mênh mang trên đông lúa ÿ-Š„——] À—] si—= — + hút. Hương lúa chín thoang thoảng bay làm lung
+- lữ biển vàng. nghe mênh mang trên đồng lúa hút Bông lúa ~l _.."“.. ằẽe . .. .cc tĩu ở trong lòng tay nhưđựng đầy mưa giỏ nống, như mơng
+
+### Từ khóa
+dưới đôy, thứ mấy của ô nhịp?, k +} Nghe, Đếm sao., Co = xeÐz, t + NTP, ị =2, x7 `, Em đi giữa biên vàng, Nhạc, Bùi Đình Thỏo, Vừa phải, Tình cảm Lời, Nguyễn Khoa Đăng, Em di giữa biển vàng, kế. > _, lay hàng cột diện, ý † _! 'MGHENENNESUNNNH NGHHNNNN, 9 NNNNAIISGE2SS2NNNNNGE2, tS==mmmSSNM. trr9A2 ANH. WDSE=SSSES, _..0N NNM w3Nnnmmmmmmmmmm=snnnmmmmmnmmmmmme., _.."“.. ằẽe . .. .cc, như mơng, 5=...
+
+## 20. Luyện tập (từ trang 46)
+
+### Nội dung kiến thức thô
+- Hát kết hợp lĩnh xướng vò hoỏ giọng.
+- Em di giữu biển vàng, nghe mênh mang trên đồng lúa hút. Hương lúa chín
+- thoang thoảng bay làm lung lay hàng cột điện, làm xao động cả rặng cây.
+- Em di giữa biển vàng, nghe mênh mang trên dòng lúa hút. Bông lúa trĩu ở trong
+- lòng tay như dựng dây mưa gió nắng, như mang nặng giọt mô hôi của bdo người
+- nuôi lúa lớn lúa ơi! Của bao người nuôi lúa lớn lúa ơi!
+- Hút kết hợp vận động theo nhịp điệu.
+- È Giai điệu của bài hót gợi cho em cảm xúc như thế nào?
+- Vì sao hình ảnh cánh đồng lúa chín lợi được tác giỏ ví như
+- Hình ảnh biển lúa vòng cho em cảm nhộn gì về công sức của
+- những người nông dân trên đồng ruộng?
+- R » ÁU.. .w _ — “4«.
+- vo ——. — ° = _— `
+- lý. là l0, <ayc dd)
+- HN : “œ N TL nữ j#*4
+- MÔN. tú XI J9. (Út ft Á dý r{ „' nỗ
+- Nhạc sĩ Bùi Đình Thảo và
+- sơn Z + P ^ ^ˆ ,
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hát kết hợp lĩnh xướng vò hoỏ giọng.
+- Lĩnh xướng Em di giữu biển vàng, nghe mênh mang trên đồng lúa hút.
+- Hương lúa chín thoang thoảng bay làm lung lay hàng cột điện, làm xao động cả rặng cây.
+- Hoò giọng Em di giữa biển vàng, nghe mênh mang trên dòng lúa hút.
+- Bông lúa trĩu ở trong lòng tay như dựng dây mưa gió nắng, như mang nặng giọt mô hôi của bdo người nuôi lúa lớn lúa ơi!
+- Của bao người nuôi lúa lớn lúa ơi!
+- Hút kết hợp vận động theo nhịp điệu.
+- È Giai điệu của bài hót gợi cho em cảm xúc như thế nào?
+- Vì sao hình ảnh cánh đồng lúa chín lợi được tác giỏ ví như biển vàng"?
+- Hình ảnh biển lúa vòng cho em cảm nhộn gì về công sức của những người nông dân trên đồng ruộng?
+- là l0, <ayc dd) HN : “œ N TL nữ j#*4 MÔN.
+- Út ft Á dý r{ „' nỗ Ð)MhG...../4..0 /A(¡1 TƯ ỜnE=—= TU -THUẾNG-THứỨc ân nHậc ŠẮÕỐ# ` Lễ ` Nhạc sĩ Bùi Đình Thảo và sơn Z + P ^ ^ˆ ,
+
+### Cặp nối từ/khái niệm
+- lý. => l0, <ayc dd)
+
+### Đoạn gõ văn bản
+- Em di giữu biển vàng, nghe mênh mang trên đồng lúa hút. Hương lúa chín thoang thoảng bay làm lung lay hàng cột điện, làm xao động cả rặng cây.
+- Em di giữa biển vàng, nghe mênh mang trên dòng lúa hút. Bông lúa trĩu ở trong lòng tay như dựng dây mưa gió nắng, như mang nặng giọt mô hôi của bdo người nuôi lúa lớn lúa ơi! Của bao người nuôi lúa lớn lúa ơi! Hút kết hợp vận động theo nhịp điệu. È Giai điệu của bài hót gợi cho em cảm xúc như thế nào? Vì sao hình ảnh cánh đồng lúa chín lợi được tác giỏ ví như
+- Hình ảnh biển lúa vòng cho em cảm nhộn gì về công sức của những người nông dân trên đồng ruộng? R » ÁU.. .w _ — “4«.
+- lý. là l0, <ayc dd) HN : “œ N TL nữ j#*4 MÔN. tú XI J9. (Út ft Á dý r{ „' nỗ Ð)MhG...../4..0 /A(¡1
+
+### Từ khóa
+Lĩnh xướng, Em di giữu biển vàng, Hoò giọng, Em di giữa biển vàng, biển vàng"?, R » ÁU.. .w _, lý. là l0, ayc dd, œ N TL nữ j#*4, MÔN. tú XI J9., MhG....., TƯ ỜnE=, THứỨc ân nHậc, ŠẮÕỐ# ` Lễ `
+
+## 21. bài hát Sách bút thân yêu ơi (từ trang 47)
+
+### Nội dung kiến thức thô
+- săi thiệu vài nét về nhạc sĩ Bùi Đình Thẻo
+- Nhạc sĩ Bùi Đình Thỏo sinh ngòy 4 thóng 2
+- ca vi Uển ` năm 1931 tợi huyện Duy Tiên, tỉnh Hà Nam. Ông bắt đầu
+- KT. tự sóng tác tử năm 1956. Ông lò nhợc sĩ được đòo tgo
+- AI U An đợi học chuyên ngành Sóng tóc tợi Nhạc viện Hà Nội.
+- Thành công nhất trong sự nghiệp sóng túc của ông
+- vi là những ca khúc viết cho thiếu nhi với nhiều bòi hớt
+- để lại dấu ốn trong lòng công chúng, tiêu biểu như
+- Bà thương em, Bản tay mẹ, Em di giữa biển vàng (ời: thơ
+- ĐÀ, ` Nguyễn Khog Đăng — Bùi Đình Thỏo), Sứch bứt thân yêu ơi,
+- H ng.) Hỏi Cuội, Đi học (lời: thơ Minh Chính)...
+- 1 bộ Những bài hớt viết cho thiếu nhỉ của ông mang màu sắc
+- Nhẹc sĩ Bùi Đình Thảo dân gian rõ nét với giai điệu tươi vui nhẹ nhỏng, nhiều
+- 1981~— 1997) luyến láy. Lời ca giàu hình ảnh, thường miêu tỏ về con người
+- vò cảnh vột thiên nhiên quê hương, đất nước, gắn với
+- tình cảm hồn nhiên của trẻ em.
+- Emdi giữa biễn vàng là bài hớt nằm trong số 50 bài hớt thiếu nhỉ hay nhất thế kỉ XX
+- do Hội nhạc sĩ Việt Nam, Đài Tiếng nói Việt Nam, Đài Truyền hình Việt Nam tổ chức
+- k r >` ” 4
+- Q Nghe bài hút Sách bút thân yêu ơi (Nhạc và lời: Bùi Đình Thảo)
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- săi thiệu vài nét về nhạc sĩ Bùi Đình Thẻo Nhạc sĩ Bùi Đình Thỏo sinh ngòy 4 thóng 2 ca vi Uển ` năm 1931 tợi huyện Duy Tiên, tỉnh Hà Nam.
+- Ông lò nhợc sĩ được đòo tgo AI U An đợi học chuyên ngành Sóng tóc tợi Nhạc viện Hà Nội.
+- 1 bộ Những bài hớt viết cho thiếu nhỉ của ông mang màu sắc Nhẹc sĩ Bùi Đình Thảo dân gian rõ nét với giai điệu tươi vui nhẹ nhỏng, nhiều 1981~— 1997) luyến láy.
+- Lời ca giàu hình ảnh, thường miêu tỏ về con người vò cảnh vột thiên nhiên quê hương, đất nước, gắn với tình cảm hồn nhiên của trẻ em.
+- Ũ = L- Ũ k r >` ” 4 Q Nghe bài hút Sách bút thân yêu ơi (Nhạc và lời: Bùi Đình Thảo)
+
+### Cặp nối từ/khái niệm
+- H ng.) Hỏi Cuội, Đi học (lời => thơ Minh Chính)...
+- Emdi giữa biễn vàng => bài hớt nằm trong số 50 bài hớt thiếu nhỉ hay nhất thế kỉ XX
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+tiêu biểu như, Bà thương em, Bản tay mẹ, Em di giữa biển vàng, Nguyễn Khog Đăng, Bùi Đình Thỏo, Sứch bứt thân yêu ơi, H ng., Hỏi Cuội, Đi học, thơ Minh Chính, nhiều, 1981~, đất nước, gắn với, Đài Tiếng nói Việt Nam, bình chọn năm 2020., k r >` ” 4, Nhạc và lời, Bùi Đình Thảo
+
+## 22. Bài hớt Sách bút thân yêu ơi có giai điệu hồn nhiên, vui tươi, lời cq dung dị (từ trang 48)
+
+### Nội dung kiến thức thô
+- thể hiện tình cảm gắn bó, thân thiết của các bgn nhỏ với những đồ dùng học tập
+- thôn quen như sách, bút. Bài hót cũng là lời nhắc nhở cóc em hãy luôn chăm chỉ,
+- cố gắng trong học tập. Những tình cảm dợt dào được thẻ hiện qua từng hình ảnh
+- vỏ giai điệu của bài hớt đã đồng hỏnh cùng nhiều thế hệ học sinh.
+- Sách bút thân yêu ơi những ngày Bao kỉ niệm không thẻ quên khi học
+- qua bạn đã cùng ta vui tới trường riêng. lúc vui học nhóm, dù ngày đêm
+- là chởm tới lớp. Vông lời thây, vâng cũng không xq rời. Ngày lên lớp ta vào
+- bi cô khi làm văn, lúc ôn bởi toứn, năm học mới, bạn lợi cùng ta cố gắng
+- dù buồn vui ta luôn có nhau. Sách hơn năm qua. Lòng phơi phới vui đón
+- bút thân yêu ơi nói làm sao cho hết chân trời mới, bạn còn cùng ta kề vơi
+- tình thân chúng mình từ lâu gắn bó. đi tới tương lai. Sách bút thân yêu ơi.
+- Sách bút thân yêu ơi!”
+- Nêu cảm nhộn của em squ khi nghe bởi hớt Sứch bút
+- dụ Gõ đệm hoặc vận động theo nhịp điệu của bỏi hót. à
+- í eea 9 FYï ằ
+- 1 ờ P || - s ^
+- ì- th v5 \wsjc” lu &.s NỀN vua, L $4 ì + \. k lv HP E
+- œ Chép và vạch nhịp cho đoạn nhạc sau
+- Q hiện bài đọc nhọc số 3 kết hợp đánh nhịp rĩ
+- lan diễn bài hút Em đi giữa biền vàng theo ý tưởng sóng tạo
+- hy KHỞI ĐỘNG sử /
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- thể hiện tình cảm gắn bó, thân thiết của các bgn nhỏ với những đồ dùng học tập thôn quen như sách, bút.
+- Bài hót cũng là lời nhắc nhở cóc em hãy luôn chăm chỉ, cố gắng trong học tập.
+- Những tình cảm dợt dào được thẻ hiện qua từng hình ảnh vỏ giai điệu của bài hớt đã đồng hỏnh cùng nhiều thế hệ học sinh.
+- Sách bút thân yêu ơi những ngày Bao kỉ niệm không thẻ quên khi học qua bạn đã cùng ta vui tới trường riêng.
+- lúc vui học nhóm, dù ngày đêm là chởm tới lớp.
+- Vông lời thây, vâng cũng không xq rời.
+- Ngày lên lớp ta vào bi cô khi làm văn, lúc ôn bởi toứn, năm học mới, bạn lợi cùng ta cố gắng dù buồn vui ta luôn có nhau.
+- Lòng phơi phới vui đón bút thân yêu ơi nói làm sao cho hết chân trời mới, bạn còn cùng ta kề vơi tình thân chúng mình từ lâu gắn bó.
+- Sách bút thân yêu ơi!” Nêu cảm nhộn của em squ khi nghe bởi hớt Sứch bút thân yêu ơi.
+- ã dụ Gõ đệm hoặc vận động theo nhịp điệu của bỏi hót.
+- à 014 9, lại í eea 9 FYï ằ 1 ờ P || - s ^ ì- th v5 \wsjc” lu &.s NỀN vua, L $4 ì + \.
+- k lv HP E DỤNG — SÁNG TẠO œ Chép và vạch nhịp cho đoạn nhạc sau Q hiện bài đọc nhọc số 3 kết hợp đánh nhịp rĩ NÓ.
+
+### Cặp nối từ/khái niệm
+- thôn quen như sách, bút. Bài hót cũng => lời nhắc nhở cóc em hãy luôn chăm chỉ,
+
+### Đoạn gõ văn bản
+- œ Chép và vạch nhịp cho đoạn nhạc sau Q hiện bài đọc nhọc số 3 kết hợp đánh nhịp rĩ
+
+### Từ khóa
+vui tươi, lời cq dung dị, thôn quen như sách, dù ngày đêm, bi cô khi làm văn, lúc ôn bởi toứn, năm học mới, Sách bút thân yêu ơi!”, thân yêu ơi. ==ã, í eea 9 FYï ằ, 1 ờ P, À \Ì], b2 SH”, gc ", hy KHỞI ĐỘNG sử
+
+## 23. Nghe và vận động theo nhịp 3 ` ) (từ trang 50)
+
+### Nội dung kiến thức thô
+- Sáng tác: l-va-nô-vich-xi (L. lvanoviei)
+- ị ị ẤN 1% bà xi ` _P „
+- ïMs‹ nHỨG MỚI” UUVIỆN ITẬP, '
+- Vừa phải Nhẹc và lời: Nguyễn Công Minh
+- Bình minh lên lu Ílo trên cảnh cây co, gió
+- Rồi mươi đây bước chân trên đườngthênh thang, ước
+- xôn xao đưa li cq únh dương chan hoà em tới trường.
+- mơ bay xa cùng em. đến những nơi miền quê vẫy gọi.
+- P——E ý 8 # Ì 8 < z z im
+- Tuổi hổng ơi biết bao gương mặt thân quen, biết
+- TuỔi hông ơi biết bdo kỉ niệm thân thương với
+- bqo nụ cười hôn nhiên, mến thương ôi tuổi thân tiên.
+- bao người bạn cùng em, nhớ mãi ôi tuổi thần tiên.
+- luổi hồng ơi chứa chan bao niểm vui tháng ngà”
+- Tuổi hồng ơi êm đếm như những ứng mây.
+- Vd em sẽ tô hồng thêm bao ước mơ đem
+- lòng tin yêu cuộc sống, thiết tha tuổi hồng mến thương.
+- Hút kết hợp vỗ tay theo nhịp.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- 3 Sóng Đa-Huýp Trích) Sáng tác: l-va-nô-vich-xi (L.
+- Bình minh lên lu Ílo trên cảnh cây co, gió Rồi mươi đây bước chân trên đườngthênh thang, ước xôn xao đưa li cq únh dương chan hoà em tới trường.
+- bao người bạn cùng em, nhớ mãi ôi tuổi thần tiên.
+- luổi hồng ơi chứa chan bao niểm vui tháng ngà” Tuổi hồng ơi êm đếm như những ứng mây.
+- Vd em sẽ tô hồng thêm bao ước mơ đem lòng tin yêu cuộc sống, thiết tha tuổi hồng mến thương.
+
+### Cặp nối từ/khái niệm
+- Sáng tác => l-va-nô-vich-xi (L. lvanoviei)
+- Vừa phải Nhẹc và lời => Nguyễn Công Minh
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+3 Sóng Đa, Huýp, Trích, Sáng tác, vich, L. lvanoviei, SE ==, Ì ¬¬ Ƒ, ïMs‹ nHỨG MỚI” UUVIỆN ITẬP, đã `, ho ⁄, Ễ Lĩm, F4 ^, Tuổi hông ơi, Vừa phải Nhẹc và lời, Nguyễn Công Minh, S.====., biết, bqo nụ cười hôn nhiên, bao người bạn cùng em, lòng tin yêu cuộc sống, Tập hát, Tập hót từng côu.
+
+## 24. Luyện tập (từ trang 52)
+
+### Nội dung kiến thức thô
+- Hút kết hợp lĩnh xướng vò hoà giọng.
+- Bình minh lên, líu lo trên cảnh cây cao, gió xôn xao đưa lời cd,
+- ứnh dương chưn hoà em tới trường...
+- Tuổi hồng ơi, chứa chan bdo niềm vui thứng ngày.
+- Tuổi hông oi, êm đềm như những ứng mây...
+- Sóng tạo động tớc vận động phụ hog cho bi hót.
+- Đình minh lên, líu lo trên cành cây cao, gió xôn xao đưa lời cd,
+- ứnh dương chơn hoà em tới trường...
+- Nêu cảm nhận của em về bài hót Tuổi hồng ơi.
+- È Em hãy hớt đoạn 1 của bởi hét Tuổi hỏng ơi từ "Bình minh lên...
+- tuổi thần tiên" và đoạn 2 từ "Tuổi hồng ơi ... mến thương" theo
+- 2p r^ “PP 2 `
+- Nhạc cụ thế hiện tiết tâu và
+- nhạc cụ thê hiện giai điệu
+- Q0 Nhọc cụ thể hiện tiết tấu
+- g) Gõ tiết tấu theo nhóm.
+- b) Gõ đệm cho bòi hót Tuổi hông ơi.
+- E —= — _- "—_ '. _— SẼ —— .._D_ _— ẽïnổ ãăncn
+- Bình minh lên, líu lo trên cảnh cây cdo, gió xôn xao đưa lời..
+- Tuổi hồng ơi, chứa chan bưo niềm vui thúng ngày Tuổi hông...
+- Q Nhẹc cụ thể hiện gidi điệu
+- Lựa chọn một trong hơi nhạc cụ
+- Vị trí nốt Rê 2. ~ Thực hành thôi nốt Rê 2.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hút kết hợp lĩnh xướng vò hoà giọng.
+- Lĩnh xướng Bình minh lên, líu lo trên cảnh cây cao, gió xôn xao đưa lời cd, ứnh dương chưn hoà em tới trường...
+- Hoà giọng Tuổi hồng ơi, chứa chan bdo niềm vui thứng ngày.
+- Tuổi hông oi, êm đềm như những ứng mây...
+- Sóng tạo động tớc vận động phụ hog cho bi hót.
+- Đình minh lên, líu lo trên cành cây cao, gió xôn xao đưa lời cd, ứnh dương chơn hoà em tới trường...
+- 3 to, = ƒ/ ý t .- Ỗ ý Š gi .
+- Nêu cảm nhận của em về bài hót Tuổi hồng ơi.
+- È Em hãy hớt đoạn 1 của bởi hét Tuổi hỏng ơi từ "Bình minh lên...
+- tuổi thần tiên" và đoạn 2 từ "Tuổi hồng ơi ...
+- 2p r^ “PP 2 ` Nhạc cụ thế hiện tiết tâu và ZB_L7^ £_-': sa#E2 nhạc cụ thê hiện giai điệu Q0 Nhọc cụ thể hiện tiết tấu g) Gõ tiết tấu theo nhóm.
+- b) Gõ đệm cho bòi hót Tuổi hông ơi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Bình minh lên, líu lo trên cảnh cây cao, gió xôn xao đưa lời cd, ứnh dương chưn hoà em tới trường...
+- Tuổi hồng ơi, chứa chan bdo niềm vui thứng ngày. Tuổi hông oi, êm đềm như những ứng mây... Sóng tạo động tớc vận động phụ hog cho bi hót. Đình minh lên, líu lo trên cành cây cao, gió xôn xao đưa lời cd, ứnh dương chơn hoà em tới trường...
+- Nêu cảm nhận của em về bài hót Tuổi hồng ơi. È Em hãy hớt đoạn 1 của bởi hét Tuổi hỏng ơi từ "Bình minh lên... tuổi thần tiên" và đoạn 2 từ "Tuổi hồng ơi ... mến thương" theo
+- Nhạc cụ thế hiện tiết tâu và ZB_L7^ £_-': sa#E2 nhạc cụ thê hiện giai điệu Q0 Nhọc cụ thể hiện tiết tấu g) Gõ tiết tấu theo nhóm. b) Gõ đệm cho bòi hót Tuổi hông ơi. c#-—ag -—Ề_ẽ..... —== n1 HT“ h=- ===-=ẽ=ễ==ễ== E —= — _- "—_ '. _— SẼ —— .._D_ _— ẽïnổ ãăncn Bình minh lên, líu lo trên cảnh cây cdo, gió xôn xao đưa lời.. E#-Đ2—k—wẽ.E.===*x==x~*=
+
+### Từ khóa
+Lĩnh xướng, Bình minh lên, Hoà giọng, Tuổi hồng ơi, Đình minh lên, 3 to, Š gi ., cảm xúc của mình., 2p r^ “PP 2 `, ZB_L7^ £_, sa#E2, Gõ tiết tấu theo nhóm., Ề_ẽ....., HT“ h=, ẽ=ễ==ễ==, _ '. _, _D_ _, ẽïnổ ãăncn, gió xôn xao đưa lời.., wẽ.E.===*x==x~*=, HP. <, coóc, Bẩm lỗ 2 ì®
+
+## 25. Thực hành mẫu âm. (từ trang 54)
+
+### Nội dung kiến thức thô
+- o ˆ — F _— ——_——.
+- Thực hành đệm trích đoạn bài hót Duyên dáng mùa xuân.
+- KG Lø =E : nh
+- Nụ hoa thỉm lên môi |người tiếng em 7m
+- Luyện gam đi xuống với kĩ thuật vắt ngón.
+- 5 4 k Ậ 1 3 2
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Thực hành đệm trích đoạn bài hót Duyên dáng mùa xuân.
+- _—_ 4+ ———S—s— sẻ _ KG Lø =E : nh Nụ hoa thỉm lên môi |người tiếng em 7m _ Ấn ——————_———_———_ k————'———= b) Kèn phim.
+- Luyện gam đi xuống với kĩ thuật vắt ngón.
+- 112|3|4Ì5 D-g E 5 4 k Ậ 1 3 2
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+sẻ _, KG Lø =E, _ Ấn, Kèn phim., 112|3|4Ì5
+
+## 26. Thực hành đệm trích đoạn bài hét Duyên dứng mùa xuân. (từ trang 55)
+
+### Nội dung kiến thức thô
+- 1 k 5 4 9
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- St m==————'——_—__ —'———————=—_ HE ——===— —=——— —=== Š F#-8 _— __-._ 1 k 5 4 9 ễễ=====——ễễ=ễ=Ễễ E7 |} L____ E=========5=ễ 3 2 h 1 G=e=
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+St m==, Š F#, 1 k 5 4 9, ễễ=====, ễễ=ễ=Ễễ, E7 |} L____, E=========5=ễ, 3 2 h 1, G=e=
+
+## 27. Nghe hoà tốu nhọc cụ dôn tộc (từ trang 55)
+
+### Nội dung kiến thức thô
+- Dân cơ Khmer (Nam Bộ) `.“
+- Chuyền soạn: Trần Kim Trọng Nghĩa + Ề
+- Ngôi sao sóng là làn điệu dân ca Khmer có —...
+- nhịp độ chậm vừa. Giai điệu với tính chết trong L )
+- sóớng, uyên chuyên, nhịp nhàng gợi đến hình ảnh Z)
+- cóc động tức múa dôn gian mềm mợi, duyên dáng Ỷ. ng
+- của người Khmer. VÀ g
+- Nêu cảm nhận của em squ khi nghe bản hoò tấu.
+- Vận động phụ hog theo nhịp điệu âm nhọc bài Ngôi so sớng.
+- _ @., DỤNG - SÁNG TẠO
+- seo tạo động tác phụ hoạ phù hợp cho bài hót Tuổi hồng ơi
+- Q1: hiện bài hút Duyên dáng mùa xuân và đệm theo nhóm
+- Nghe, cảm nhận giơi điệu và chọn hình minh hoạ phù hợp với
+- Hành khúc ồ \ à
+- Ú R. J0 UX¡?2 Ss aaÀk
+- KIẾN THỨC MỚI - LUYỆN TẬP
+- Nêu từ còn thiếu ở các dấu chấm
+- Nhịp 2 có... _ Gió trịtrường độ Nhịp 3 có... Phách thứ nhất
+- phóch trong... một phúch bằng trong mỗi là phóch....
+- Bnhip ... nốt đen ô nhịp phóch thứ hơi
+- Phách thứ nhất Tính chốt ... Giá trị trường Tính chất...
+- lủ phóch ...; trong sáng độ mỗi phách uyên chuyên
+- phóch thứ hai ... bằng ... nốt đen
+- L2) Chỉ ra sự giống nhau và khúc nhau của nhịp : và nhịp ì
+- Nhóm †1 Nhóm 2 Nhóm 1
+- Nhóm 2 Nhóm 1 Nhóm 2
+- là Q0 Ấ Àz š
+- Ñ | : Ð ⁄ x
+- Chỉ ra sự khớc nhu về tiết tấu của khuông nhgc thứ nhất và
+- 3 Khi gõ đệm cho bòi đọc nhọc số 4, em cần gõ mạnh vò nhẹ ở
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Dân cơ Khmer (Nam Bộ) `.“ Ghi âm: La-en ` Chuyền soạn: Trần Kim Trọng Nghĩa + Ề Ngôi sao sóng là làn điệu dân ca Khmer có —...
+- Giai điệu với tính chết trong L ) sóớng, uyên chuyên, nhịp nhàng gợi đến hình ảnh Z) cóc động tức múa dôn gian mềm mợi, duyên dáng Ỷ.
+- VÀ g lễ `⁄ Nêu cảm nhận của em squ khi nghe bản hoò tấu.
+- Vận động phụ hog theo nhịp điệu âm nhọc bài Ngôi so sớng.
+- TE EEEEEITLTELRTR _—————— +} + HE —=—=—=—= KEENRTEI.
+- kia RE—=—==== 75h œ⁄ cwu6cNGSE) Nghe, cảm nhận giơi điệu và chọn hình minh hoạ phù hợp với nhịp 2 và Ÿ Mơ-nuy-ết E====== s Xe Hành khúc ồ \ à Ñ ..
+- J0 UX¡?2 Ss aaÀk ấn ẨN đ° Š x KIẾN THỨC MỚI - LUYỆN TẬP 85 FHUYẾT ÂN-NHạt Ôn tập Nêu từ còn thiếu ở các dấu chấm Nhịp 2 có...
+- nốt đen ô nhịp phóch thứ hơi vò phúch thứ Phách thứ nhất Tính chốt ...
+- lủ phóch ...; trong sáng độ mỗi phách uyên chuyên phóch thứ hai ...
+- 3 Khi gõ đệm cho bòi đọc nhọc số 4, em cần gõ mạnh vò nhẹ ở phóch nỏo trong mỗi ô nhịp?
+- Ấy Đọc theo nhóm kết hợp sóng tạo động túc vộn động cơ thể.
+- o9 2 = vn -Hñ ra tẠ Đất nước tươi đẹp sao Nhạc: Md-lai-xi-a Nhanh, tha thiết tời Việt.
+
+### Cặp nối từ/khái niệm
+- Chuyền soạn => Trần Kim Trọng Nghĩa + Ề
+- Ngôi sao sóng => làn điệu dân ca Khmer có —...
+- phóch trong... một phúch bằng trong mỗi => phóch....
+- Nhạc => Md-lai-xi-a
+- hời trên cúnhnôi — tuổi => thơ. Ngày
+
+### Đoạn gõ văn bản
+- Chuyền soạn: Trần Kim Trọng Nghĩa + Ề Ngôi sao sóng là làn điệu dân ca Khmer có —... nhịp độ chậm vừa. Giai điệu với tính chết trong L ) sóớng, uyên chuyên, nhịp nhàng gợi đến hình ảnh Z) cóc động tức múa dôn gian mềm mợi, duyên dáng Ỷ. ng của người Khmer. VÀ g
+- Nêu cảm nhận của em squ khi nghe bản hoò tấu. Vận động phụ hog theo nhịp điệu âm nhọc bài Ngôi so sớng. _ @., DỤNG - SÁNG TẠO seo tạo động tác phụ hoạ phù hợp cho bài hót Tuổi hồng ơi
+- Nêu từ còn thiếu ở các dấu chấm Nhịp 2 có... _ Gió trịtrường độ Nhịp 3 có... Phách thứ nhất phóch trong... một phúch bằng trong mỗi là phóch.... Bnhip ... nốt đen ô nhịp phóch thứ hơi
+- Phách thứ nhất Tính chốt ... Giá trị trường Tính chất... lủ phóch ...; trong sáng độ mỗi phách uyên chuyên phóch thứ hai ... bằng ... nốt đen L2) Chỉ ra sự giống nhau và khúc nhau của nhịp : và nhịp ì Nhóm †1 Nhóm 2 Nhóm 1 Nhóm 2 Nhóm 1 Nhóm 2
+
+### Từ khóa
+Dân cơ Khmer, Nam Bộ, Ghi âm, en `, Chuyền soạn, sóớng, uyên chuyên, duyên dáng Ỷ. ng, của người Khmer. VÀ g, lễ `⁄, _ @., theo nhóm, coóc, Mẫu 1, Kèn phim, Mẫu 2, N E?, XS. TE EEEEEITLTELRTR, KEENRTEI. kia, 75h œ⁄, cwu6cNGSE, Nghe, nhịp 2 và Ÿ, E======
+
+## 28. Luyện tập (từ trang 62)
+
+### Nội dung kiến thức thô
+- Hót theo nhóm kết hợp vỗ tay hoặc gõ đệm theo hình tiết tấu.
+- Đẹp sgo dắt nước như bài thơ.
+- Bến xanh thấp thoúng bao cúnh buồm...
+- Hút nối tiếp và hoò giọng.
+- D . 2 .Ể£ › . Ề
+- _ Đẹp sao đắt nước như bài thơ... ` ¡ Ngày mi như cánh chỉm hỏi âu... ì
+- _ trên cánh nôi tuổi thơ. :__‡ ngày âu thơ êm đềm... ị
+- 3 Lời ca trong bài hót gợi cho em nghĩ tới vùng quê nào ở Việt Nam
+- Hút kết hợp sóng tạo động tóc vộn động cơ thẻ.
+- Quan sét bài Đắt nước tươi đẹp sao và chỉ ra hình nốt nhạc nỏo
+- bằng 1 hình nốt đen + 1 hình nốt móc đơn?
+- _@o S2 2mùc up ¬ggyog2p.scguy, -EBABE.72”
+- r^ HN. c P ^..
+- Giới thiệu một số nhạc cụ gỗ nước ngoài
+- in hiểu về nhạc cụ gõ
+- Nhọc cụ gõ có vdi trò giữ nhịp vẻ làm cho các tức phẩm âm nhạc thêm sinh động.
+- Xơnh-ban ... "A— ˆ xi
+- Il =—= l | Trống két
+- ý \ ¿2 ⁄ , | Trống bát
+- Trống bớt, tum, trống két có hình dứng giống nhau nhưng kích cỡ khóc nhau.
+- Mặt trống trước kiq được làm bằng dd động vột, ngòy ngy được làm bằng nhựa
+- po-li-ét-te. Tang trống làm bằng gỗ hoặc kim loại. Phía dưới bề mặt của trống két
+- có mắc dây để điều chỉnh âm thơnh.
+- Xœnh-bơn và xơnh-bơn kép được làm bằng kim loại, có kích thước vò độ dày, mỏng
+- Xœnh-ban: Ride cymbdi Tum: Tom Xœnh-bơn kóp: Hi-hơf
+- TrỐng kót: Sngra Trống bớt. Bass
+- Để tgo ra âm thơnh, người tg sử dụng dùi làm bằng gỗ tác động lên bề mặt của
+- trống vò xanh-ban; dùng chôn gõ vỏo pe-dan đẻ tớc động vỏo bề mặt trống bớt hoặc
+- để đóng, mở xanh-bơn kép. Âm thơnh của trống và xanh-bơn phụ thuộc vỏo kích cỡ,
+- chết liệu và vị trí tác động lên bề mặt.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Hót theo nhóm kết hợp vỗ tay hoặc gõ đệm theo hình tiết tấu.
+- Ề vị Ì ot \ Lệ lị£PM)yv _ Đẹp sao đắt nước như bài thơ...
+- ị s:SGiềN, 3 Lời ca trong bài hót gợi cho em nghĩ tới vùng quê nào ở Việt Nam màò em biết?
+- Hút kết hợp sóng tạo động tóc vộn động cơ thẻ.
+- Quan sét bài Đắt nước tươi đẹp sao và chỉ ra hình nốt nhạc nỏo bằng 1 hình nốt đen + 1 hình nốt móc đơn?
+- TƑ-THUðNG THức ân-NHịt _@o S2 2mùc up ¬ggyog2p.scguy, -EBABE.72” r^ HN.
+- Giới thiệu một số nhạc cụ gỗ nước ngoài in hiểu về nhạc cụ gõ Nhọc cụ gõ có vdi trò giữ nhịp vẻ làm cho các tức phẩm âm nhạc thêm sinh động.
+- Mặt trống trước kiq được làm bằng dd động vột, ngòy ngy được làm bằng nhựa po-li-ét-te.
+- Tang trống làm bằng gỗ hoặc kim loại.
+- Phía dưới bề mặt của trống két có mắc dây để điều chỉnh âm thơnh.
+- Xœnh-bơn và xơnh-bơn kép được làm bằng kim loại, có kích thước vò độ dày, mỏng khúc nhau.
+- Xœnh-ban: Ride cymbdi Tum: Tom Xœnh-bơn kóp: Hi-hơf TrỐng kót: Sngra Trống bớt.
+
+### Cặp nối từ/khái niệm
+- Xœnh-ban => Ride cymbdi Tum: Tom Xœnh-bơn kóp: Hi-hơf
+- TrỐng kót => Sngra Trống bớt. Bass
+- Sóng tác => P. M. Ma-ro
+
+### Đoạn gõ văn bản
+- Hót theo nhóm kết hợp vỗ tay hoặc gõ đệm theo hình tiết tấu. Đẹp sgo dắt nước như bài thơ. Bến xanh thấp thoúng bao cúnh buồm... Hút nối tiếp và hoò giọng.
+- _ Đẹp sao đắt nước như bài thơ... ` ¡ Ngày mi như cánh chỉm hỏi âu... ì _ trên cánh nôi tuổi thơ. :__‡ ngày âu thơ êm đềm... ị
+- Hút kết hợp sóng tạo động tóc vộn động cơ thẻ. Quan sét bài Đắt nước tươi đẹp sao và chỉ ra hình nốt nhạc nỏo bằng 1 hình nốt đen + 1 hình nốt móc đơn?
+- Giới thiệu một số nhạc cụ gỗ nước ngoài in hiểu về nhạc cụ gõ Nhọc cụ gõ có vdi trò giữ nhịp vẻ làm cho các tức phẩm âm nhạc thêm sinh động.
+
+### Từ khóa
+Ạ ù `, vị Ì, ot \ Lệ, lị£PM, SGiềN, màò em biết?, THUðNG THức ân, NHịt, _@o S2 2mùc up ¬ggyog2p.scguy, EBABE.72”, r^ HN. c P ^.., Dùi trống, Tum Xanh, Xơnh, ban ... "A, ˆ xi, tú. Xanh, ban kép, V xÉ£ <Ì, DP F2 Ù ă, Il =, l | Trống két, ñÍ 7Í Ty =, Z ` =“”
+
+## 29. VẬN DỤNG - SÁNG TẠO (từ trang 66)
+
+### Nội dung kiến thức thô
+- mo luận nhóm: Chọn bài hát nước ngoài yêu thích, giới thiệu
+- và biểu diễn bài hát đó với hình thức tự chọn
+- e:ep lời ca cho bài đọc nhạc
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- mo luận nhóm: Chọn bài hát nước ngoài yêu thích, giới thiệu và biểu diễn bài hát đó với hình thức tự chọn e:ep lời ca cho bài đọc nhạc Ắz ~“
+
+### Cặp nối từ/khái niệm
+- mo luận nhóm => Chọn bài hát nước ngoài yêu thích, giới thiệu
+
+### Đoạn gõ văn bản
+- mo luận nhóm: Chọn bài hát nước ngoài yêu thích, giới thiệu và biểu diễn bài hát đó với hình thức tự chọn e:ep lời ca cho bài đọc nhạc
+
+### Từ khóa
+mo luận nhóm, giới thiệu, Ắz ~“
+
+## 30. Bài số 4 (từ trang 66)
+
+### Nội dung kiến thức thô
+- Vừa phải - Nhịp nhàng Lời: Nhóm túc giỏ
+- Vui hớt lên bạn. Tay nắm tay nẻo, chung niềm vui hân hoan tiếng cười.
+- Những phút giây này, sẽ mãi đi cùng với tuổi thơ chúng mình.
+- xo và vận động theo nhịp điệu bản nhạc Vũ điệu Tây Ban Nha
+- 4 £ : # Á
+- Ầ ⁄ AlÁ\, = ú€ œ
+- 22 kHúC CA Ẻ "
+- LÝ. Ÿ KHỞI ĐỘNG sá
+- Vận động theo nhịp điệu bài hút Tiếng ve gọi hè (Nhạc và lời
+- Khắp phố phường tiến ve kêu hè hè hè. Và
+- tong những hàng lú me kêu hè hè hè. Chạy
+- 3 2 %4“ 4đ đ
+- theo tiếng ve từng cơn mưa về. Giọt mưu âm vang trên
+- lú tiếng ve bay dày trong gió. Giọt mưa
+- long lanh trên những cúnh hoa phượng thắm như màu ngọn cờ.
+- Em đón mừng tiếng ve những ngày đầu mùa.
+- ð ,.‹ “<4 4 “4
+- Và em vẫy chào tiếng ve sau một mùa hẻ.
+- ˆ '.ˆ “ “4 “đ
+- _ _ sây “& “
+- n KIẾN THỨC MỚI - LUYỆN TẬP
+- Vui tươi Nhạc và lời: Bích Liễu
+- Mờu ớo tơn trường tung bay khốp phố phường. Kỉ niệm đến
+- Hè đến cho em vui chơi mọi nẻo đường. Chiểu dẫn tốt
+- lớp mỗi đọng trong tim em. Nhớt cóúnh phượng hồng ép vào trang sứch
+- nỗng cónh diều bay theoem. Bên luỹ tro lòng sớo nhịp theo tiếng
+- S Mùa — thí trôi qua tiếng ve gọi hè — về.
+- đòn. Hoừ chung tiếng hớt khúc cd hè hè về.
+- Mùa hè lợi đến bùi ngùi trong cónh phượng. Mùa hè mang
+- g lq la lq hè về cho em ước mơ. La la la
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Vừa phải - Nhịp nhàng Lời: Nhóm túc giỏ Vui hớt lên bạn.
+- Tay nắm tay nẻo, chung niềm vui hân hoan tiếng cười.
+- Những phút giây này, sẽ mãi đi cùng với tuổi thơ chúng mình.
+- xo và vận động theo nhịp điệu bản nhạc Vũ điệu Tây Ban Nha ý cC _ TH.
+- 1” ọ 4 1 4 £ : # Á 3 lờ] íœ 1", Ầ ⁄ AlÁ\, = ú€ œ 22 kHúC CA Ẻ " Y, = Ỹ Lồi là) LÝ.
+- Ÿ KHỞI ĐỘNG sá Vận động theo nhịp điệu bài hút Tiếng ve gọi hè (Nhạc và lời Trịnh Công Sơn) Khắp phố phường tiến ve kêu hè hè hè.
+- Và tong những hàng lú me kêu hè hè hè.
+- Chạy 3 2 %4“ 4đ đ j dã & theo tiếng ve từng cơn mưa về.
+- Giọt mưu âm vang trên 4% M 72 ¡mm lú tiếng ve bay dày trong gió.
+- Giọt mưa long lanh trên những cúnh hoa phượng thắm như màu ngọn cờ.
+- x_ ' r = Em đón mừng tiếng ve những ngày đầu mùa.
+- ð ,.‹ “<4 4 “4 v 4 “& = Và em vẫy chào tiếng ve sau một mùa hẻ.
+
+### Cặp nối từ/khái niệm
+- Nhạc => M. Kq-ro-xép.
+- Vừa phải - Nhịp nhàng Lời => Nhóm túc giỏ
+- Vui tươi Nhạc và lời => Bích Liễu
+- g lq => lq hè về cho em ước mơ. La la la
+
+### Đoạn gõ văn bản
+- Nhạc: M. Kq-ro-xép. Vừa phải - Nhịp nhàng Lời: Nhóm túc giỏ Vui hớt lên bạn. Tay nắm tay nẻo, chung niềm vui hân hoan tiếng cười. Những phút giây này, sẽ mãi đi cùng với tuổi thơ chúng mình. xo và vận động theo nhịp điệu bản nhạc Vũ điệu Tây Ban Nha
+- Khắp phố phường tiến ve kêu hè hè hè. Và tong những hàng lú me kêu hè hè hè. Chạy
+- lú tiếng ve bay dày trong gió. Giọt mưa long lanh trên những cúnh hoa phượng thắm như màu ngọn cờ.
+- Vui tươi Nhạc và lời: Bích Liễu T1 —E—=——!'—E—:—CCCCCCCFẼỄP Mờu ớo tơn trường tung bay khốp phố phường. Kỉ niệm đến Hè đến cho em vui chơi mọi nẻo đường. Chiểu dẫn tốt
+
+### Từ khóa
+Bài số 4, Nhạc, M. Kq, xép., Vừa phải, Nhịp nhàng Lời, Nhóm túc giỏ, Những phút giây này, ý cC _, 1” ọ 4 1, 3 lờ] íœ 1", Ầ ⁄ AlÁ\, ú€ œ, 22 kHúC CA Ẻ ", Ỹ Lồi là, LÝ. Ÿ KHỞI ĐỘNG sá, Nhạc và lời, Trịnh Công Sơn, 3 2 %4“ 4đ đ, j dã &, 4% M 72 ¡mm, x_ ', 4 4 “4, v 4 “& =
+
+## 31. Luyện tập (từ trang 69)
+
+### Nội dung kiến thức thô
+- Hát kết hợp vận động phụ hog.
+- Lựa chọn một trong cóc hình thức tốp cq, song ca hoặc đơn ca kết hợp với nhóm
+- Bài hớt Khúc ca hè về gợi cho em cảm xúc như thế nòo khi chuẩn bị
+- chia tay mới trường Tiểu học?
+- _: Trong các hoạt động hè ở địg phương, em hãy thể hiện hoặc hướng dẫn
+- các bạn bi hút Khức ca hè về.
+- Nhạc cụ thế hiện tiết tấu và
+- nhạc cụ thê hiện giai điệu
+- 1) Nhẹc cụ thể hiện tiết tấu
+- g) Gõ theo hình tiết tấu.
+- đá”: % Ẩ? xé h
+- b) Gõ đệm cho bài Khúc ca hè về.
+- Màu áo tan trường tung bay khắp phố phường. Kỉ niệm đến
+- lớp mãi đọng trong tim em. Nhặt cúnh phượng
+- E#———— CỤ CƠN CC CC. — C—-_SJỤMMNNG HC 2 ƠỰẸỢNNNNNEE— . —- -ƯNNNNENNNNNNNENNNNNNNNGG 2GNNNNNNNH THỢNGG
+- hông ép vào trang sách nhỏ. Mùa thi trôi...
+- re cụ thể hiện giai điệu
+- Lựa chọn một trong hơi nhạc cụ
+- Thực hònh luyện tập trích đoạn.
+- Luyện gam đi xuống với kĩ thuột vắt ngón.
+- C= =: Ea = Ẳ
+- 5 4 3 4 U 3 2 1
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Lựa chọn một trong cóc hình thức tốp cq, song ca hoặc đơn ca kết hợp với nhóm thể hiện bài hót.
+- Bài hớt Khúc ca hè về gợi cho em cảm xúc như thế nòo khi chuẩn bị chia tay mới trường Tiểu học?
+- _: Trong các hoạt động hè ở địg phương, em hãy thể hiện hoặc hướng dẫn các bạn bi hút Khức ca hè về.
+- 4u SAY (722,27 * Nhạc cụ thế hiện tiết tấu và 7A g3, sưa nhạc cụ thê hiện giai điệu 1) Nhẹc cụ thể hiện tiết tấu g) Gõ theo hình tiết tấu.
+- xé h b) Gõ đệm cho bài Khúc ca hè về.
+- ýj-“—=——cẻ Màu áo tan trường tung bay khắp phố phường.
+- Nhặt cúnh phượng Jmm ' E#———— CỤ CƠN CC CC.
+- ƯNNNNENNNNNNNENNNNNNNNGG 2GNNNNNNNH THỢNGG EIGGEERRGRRB-=Tr.c=eeœ=m-enaaae hông ép vào trang sách nhỏ.
+- m l re cụ thể hiện giai điệu Lựa chọn một trong hơi nhạc cụ g) Ri-coóc-đơ.
+- Luyện gam đi xuống với kĩ thuột vắt ngón.
+- C= =: Ea = Ẳ 5 4 3 4 U 3 2 1
+
+### Cặp nối từ/khái niệm
+- đá” => Ẩ? xé h
+
+### Đoạn gõ văn bản
+- Hát kết hợp vận động phụ hog. Lựa chọn một trong cóc hình thức tốp cq, song ca hoặc đơn ca kết hợp với nhóm
+- chia tay mới trường Tiểu học? _: Trong các hoạt động hè ở địg phương, em hãy thể hiện hoặc hướng dẫn các bạn bi hút Khức ca hè về.
+- nhạc cụ thê hiện giai điệu 1) Nhẹc cụ thể hiện tiết tấu g) Gõ theo hình tiết tấu.
+- b) Gõ đệm cho bài Khúc ca hè về. HE? -++——=———*—ýj-“—=——cẻ Màu áo tan trường tung bay khắp phố phường. Kỉ niệm đến
+
+### Từ khóa
+thể hiện bài hót., 4u SAY, 27 *, 7A g3, Gõ theo hình tiết tấu., Ẩ? xé h, F CC., Jmm ', CỤ CƠN CC CC., _SJỤMMNNG HC 2 ƠỰẸỢNNNNNEE, ƯNNNNENNNNNNNENNNNNNNNGG 2GNNNNNNNH THỢNGG, EIGGEERRGRRB, Tr.c=eeœ=m, enaaae, coóc, A Chậm vừa, EE==, Kèn phím., C= =, Ea = Ẳ
+
+## 32. Bài luyện tập: Phỏng theo túc phẩm Can Can, nhạc nước ngoài. (từ trang 70)
+
+### Nội dung kiến thức thô
+- 4 5 2 3 1 1 # 5 4 58 9 1 3 2
+- Nghe và cảm nhận bài hát
+- Nhạc và lời: Nguyễn Hải =..
+- Hạt nắng hạt nắng cho mẹ ra đồng » Si (
+- Hạt mưa hạt mưa cho cây lúa trổ bông : _\ QÑV£ c
+- Hạt nắng hạt nắng trên vai em đến trưởng _ Ẳ` ¬ uÌ\ 2 L
+- Hạt mưa hạt mưu cho cây vườn thêm xơnh..e. ' ẠN ˆ °
+- 2 h Nêu cỏm nhộn của em squ khi nghe bòi hót Khúc cư bốn mùa. W: “
+- P, đụ Vận động cơ thê theo nhịp điệu bài hút Khúc ca bốn mùa. s Ỉ &
+- ng đà " " š : tụ _ j4
+- l ti ẨT lV “Ji W
+- É. v. . xš À»
+- Sa ... v9 TRỂ ¬ ©
+- ri <4 X“ „ - ` .
+- 937 VẬN DỤNG - SÁNG TẠO
+- 1) Lựa chọn một trong hơi nội dung
+- Thể hiện mẫu luyện âm theo hình thức hơi nhóm thôi nối tiếp.
+- Thể hiện mẫu luyện âm theo hình thức một kèn solo và cả nhóm nối tiếp.
+- si thiệu và thể hiện bài hát Khúc cơ hè về theo hình thức tự chọn
+- ý «„. 9 c.c» 2v
+- ỳ 8 2Ÿ 412 cu 4
+- ỹ Z ‹€ ` 2y 6
+- œ Z Vr : //4¡ `
+- Lựa chọn và thực hiện một trong hơi trò chơi
+- 1.Đọc một câu tuỳ chọn trong 1.Nói đúng tên vò đọc bòi
+- một bài đọc nhạc. đọc nhạc.
+- 2.Đọc tên nốt nhạc kết hợp 2.Nhện biết và đọc bi
+- vỗ tay theo hình tiết tấu đọc nhạc.
+- một câu trong bài đọc nhọc.
+- Các nhóm hoặc có nhân sóng tgo cao độ theo hình tiết tấu 4 ô nhịp đẩu
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Chậm vừa 4 5 2 3 1 1 # 5 4 58 9 1 3 2 Nghe và cảm nhận bài hát Khúc ca bôn mùa Nhạc và lời: Nguyễn Hải =..
+- NH4 2 h Nêu cỏm nhộn của em squ khi nghe bòi hót Khúc cư bốn mùa.
+- W: “ P, đụ Vận động cơ thê theo nhịp điệu bài hút Khúc ca bốn mùa.
+- s Ỉ & y B) y U Q \ 3x Ạ nh \ >” 7W ứ ) 6 (II vỏ CN ý VỆ ng đà " " š : tụ _ j4 LAN - ..
+- b PA, -hẾt š l ti ẨT lV “Ji W É.
+- 937 VẬN DỤNG - SÁNG TẠO 1) Lựa chọn một trong hơi nội dung g) Ri-coóc-đơ.
+- Thể hiện mẫu luyện âm theo hình thức hơi nhóm thôi nối tiếp.
+- Chậm vừa TT —=—Ầẽ=——ÝỖ.__D— "'—--š b) Kèn phím.
+- Thể hiện mẫu luyện âm theo hình thức một kèn solo và cả nhóm nối tiếp.
+- ta 3/7: W#W si thiệu và thể hiện bài hát Khúc cơ hè về theo hình thức tự chọn j .
+- 9 c.c» 2v ỳ 8 2Ÿ 412 cu 4 ỹ Z ‹€ ` 2y 6 ï` A\ <<.
+- 2À œ Z Vr : //4¡ ` nA *Ñ ữ + nhạc Lựa chọn và thực hiện một trong hơi trò chơi Đoún nhanh, đoún đúng.
+
+### Cặp nối từ/khái niệm
+- Nhạc và lời => Nguyễn Hải =..
+- Hạt mưa hạt mưa cho cây lúa trổ bông => _\ QÑV£ c
+- _ 8 _.. ._- Ă.......... => 7Ä -_-_- -_ 1
+
+### Đoạn gõ văn bản
+- Nhạc và lời: Nguyễn Hải =.. Hạt nắng hạt nắng cho mẹ ra đồng » Si ( Hạt mưa hạt mưa cho cây lúa trổ bông : _\ QÑV£ c Hạt nắng hạt nắng trên vai em đến trưởng _ Ẳ` ¬ uÌ\ 2 L Hạt mưa hạt mưu cho cây vườn thêm xơnh..e. ' ẠN ˆ °
+- 2 h Nêu cỏm nhộn của em squ khi nghe bòi hót Khúc cư bốn mùa. W: “ P, đụ Vận động cơ thê theo nhịp điệu bài hút Khúc ca bốn mùa. s Ỉ &
+- Lựa chọn và thực hiện một trong hơi trò chơi Đoún nhanh, đoún đúng. 1.Đọc một câu tuỳ chọn trong 1.Nói đúng tên vò đọc bòi một bài đọc nhạc. đọc nhạc. 2.Đọc tên nốt nhạc kết hợp 2.Nhện biết và đọc bi vỗ tay theo hình tiết tấu đọc nhạc. một câu trong bài đọc nhọc.
+- Các nhóm hoặc có nhân sóng tgo cao độ theo hình tiết tấu 4 ô nhịp đẩu của bởi đọc nhạc số 3 hoặc bi đọc nhạc số 4 vò đọc kết hợp vỗ tay hoặc gõ đệm nhọc cụ theo ý thích.
+
+### Từ khóa
+Bài luyện tập, nhạc nước ngoài., Chậm vừa, Khúc ca bôn mùa, Nhạc và lời, Nguyễn Hải =.., _\ QÑV£ c, ác. NH4, Q \ 3x Ạ, nh \ >” 7W, vỏ CN ý VỆ, ng đà " " š, tụ _ j4, b PA, hẾt š, É. v. . xš À», CN t., ri <4 X“ „, 937 VẬN DỤNG, coóc, ÝỖ.__D, Kèn phím., z7 Ez, ta 3
+
+## 33. chương trình. (từ trang 75)
+
+### Nội dung kiến thức thô
+- Cúc bài hót đã học trong học kì 2 hoặc các bởi hót học sinh đã biết.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Nội dung lựa chọn Cúc bài hót đã học trong học kì 2 hoặc các bởi hót học sinh đã biết.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Cúc bài hót đã học trong học kì 2 hoặc các bởi hót học sinh đã biết. Giới thiệu nhạc cụ.
+
+### Từ khóa
+chương trình., Nội dung lựa chọn, Giới thiệu nhạc cụ., Nghe nhạc.
+
+## 34. Đọc nhạc. (từ trang 75)
+
+### Nội dung kiến thức thô
+- Nhọc cụ thể hiện tiết tấu hoặc nhọc cụ thể hiện giơi điệu.
+- Khung chương trình văn nghệ Tgm biệt mới trường Tiễu học
+- Lời giới thiệu mở đổu.
+- Cúc nhóm giới thiệu vò biểu diễn tiết mục theo kịch bỏn đã luyện tập.
+- Tên tiết mục Pu ch Tu Ghi chú
+- P Ù \ ) ./ ộ
+- Z® . lý ¿ ẳ NI
+- h. ồ ˆ) L3 To
+- mM >è ch Jj \
+- zz + ^ ~“ ^ ~3
+- Giải thích một số thuật ngữ
+- Và khái niệm âm nhạc
+- B Hình thức biêu diễn sử dụng miệng, môi và
+- sc lưỡi để mô phỏng âm thanh của bộ gõ. =
+- ễ Cách kết hợp liên tiếp 2 hay nhiều bi hút.
+- 2V DEBE __ khéc nhau có sự thống nhốt về chủ đề. bả
+- Mơ-nuy-ết Tóc phẩm ôm nhgc được viết ở nhịp Ÿ 55
+- Menuet) với tốc độ vừa phỏi, có nguồn gốc từ một
+- điệu nhảy dân gian Pháp.
+- Mod tên __ Bản đẹp được điều khiễn bằng chôn, dùng ø„
+- Xö:nôi Một liên khúc gồm một số chương nhạc
+- lSGioie tương phỏn nhưng đồng thời lợi thống nhốt 35
+- SGncte) theo một nội dung chung.
+- Vũ diệu Điệu múa. 63
+- Trang sóch có thuột ngữ xuất hiện lần đầu.
+- hà xuất bản Giáo đục Liệt Naan xin trân trọng cảm ơn
+- các tác giả có tác phâ»m, tư liệu được sử dựng, trích: dâu
+- Chịu trách nhiệm xuốt bản
+- Tổng Giám đốc HOÀNG LÊ BÁCH
+- Chịu trách nhiệm nội dung
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Nhọc cụ thể hiện tiết tấu hoặc nhọc cụ thể hiện giơi điệu.
+- Khung chương trình văn nghệ Tgm biệt mới trường Tiễu học Lời giới thiệu mở đổu.
+- Cúc nhóm giới thiệu vò biểu diễn tiết mục theo kịch bỏn đã luyện tập.
+- Tên tiết mục Pu ch Tu Ghi chú mm š ăn L2 | |} L3 | |} |] max an Lời kết chương trình.
+- P Ù \ ) ./ ộ A R `* Ñ XuÃ W l ⁄ " ⁄ Z® .
+- ễ Cách kết hợp liên tiếp 2 hay nhiều bi hút.
+- 2V DEBE __ khéc nhau có sự thống nhốt về chủ đề.
+- bả Mơ-nuy-ết Tóc phẩm ôm nhgc được viết ở nhịp Ÿ 55 Menuet) với tốc độ vừa phỏi, có nguồn gốc từ một điệu nhảy dân gian Pháp.
+- Mod tên __ Bản đẹp được điều khiễn bằng chôn, dùng ø„ g để chơi trống.
+- Xö:nôi Một liên khúc gồm một số chương nhạc lSGioie tương phỏn nhưng đồng thời lợi thống nhốt 35 SGncte) theo một nội dung chung.
+- 63 Trang sóch có thuột ngữ xuất hiện lần đầu.
+- hà xuất bản Giáo đục Liệt Naan xin trân trọng cảm ơn các tác giả có tác phâ»m, tư liệu được sử dựng, trích: dâu trong cuỗn sách này.
+
+### Cặp nối từ/khái niệm
+- Biên tộp nôi dung => ĐĂNG KHÁNH NHẬT - CAO TUYẾT MINH~ ĐẶNG THỊ MAI THANH
+- Biên tập mĩ thuật => BÙI QUANG TUẤN
+- Trình bày bìa: NGUYỄN BÍCH => NGUYỄN THU HÃNG
+- Thiết kế sách => NGUYỄN VIỆT HÀ
+- Minh hog => NGUYẾỄN THU HẰNG
+- Sửa bản in => CAO TUYẾT MINH - ĐẶNG THỊ MAI THANH
+- Chế bản => CÔNG TY CỔ PHẦN ĐẦU TƯ VÀ PHÁT TRIỀN GIÁO DỤC HÀ NỘI
+
+### Đoạn gõ văn bản
+- Nhọc cụ thể hiện tiết tấu hoặc nhọc cụ thể hiện giơi điệu. Khung chương trình văn nghệ Tgm biệt mới trường Tiễu học Lời giới thiệu mở đổu. Cúc nhóm giới thiệu vò biểu diễn tiết mục theo kịch bỏn đã luyện tập. Tên tiết mục Pu ch Tu Ghi chú
+- Giải thích một số thuật ngữ Và khái niệm âm nhạc B Hình thức biêu diễn sử dụng miệng, môi và sc lưỡi để mô phỏng âm thanh của bộ gõ. = ễ Cách kết hợp liên tiếp 2 hay nhiều bi hút. 2V DEBE __ khéc nhau có sự thống nhốt về chủ đề. bả Mơ-nuy-ết Tóc phẩm ôm nhgc được viết ở nhịp Ÿ 55 Menuet) với tốc độ vừa phỏi, có nguồn gốc từ một điệu nhảy dân gian Pháp. Mod tên __ Bản đẹp được điều khiễn bằng chôn, dùng ø„
+- In.............bản, (QĐ ........) khổ 19 x 26.5cm Đứm vị in:............... đa chỉ............. Số ĐKXB: /QÐ ~ GD ~ HN ngòy........ thúng....... nữm 20... In xong nộp lưu chiêu thóng ... năm 20...
+
+### Từ khóa
+Đọc nhạc., Lời giới thiệu mở đổu., mm š ăn, L2 | |}, L3 | |} |], max an, Lời kết chương trình., P Ù \, A R `* Ñ, XuÃ W, l ⁄ " ⁄, h. ồ ˆ, L3 To, mM >è ch Jj \, Và khái niệm âm nhạc, môi và, Menuet, với tốc độ vừa phỏi, có nguồn gốc từ một, điệu nhảy dân gian Pháp., dùng ø„, g để chơi trống., SGncte, theo một nội dung chung.
+
+## 35. Bại Biì 8 (từ trang 79)
+
+### Nội dung kiến thức thô
+- _` đa AM j Kñ: tÑ
+- BỘ SÁCH GIÁO KHOA LỚP 5 — KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+- 1. Tiếng Việt 5, tập một 9. Công nghệ 5
+- 2. Tiếng Việt 5, tập hai 10. Lịch sử và Địa lí 5
+- 3, Toán 5, tập một 11.Tin học 5
+- 4, Toán 5, tập hai 12. Hoạt động trãi nghiệm 5
+- 5, Khoa học 5 13. Giáo dục thể chất 5
+- 6, Đạo đức 5 14. Tiếng Anh 5 - Global Success - SHS, tập một
+- 7. Âm nhạc 5 15, Tiếng Anh 5 - Global Success - SHS, tập hai
+- Các đơn vị đầu mối phát hành
+- e© Miền Bắc: CTCP Đầu tư và Phát triển Giáo dục Hà Nội
+- CTCP Sách và Thiết bị Giáo dục miền Bắc
+- MiếnTrung: CTCP Đầu tưvà Phát triển Giáo dục Đà Nẵng
+- CTCP Sách và Thiết bị Giáo dục miền Trung
+- Miền Nam: CTCP Đầu tư và Phát triển Giáo dục Phương Nam
+- CTCP Sách và Thiết bị Giáo dục miền Nam
+- CTCP Sách và Thiết bị Giáo dục Cửu Long
+- Cào lớp nhũ trên tem rồi quét mã
+- để xác thực và truy cập học liệu điện tử ="=
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- _` đa AM j Kñ: tÑ 3022: ¿___ ®ẽ BỘ SÁCH GIÁO KHOA LỚP 5 — KẾT NỐI TRI THỨC VỚI CUỘC SỐNG 1.
+- Lịch sử và Địa lí 5 3, Toán 5, tập một 11.Tin học 5 4, Toán 5, tập hai 12.
+- Hoạt động trãi nghiệm 5 5, Khoa học 5 13.
+- Giáo dục thể chất 5 6, Đạo đức 5 14.
+- Tiếng Anh 5 - Global Success - SHS, tập một 7.
+- Âm nhạc 5 15, Tiếng Anh 5 - Global Success - SHS, tập hai 8.
+
+### Cặp nối từ/khái niệm
+- 6, Đạo đức 5 14. Tiếng Anh 5 => Global Success - SHS, tập một
+- 7. Âm nhạc 5 15, Tiếng Anh 5 => Global Success - SHS, tập hai
+- e© Miền Bắc => CTCP Đầu tư và Phát triển Giáo dục Hà Nội
+- MiếnTrung => CTCP Đầu tưvà Phát triển Giáo dục Đà Nẵng
+- Miền Nam => CTCP Đầu tư và Phát triển Giáo dục Phương Nam
+- Sách điện tử => http//hanhtrangso.nxbgdvn
+
+### Đoạn gõ văn bản
+- BỘ SÁCH GIÁO KHOA LỚP 5 — KẾT NỐI TRI THỨC VỚI CUỘC SỐNG 1. Tiếng Việt 5, tập một 9. Công nghệ 5 2. Tiếng Việt 5, tập hai 10. Lịch sử và Địa lí 5 3, Toán 5, tập một 11.Tin học 5 4, Toán 5, tập hai 12. Hoạt động trãi nghiệm 5 5, Khoa học 5 13. Giáo dục thể chất 5 6, Đạo đức 5 14. Tiếng Anh 5 - Global Success - SHS, tập một 7. Âm nhạc 5 15, Tiếng Anh 5 - Global Success - SHS, tập hai
+
+### Từ khóa
+Bại Biì 8, _` đa AM j Kñ, ___ ®ẽ, 1. Tiếng Việt 5, 2. Tiếng Việt 5, Toán 5, tập một 11.Tin học 5, Global Success, tập một, 7. Âm nhạc 5 15, Tiếng Anh 5, tập hai, 8. Mĩ thuật 5, e© Miền Bắc, MiếnTrung, Miền Nam, Sách điện tử, http, hanhtrangso.nxbgdvn

@@ -1,0 +1,450 @@
+[
+  {
+    "q": "Chữ cái đầu tiên trong bảng chữ cái tiếng Việt là gì?",
+    "a": "A",
+    "c": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết bảng chữ cái tiếng Việt"
+  },
+  {
+    "q": "Từ nào viết đúng chính tả tiếng Việt?",
+    "a": "nhà",
+    "c": [
+      "nhà",
+      "nà",
+      "nhàa",
+      "nha`"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện kỹ năng chính tả tiếng Việt"
+  },
+  {
+    "q": "Bảng chữ cái tiếng Việt có bao nhiêu chữ cái?",
+    "a": "29",
+    "c": [
+      "29",
+      "26",
+      "24",
+      "30"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết số lượng chữ cái trong bảng chữ cái tiếng Việt"
+  },
+  {
+    "q": "Từ nào chỉ tiếng kêu của con mèo?",
+    "a": "meo",
+    "c": [
+      "meo",
+      "kêu",
+      "cạp",
+      "gâu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết từ ngữ chỉ âm thanh của con vật"
+  },
+  {
+    "q": "Chữ cái nào không có trong bảng chữ cái tiếng Việt?",
+    "a": "W",
+    "c": [
+      "W",
+      "Ă",
+      "Â",
+      "Ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết chữ cái trong và ngoài bảng chữ cái tiếng Việt"
+  },
+  {
+    "q": "Từ nào là từ chỉ người trong gia đình?",
+    "a": "bà nội",
+    "c": [
+      "bà nội",
+      "con mèo",
+      "cây bàng",
+      "bút chì"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phân loại từ theo nhóm: từ chỉ người trong gia đình"
+  },
+  {
+    "q": "Từ nào là tên con vật?",
+    "a": "con trâu",
+    "c": [
+      "con trâu",
+      "cái bàn",
+      "học sinh",
+      "màu đỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phân loại từ theo nhóm: từ chỉ con vật"
+  },
+  {
+    "q": "Từ nào là màu sắc?",
+    "a": "xanh lam",
+    "c": [
+      "xanh lam",
+      "học bài",
+      "con bướm",
+      "chiếc ghế"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phân loại từ theo nhóm: từ chỉ màu sắc"
+  },
+  {
+    "q": "Bộ phận nào của cây giúp cây hút nước từ đất?",
+    "a": "rễ",
+    "c": [
+      "rễ",
+      "thân",
+      "lá",
+      "hoa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết bộ phận của cây xanh và chức năng"
+  },
+  {
+    "q": "Con vật nào gáy 'ò ó o' vào buổi sáng?",
+    "a": "gà trống",
+    "c": [
+      "gà trống",
+      "con vịt",
+      "con mèo",
+      "con bò"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết tiếng kêu đặc trưng của các con vật"
+  },
+  {
+    "q": "Bé chọn từ thích hợp: Sách ___ là đồ dùng học tập của em.",
+    "a": "vở",
+    "c": [
+      "vở",
+      "bánh",
+      "chơi",
+      "ngủ"
+    ],
+    "type": "fill_blank",
+    "sentence": "Sách ___ là đồ dùng học tập của em.",
+    "lo": "Rèn luyện sử dụng từ ngữ trong ngữ cảnh câu văn"
+  },
+  {
+    "q": "Điền từ thích hợp: Con ___ hót líu lo trên cành cây.",
+    "a": "chim",
+    "c": [
+      "chim",
+      "cá",
+      "bướm",
+      "vịt"
+    ],
+    "type": "fill_blank",
+    "sentence": "Con ___ hót líu lo trên cành cây.",
+    "lo": "Rèn luyện sử dụng từ ngữ chỉ con vật trong câu văn"
+  },
+  {
+    "q": "Sắp xếp các từ thành câu đúng:",
+    "a": "Bé đi học ngoan",
+    "c": [
+      "Bé đi học ngoan"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt",
+    "words": [
+      "Bé",
+      "đi",
+      "học",
+      "ngoan"
+    ]
+  },
+  {
+    "q": "Sắp xếp thành câu đúng:",
+    "a": "Con chim nhỏ hót líu lo",
+    "c": [
+      "Con chim nhỏ hót líu lo"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt",
+    "words": [
+      "Con",
+      "chim",
+      "nhỏ",
+      "hót",
+      "líu",
+      "lo"
+    ]
+  },
+  {
+    "q": "Bé hãy luyện gõ phím từ vựng sau:",
+    "a": "xin chao",
+    "c": [
+      "xin chao"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím từ vựng"
+  },
+  {
+    "q": "Luyện gõ từ tiếng Anh:",
+    "a": "apple",
+    "c": [
+      "apple"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím cơ bản"
+  },
+  {
+    "q": "Chữ nào đứng đầu trong từ 'Cá'?",
+    "a": "C",
+    "c": [
+      "C",
+      "A",
+      "O",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và phân tích cấu tạo từ trong tiếng Việt"
+  },
+  {
+    "q": "Điền chữ thích hợp vào chỗ trống: 'quả ___áo'",
+    "a": "T",
+    "c": [
+      "T",
+      "CH",
+      "H",
+      "B"
+    ],
+    "type": "fill_blank",
+    "sentence": "quả ___áo",
+    "lo": "Rèn luyện kỹ năng điền từ đúng chính tả"
+  },
+  {
+    "q": "Từ nào chỉ loài vật?",
+    "a": "MÈO",
+    "c": [
+      "MÈO",
+      "BÀN",
+      "BÚT",
+      "HOA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phân loại từ theo nhóm: từ chỉ con vật"
+  },
+  {
+    "q": "Từ nào chỉ hoạt động?",
+    "a": "CHẠY",
+    "c": [
+      "CHẠY",
+      "NHÀ",
+      "CÁT",
+      "ĐẸP"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phân loại từ theo nhóm: từ chỉ hoạt động"
+  },
+  {
+    "q": "Câu nào dưới đây viết đúng quy tắc viết hoa đầu câu?",
+    "a": "Bé thích trồng cây xanh.",
+    "c": [
+      "Bé thích trồng cây xanh.",
+      "bé thích trồng cây xanh.",
+      "Bé thích Trồng Cây xanh.",
+      "bé Thích Trồng Cây Xanh."
+    ],
+    "type": "multiple_choice",
+    "lo": "Nắm vững quy tắc viết hoa đầu câu trong tiếng Việt"
+  },
+  {
+    "q": "Tiếng nào có chứa vần 'oanh'?",
+    "a": "Doanh",
+    "c": [
+      "Doanh",
+      "Bánh",
+      "Chanh",
+      "Hành"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết vần trong tiếng Việt"
+  },
+  {
+    "q": "Từ nào chỉ hoạt động viết đúng chính tả?",
+    "a": "Chạy nhảy",
+    "c": [
+      "Chạy nhảy",
+      "Trạy nhảy",
+      "Chạy nhải",
+      "Trạy nhải"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện chính tả từ chỉ hoạt động"
+  },
+  {
+    "q": "Ghép từ chỉ con vật với tiếng kêu của chúng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết và phân loại tiếng kêu của các loài vật quen thuộc",
+    "pairs": [
+      {
+        "left": "Con chó",
+        "right": "Gâu gâu"
+      },
+      {
+        "left": "Con mèo",
+        "right": "Meo meo"
+      },
+      {
+        "left": "Con gà",
+        "right": "Ò ó o"
+      },
+      {
+        "left": "Con vịt",
+        "right": "Cạp cạp"
+      }
+    ]
+  },
+  {
+    "q": "Ghép từ với nghĩa đúng (từ trái nghĩa):",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết các cặp từ trái nghĩa trong Tiếng Việt lớp 1",
+    "pairs": [
+      {
+        "left": "Ngày",
+        "right": "Đêm"
+      },
+      {
+        "left": "To",
+        "right": "Nhỏ"
+      },
+      {
+        "left": "Cao",
+        "right": "Thấp"
+      },
+      {
+        "left": "Đen",
+        "right": "Trắng"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp các từ thành câu hoàn chỉnh:",
+    "a": "Em yêu trường học",
+    "c": [
+      "Em yêu trường học"
+    ],
+    "words": [
+      "Em",
+      "yêu",
+      "trường",
+      "học"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt"
+  },
+  {
+    "q": "Sắp xếp các từ thành câu hoàn chỉnh:",
+    "a": "Mặt trời mọc buổi sáng",
+    "c": [
+      "Mặt trời mọc buổi sáng"
+    ],
+    "words": [
+      "Mặt",
+      "trời",
+      "mọc",
+      "buổi",
+      "sáng"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt"
+  },
+  {
+    "q": "Điền từ thích hợp: Mặt ___ tỏa sáng ấm áp vào buổi sáng.",
+    "a": "trời",
+    "c": [
+      "trời",
+      "đất",
+      "trăng",
+      "biển"
+    ],
+    "type": "fill_blank",
+    "sentence": "Mặt ___ tỏa sáng ấm áp vào buổi sáng.",
+    "lo": "Rèn luyện sử dụng từ ngữ trong ngữ cảnh câu văn"
+  },
+  {
+    "q": "Gõ lại từ sau: CON CHÓ",
+    "a": "con chó",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết tên con vật"
+  },
+  {
+    "q": "Gõ lại từ sau: HOA HỒNG",
+    "a": "hoa hồng",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết tên loài hoa"
+  },
+  {
+    "q": "Gõ lại từ sau: BẦU TRỜI",
+    "a": "bầu trời",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết từ chỉ thiên nhiên"
+  },
+  {
+    "q": "Gõ lại từ sau: BÀ NỘI",
+    "a": "bà nội",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết từ chỉ người thân trong gia đình"
+  },
+  {
+    "q": "Điền từ thích hợp: Bé chăm chỉ ___ bài mỗi ngày.",
+    "a": "học",
+    "c": [
+      "học",
+      "ngủ",
+      "chơi",
+      "ăn"
+    ],
+    "type": "fill_blank",
+    "sentence": "Bé chăm chỉ ___ bài mỗi ngày.",
+    "lo": "Rèn luyện sử dụng động từ trong câu"
+  },
+  {
+    "q": "Điền từ thích hợp: Con ___ gáy vào mỗi buổi sáng sớm.",
+    "a": "gà",
+    "c": [
+      "gà",
+      "mèo",
+      "chó",
+      "vịt"
+    ],
+    "type": "fill_blank",
+    "sentence": "Con ___ gáy vào mỗi buổi sáng sớm.",
+    "lo": "Rèn luyện nhận biết đặc điểm của các con vật"
+  },
+  {
+    "q": "Gõ lại từ sau: MÁI NHÀ",
+    "a": "mái nhà",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết từ chỉ nhà ở"
+  },
+  {
+    "q": "Điền từ thích hợp: Bé dùng bút chì để ___.",
+    "a": "viết",
+    "c": [
+      "viết",
+      "ăn",
+      "ngủ",
+      "hát"
+    ],
+    "type": "fill_blank",
+    "sentence": "Bé dùng bút chì để ___.",
+    "lo": "Rèn luyện liên kết đồ dùng học tập với chức năng"
+  }
+]

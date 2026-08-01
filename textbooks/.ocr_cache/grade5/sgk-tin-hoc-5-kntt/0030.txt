@@ -1,0 +1,40 @@
+YY_ Tên loại kem trình bày rõ ràng YY Tên loại kem trình bày đẹp.
+YY Không có lỗi chính tả. YY. Hình ảnh cốc kem minh hoạ hắp dẫn.
+Góp ý _ Các tiêu để nỏi bật thì văn bản dễ đọc hơn. | | Góp ý _ Ảnh đặt bên phải chữ thì văn bản đẹp hơn.
+Hình 29. Nhận xét của An Hình 30. Nhận xét của Minh
+Để văn bản dễ đọc và dễ ghi nhớ, em có thể thực hiện các thao tác định dạng
+kí tự cho văn bản. Bên cạnh đó, sau khi chèn hình ảnh minh hoạ vào văn bản,
+em có thể di chuyển hình ảnh đến vị trí hợp lí để văn bản được trình bày
+đẹp hơn.
+a) Định dạng kí tự
+Em đã biết định dạng văn bản khi tạo bài trình chiếu. Tương tự như vậy, để
+định dạng kí tự trong phần mềm soạn thảo văn bản, trước tiên em cần chọn
+phần văn bản, sau đó em sử dụng các lệnh trong nhóm lệnh Font của dải
+lệnh Home (Hình 31). Thực hiện theo góp ý của bạn An, các tiêu đề của văn
+bản ở Hình 28 đã được định dạng để nổi bật, giúp em dễ đọc và dễ ghi nhớ
+hơn (Hình 32).
+Kem cầu vồng hoa quả
+tuyên liệu:
+A* A"|Aa- ˆ th te xen thanh long, dưa hấu, sữa chua.
+«ae x, xt l@\ 9#-[A || | meônssám
+1. Làm sạch trái câ
+Font 1 2. Nho cắt nn các loạt hoa quả khác cắt thành
+miếng vừa ăn.
+Kiểu chữ (đậm,
+nghiêng, gạch chân) 3 ˆ.M.òÖ xể
+Hình 32. Kết quả định dạng thực hiện
+Hình 31. Các lệnh định dạng kí tự nhận xét của An
+b) Thay đỗi cách bố trí hình ảnh
+trong văn bản
+Em chọn hình ảnh và nháy chuột vào —TnnG
+lệnh '^' xuất hiện ở bên cạnh hình ảnh. khung
+Khi đó bảng chọn các cách bố trí hình 8<
+ảnh sẽ xuất hiện (Hình 33). Em nháy Ñ==
+chuột để chọn một cách bố trí hợp lí __ă_n
+cho hình ảnh. --
+'® Move with teet
+fFwpostionon “Ð
+mọc
+Ses more..
+Hình 33. Thay đổi cách bố trí hình ảnh
+30

@@ -1,0 +1,2712 @@
+[Trang 1 | ocr]
+t Y2 NGUYỄN CHÍ CÔNG (Tổng Chủ biên)
+HOÀNG THỊ MAI (Chủ biên)
+PHAN ANH - NGUYỄN HẢI CHÂU - HÀ ĐẶNG CAO TÙNG
+k2
+|
+là :
+( À: Z :ÁÑ\ › % :
+.. F-ˆ ¿ \S} Ô°! h
+Z1 LN [ œ ^® . : @=
+(Ð) NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+[Trang 2 | ocr]
+“ * 2 .
+HƯỚNG DÂN SƯ DỤNG SÁCH
+Sau bài này em sẽ: Giúp em biết sẽ đạt được gì sau bài học.
+Giúp em nhận biết ý nghĩa của bài học bằng cách
+KHỞI ĐỘNG kết nói những tình huống xuất hiện trong cuộc sóng
+với nội dung bài học.
+NỘI DUNG BÀI HỌC
+4 Các hoạt động: Giúp lớp học tích cực, bài học dễ tiếp thu, em chủ động hơn
+trong quá trình nhận thức.
+Kiến thức mới: Cung cấp nội dung chính của bài học, giúp em bổ sung
+kiến thức nhằm đạt được mục tiêu của bài học.
+li Ẵ Hộp kiến thức: Tóm tắt kiến thức mới một cách cô đọng và ngắn gọn,
+giúp em dễ ghi nhớ.
+g® Câu hỏi: Giúp em kiểm tra xem mình đã hiểu bài chưa.
+[ÝVŸ Gôm những câu hỏi, bài tập đê củng cô kiên thức,
+LUYỆN TẬP kĩ năng trong bài học.
+Gồm những câu hỏi, bài tập yêu cầu em dựa vào
+VẬN DỤNG kiến thức, kĩ năng đã học để giải quyết tình huống
+thực tiễn.
+Ba bạn An, Minh, Khoa tiếp tục ®
+đồng hành và giúp em tiếp thu bài sSC NA TP
+dễ hơn. ° ú
+Minh An Khoa
+Hãy bảo quản, giữ gìn sách giáo khoa đề dành tặng
+các em học sinh lớp sau!
+ý2
+
+[Trang 3 | ocr]
+LỜI NÔI ĐẦU
+
+Các em học sinh yêu quý!
+Sách giáo khoa Tin học 5 tiếp nói các bài học của những năm học
+trước đề giúp các em hình thành năng lục tin học và chuẩn bị tiếp
+tục học môn Tin học ở cáp Trung học cơ sở.
+Cuốn sách giúp các em sử dụng máy tính đúng cách, đảm bảo
+sức khoẻ thẻ chát và tinh thản; tôn trọng bản quyên nội dung thông
+tin trong hoạt động học tập, giải trí; hợp tác với bạn bè và tạo ra
+sản phẩm số. Các em sẽ tiếp tục khám phá ngôn ngữ lập trình
+trực quan đề tạo ra chương trình máy tính vô cùng thú vị. Qua đó,
+các em được rèn luyện tư duy giải quyết ván đề với sự trợ giúp
+của máy tính.
+Mỗi bài học của cuón sách được viết thật dễ hiểu. Những ví dụ, bài
+tập hay tình huống được trình bày sinh động, háp dẫn và gần gũi,
+giúp các em nuôi dưỡng niềm vui khi học tập môn Tin học.
+Chúc các em học tập chăm chỉ và thành công!
+
+CÁC TÁC GIẢ
+
+3
+
+[Trang 4 | ocr]
+MỤC LỤC
+Chủ đề 1. Máy tính và em 5
+Bài 1. Em có thể làm gì với máy tính? Đ
+Chủ đề 2. Mạng máy tính và Internet 8
+Bài 2. Tìm kiếm thông tin trên website 8
+Chủ đề 3. Tổ chức lưu trữ, tìm kiếm và trao đổi thông tin 14
+Bài 3. Tìm kiếm thông tin trong giải quyết ván đề 14
+Bài 4. Cây thư mục 19
+Chủ đề 4. Đạo đức, pháp luật và văn hoá trong môi trường số 24
+Bài 5. Bản quyền nội dung thông tin 24
+Chủ đề 5. Ứng dụng tin học 29
+Bài 6. Định dạng kí tự và bố trí hình ảnh trong văn bản 29
+Bài 7. Thực hành soạn thảo văn bản 34
+A. Sử dụng phần mềm đồ hoạ tạo sản phẩm số đơn giản 37
+Bài 8A. Làm quen với phằn mềm đồ hoạ 37
+Bài 9A. Sử dụng phần mềm đồ hoạ tạo sản phẩm số 43
+B. Sử dụng công cụ đa phương tiện hỗ trợ tạo sản phẩm đơn giản 46
+Bài 8B. Làm sản phẩm thủ công theo video hướng dẫn 46
+Bài 9B. Thực hành tạo đò dùng gia đình theo video hướng dẫn 49
+Chủ đề 6. Giải quyết vấn đề với sự trợ giúp của máy tính 52
+Bài 10. Cấu trúc tuần tự 52
+Bài 11. Cấu trúc lặp 56
+Bài 12. Thực hành sử dụng lệnh lặp 59
+Bài 13. Cấu trúc rẽ nhánh 62
+Bài 14. Sử dụng biến trong chương trình 67
+Bài 15. Sử dụng biểu thức trong chương trình 73
+Bài 16. Từ kịch bản đến chương trình 78
+—.. ^
+4
+
+[Trang 5 | ocr]
+XỘ ẹ - % ¬¬ -
+EM CÓ THÊ LÀM GÌ VỚI MÁY TÍNH?
+
+Sau bài này em sẽ:
+
+" Nêu được ví dụ máy tính giúp giải trí, học tập, tìm kiếm, trao đổi
+thông tin, hợp tác với bạn bè và tạo ra sản phẩm số theo ý tưởng
+của bản thân.
+
+» Thể hiện được mong muốn biết sử dụng máy tính thành thạo để
+làm được nhiều việc hơn.
+
+oO KHỞI ĐỘNG
+
+Là học sinh lớp 5, An đã học sử dụng chuột, bàn phím đúng cách và tắt
+
+máy tính một cách an toàn. An cũng biết cách truy cập Internet để tìm kiếm
+
+thông tin. An còn có thể tạo ra những sản phẩm số như văn bản hay bài trình
+chiếu và quản lí chúng dưới dạng tệp trong máy tính.
+
+An biết máy tính còn giúp bạn nhiều hơn nữa trong các hoạt động như học
+
+tập, giải trí, trao đồi thông tin,... Em hãy cùng tìm hiểu với An xem máy tính
+
+còn có thể giúp chúng ta làm được những gì nữa nhé!
+
+Í EM CÓ THÊ LÀM GÌ VỚI MÁY TÍNH?
+
+Em đã sử dụng phần mềm máy tính để làm gì?
+
+Em hãy kể tên một số phần mềm mà em đã từng sử dụng. Những phần
+mềm đó đã giúp em làm gì?
+
+@ Phần mềm luyện gõ bàn phím giúp em gõ phím nhanh và đúng cách,
+phần mềm trình chiếu giúp em chia sẻ thông tin một cách sinh động,
+hấp dẫn,... Trong máy tính còn có nhiều phần mềm khác, mỗi phần
+
+mềm đều có chức năng riêng, giúp người sử dụng nâng cao chất lượng công
+
+việc và tiết kiệm thời gian, chẳng hạn:
+
+Học tập: Em có thể tìm hiểu thế giới tự nhiên bằng phần mềm Kids Games
+
+Learning Science, biết thêm những điều mới mẻ về lịch sử, văn hoá qua các
+
+5
+
+[Trang 6 | ocr]
+video hay dịch những từ tiếng Anh mà em chưa biết bằng Google Translate,...
+
+Em cũng có thể làm bài tập trên phần mềm soạn thảo văn bản hay chuẩn bị
+
+báo cáo trước lớp bằng phần mềm trình chiếu.
+
+Giải trí: Em có thể xem video, nghe nhạc, đọc truyện hay chơi những trò chơi
+
+(dành cho thiếu nhi) trên máy tính hoặc điện thoại với đồ hoạ tuyệt đẹp và
+
+âm thanh sống động.
+
+Trao đồi thông tin: Hằng ngày, em có thể tháy người lớn trao đổi công việc
+
+với nhau bằng nhiều cách như sử dụng thư điện tử, nhắn tin, gọi điện thoại,
+
+gọi video hoặc truy cập mạng xã hội,... qua Internet trên máy tính hoặc điện
+
+thoại thông minh.
+
+Hợp tác với các bạn: Em có thể hỗ trợ, giúp đỡ, tương tác hoặc thảo luận với các
+
+bạn của mình qua các phần mềm như Zoom, Google Meet, Microsoft Teams.
+
+Em cũng có thể tham gia các nhóm, câu lạc bộ học tập trên Internet với bạn
+
+cùng lớp hoặc những bạn có cùng nhu cầu học tập.
+
+Tạo ra sản phẩm số: Em có thể sử dụng phần mềm trên máy tính hoặc điện
+
+thoại thông minh để tạo sản phẩm số theo ý tưởng của mình như viết truyện
+
+bằng phần mềm soạn thảo, thiết kế album ảnh bằng phần mềm trình chiếu
+
+hay viết chương trình trò chơi bằng Scratch.
+
+g; « Máy tính có thể giúp em học tập, giải trí, tìm kiếm, trao đổi ï
+: thông tin, hợp tác với bạn bè và tạo ra sản phẩm số theo :
+¡_ ý tưởng của mình. ị
+‡ «Sử dụng máy tính thành thạo, em sẽ làm được nhiều
+¡_ việc hơn. ị
+
+g® Hãy kể về một phần mềm trên máy tính hoặc trên điện thoại thông
+
+minh mà em đã sử dụng và tháy thích thú.
+
+Ê. THỰC HÀNH CHƠI TRÒ CHƠI MÊ CUNG TRÊN MÁY TÍNH
+
+NHIỆM VỤ. Chơi trò chơi Mê cung.
+
+Mê cung (Hình 1) là hệ thống lối đi được ngăn cách bằng những bức tường
+
+hoặc hàng rào rất phức tạp. Khi đã vào mê cung thì việc tìm tháy lối ra là một
+
+thách thức lớn. Trong trò chơi, một chú chuột xuất phát từ l ói vào. Em hãy
+
+sử dụng các phím mũi tên để điều khiển chú chuột thoát khỏi mê cung, đi tới
+
+Lối ra.
+
+6
+
+[Trang 7 | ocr]
+Hướng dẫn
+ước ï: Khởi động phần mềm Scratch và mở tệp !/eCuing. Giao diện trò chơi
+được mở ra trên màn hình tương tự Hình 1.
+Bước 2: Nháy chuột vào nút lệnh ?% để bắt đầu chơi. Sử dụng các phím mũi tên
+để điều khiển chú chuột di chuyển từ Lói vào đến Lói ra.
+Lối ra (t )
+
+Thời li
+
+gian
+
+chơi \ Ỉ /
+
+|
+Lõi vào -#e
+Hình 1. Mê cung Hình 2. Ngón tay nhấn
+các phím mũi tên
+Lưu ý:
+—_ Em sử dụng ngón trỏ, ngón giữa và ngón áp út của bàn tay phải để nhán
+các phím mũi tên (Hình 2).
+—_ Thời gian chơi, tính bằng giây, được tính từ lúc bắt đầu chơi đến khi chú
+chuột đến được L ói ra.
+Trò chơi mê cung là một chương trình được viết bằng Scratch. Nếu chăm chỉ
+học tập và tìm hiểu, em cũng có thể tự mình viết được những chương trình
+trò chơi thú vị như vậy.
+4Œ... TẬP
+Hãy nêu một ví dụ máy tính giúp em trong học tập, giải trí hoặc hợp tác với
+bạn tạo ra sản phẩm só. Trong ví dụ ấy, em đã sử dụng phần mềm nào?
+ltii VẬN DỤNG
+Hãy kể tên một sản phẩm số mà em có thể cùng bạn tạo ra (bức ảnh, bản ghi
+âm, đoạn video quay em đang hát, thiệp chúc mừng sinh nhật,...). Máy tính
+giúp các em tạo ra sản phẩm đó như thế nào?
+VỀ
+
+[Trang 8 | ocr]
+CHỦ ĐỀ 2. MANG MÁY TÍNH
+7 BÀI `
+VY TÌM KIÊM THÔNG TIN TRÊN WEBSITE
+Sau bài này em sẽ:
+"Tìm được trên website cho trước những thông tin phù hợp
+và có ích cho nhiệm vụ đặt ra.
+" Hợp tác, chia sẻ được thông tin với các bạn trong nhóm để
+hoàn thành công việc được giao.
+eo KHỞI ĐỘNG
+Nhóm ba bạn An, Minh, Khoa được cô giáo giao nhiệm vụ tạo bài trình
+chiếu để trình bày trước lớp về Ngày hội Trạng Nguyên nhỏ tuổi. Để hoàn
+thành được nhiệm vụ, các bạn cần tìm thông tin về Ngày hội Trạng Nguyên
+nhỏ tuồi trên website của báo Thiếu niên Tiền phong và Nhi đồng tại địa chỉ
+thieunien.vn. Theo em, các bạn sẽ tìm kiếm thông tin như thế nào?
+Í TÌM KIẾỀM THÔNG TIN TRÊN WEBSITE
+Í HOẠT ĐỘNG K1. Truy cập website
+©€ t.#.7...sưm
+LÀN. a2 =IMÍ =R
+ziz «. e2®
+NIGG dàn cịn
+Ẩ  Ô Nón thờ chờ đại chiến tại vòng 1/8 UEFA Chamgio _tHỘC THỊ
+Hình 3. Website báo Thiếu niên Tiền phong và Nhi đồng (ảnh chụp ngày 07/11/2022)
+8
+
+[Trang 9 | ocr]
+An truy cập vào website của báo Thiếu niên Tiền phong và Nhi đồng
+theo địa chỉ thieunier..vri. Giao diện trang web tương tự như Hình 3.
+Trên trang web có rát nhiều thông tin. Để tìm được thông tin về hlgày hôi
+Trạng Nguyên nihỏ tuồi, theo em, An nên làm theo cách nào?
+8 Khi truy cập website, trang chủ (homepage) sẽ xuất hiện đầu tiên.
+Hình 4 là một phần giao diện trang chủ của website báo Thiếu niên
+Tiền phong và Nhi đồng.
+Thông tin trên website thường được sắp xép theo chủ đề. Ví dụ các chủ đề của
+website báo Thiếu niên Tiên phong và Nhi đồng là ChuyŠn động, Học đường,
+Giải trí,... (tương tự Hình 4). Nhờ việc sắp xếp đó, người sử dụng dễ dàng
+tìm được thông tin. Chẳng hạn, để tìm thông tin về các bộ phim phù hợp với
+lứa tuổi thiếu niên, em chọn chủ đề Giải trí, chọn mục Phirr.
+_ > câu : :
+=^ ` nh Q‹ ĐẠI HỘI ĐOÀN CÁC CẤP (30c.
+g0 SE Z CỬ TIẾN TÓI ĐẠI HỘI ĐOÁN TOÁNQUOC SN QENN ï
+Hình 4. Các chủ đề của website báo Thiếu niên Tiền phong và Nhi đông
+Các website còn cung cấp công cụ (nút tìm `.“ R `
+kiếm) để tìm kiềm thông tin trongwebsite.Thao ° Nút về trang chủ thường
+tác tìm kiếm thông tin trong website tương tự có hình ngôi nhà ñ.
+thao tác tìm kiếm thông tin trên Internet mà _.. Nút tìm kiếm thường có
+em đã biết ở lớp 4. Ví dụ, em nháy chuột vào hình kính lúp %.
+nút tìm kiêm trên website báo Thiếu niên ma
+Tiền phong và Nhi đồng (Hình 4). Ô tìm kiếm _°_ Các chủ đề thường được
+được hiển thị (Hình 5), em nhập từ khoá vào __ đất ở phần đâu trang.
+ô tìm kiếm rồi nháy chuột vào nút Tìm kiếm.
+GÓC Ô MAI HI-TECH THẺ THAO Ss
+Hình 5. Ô tìm kiếm trên website báo Thiếu niên Tiền phong và Nhi đồng
+9
+
+[Trang 10 | ocr]
+g;: Để tìm kiếm thông tin trên một website em có thể: ị
+‡ ® Duyệt theo các chủ đề của website. ị
+‡ s Sử dụng công cụ tìm kiếm của website. E
+g® Muốn tìm kiếm thông tin liên quan đến bóng đá trên website báo
+Thiếu niên Tiền phong và Nhi đồng (Hình 4) em nên tìm ở chủ đề nào?
+A. Chuyển động. 58 Học đường.  © Giải trí. D. Thể thao.
+Ê. HỢP TÁC, CHIA SẺ THÔNG TIN
+HOẠT ĐỘNG ° Hợp tác, chia sẻ thông tin
+Sản phẩm của nhóm là bài trình chiếu trước lớp về Ngày hội Trạng Nguyên
+nhỏ tuồi. An đã tìm được thông tin và trình bày lại trong tệp văn bản lưu trên
+máy tính. Minh vẽ hình minh hoạ và tìm hình ảnh cho bài trình chiếu. Các
+tệp hình ảnh Minh lưu trữ trong một thư mục trên máy tính. Khoa là người
+tạo bài trình chiếu từ thông tin mà các bạn tìm được. Theo em, làm thế nào
+để Khoa lấy được thông tin từ các bạn và hoàn thành nhiệm vụ của mình?
+@ Thông tin mà các bạn lưu Tơ
+trên máy tính có thể được £ ` _—.sS
+chia sẻ bằng cách sao chép <4 z ` / \. 8
+và gửi đi nhờ các thiết bị lưu trữ di /, —k] /4/¬( 6a
+động (ví dụ USB), nhờ mạng máy | j.. '= Z4
+tính (ví dụ gửi qua thư điện tử, LÊ0 B==nI k^
+mạng xã hội,... ). ¬—¬ \ụ l8
+Để chia sẻ thông tin, An có thể nhờ - -
+mẹ gửi cho Khoa qua thư điện tử. Hình 6. Chia sẻ thông tin
+Minh có thể sao chép tệp vào thiết
+bị lưu trữ rồi mang đến nhà Khoa. Khoa sử dụng thông tin mà các bạn đã
+chia sẻ để tạo bài trình chiếu. Nhờ đó mà các bạn có thể hoàn thành được
+nhiệm vụ.
+g; « Các em cần hợp tác và chia sẻ thông tin để hoàn thành :
+:_ công việc chung. ì
+‡ « Có nhiều cách để chia sẻ thông tin, ví dụ gửi qua mạng
+‡ _ hay sử dụng các thiết bị lưu trữ di động. ị
+10
+
+[Trang 11 | ocr]
+g® Em hãy chọn những cách có thể giúp chia sẻ thông tin lưu trên máy tính:
+A. Gửi tệp qua thư điện tử.
+8. Gửi tệp qua mạng xã hội.
+©. Sao chép tệp vào thiết bị lưu trữ di động.
+D. Gọi điện thoại, truyền đạt thông tin.
+3. THỰC HÀNH TÌM KIẾM THÔNG TIN TRÊN WEBSITE VÀ CHIA SẺ
+THÔNG TIN
+NHIỆM VỤ m Tìm thông tin về Ngày hội Trạng Nguyên nhỏ tuổi trên website
+báo Thiếu niên Tiền phong và Nhi đồng tại địa chỉ thnisunieni.vrì bằng công cụ
+tìm kiếm của website. Sao chép hoặc trình bày lại thông tin tìm được vào tệp
+văn bản, tệp hình ảnh trên máy tính.
+Hướng dẫn
+Bước 1: Khởi động trình duyệt web, nhập địa chỉ iI:ieunier..vn vào thanh địa
+chỉ rồi nhán phím Enter. Trang chủ của website được mở ra.
+Buóc 2: Thực hiện các thao tác như hướng dẫn trong Hình 7.
+Hình 7. Tìm kiếm thông tin trên website
+Kết quả tìm kiếm được hiển thị như Hình 8.
+Ngày hội Trạng Nguyên nhỏ tuỗi và Viết chữ đẹp
+thieunien.vn › ngay-hoi-trang-nguyen
+PT TE Trang Nguyen Nhỏ Toới lận tơ 2 Xem chỉ tiết. Thế lệ Cuộc Thỉ: Viết chữ đẹp "Nét Chữ - nết người” Toàn quốc,
+“=€=*>“ năm học 2021-2022. Xem chỉ tiết.
+Ngày hội "Trạng nguyên nhỏ tuỗi" lẳn thứ XVIII- XIX và Viết chữ đẹp.
+'thieunien.vn › ngay-hoi-trang-nguyen-nho-tuoi-lan-thu-xvii-xix-va-viet-c.
+|›^¬- hưng .„. Năm 2020, do ảnh hưởng của đại dịch COVID-19, Vòng chung kết Ngày hội lần thứ 18 dự kiến tố
+|chức vào tháng 4/2020 đã không thế diễn ra. Vì vậy
+Hình 8. Kết quả tìm kiếm
+Bước 3: Nháy chuột vào kết quả ở đầu danh sách để mở trang web chứa thông
+tin về cuộc thi. Nháy chuột vào dòng chữ Xern ch: tiết -> để mở phần thông tin
+chỉ tiết.
++11
+
+[Trang 12 | ocr]
+ước 4: Đọc thông tin. Em cần ghi lại những thông re
+tin chính của cuộc thi như: đối tượng, nội dung, z ` +~>
+hình thức, thời gian, địa điểm, giải thưởng,... —ÉH.J. l2
+Š
+8ước 5: Đễ có thông tin cho bài trình chiếu, em có Copy mape
+thể chọn lọc và sao chép về máy tính các thông DuERESBE
+tin chính và hình ảnh, biểu tượng của cuộc thi. Ví dụ ÑN( ;;ˆ-“.ˆ”
+muốn sao chép biểu tượng cuộc thi, em nháy nút | ° À ".
+phải chuột vào hình ảnh biểu tượng, chọn Save \/ 2 -
+image as... (Hình 9). Cửa sổ Save As hiện ra, Hình 9.ưu tệp vềmáy tính
+em chọn thư mục lưu tệp, nhập tên tệp là Logo rồi nhán nút Save để hoàn thành.
+8ước 6: Với các thông tin dạng văn bản, em chọn đoạn văn bản muốn sao
+chép (tương tự cách chọn trong phần mềm soạn thảo văn bản), nhắn giữ
+phím Ctrl và gõ phím C để sao chép, mở tệp văn bản trên máy tính, nhán giữ
+phím Ctrl và gõ phím V để dán vào tệp văn bản. Lưu lại tệp văn bản với tên
+ThongtinCuocthi.
+NHIỆM VỤ 2| Sử dụng USB để chia sẻ tệp.
+Hướng dẫn
+Em có thể sao chép tệp vào USB rồi chuyển cho người cần. Cách thực hiện
+như sau:
+Bước 1: Kết nối USB vào máy tính.
+- Cắm USB vào cổng USB trên thân máy tính. Chú ý quan sát để cắm
+đúng chiều, nhẹ tay (Hình 10, Hình 11). Em có thể nhờ người lớn trợ giúp.
+Hình 10. Cổng USB trên máy tính Hình 11. USB đã được cắm vào cổng
+
+— Khi cắm USB, máy tính sẽ coi Œ = b4 ST L^N s. s4
+USB như một ổ đĩa tương tự như si TT. ¬
+minh hoạ ở Hình 12. Việc sao TT : —
+chép tệp trong USB tương tự như | _ #"s tt |
+việc sao chép tệp trong máy tính =— kS¿§ẽ
+mà em đã biết. sˆNeeo,
+
+= " [E=
+
+Hình 12. Cửa sổ hiển thị nội dung ổ đĩa USB
+12
+
+[Trang 13 | ocr]
+Bước 2: Ngắt kết nối USB khỏi máy tính.
+Sau khi sao chép tệp, em cần ngắt USB khỏi máy tính đúng cách để tránh
+làm hỏng USB và tệp.
+— Nháy chuột vào mũi tên nhỏ ở phía dưới, bên phải màn hình nền.
+— Chọn biểu tượng USB, chọn Eject trong hộp thoại vừa được mở.
+— Máy tính hiện thông báo như Hình 13 cho biết em có thể rút USB ra khỏi
+máy tính an toàn.
+— Rút USB ra khỏi cổng USB.
+ñ¿ Windows Explorer
+Ề Safe To Remove Hardware
+|
+Hình 13. Thông báo có thể rút USB ra khỏi máy tính an toàn
+47 TẬP
+Em hãy quan sát Hình 14 và thực hiện các yêu cầu sau:
+a) Nêu địa chỉ website.
+b) Nêu tên các chủ đề thông tin trong website.
+©) Chỉ ra vị trí của công cụ tìm kiếm thông tin.
+angmgorvn sa
+sà TRUNG TÂM DỰ BÁO KHÍTƯỢNGTWÚY. VĂN QUỐC GIA :
+mm + mhAMfT - ẤM ~ THẳYVM - HẪVễN - PHẢNVNGHÌROTHPATA ~ EOAÐgCaciMEMOE ~ mốc ~ HESWEmV
+Hình 14. Một phần giao diện website
+œ VẬN DỤNG
+Em hãy truy cập vào website ở Hình 14, xem thông tin theo các chủ đề, sử
+dụng chức năng tìm kiếm của website để tìm kiếm thông tin về thời tiết ở địa
+phương em.
+13
+
+[Trang 14 | ocr]
+° ~ F¬ - ~
+CHỦ ĐỀ 3. TỔ CHỨC LƯU TRỮ,
+Ò¬ F4 ` .3 ^
+ni ễ ^
+W nukiếu môn nh —,
+ESŸẰ. TRONG GIẢI QUYẾT VẤN ĐỀ
+Sau bài này em sẽ:
+" Giải thích được sự cần thiết, tầm quan trọng của việc thu thập và
+tìm kiếm thông tin trong giải quyết vấn đề.
+*. Tìm kiếm và chọn được thông tin phù hợp với vấn đề cần giải quyết.
+* Thểhiện được sự hợp tác với người khác để giải quyết vấn đề cụ thể.
+øo KHỞI ĐỘNG
+Vào đầu năm học, cô giáo giao cho mỗi nhóm ba bạn hoàn thành một bài
+trình chiếu về kì nghỉ hè vừa qua và nêu những kinh nghiệm, bài học rút ra
+từ kì nghỉ đó.
+Cả ba bạn An, Minh, Khoa đều được bố mẹ cho đi nghỉ hè. An đi Nha Trang,
+Khoa đi Đà Lạt, Minh đi thăm họ hàng ở Úc. Ván đề cần giải quyết của các
+bạn là chuẩn bị đồ dùng mang theo. Như mọi kì nghỉ hè trước đó, cả ba bạn
+đều háo hức chuẩn bị và xếp vào va li những đồ dùng như: quần áo bơi, ô,
+kính bơi, kem chống nắng, những bộ quần áo mùa hè mát mẻ,... và hi vọng
+sẽ tận hưởng một chuyến đi thú vị.
+Em hãy đoán xem kì nghỉ hè của ba bạn có thành công không.
+Í. Sự CẦN THIẾT, TẦM QUAN TRỌNG CỦA VIỆC THU THẬP,
+TÌM KIÊM THÔNG TIN
+HOẠT ĐỘNG S1ả Những vấn đề mà ba bạn có thể gặp phải
+trong kì nghỉ hè
+1. Nha Trang là thành phó biển, thời tiết quanh năm nắng nóng. Với
+những gì chuẩn bị, An có kì nghỉ như thế nào?
+2. Đà Lạt là thành phố cao nguyên, thời tiết quanh năm mát mẻ, tối và
+đêm khá lạnh. Với những gì chuẩn bị, Khoa có kì nghỉ như thế nào?
+14
+
+[Trang 15 | ocr]
+3. Úc là nước nằm IPJESĐIPDERIPEIE
+ở Nam bán cầu, l ® Mự N Bị 4 M2 4 4 |.
+Me này H— đang -. | é cha :
+là mùa đông. Với v3 : 4ÈŠ'\” 6| ớ)
+những gì chuẩn bị, t lÌ “xiuŠ”i =
+Minh có kì nghỉ như' |`Í lv —.
+Hình 15. Kì nghỉ của An Hình 16. Kì nghỉ của Minh
+&@ Để giải quyết ván đề em cần đưa ra quyết định. Để có được quyết định
+thì cần phải có thông tin.
+Ví dụ, để chuẩn bị đồ mang theo cho kì nghỉ hè, các bạn cần thu thập, tìm
+hiểu thông tin về địa điểm mà mình sẽ đến. Trước khi đi nghỉ hè ở Nha Trang,
+An tìm thông tin và biết Nha Trang là thành phó biển, quanh năm nắng nóng
+vì vậy chỉ cần mang quần áo mùa hè, đồ bơi, kính bơi, kem chống nắng,... Khi
+chuẩn bị cho chuyến đi nghỉ hè, cả Khoa và Minh đều không tìm hiểu thông
+tin. Khoa không biết thời tiết ở Đà Lạt mát mẻ và lạnh về đêm, Minh không
+biết vào thời gian ở Việt Nam là mùa hè thì ở Úc là mùa đông. Vì mang toàn
+quần áo mùa hè nên Khoa và Minh không có đủ quần áo ám để đi ra ngoài
+vui chơi, tham quan các cảnh đẹp ở nơi mình đến. Kì nghỉ hè của Khoa và
+Minh vì thế không thành công như mong đợi.
+Từ ví dụ trên, em có thể tháy được sự cần thiết và tầm quan trọng của việc
+thu thập, tìm kiếm thông tin liên quan đến vấn đề cần giải quyết. Thiếu thông
+tin sẽ khiến em gặp khó khăn trong giải quyết ván đề. Có đủ thông tin sẽ giúp
+em giải quyết vấn đề tốt hơn.
+8 ‡ » Thu thập và tìm kiếm thông tin là cần thiết và quan trọng
+¡_ trong giải quyết vấn đề. ì
+‡_ » Có đầy đủ thông tin sẽ giúp em giải quyết vấn đề tốt hơn.
+gP Để chuẩn bị cho chuyến đi tham quan với lớp, em cần những thông tin gì?
+^. Thông tin về vị trí của điểm tham quan.
+B. Thông tin dự báo thời tiết ngày đi tham quan.
+©. Thông tin về chương trình tham quan.
+D. Đánh giá, nhận xét, kinh nghiệm của những người đã tham quan ở
+địa điểm đó.
+15
+
+[Trang 16 | ocr]
+£. HỢP TÁC ĐỀ GIẢI QUYẾT VẤN ĐỀ
+HOẠT ĐỘNG . Cách giải quyết vấn đề
+Để hoàn thành bài trình chiếu mà cô giáo giao cho, theo em các bạn An,
+Minh, Khoa nên thực hiện theo phương án nào sau đây? Tại sao?
+^._ Ai có khả năng và thích làm thì làm hộ cả nhóm, các bạn khác đỡ phải làm.
+B. Mỗi bạn làm một bài trình chiếu của riêng mình, rồi chọn bài nào hay
+nhất trình bày.
+€. Chia công việc thành nhiều công việc nhỏ hơn, phân công mỗi bạn làm
+một việc tuỳ vào điểm mạnh của từng người.
+6 Có nhiều cách khác nhau để tạo bài trình chiếu. Tuy nhiên, cách hợp lí
+nhát là cả ba bạn cùng đóng góp công sức để hoàn thành công việc chung.
+Khi làm việc nhóm để giải quyết một ván đề nào đó, các em thảo luận, phân công
+công việc dựa vào điểm mạnh của từng người. Trong quá trình thực hiện,
+mỗi người đều cần có ý thức, tinh thần trách nhiệm hoàn thành phần việc của
+mình và hợp tác, giúp đỡ nhau để cùng hoàn thành công việc chung.
+Ví dụ, với bài trình chiếu của nhóm, dựa vào những việc cần làm và điểm mạnh
+của từng bạn, cả nhóm thảo luận và phân công như sau: Mỗi bạn tự chuẩn bị
+nội dung văn bản, hình ảnh, video,... cho ba trang chiếu nói về kì nghỉ hè và
+một trang chiếu nói về những trải nghiệm, bài học thu được của riêng mình. An
+giúp các bạn chỉnh sửa văn bản, Minh giúp các bạn chỉnh sửa hình ảnh cho
+đẹp hơn, Khoa sẽ ghép các trang chiếu để hoàn thành bài trình chiếu. Như vậy,
+cả ba bạn đều có ý thức và trách nhiệm hoàn thành công việc của mình.
+8: s Khi làm việc nhóm, cần thảo luận, phân công công việc Ì
+¡_ dựa vào điểm mạnh của mỗi người. ì
+¡_e Khi được phân công, cần có ý thức, tỉnh thần trách nhiệm; :
+¡ _ hợp tác và giúp đỡ nhau. ì
+đP Chọn phát biểu đúng.
+A. Khi làm việc nhóm, cần có tinh thần trách nhiệm.
+B. Hợp tác để giải quyết ván đề sẽ hiệu quả hơn.
+©. Khi làm việc nhóm, bạn nào giỏi thì nên làm hộ cả nhóm.
+16
+
+[Trang 17 | ocr]
+3. THỰC HÀNH TÌM KIỀM VÀ LỰA CHỌN THÔNG TIN
+NHIỆMVỤ Elca đình em có kế hoạch đi du lịch ở Sa Pa vào dịp tết Dương lịch.
+Em hãy tìm kiếm thông tin về các điểm tham quan ở Sa Pa.
+Hướng dẫn
+Thông tin có thể tìm kiếm và thu thập từ nhiều nguồn khác nhau: ti vi, sách,
+báo, từ mọi người xung quanh,... đặc biệt là từ Internet.
+— Em có thể tìm kiếm thông tin ở các website chính thức của thành phó Lào Cai
+và Sa Pa.
+—_ Ví dụ: Em thực hiện các bước sau để tìm kiếm thông tin trên Internet.
+Bước ï: Sử dụng máy tìm kiếm google.corn để tìm kiếm với từ khoá Các điểm
+tham quan ở Sa Pa.
+Em sẽ nhận được kết quả tương tự Hình 17.
+Khoảng 5.030.000 kết quả (0,54 giây)
+Thắng cảnh hàng đầu tại SaPa :
+Cát Cát Nhà Thờ Đá Sapa Đèo Ô Quy Hồ.
+Khu dân cư 4.4 + (6.038) 4,7 « (546)
+Nhà thờ Công giáo. Đường vượt núi
+x Tư N 2> đc “<<
+„ = 4
+đa..”.Á % ự
+Phan Xi Păng Bãi Đá Cổ Sa Pa Ham Rong Mountain, Sa Pa
+A7 + (2354) 4.0% (691) 4.3% (1.690)
+Đĩnh núi Điêm thu hút khách du lịch. Điêm thu hút khách du lịch.
+TOP 15 địa điểm du lịch ở Sapa được yêu thích nhất 2023®
+1. Bàn Cát Cát, Sapa mang vẻ đẹp của vùng núi Tây Bắc - 2. Bàn Tả Phìn - 3. Cổng
+trời Sapa - 4. Bản Ý Linh Hồ, Sapa - 5. Bản Lao Chải - Tả Van - 6. Đèo Ô Quy Hồ
+Hình 17. Kết quả tìm kiếm
+Bước 2: Các thông tin phù hợp nhát với từ khoá được xếp ở đầu danh sách
+kết quả. Em nháy chuột vào từng kết quả để mở các trang web chứa thông tin,
+đọc và thu thập thông tin liên quan đến ván đề em đang quan tâm.
+17
+
+[Trang 18 | ocr]
+NHIỆM VỤ B Dựa vào thông tin tìm được ở Nhiệm vụ 1, em hãy lựa chọn
+các điểm tham quan ở Sa Pa phù hợp với gia đình em.
+Hướng dẫn
+— Kết quả tìm kiếm cho tháy Sa Pa có rất nhiều điểm tham quan:
++ Các điểm tham quan ở gần: nhà thờ đá Sa Pa, hồ Sa Pa, chợ đêm Sa Pa,...
++ Các điểm tham quan phải đi xa: đèo Ô Quy Hồ, Cầu Mây,...
++ Các điểm tham quan phải trèo đèo, lội suối: đỉnh Phan Xi Păng, thung
+lũng Mường Hoa,...
++ Các điểm tham quan có chỗ chụp ảnh đẹp: ruộng bậc thang, Cổng trời,...
+— Việc lựa chọn điểm tham quan phụ thuộc vào đặc điểm của chuyến đi như:
+số ngày tham quan; thành phần tham gia; nhu cầu chung của mọi người,...
+— Dựa vào kết quả tìm kiếm và đặc điểm của chuyến đi, em sẽ lựa chọn
+được các điểm tham quan phù hợp với gia đình. Ví dụ: Trong đoàn có nhiều
+người già, trẻ em thì không nên đi các điểm tham quan ở xa, đường đi vắt vả,
+phải trèo đèo, lội suối.
+4Ø. TẬP
+1. Chọn phương án sai:
+A. Để giải quyết ván đề em cần đưa ra quyết định.
+B. Để có được quyết định em cần có thông tin.
+©. Thông tin không có vai trò gì trong giải quyết ván đề.
+D. Thu thập, tìm kiếm thông tin liên quan rất quan trọng trong việc giải quyết
+vấn đề.
+2. Em hãy truy cập vào website có địa chỉ sodulich.hanoi.gov.vn của Sở Du lịch
+Hà Nội đễ tìm kiếm thông tin và lập một danh sách các địa điểm tham quan
+ở Thủ đô.
+lử2j VẬN DỤNG
+Mẹ em có ý định mua một bộ truyện để tặng em nhân dịp sinh nhật. Em hãy truy
+cập vào Internet và thực hiện:
+a) Tìm thông tin về những bộ truyện hay dành cho lứa tuổi thiếu niên.
+b) Chọn một bộ mà em thích rồi tìm thông tin về giá tiền, nơi bán.
+c) Ghi lại thông tin tìm được vào một tệp văn bản trên máy tính.
+18
+
+[Trang 19 | ocr]
+Sau bài này em sẽ:
+». Tạo được các thư mục với cấu trúc cây hợp lí.
+»_ Sử dụng được công cụ tìm kiếm trên máy tính để tìm các thư
+mục và các tệp.
+o KHỞI ĐỘNG
+Trong chương trình Tin học lớp 3, em đã biết các tệp và thư mục trong máy
+tính được sắp xếp theo cấu trúc cây. Cấu trúc cây được sử dụng để biểu diễn
+một cách sắp xếp, phân loại cụ thể. Em cũng biết việc sắp xếp, phân loại hợp
+lí sẽ giúp em dễ tìm kiếm và tìm kiếm nhanh hơn. Vậy cách sắp xếp, phân loại
+thế nào là hợp lí2 Cáu trúc cây thư mục thế nào là hợp lí?
+1. TẠO THƯ MỤC VỚI CẤU TRÚC CÂY HỢP LÍ
+H0ẠT ĐỘNG “* Thế nào là một cấu trúc cây thư mục hợp lí?
+Em hãy quan sát hai cây thư mục trong Hình 18, Hình 19 và trả lời các
+câu hỏi sau:
+Cây thư mục nào có cấu trúc hợp lí hơn? Tại sao?
+Local Disk (D:) Local Disk (D:) |
+Anh-Bai-tap-nhom Anh-Bai-tap-nhom.
+Khoa An
+An  Sanay-Cam-Ranh.jpg.
+E Sanbay-Cam-Ranhjpg C Ven-Hai-Duong-hocjpg
+ Ven-Hai-Duong-hocjpg & vinpearl-Landjpg
+ Vinpear-Landjpg Khoa
+& cho-Da+Latjpg  choDa+Latjpg
+= Ho-Than-tho.jpg. &C He-Than-tho jpo.
+& Niatho-Con-gajpg  Nha-tho-Con-gajpg
+Minh Minh
+&C chúoteui jpg  chúot‹ui jpg
+& Nhanat-Opera.jpg  Nha-hat-Operajpg
+RE Tuyetroiipo  Tuyetroijpo
+Hình 18. Cây thư mục 1 Hình 19. Cây thư mục 2
+19
+
+[Trang 20 | ocr]
+Số lượng các tệp và thư mục trong một
+
+&@ máy tính rất lớn. Nếu em không sắp xếp Thường Xuyên dọn dẹp và
+và lưu trữ chúng một cách hợp lí thì sẽ _ SắP XẾP lại các fhư mục và
+
+rất khó khăn khi cần tìm. tệp trong máy tính.
+
+Để tạo được một cấu trúc cây thư mục hợp lí,
+
+em thực hiện:
+
+— Đặt tên thư mục hoặc tệp theo một cách ®.
+
+thóng nhát. Tên cần rõ ràng, gợi nhớ nội dung Ò
+
+của thư mục hoặc tệp. Xà) A2)
+
+—_ Phân loại tệp và sắp xếp vào các thư mục: W P
+
+Em cần phân loại các tệp. Ví dụ: phân theo loại `
+
+tệp (tệp ảnh, phim, văn bản, trình chiếu,...),
+
+theo thời gian (theo từng năm, từng tháng,...), theo đối tượng (ảnh gia đình, ảnh
+
+bạn bè,...). Hình 19 là cây thư mục trong máy tính của Khoa, lưu trữ các tệp
+
+được dùng để tạo bài trình chiếu của nhóm. Các tệp được phân theo loại tệp
+
+(tệp ảnh) và được lưu trữ trong các thư mục có tên là tên của người sở hữu
+
+các tệp đó.
+
+&: « Sắp xếp các thư mục và tệp bằng cấu trúc cây hợp lí sẽ ï
+¡ _ giúp tìm kiếm dễ dàng và tiết kiệm thời gian. ị
+‡ « Để có được cấu trúc cây hợp lí em cần phân loại các tệp
+:__ theo các tiêu chí như thời gian, nội dung, loại tệp, người :
+
+g® Vì sao việc đặt tên cho thư mục và tệp lại quan trọng?
+
+£. (ÔNG CỤ TÌM KIẾM TRÊN MÁY TÍNH
+
+@ Ngoài việc tìm kiếm thư mục và tệp dựa vào cách sắp xếp, em còn có
+
+thể sử dụng công cụ tìm kiếm có sẵn trên máy tính.
+
+Khi mở cửa sổ This PC (Hình 20), em sẽ nhìn thấy công cụ tìm kiếm nằm ở
+
+góc trên, bên phải cửa số.
+
+Công cụ tìm kiếm rất hữu ích khi em chỉ nhớ được tên hoặc một phần tên tệp
+
+mà không nhớ chính xác tệp đó được lưu ở thư mục nào.
+
+20
+
+[Trang 21 | ocr]
+W8 ThépC x +
+© New ~ X Ø0 ƒíñ @đ ® Ú ®wse-x 8=VWw-
+Công cụ tìm kiếm
+› = THƯỢNG
+I
+2iíiems 1 tem selected. =
+Hình 20. Công cụ tìm kiếm trên máy tính
+Nháy chuột vào ô tìm kiếm, nhập tên thư mục hoặc tệp mà em muốn tìm kiếm
+rồi nhắn phím Enter. Công cụ tìm kiếm sẽ tìm trong thư mục đang mở và hiển
+thị kết quả nếu tìm tháy.
+& ¡_e Công cụ tìm kiếm trên máy tính được cung cấp trong cửa :
+H z + ~ vị H
+: _ số phần mềm File Explorer. :
+ị s Sử dụng công cụ tìm kiếm trên máy tính em sẽ nhanh ị
+‡ _ chóng tìm thấy thư mục và tệp muốn tìm. ị
+gP Quan sát Hình 21 và chọn phương án trả lời đúng.
+Sau khi nhập cụm từ FIo-Than-th:o vào ô tìm kiếm và nhán phím Enter
+thì công cụ tìm kiếm sẽ tìm kiếm thư mục hoặc tệp có tên Ho-Than-thio
+ở đâu?
+A. Trong ổ đĩa D:. B. Trong thư mục Anh-Bai-tap-nhom.
+©. Trong máy tính. Ð. Trong thư mục Ân.
+@ONwx- XS (Ô [ñ G Ô Sẻ SEVWx «+
+>  đ&Widows(C) Name ˆ Date moditied Type sử
+'v_ New Volume (D) ĐRAn 2023-03-19 20:48. File folder
+8 AnToan. l Ÿ§ Khoa 2023-03-19 2049. File folder
+> #iAnhBadapnhom 23 Minh 2023-03-19 2050. File folder
+thene in
+Hình 21. Tìm kiếm thư mục và tệp
+21
+
+[Trang 22 | ocr]
+3. THỰC HÀNH TẠO CÂY THƯ MỤC VÀ SỬ DỤNG CÔNG CỤ TÌM KIỀM
+TRÊN MAY TÍNH
+
+IIHIỆM \UỤ ÑẾ Tạo cây thư mục có cấu trúc như Hình 19.
+Hướng dẫn
+Bước 1: Mở cửa số This PC.
+ước 2: Nháy chuột vào ổ đĩa D: trong khung bên trái của cửa sổ This ĐC.
+Bước 3: Tạo thư mục có tên Anh-Bai-tap-nhom.
+Bước 4: Nháy đúp chuột vào biểu tượng thư mục Anih-Bai-tap-nhorrn vừa tạo
+để mở thư mục.
+Bước 5: Tạo ba thư mục có tên lần lượt là An, Minh, Khoa.
+Bước 6: Sao chép các tệp ảnh của mỗi bạn vào thư mục có tên tương ứng để
+được kết quả tương tự như Hình 22.
+
+«&  > v 4 Ê› ThisPC › NewVolume (D) › Anh-Bai-tap-nhom › An
+
+v88 Anh-Bai-tap-nhom Name
+— TAn . [8ì San-bay-Cam-Ranh.jpg
+Ÿ§ Khoa [3Ì Vien-Hai-Duong-hoc.jpg
+B8 Minh [Ì Vinpearl-Land.jpg
+Hình 22. Kết quả thực hành
+
+NHIỆM VỤ 2| Khoa đã hoàn thành việc tạo bài trình chiếu có tên Ki-nghi-he
+và lưu lại trên ô Ð: của máy tính nhưng không nhớ cụ thể ở thư mục nào. Em
+hãy giúp Khoa tìm lại tệp trình chiếu bằng công cụ tìm kiếm trên máy tính.
+Hướng dẫn
+Bước 1: Mở cửa sỗ This PC.
+ước 2: Nháy chuột vào ổ đĩa D: trong khung bên trái của cửa sổ This PC.
+ước 3: Nháy chuột vào ô tìm kiếm, nhập tên bài trình chiếu là !<¡-rgii-:e và
+nhắn phím Enter. Kết quả tìm kiếm là các tệp và thư mục có tên chứa từ khoá
+sẽ được hiển thị trên cửa sổ tương tự như Hình 23.
+22
+
+[Trang 23 | ocr]
+⁄ Ki-nghi-he - Search Results inN : + — 2l Sẽ
+4 Sort §= View ...
+€C +3 v 4> SerhReulsinNewVoume(D) ›" vẻ Ơ Ki-nghi-he. l>|
+v_ New Volume (D) ¬ Si,
+II: se “.
+Anh-ki-nghi-he-2022 Size 61MB
+> ÉAnhostep-nhom 1 Date modified: 2022-07-08 09:14
+1item =u
+Hình 23. Kết quả tìm kiếm
+Em nháy đúp chuột vào tên tệp để mở hoặc nháy nút phải chuột vào tên tệp
+và chọn Open file location để mở thư mục lưu tệp.
+4e TẬP
+1. Theo em, phương án nào là hợp lí để tạo cây thư mục lưu trữ các tệp của
+bạn An trong thư mục cá nhân?
+Local Disk (D:) E=—-osci) Local Disk (D:)
+< + cG
+IDBAn lLip:#A 'EÔ Lop-3A
+Anh-va-Video #2ekiie-oe Anh-va-Video
+Lop-3A Lop-4A Lop-4A
+Anh-va-Video.
+'Van-ban 'Van-ban-va-Trinh-chieu Van-ban
+Lop-+A Lop-5A. Lop-5A.
+Anh-va-Video.
+Lop-5A 'Van-ban-va-Trinh-chieu. Trinh-chieu.
+Ầ B c
+2. Em hãy thực hành tạo cây thư mục trên máy tính theo phương án em đã
+chọn ở Câu 1.
+ltời VẬN DỤNG
+Em hãy vận dụng những kiến thức trong bài để đặt lại tên, phân loại, sắp xếp
+các thư mục và tệp trong thư mục của em trên máy tính thực hành ở trường.
+Lưu ý: Không thay đổi cấu trúc các thư mục khác trên máy tính.
+23
+
+[Trang 24 | ocr]
+2a “
+CHỦ ĐỀ4. ĐẠO ĐỨC,
+"..h
+E BẢN QUYỀN NỘI DUNG THÔNG TIN
+Sau bài này em sẽ:
+" Giải thích được một số khái niệm liên quan đến bản quyền nội
+dung thông tin.
+". Nhận biết và giải thích sơ lược được một số vấn đề đạo đức và tính
+hợp lệ của việc truy cập nội dung, việc bảo mật thông tin.
+» Thể hiện được sự tôn trọng tính riêng tư và bản quyền nội dung
+thông tin.
+"Thể hiện được sự không đồng tình với hiện tượng sai trái, gian dối
+trong học tập và đời sống như xem thư riêng hay sao chép tệp của
+bạn khi chưa được sự đồng ý,...
+o KHỞI ĐỘNG
+Các bạn học sinh lớp 5A làm báo tường chào mừng ngày Nhà giáo Việt Nam.
+Trong tờ báo tường, nhiều nội dung thông tin như bài thơ, bài viết, hình ảnh,...
+được các bạn tự sáng tác hoặc sưu tầm để thẻ hiện tình cảm của mình tới các
+thầy cô giáo.
+Chúng ta hãy cùng tìm hiểu để biết các bạn lớp 5A đã sử dụng nội dung thông
+tin như thế nào nhé.
+HOẠT ĐỘNG â Tác giả là ai?
+Em hãy quan sát hai bài báo tường của các bạn lớp 5A (Hình 24 và Hình 25)
+và cho biết:
+1. Bài thơ trong Hình 24 là của tác giả nào? Bài viết trong Hình 25 là của ai?
+2. Theo em, tại sao phải ghi rõ tên tác giả?
+24
+
+[Trang 25 | ocr]
+£ Sen các |#ƑOg4fpemra
+` U TN
+-. lân
+—. T ® j |
+l ý vớ D| , TIỀN) _Ñ |
+Hình 24. Bài thơ Hình 25. Bài viết
+ÍL. BẢN QUYỀN NỘI DUNG THÔNG TIN
+@ Trong tờ báo tường của các bạn lớp 5A có bài thơ “Cô giáo của em" của
+nhà thơ Xuân Quỳnh (Hình 24) và bài viết về cô giáo của bạn Ngô Hà Trang
+(Hình 25). Bài thơ, bài viết, hình ảnh minh hoạ đó là những ví dụ cụ thể về
+nội dung thông tin.
+Nội dung thông tin được thể hiện dưới dạng văn bản, hình ảnh, âm thanh hay
+đa phương tiện,... Tác giả (cá nhân hoặc tổ chức sở hữu nội dung thông tin) có
+quyền cho phép hoặc không cho phép người khác sử dụng nội dung thông tin
+của mình.
+6: » Bản quyền nội dung thông tin là quyền của tác giả cho
+¡ phép hoặc không cho phép người khác sử dụng nội dung :
+¡ thông tin. ị
+‡ e Chỉ được sử dụng nội dung thông tin khi được phép. ị
+g Hãy chọn phát biểu sai:
+^. Tác giả có quyền cho phép người khác sử dụng nội dung thông tin của mình.
+B. Tác giả có quyền không cho phép người khác sử dụng nội dung thông tin
+của mình.
+©. Nội dung thông tin được thể hiện dưới dạng văn bản, hình ảnh, âm thanh
+hay đa phương tiện,...
+D. Nội dung thông tin phải gồm đầy đủ các dạng văn bản, hình ảnh, âm thanh.
+25
+
+[Trang 26 | ocr]
+£. TRUY CẬP VÀ BẢO MẬT NỘI DUNG THÔNG TIN
+@ Khi sử dụng nội dung thông tin của người khác, cần được tác giả cho
+phép và ghi rõ nguồn tin. Ví dụ, khi trình bày một bài thơ sưu tầm, cần ghi
+rõ tên tác giả như minh hoạ ở Hình 24, hoặc ghi nguồn là “sưu tầm” trong
+trường hợp không rõ tên tác giả. Người sử dụng có thể không trích dẫn nguyên
+văn mà diễn đạt lại nội dung thông tin bằng ngôn ngữ của mình. Trường hợp
+này cũng cần ghi nguồn tin, ví dụ, “phỏng theo truyện Rùa và Thở'.
+Khi truy cập nội dung thông tin của người khác mà không được phép, dù vô
+tình hay cố ý, đều là hành vi vi phạm đạo đức. Ví dụ như sao chép bài của bạn
+trong giờ kiểm tra.
+Trong quá trình tạo ra sản phẩm, tác giả cần có ý thức bảo vệ, giữ bí mật thông
+tin để tránh bị đánh cắp. Thông tin bản quyền cần được công khai trên sản
+phẩm đã hoàn thành như ghi tên tác giả lên sản phẩm (Hình 25) hay đăng kí
+bản quyền và ghi thông tin lên sản phẩm (Hình 26).
+Bản quyền © (2022) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Hình 26. Thông tin bản quyền sách giáo khoa của Nhà xuất bản Giáo dục Việt Nam
+G: « Khi sử dụng nội dung thông tin cần được cho phép và
+¡_ ghỉ rõ nguồn. ì
+‡ s Trong quá trình tạo ra nội dung thông tin, cần có ý thức
+¡_ giữ gìn, bảo mật thông tin. ì
+‡_e Tác giả có thể ghi tên hoặc đăng kí bản quyền để bảo vệ :
+¡_ quyền tác giả đối với nội dung thông tin. ì
+g® Ghép mỗi tình huống ở cột bên trái với một cách ghi nguồn thông tin
+ở cột bên phải sao cho phù hợp:
+Tình huống Cách ghi nguồn
+h ma. — a) Phỏng theo truyện
+1) Sử dụng một bức ảnh của tác giả Nguyễn A. Cây khé
+2) Sử dụng một bài thơ không rõ tên tác giả. b) Tác giả: Nguyễn A
+3) Kể câu chuyện dựa trên nội dung của truyện
+cổ tích Cây khế. ©) Sưu tàm
+26
+
+[Trang 27 | ocr]
+3.TÔN TRỌNG TÍNH RIÊNG TƯ VÀ BẢN QUYỀN NỘI DUNG THÔNG TIN
+H0ẠT ĐỘNG .d Em cần làm gì khi chứng kiến những tình huống sau?
+1. An vô tình để quên nhật kí trong ngăn bàn. Bình tháy được liền đọc lén,
+sau đó kể cho một số bạn về những điều đọc được từ nhật kí của An.
+2. Minh vẽ một bức tranh phong cảnh rất đẹp trên máy tính. Hoa đã lầy
+bức tranh đó sử dụng mà không hỏi ý kiến Minh.
+Thông tin trong cuốn nhật kí hay họ tên, ngày sinh, địa chỉ... là thông tin
+cá nhân, mang tính riêng tư của mỗi người, chỉ người đó mới có quyền
+quyết định cho người khác biết hay không.
+Trong Hoạt động 2, ở tình huống thứ nhát, Bình đã đọc nhật kí của An và kể
+lại cho các bạn khác, đây là hành vi vi phạm tính riêng tư. Các em cần tôn
+trọng tính riêng tư và không nên hành động giống như Bình.
+Ở tình huống thứ hai, Hoa lấy bức tranh của Minh mà chưa hỏi ý kiến là việc
+làm sai. Hoa cần được Minh cho phép sử dụng bức tranh đó. Khi đã được
+Minh cho phép sử dụng Hoa cần ghi rõ Minh là tác giả của bức tranh. Đó là
+hành động tôn trọng bản quyền nội dung thông tin.
+Chỉ sử dụng Ghi rõ nguồn Diễn đạt lại
+khi được phép thông tin và ghi “phỏng theo”
+ị Tôn trọng H
+Đợnggnnpnnssaael bản quyền liiWWlSiSabaikiyoiiliedễ
+nội dung thông tin
+eee666
+Trong thực tế, khi gặp những hiện tượng sai trái, gian dối trong học tập và đời
+sống như xem thư riêng hay sao chép tệp của bạn,... mà chưa có sự đồng ý
+thì em cần thể hiện rõ thái độ không đồng tình, góp ý, nhắc nhở để các hiện
+tượng đó không tiếp diễn.
+27
+
+[Trang 28 | ocr]
+g® Ghép mỗi tình huống ở cột bên trái với một thái độ ở cột bên phải sao
+cho phù hợp.
+1) Bạn An nêu tên tác giả bài thơ mà bạn
+đọc trong buổi sinh hoạt ngoại khoá. a) Đồng tình
+2) Bạn Bình xem sổ ghi chép của anh trai
+mà không xin phép.
+3) Bạn Khoa xin phép bạn Minh trước khi . b) Không đồng tình
+sao chép tệp trình chiếu của bạn Minh.
+“sa Ị
+LUYỆN TẬP TL.
+1. Em hãy quan sát một
+phần trang sách trong %
+Sách giáo khoa Mĩ thuật4, 2à. Tnn
+bộ sách Kết nối trị thức
+với cuộc sống, xuất bản
+năm 2023 (Hình 27) và
+cho biết nguồn thông tin
+của mỗi bức ảnh là gì? Tại
+sao phải ghi rõ nguồn?
+3 Foäng hôn rên biển
+Gì). Ngin nh Lãm
+| & 'Nguên: Hương Đoàn.
+Hình 27. Nội dung thông tin
+2. Với mỗi hành động sau đây, em đồng tình hay không đồng tình? Vì sao?
+a) Đọc tin nhắn trên điện thoại của người khác mà không được phép.
+b) Xin phép sử dụng hình ảnh, bài viết của người khác trong bài trình chiếu
+và ghi rõ nguồn thông tin.
+c) Chia sẻ thông tin riêng tư (nhật kí, hình ảnh,...) của người khác mà không
+xin phép.
+œ VẬN DỤNG
+Trong bài trình chiều về hlgày hội Trạng Nguyên nhỏ tuổi, các bạn đã sử dụng
+một số thông tin từ website t¡euiriier:.vrì. Theo em, các bạn cân làm gì đề thể
+hiện sự tôn trọng bản quyền nội dung thông tin?
+28
+
+[Trang 29 | ocr]
+CHỦ ĐỀ 5.ỨNG DỤNG TIN HỌC
+28 ĐỊNH DẠNG KÍ Tự VÀ BÔ TRÍ
+N:Ễ HÌNH ẢNH TRONG VĂN BẢN
+Sau bài này em sẽ:
+" Định dạng được kí tự để trình bày văn bản đẹp hơn: chọn
+phông, kiểu, kích thước, màu sắc cho chữ.
+" Thay đổi được cách bố trí hình ảnh trong văn bản.
+øo KHỞI ĐỘNG
+|_ H0ẠT ĐỘNG + Hai điều tích cực và một điều mong muốn thay đổi
+Những góp ý hữu ích có thể Xã: xử 5
+giúp chúng ta thực hiện công . N90 6aquả
+việc tốt hơn. Xoài, nho xanh, thanh long, dưa hấu, sữa chua.
+Hình 28 là nội dung hướng dẫn le sc
+cách làm kem được trình bày | Hướng dẩn:
+bằng phần mềm soạn thảo văn | 1: làm sạch trái cây. ¬
+bản. Em hãy góp ý về hình thức. | miếng vựs ăn, Giá Khác cát hành
+của văn bản này bằng cách chỉ h mo „ sụn vào ” .. 32 cốc bắt
+ra hai điều tích cực và một điều | vá xoài, sau đó là thanh long, dưa hấu và nhọ.
+em mong muốn thay đổi. 5. Đưa cốc kem vào ngăn đá tủ lạnh.
+Hình 28. Văn bản hướng dẫn cách làm kem
+Ì. ĐỊNH DẠNG KÍ TỰ VÀ BỐ TRÍ HÌNH ẢNH TRONG VĂN BẢN
+@ Hình 29 và Hình 30 là góp ý của hai bạn An và Minh về cách trình bày
+văn bản Kem cầu vồng hoa quả.
+29
+
+[Trang 30 | ocr]
+YY_ Tên loại kem trình bày rõ ràng YY Tên loại kem trình bày đẹp.
+YY Không có lỗi chính tả. YY. Hình ảnh cốc kem minh hoạ hắp dẫn.
+Góp ý _ Các tiêu để nỏi bật thì văn bản dễ đọc hơn. | | Góp ý _ Ảnh đặt bên phải chữ thì văn bản đẹp hơn.
+Hình 29. Nhận xét của An Hình 30. Nhận xét của Minh
+Để văn bản dễ đọc và dễ ghi nhớ, em có thể thực hiện các thao tác định dạng
+kí tự cho văn bản. Bên cạnh đó, sau khi chèn hình ảnh minh hoạ vào văn bản,
+em có thể di chuyển hình ảnh đến vị trí hợp lí để văn bản được trình bày
+đẹp hơn.
+a) Định dạng kí tự
+Em đã biết định dạng văn bản khi tạo bài trình chiếu. Tương tự như vậy, để
+định dạng kí tự trong phần mềm soạn thảo văn bản, trước tiên em cần chọn
+phần văn bản, sau đó em sử dụng các lệnh trong nhóm lệnh Font của dải
+lệnh Home (Hình 31). Thực hiện theo góp ý của bạn An, các tiêu đề của văn
+bản ở Hình 28 đã được định dạng để nổi bật, giúp em dễ đọc và dễ ghi nhớ
+hơn (Hình 32).
+Kem cầu vồng hoa quả
+tuyên liệu:
+A* A"|Aa- ˆ th te xen thanh long, dưa hấu, sữa chua.
+«ae x, xt l@\ 9#-[A || | meônssám
+1. Làm sạch trái câ
+Font 1 2. Nho cắt nn các loạt hoa quả khác cắt thành
+miếng vừa ăn.
+Kiểu chữ (đậm,
+nghiêng, gạch chân) 3 ˆ.M.òÖ xể
+Hình 32. Kết quả định dạng thực hiện
+Hình 31. Các lệnh định dạng kí tự nhận xét của An
+b) Thay đỗi cách bố trí hình ảnh
+trong văn bản
+Em chọn hình ảnh và nháy chuột vào —TnnG
+lệnh '^' xuất hiện ở bên cạnh hình ảnh. khung
+Khi đó bảng chọn các cách bố trí hình 8<
+ảnh sẽ xuất hiện (Hình 33). Em nháy Ñ==
+chuột để chọn một cách bố trí hợp lí __ă_n
+cho hình ảnh. --
+'® Move with teet
+fFwpostionon “Ð
+mọc
+Ses more..
+Hình 33. Thay đổi cách bố trí hình ảnh
+30
+
+[Trang 31 | ocr]
+& ị s Định dạng kí tự (phông chữ, kiểu chữ, cỡ chữ, màu chữ,...) ị
+¡_ giúp em trình bày văn bản đẹp hơn, dễ đọc và dễ ghi nhớ. :
+‡ s Có thể thay đổi cách bố trí hình ảnh trong văn bản để ‡
+¡ _ văn bản được trình bày đẹp hơn. ì
+g Để định dạng cho tiêu đề em cầu vòng hoa quả trong Hình 28, em
+sẽ chọn các lệnh nào trong các lệnh ở Hình 312
+£. THỰC HÀNH ĐỊNH DẠNG KÍ TỰ VÀ BỐ TRÍ HÌNH ẢNH
+TRONG VĂN BẢN
+(Hướng dẫn sau đây sử dụng phần mềm soạn thảo văn bản Microsoft Word
+đê minh hoạ.)
+NHIỆM VỤ Efbinm dạng kí tự theo yêu cầu như ở Hình 34.
+Phông chữ Tahoma, = = =
+cỡ chữ 16, màu xanh, Kem cầu vồng hoa quả
+kiểu chữ đậm Nguyên liệu:
+Xoài, nho xanh, thanh long, dưa hấu, sữa chua.
+Phông chữ Verdana, Dụng cụ:
+cỡ chữ 12, màu tím, 1 cốc cao.
+kiểu chữ đậm, nghiêng Hướng dẫn:
+1. Làm sạch trái cây.
+2. Nho cắt đôi, các loại hoa quả khác cắt thành miếng vừa ăn.
+Phân nội dung văn bản: 3. Cho sữa chua vào đáy cốc.
+phông chữ Verdana, 4. Lần lượt xếp từng loại trái cây vào cốc, bắt đầu với xoài,
+cỡchữ 12 sau đó là thanh long, dưa hấu và nho.
+5. Đưa cốc kem vào ngăn đá tủ lạnh.
+Hình 34. Yêu câu định dạng kí tự
+Hướng dẫn
+Mở tệp CongThueLami<er và thực hiện các công việc sau:
+a) Định dạng toàn bộ văn bản
+Bước 7: Chọn toàn bộ văn bản.
+ước 2: Nháy chuột vào lệnh phông chữ để chọn phông Verdana.
+Bước 3: Nháy chuột vào lệnh cỡ chữ và chọn cỡ chữ 12.
+b) Định dạng tiêu đề văn bản
+8ước 7: Chọn dòng tiêu đề.
+31
+
+[Trang 32 | ocr]
+Bước 2: Lần lượt nháy chuột vào = K TH RE
+các lệnh phông chữ, cỡ chữ, kiểu ng Nàng Ez=Ei
+chữ (Hình 31) để chọn phông | .. -...- Xe r= lai
+chữ Tahoma, cỡ chữ 16 và kiểu |' l ' nunnnnnnn
+chữ đậm. ũ
+lu
+Bước 3: Nháy chuột vào lệnh +ˆ~ * —
+và chọn màu xanh Blue (Hình 35). Kem cầu vồnc""-- -*“=*
+Nguyên liệu: sói
+Hình 35. Chọn màu sắc
+c) Định dạng các đầu mục
+Bước 1: Chọn đầu mục Nguyên liệu.
+ước 2: Lần lượt nháy chuột vào các nút lệnh phông chữ, cỡ chữ, kiểu chữ
+(Hình 31) để chọn phông chữ Verdana, cỡ chữ 12 và kiểu chữ đậm, nghiêng.
+Bước 3: Nháy chuột vào lệnh Mà và chọn màu tím Purple.
+Bước 4: Thực hiện tương tự các Bước 1, 2, 3 để định dạng cho hai đầu mục
+Dụng cụ và Hướng dẫn.
+Nháy chuột vào nút lệnh °,| để lưu tệp.
+NHIỆM VỤ ỆỸ Thay đổi vị trí của hình ảnh.
+Hướng dẫn
+Thực hiện các bước sau để di chuyển hình ảnh đến vị trí như minh hoạ trong
+Hình 36.
+Kem cầu vồng hoa quả
+Nguyên liệu:
+Xoài, nho xanh, thanh long, dưa hấu, sữa chua. l Ị
+Dụng cụ: |: ©sa;
+1 cốc cao.
+Hướng dẫn:
+1, Làm sạch trái cây. «b
+2. Nho cắt đôi, các loại hoa quả khác cắt thành miếng vừa ăn. ——”
+3. Cho sữa chua vào đáy cốc.
+4. Lần lượt xếp từng loại trái cây vào cốc, bắt đầu với xoài, sau đó là thanh.
+long, dưa hấu và nho.
+5. Đưa cốc kem vào ngắn đá tủ lạnh.
+Hình 36. Hình ảnh đã được thay đổi vị trí
+32
+
+[Trang 33 | ocr]
+Bước 7: Chọn hình ảnh. Khi đó nút lệnh “2 xuất hiện ở bên cạnh hình ảnh.
+ước 2: Nháy chuột vào nút lệnh '^ và chọn cách bố trí ^' (Square - văn bản
+dàn xung quanh hình ảnh) như minh hoạ trong Hình 33.
+ước 3: Nháy chuột vào hình ảnh, nhán giữ và di chuyển chuột để đưa ảnh đến
+vị trí mới.
+ØÖỞ.ẳ..‹ TẬP
+Lớp 5A của các bạn An, Minh, Khoa chuẩn bị đi tham quan. Hình 37 là văn
+bản trình bày lịch trình chuyến đi.
+Km. — _Z:›s- NHI
+öo H ® Tu ca dla- ¿.À sex» Ha Ea BodyTe Head_ *= : <„ Si
+Lịch trình chuyến đi tham quan
+Từ 7h30 — 8h00: Tập trung tại sân trường và lên xe khởi hành đến Văn Miếu
+Từ 8h00 — 9h00: Làm lế dâng hương và tham quan các công trình tại Văn Miếu
+Từ 9h00 — 10h30: Đến Viện bảo tàng Phòng không Không quân, học sinh tập trung nghe giới thiệu,
+thuyết minh sau đó chia theo nhóm tham quan, tìm hiểu vẻ các hiện vật.
+10h30: Tổng két chương trình, điểm danh quân só và lên xe trở về trường. Ị
+Hình 37. Lịch trình chuyến đi tham quan
+a) Tệp văn bản Chuyen TharnQuar: được lưu trong máy tính và có nội dung
+như minh hoạ trong Hình 37. Em hãy mở tệp văn bản và thực hiện thao tác
+định dạng kí tự theo yêu cầu sau đây:
+— Tiêu đề Lịch trình chuyến đi tham quan có phông chữ Arial, cỡ chữ 15,
+kiểu chữ đậm, màu đỏ.
+— Các mốc thời gian: kiểu chữ đậm và nghiêng, màu xanh.
+b) Em hãy chèn hình ảnh minh hoạ cho văn bản.
+c) Em hãy đưa ra hai điều tích cực và một mong muốn thay đổi về cách trình
+bày văn bản sau khi thực hiện các yêu cầu ở Câu a và Câu b.
+œ VẬN DỤNG
+Em hãy định dạng, chỉnh sửa văn bản để thực hiện điều mong muốn thay đổi
+đã nêu trong Câu c của phần Luyện tập.
+33
+
+[Trang 34 | ocr]
+Sau bài này em sẽ:
+» Thực hiện thành thạo các thao tác chọn, xoá, sao chép, di
+chuyển một đoạn văn bản.
+*. Đưa được hình ảnh vào trong văn bản một cách thành thạo.
+øo KHỞI ĐỘNG
+Em hãy quan sát văn bản ở Hình 38 và cho biết cần thực hiện các thao tác
+nào đề có được văn bản như vậy.
+" L
+TRÈ EM HÔM NAY THÉ GIỚI NGÀY MAI -
+Nhạc: Lê Mây —> ` —_
+Lời thơ: Phùng Ngọc Hùng _ z¬a *T uÀ _
+Trẻ em hôm nay. `2
+Thể giới ngày mai. ` %.
+Đó là vẫn thơ s
+cũng là câu hát. Ũ MÌ
+Trẻ em hôm nay. XC>, : lệ,
+Thể giới ngày mãi. Ôn Í
+Xin được nhắc ngàn lần hơn thế. \
+Trái đất chưa im tiếng bom rơi. Cử ì 2ˆ Œ,
+Xin điệp khúc triệu lần hơn thế Tổ sƯẠi X ,_e
+bao trẻ em còn đói rách trên đời Z XÃ - P{
+Bạn có nghe trẻ em khóc trẻ em cười. _ÑẺ Œ, S4
+Bạn có nghe trẻ em khóc trẻ em cười Š v “Ồ
+Trẻ em hôm nay. @
+Thể giới ngày mai
+(Nguồn hình ảnh: shufterstock.com)
+Hình 38. Lời bài hát soạn thảo trên máy tính
+THỰC HÀNH
+NIHIỆM \UỤ ẾÑ Soạn thảo và định dạng để được văn bản như Hình 38.
+Hướng dẫn
+Khởi động phần mềm soạn thảo văn bản và thực hiện các việc sau:
+a) Gõ nội dung bài hát
+Lưu ý:
+—_ Quan sát Hình 38 để nhận biết những phần văn bản giống nhau.
+34
+
+[Trang 35 | ocr]
+—_ Thực hiện gõ và sao chép những phần văn bản giống nhau để không phải
+gõ lại nhiều lần.
+— Nếu gõ nhằm hoặc sai thì sử dụng phím Delete hoặc Backspace để xoá.
+— Để gõ chữ hoa em nhắn giữ phím Shift và gõ phím chữ.
+b) Chèn hình ảnh
+Bước 7: Chèn hình ảnh minh hoạ vào văn bản. Gõ thông tin nguồn hình ảnh
+tương tự dòng văn bản cuối cùng ở Hình 38.
+Bưóc 2: Thay đổi kích thước và vị trí của hình ảnh cho phù hợp.
+c) Định dạng văn bản
+8ước ï: Chọn toàn bộ văn bản. Trong nhóm lệnh Font của dải lệnh Home,
+thực hiện các lệnh định dạng chữ màu xanh, phông chữ Calibri, cỡ chữ 13.
+Bước 2: Chọn tên bài hát TRẺ EM HÔM NAY THÉ GIỚI NGÀY MAI, thực
+hiện các lệnh định dạng kiểu chữ đậm, cỡ chữ 16, chữ màu đỏ.
+Bước 3: Chọn dòng 2, 3 (thông tin tác giả), thực hiện định dạng kiểu chữ
+nghiêng. Thực hiện tương tự với dòng cuối cùng (nguồn hình ảnh).
+Bước 4: Thực hiện định dạng màu chữ cho các cụm từ Trẻ em hôm nay, Thế
+giới ngày mai thành màu vàng như minh hoạ ở Hình 38.
+d) Hoàn thiện và lưu văn bản
+Bước 1: Xem lại và sửa các lỗi chính tả để hoàn thiện văn bản.
+Bước 2: Lưu văn bản với tên tệp TreEmHomNay.
+NHIỆM VỤ E chinh sửa tệp văn bản TreErniHIorniNay để bổ sung lời hát lần 2.
+Hướng dẫn
+a) Chỉnh sửa văn bản
+Bước ï: Nháy chuột để đặt con h ¬
+trỏ soạn thảo ở vị trí cuối câu ứng SHHGGSSkuzkei
+của dòng 3. Nhấn phím Enter Lời thơ: Phùng Ngọc Hùng
+để xuống dòng. Gõ (Làn 1) và T lạng
+định dạng kiểu chữ gạch chân ĐÓ "ˆ Hy mai
+và chữ nghiêng như minh hoạ cướn Si vã
+trong Hình 39. Trẻ em hôm nay.
+Thế giới ngày mai
+Hình 39. Kết quả sau khi thực hiện Bước 1
+35
+
+[Trang 36 | ocr]
+ước 2: Sao chép phần văn bản từ dòng 4 đến hết, đặt vào vị trí cuối cùng
+của văn bản.
+ước 3: Chỉnh sửa (Lần 1) của phần văn bản mới được sao chép thành (Lần 2).
+8ước 4: Xoá dòng nguồn hình ảnh ở trước dòng (Lần 2).
+d) Hoàn thiện và lưu văn bản
+Bước ï: Xem lại và sửa các lỗi chính tả để hoàn thiện văn bản.
+Bước 2: Lưu văn bản.
+
+4Ø› TẬP
+Quan sát Hình 40 và thực hiện các việc sau: ¿nền
+a) Sử dụng phần mềm soạn thảo văn bản ' Em đi giưa biến vàng h
+để gõ văn bản ở Hình 40. (Lưu ý: Thực ` Ẽ? đi giữa biên vàng, Ì
+hiện thao tác sao chép với những phần ;_ Nghe mênh mang trên đồng lúa hát, _;
+văn bản giống nhau). : Hương lúa chín thoang thoảng bay, h
+b) Thực hiện các thao tác định dạng: __' Làm lung lay hàng cột điện, Ì
+- Toàn bộ văn bản có phông chữ ¡ Làm xao động cả rặng cây h
+Tahoma, cỡ chữ 13. † Em đi giữa biển vàng, ‡
+—_ Màu chữ của văn bản như minh hoạ ¡Nghe mênh mang trên đồng lúa hát, ¡
+trong Hình 40. ¡Hương lúa trĩu trong lòng tay, ị
+— Tên bài hát cỡ chữ 16, kiểu chữ đậm. ¡Như đựng đầy mưa gió nắng, h
+~. Dòng thông tin tác giả nhạc và lời (hai '_ Như mang năng giọt mỏ hôi, ị
+dòng cuối cùng) kiểu chữ nghiêng. ¡_ Của bao người nuôi lúa lớn, lúa ơi, _ ;
+c) Di chuyển hai dòng cuối cùng (thông ' Của bao người nuôi lúa lớn, lúa ơi. ¡
+tin tác giả nhạc và lời) lên vị trí sau tên : Nhạc: Bùi Đình Thảo ì
+bài hát. ‡_ Lời: Nguyễn Khoa Đăng, Bùi Đình Thảo _ `
+d) Chèn một hình ảnh minh hoạphùhọp, ._ ¿
+với lời bài hát và ghi rõ nguồn hình ảnh Hình 40. Văn bản lời bài hát
+vào cuối văn bản.
+e) Lưu văn bản vào thư mục của em.
+lửoj VẬN DỤNG
+Em hãy chia sẻ tệp văn bản đã tạo trong phần Luyện tập với bạn, lắng nghe
+góp ý của bạn và thực hiện các thao tác chỉnh sửa để được văn bản hợp lí hơn.
+36
+
+[Trang 37 | ocr]
+ki ~ —~ ~
+A. SỬ DỤNG PHẦN MÊM ĐỒ HOẠ
+2 ^ 2
+TẠO SẢN PHẨM SỐ ĐƠN GIẢN
+E7: Ÿ LÀM QUEN VỚI PHẦN MỀM ĐỒ HOẠ
+
+Sau bài này em sẽ:
+
+" Biết được phần mềm đồ hoạ và các công cụ chính của phần
+mềm đồ hoạ.
+
+» Sử dụng được một số công cụ cơ bản của phần mềm đồ hoạ
+để tạo sản phẩm đơn giản.
+
+o KHỞI ĐỘNG
+
+H0ẠT ĐỘNG h Tạo thiệp chúc mừng bằng phần mềm gì? |
+Hình 41 là một tám thiệp chúc mừng sinh
+nhật. Theo em, có thể sử dụng những
+loại phần mềm nào sau đây để tạo ra tám
+thiệp đó? vÀ C S4/„
+A. Phần mềm soạn thảo văn bản. Happg-Birthdau
+B. Phần mềm trình chiếu.
+€. Phần mềm đồ hoạ.
+D. Phần mềm luyện tập chuột.
+Hình 41. Thiệp chúc mừng sinh nhật
+
+ÍL PHẦN MÊM ĐỒ HOẠ GIÚP EM LÀM GÌ?
+
+@ Phần mềm đồ hoạ cung cáp các công cụ và tính năng hỗ trợ việc thiết
+kế đồ hoạ trên máy tính. Em có thể sử dụng phần mềm đồ hoạ để vẽ
+tranh, thiết ké biểu tượng, thiết kế thiệp chúc mừng. Tám thiệp chúc
+
+mừng sinh nhật ở Hình 41 là một ví dụ về sản phẩm mà em có thẻ tạo ra bằng
+
+phần mềm đồ hoạ.
+37
+
+[Trang 38 | ocr]
+g: Phần mềm đồ hoạ cung cấp các công cụ giúp em vẽ hình, ?
+‡ chỉnh sửa hình,... để có thể tạo các sản phẩm đồ hoạ. ị
+£. CÁC CÔNG CỤ CỦA PHẦN MỀM ĐỒ HOẠ
+H0ẠT ĐỘNG S24 Em cần những công cụ gì để tạo tấm thiệp?
+1. Em hãy quan sát tám thiệp ở Hình 41 và chọn phương án đúng để trả
+lời câu hỏi.
+Tắm thiệp gồm những thông tin dạng nào?
+^. Dạng chữ và dạng hình ảnh.
+B. Dạng chữ và dạng âm thanh.
+©. Dạng hình ảnh và dạng âm thanh.
+D. Dạng chữ, dạng hình ảnh và dạng âm thanh.
+2. Để giúp em tạo tắm thiệp thì phần mềm đồ hoạ cần có những công cụ gì?
+@ Phần mềm đồ hoạ có rất nhiều công cụ giúp em làm việc với hình ảnh:
+công cụ chọr: để chọn một phần hình ảnh; công cụ vẽ hình (ô van, hình
+chữ nhật, đường thẳng, đường cong,...); công cụ viết chữ, tô màu, tẩy,
+thay đổi kích thước, quay,... Với tắm thiệp ở Hình 41, em có thể dùng công cụ
+vẽ hình để vẽ một quả bóng bay, dùng công cụ chọn để chọn quả bóng bay
+rồi sao chép thành nhiều quả, dùng công cụ tô màu để tô mỗi quả bóng một
+màu, công cụ viết chữ để viết lên thiệp dòng chữ Happy Birthday.
+6G: Phần mềm đồ hoạ có các công cụ chọn, vẽ hình, viết chữ, ‡
+‡ tô màu,... giúp em vẽ hình hiệu quả, dễ dàng chỉnh sửa.
+g® 1. Phần mềm đồ hoạ cho phép em làm gì?
+^. Xem ảnh và xem video.
+B. Soạn thảo văn bản và tạo bài trình chiếu.
+©. Vẽ hình, tô màu và chỉnh sửa hình.
+Ð. Chơi trò chơi.
+2. Em đã từng biết hoặc sử dụng phần mềm đồ hoạ nào?
+38
+
+[Trang 39 | ocr]
+3. THỰC HÀNH LÀM QUEN VỚI CÁC CÔNG CỤ TRONG PHẦN MỀM
+ĐỒ HOẠ
+NHIỆM VỤ Kl khởi động phần mềm đồ hoạ, làm quen với giao diện phần mềm.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phàn mềm đò hoạ Microsoft Paint để minh hoạ.)
+ước 7. Nháy đúp chuột vào biểu tượng trên màn hình nền. Giao diện
+phần mềm đồ hoạ Microsoft Paint (Paint) tương tự như Hình 42.
+|
+Ju.< lc,
+Hình 42. Giao diện phần mềm đồ hoạ Paint
+Bước 2. Quan sát Hình 42, làm quen với giao diện làm việc của phần mềm.
+— Hộp màu nằm ở phía trên, bên phải màn hình, gồm màu: 1 (dùng cho bút
+chì, bút vẽ, công cụ tô màu, đường viền của hình,...), màu: 2 (dùng cho tẩy,
+màu của hình) và các ô mui (Hình 43). Để chọn màu cho rà: 1, em nháy
+Ị
+chuột vào “*i rồi nháy chuột chọn màu trong ô rnàu. Thực hiện tương tự để
+chọn màu 2.
+mHmHmhH_ RHHBNBN |
+1m... ớẽ..H.A
+Hình 43. Hộp màu
+39
+
+[Trang 40 | ocr]
+— Hộp công cụ nằm ở phía trên bên trái màn hình (Hình 44). Muốn sử dụng
+công cụ nào em nháy chuột vào công cụ đó để chọn rồi thực hiện thao tác
+trên trang vẽ.
+š ý crop T cá NA OH|- ÌZ outinex | ——
+=
+ñ fa L[ Resize ` 4 IEƯNN _—
+no se [Di sac - | Z: ©@œOo> „
+—_]
+Clipboard. Image Tools Shapes
+Hình 44. Hộp công cụ
+~ Trang vẽ là vùng hình chữ nhật màu trắng. Trang vẽ tương tự như tờ giấy vẽ.
+Em sử dụng các công cụ để vẽ, chỉnh sửa,... tạo nên sản phẩm trên trang vẽ.
+NHIỆM VỤ H Làm quen với công cụ vẽ hình, tô màu; vẽ hình và tô màu quả
+bóng bay.
+Hướng dẫn
+Bước 1: Nháy chuột chọn công cụ Oval le) trong nhóm công cụ vẽ hình, kéo
+thả chuột trong trang vẽ để vẽ hình một quả bóng bay (Hình 45).
+Bước 2: Nháy chuột chọn công cụ Line trong nhóm công cụ vẽ hình, kéo
+thả chuột để vẽ hình dây bóng bay (Hình 46).
+Bước 3: Nháy chuột chọn công cụ tô màu Fill si nháy chuột vào bên trong
+hình quả bóng bay để tô màu cho quả bóng (Hình 47).
+Hình 45. Vẽ hình quả Hình 46. Vẽ thêm dây Hình 47. Tô màu cho
+bóng bay bóng bay bóng bay
+Bước 4: Lưu tệp với tên Bongay (thực hiện tương tự như các phần mềm đã học).
+Lưu ý: Khi em vẽ hình và tô màu cho quả bóng bay thì màu của quả bóng bay
+chính là màu hiện tại trong ô rnàui 1. Nếu muốn đổi màu khác, em cần chọn
+màu trước khi thực hiện vẽ và tô màu.
+40
+
+[Trang 41 | ocr]
+NHIỆM VỤ n Sử dụng công cụ chọn (Select), thay đổi kích thước (Resize),
+công cụ quay (Rotate) để tạo chùm bóng bay nhiều màu.
+Hướng dẫn
+Bước ï: Nháy chuột chọn công cụ chọn Select Ï““, kéo thả chuột để tạo
+thành một hình chữ nhật bao quanh quả bóng bay (Hình 48). Phần hình chữ
+nhật chứa quả bóng bay trên trang vẽ đã được chọn.
+Lưu ý: Nếu không muốn chọn cả phần nền màu trắng xung quanh quả
+bóng bay, em nháy chuột vào mũi tên bên dưới công cụ Select, chọn
+————A
+để chuyền thành LÝ #ewesetseeelss—_. 1chị đó, phần nền
+màu trắng sẽ được chuyển thành trong suốt.
+Bước 2: Nháy chuột chọn lệnh Copy 1® để sao chép phần hình ảnh đã
+chọn, nháy chuột chọn lệnh Paste E để tạo ra phần hình chữ nhật chứa quả
+bóng bay thứ hai (Hình 49).
+Bước 3: Dùng chuột kéo thả các hình vuông nhỏ ở khung chữ nhật bao
+quanh quả bóng để thay đổi kích thước, làm cho quả bóng thứ hai nhỏ hơn,
+tròn hơn quả bóng thứ nhất (Hình 50).
+Hình 48. Chọn hình Hình 49. Quả bóng Hình 50. Thay đồi kích
+quả bóng thứ hai được tạo ra thước quả bóng thứ hai
+Bước 4: Nháy chuột vào mũi tên bên cạnh lệnh Rotate [ZA Retee, chọn lệnh
+Elip hiorizontal [ak-.#ipherzomat....| để lật quả bóng thứ hai. Em được kết quả
+như Hình 51.
+Bước 5: Chọn công cụ m| nháy chuột chọn màu tím trong hộp màu rồi tô
+màu cho quả bóng thứ hai, được kết quả tương tự Hình 52.
+Bước 6: Thực hiện tương tự các bước từ Bước 1 đến Bước 5 để tạo ra một
+chùm bóng bay nhiều màu như Hình 53.
+41
+
+[Trang 42 | ocr]
+Hình 51. Kết quả sau khi Hình 52. Kết quả sau Hình 53. Chùm bóng
+lật quả bóng thứ hai khi đổi màu quả bóng bay nhiều màu
+thứ hai
+Bước 7: Lưu tệp với tên ChumBongBay.
+4Ø... TẬP
+1. Để vẽ cột đèn giao thông như Hình 54, em cần sử dụng
+những công cụ nào?
+A. B I8] và] s. KHI MỌI và 2|
+c.ầeem| [ĐÏ , “ò| o.l@ I2 ,a LÍ
+2. Công cụ nào của phần mềm Paint dùng để chọn một
+phần của trang vẽ? Hình 54. Cột đèn
+giao thông
+IEI
+ADMØI B8,
+CA — 5 BA
+lửoi VẬN DỤNG
+Em hãy sử dụng phần mềm đồ hoạ để vẽ hình cột đèn giao thông như Hình 54.
+42
+
+[Trang 43 | ocr]
+Ñ ÿ SƯ DỤNG PHẦN MÉM ĐÔ HOẠA
+Lai TẠO SẢN PHẢM số
+Sau bài này em sẽ:
+» Sử dụng được phần mềm đồ hoạ để tạo sản phẩm số.
+
+o KHỞI ĐỘNG
+
+Em hãy quan sát những tắm thiệp trong Hình 55.
+
+Em có mong muốn tự mình làm được các tắm thiệp đẹp và ý nghĩa như vậy
+
+để tặng người thân, thầy cô giáo và bạn bè không? Hãy cùng tìm hiểu cách
+
+tạo những tắm thiệp bằng phần mềm Paint nhé.
+7x? › P
+© ⁄. HAPPY NEW 4 © H4 ì
+'1/ MÌ]':: F .'Œ, BTRTHDAY ,
+l ' 5. x  *Y
+: ÍÍW¬ ` ¿` , - ` >
+Ỷ - nu „ SỈ Ầ
+Hình 55. Thiệp chúc mừng
+Ì. XÁC ĐỊNH CÁC THÀNH PHẦN CỦA TẮM THIỆP
+HOẠT ĐỘNG + Trong tấm thiệp thường có những thành phần gì?
+Quan sát các tắm thiệp trong Hình 55 và trả lời các câu hỏi sau:
+1. Thiệp chúc mừng thường được tặng vào những dịp đặc biệt nào?
+2. Trong các tắm thiệp thường có những thành phần gì?
+
+@ Thiệp chúc mừng thường được sử dụng để gửi đến người thân, bạn bè,
+thầy cô giáo nhân một dịp đặc biệt như sinh nhật, ngày Nhà giáo Việt Nam,
+ngày Quốc tế Phụ nữ, ngày Tết. Nội dung của tám thiệp được thể hiện
+
+qua các thành phần như hình ảnh, văn bản,... Ví dụ:
+
+— Thiệp sinh nhật thường có hình nến, bánh, bóng bay,... và dòng chữ
+
+“Chúc mừng sinh nhật”.
+
+— . Thiệp chúc mừng ngày Nhà giáo thường có hình hoa, những lời tri ân thầy
+
+cô giáo,...
+
+43
+
+[Trang 44 | ocr]
+— Thiệp chúc mừng năm mới thường có hình phong bao lì xì, hình con giáp
+của năm mới,... và dòng chữ “Chúc mừng năm móớ”.
+Ø6: ‹ Thiệp chúc mừng thường được tặng vào những dịp ‡
+¡_ vui vẻ, thể hiện tình cảm của người tặng. È
+¡ « Để tạo được thiệp chúc mừng phù hợp cần xác định chủ ?
+¡__ đề và những thành phần xuất hiện trong tấm thiệp.  :
+ấ® Em hãy ghép tên chủ đề với tắm thiệp phù hợp trong Hình 56:
+1) Thiệp chúc mừng sinh nhật.
+2) Thiệp chúc mừng ngày Nhà giáo Việt Nam.
+3) Thiệp chúc mừng năm mới.
+'CHÀO MỮNG NGÀY ˆˆ |
+NHÀ GIÁO. v
+VIỆTNAM *
+28-11
+C)
+nếp J2)
+a) b) 5)
+Hình 56. Thiệp chúc mừng
+. THỰC HÀNH TẠO THIỆP CHÚC MỪNG SINH NHẬT
+NHIỆM VỤ Tạo một tắm thiệp chúc mừng sinh nhật.
+Hướng dẫn
+a) Xác định các hình ảnh có trong tắm thiệp: Tắm thiệp có màu sắc vui
+tươi, chùm bóng bay, trái tim trang trí, lời chúc mừng sinh nhật.
+b) Tạo khung cho tắm thiệp
+Bước 7: Chọn công cụ vẽ hình chữ nhật Rectangle H chọn màu vẽ, chọn ô
+=
+màu tím nhạt, nháy chuột vào mũi tên bên dưới lệnh Size R chọn nét vẽ dày
+nhát, kéo thả chuột để tạo thành một hình chữ nhật có kích thước lớn làm
+khung cho tắm thiệp (Hình 57).
+Bước 2: Chọn ô màu đỏ, chọn nét vẽ dày thứ hai, kéo thả chuột trên trang
+vẽ để tạo một hình chữ nhật màu đỏ bao quanh hình chữ nhật màu tím nhạt
+(Hình 58).
+Bước 3: Chọn công cụ vẽ hình trái tim Heart [*⁄“, vẽ bốn hình trái tim ở viền
+trên của khung (Hình 59).
+44
+
+[Trang 45 | ocr]
+Hình 57. Bước 1 Hình 58. Bước 2 Hình 59. Bước 3
+Lưu ý: Đễ thuận tiện cho việc sao chép, hình muốn sao chép phải vẽ ở
+vùng trống.
+c) Tạo hình chùm bóng bay
+Thực hiện các bước tương tự Nhiệm vụ 2 và Nhiệm vụ 3 ở Bài 8a để tạo chùm
+bóng bay nhiều màu.
+d) Tạo lời chúc mừng _— F 1 NGƯINN ]
+S4
+Chọn công cụ viết chữ Text LA., nháy chuột
+vào nền tắm thiệp và nhập vào dòng chữ CHÚC $
+MỪNG SINH NHẠT. Em có thể chọn phông chữ, p.
+cỡ chữ, màu chữ cho lời chúc bằng các thao tác (ỨC HuNG 5ÍNH NHẬT
+tương tự trong phần mềm soạn thảo văn bản. Các ma...
+lệnh định dạng văn bản sẽ hiển thị trên hộp công Hình 60. Tấm thiệp kết quả
+cụ khi em nhập văn bản băng công cụ Text.
+Lưu ý: Khi nhập đoạn văn bản xong, em cần định
+dạng ngay cho đoạn văn bản đó.
+Em sẽ nhận được kết quả tương tự như Hình 60. ì
+\À (y7
+e) Lưu tệp M
+. : , š Happu Birthdau
+Lưu lại tệp với tên ThiepiWungSinhiNhat,
+fỞ.e TẬP Hình 61a
+Em hãy sử dụng các công cụ của phần mềm đồ
+hoạ để tạo tắm thiệp theo gợi ý ở Hình 61a.
+dư”
+VẬN DỤNG Happu-Birthdau
+Em hãy sử dụng các công cụ của phần mềm đồ
+hoạ để thêm lời chúc và các ngôi sao vào tắm thiệp
+đã tạo ở phần Luyện tập theo gợi ý ở Hình 61b. Hình 61b
+45
+
+[Trang 46 | ocr]
+® ^
+B. SỬ DỤNG CÔNG CỤ
+Ñ_ TẠO SẢN PHẨM ĐƠN GIẢN
+} 8B ¡ LÀM SẢN PHẨM THỦ CÔNG
+7 `” THEO VIDEO HƯỚNG DÂN
+Sau bài này em sẽ:
+*. Tạo được sản phẩm thủ công đơn giản theo video hướng dẫn.
+ØĐ.. ĐỘNG Tớ chưa biết gấp hoa Thế là chúng ta có
+nhưng có thể gấp máy thêm một việc thú
+= bay. Trên Intemet còn có __ vị: Tìm hiểu và làm
+Bạn có thê gâp video hướng dẫn gáp được một sản phẩm
+giấy thành bông giấy thành rát nhiềusản gấp giấy mới theo
+hoa không? phẩm khác nữa. video hướng dẫn.
+š*Á &)  ⁄)n
+Em hãy cùng các bạn học gáp giấy bằng cách làm theo video hướng dẫn để
+tạo các sản phẩm thủ công nhé.
+Í TÌM KIỀM VÀ XEM VIDEO HƯỚNG DẪN TRÊN INTERNET
+HOẠT ĐỘNG ®* Tìm video gấp giấy
+Em hãy tìm trên YouTube một video hướng dẫn gắp con hạc bằng giáy.
+@ Trên Internet có nhiều website chia sẻ video, YouTube (/outulbe.corn)
+là một website như thế. Em có thể gắp giáy tạo thành hình con vật, đồ
+vật, bông hoa,... hay tạo ra những sản phẩm thủ công đơn giản bằng
+cách tìm và xem các video hướng dẫn trên YouTube.
+46
+
+[Trang 47 | ocr]
+Sử dụng từ khoá "gáp hạc giấy", em có thể tìm được video hướng dẫn gáp
+con hạc bằng giấy.
+3uuhe ` ( Q. gấp hạc giấi mX| Q
+Hình 62. Tìm video bằng từ khoá trên YouTube
+Cách xem video trên mawss “Ch độ toàn màn hình
+YouTube cũng tương TÝn hen tập theo lăng c~—
+tự như phần mềm xem Điều chỉnh âm thanh. Nút tiến trình Chế độ thu nhỏ.
+video mà em đã được — Mu.
+học ở lớp 4 (Hình 63). LA....a - #Ð “= & [s LH c7
+Hình 63. Hướng dẫn cách xem video trên YouTube
+Lưu ý: Em cũng có thể dùng BEE=——==—_
+phần mềm YouTube trên ti vi — ¬ h #
+thông minh (Hình 64) hoặc = —wv:.
+trên điện thoại thông minh để :ˆ. _S
+tìm và xem video. = w+ E
+Hình 64. Tìm video trên tỉ vi thông minh
+g; « Em có thể tìm thấy trên Internet những video hướng dẫn :
+¡_ tạo sản phẩm thủ công đơn giản. ị
+‡ « Thực hiện theo hướng dẫn của video, em có thể tạo ra
+¡ những sản phẩm thủ công hữu ích. ì
+g® Khi làm theo video hướng dẫn gáp con hạc bằng giấy, gặp bước khó
+thực hiện, em sử dụng công cụ nào sau đây để xem lại đoạn video
+hướng dẫn thực hiện bước đó?
+A. Nút phát video.
+B. Nút tiến trình.
+€. Nút xem ở chế độ toàn màn hình.
+D. Nút đến video tiếp theo.
+£. THỰC HÀNH LÀM SẢN PHẢM THỦ CÔNG
+THEO VIDEO
+NHIỆM VỤ Em hãy tìm kiếm và xem video hướng dẫn „mnnas, Hạc giấy
+đề gâp một con hạc bằng giây (Hình 65). dỹ
+
+[Trang 48 | ocr]
+Hướng dẫn
+ước 7: Tìm kiếm và mở video
+—_ Truy cập địa chỉ /ouiuibe.corri.
+— Sử dụng từ khoá "gấp hạc giấy" để tìm kiếm video.
+—_ Chọn và mở một video mà em có thể làm theo.
+Bước 2: Xem video. Xem một lượt để biết tổng thể nội dung và những vật
+dụng cần chuẩn bị.
+Bước 3: Xem từng bước và làm theo.
+— Thực hiện theo hướng dẫn trong video.
+— Sử dụng các nút điều khiển để tạm dừng, -
+xem lại,... giúp em xem kĩ hơn và có đủ thời Hình 66. Núttạm đừng video
+gian gấp giấy.
+Lưu ý: Khi xem video trên YouTube, em có thể kéo thả nút tiền trình để xem
+từng đoạn (Hình 63). Khi video đang được phát thì nút phát video chuyên
+thành nút tạm dừng (Hình 66).
+4Œ... TẬP
+1. Trong khi video đang được phát, những biểu I4| I>ị I> II
+tượng nào hiển thị trên thanh điều khiển? A. B. G. D.
+2. Em hãy tìm trên Internet một video hướng dẫn cách gáp giấy thành một
+hình mà em thích (ví dụ hình con ếch, con chó, máy bay,...).
+lởoi VẬN DỤNG
+Em hãy sử dụng từ khoá "gấp giấy origami" để tìm kiếm trên YouTube một
+video hướng dẫn tạo sản phẩm gắp giấy. Xem video và thực hiện theo
+để tạo ra sản phẩm.
+Origami (ô-ri-ga-mi) là nghệ h : ï ì
+thuật gấp giáy Nhật Bản. _ l |`| ` Xã œ
+Origami có thê biên những , —E —
+tờ giấy hình chữ nhật hay “ II
+hình vuông thành những “4 q£ ` s
+hình khối sinh động chỉ bằng, — ^^
+cách gáp mà không cần cắt #®_ b í
+dán (Hình 67). “= :
+Hình 67. Một cách gấp giấy theo origami
+tạo hình con chó
+48
+
+[Trang 49 | ocr]
+8) THực HÀNH TẠO ĐÔ DÙNG GIA ĐÌNH
+Lj:Ÿ THEO VIDEO HƯỚNG DẪN
+Sau bài này em sẽ:
+" Tạo được sản phẩm thủ công (đồ dùng gia đình) theo video
+hướng dẫn.
+o KHỞI ĐỘNG
+Có thẻ là hộp bút, thùng
+P rác nhỏ,... giúp cho góc
+Hoá ra gắp hạc giáy ni
+không khó. Tớ còn — ñ9Cfập của chúng mình ˆ nạn tạo sản phẩm
+muốn làm một sản 99" 9ầng, ngăn nắp. từ vật liệu tái chế đẻ
+phẩm thực té hơn. bảo vệ môi trường.
+LỄ MÐ ƒ \
+Em hãy cùng các bạn tạo ra một đồ dùng hữu ích từ vật liệu đã qua sử dụng
+bằng cách làm theo video hướng dẫn nhé.
+THỰC HÀNH
+Nếu trong bài trước, em chỉ sử dụng giấy thì ở bài này em có thể sử dụng
+nhiều loại vật liệu khác nhau. Em cũng có thể sử dụng kéo (để cắt) và keo,
+băng dính (để dán) để tạo ra những vật dụng hữu ích như cốc nước, hộp bút,
+mô hình nhà, đồ chơi hay một chiếc thùng rác nhỏ.
+Lưu ý: Đễ tìm một video trên YouTube hướng dẫn làm hộp đựng rác bằng vật
+liệu tái chế, em có thể sử dụng từ khoá "làm hộp đựng rác từ vật liệu tái chế".
+49
+
+[Trang 50 | ocr]
+-- 3
+/ WN
+` lị
+Hình 68. Một số sản phẩm thủ công được làm từ vật liệu tái chế theo video hướng dẫn
+MHIỆM VỤ Em hãy tìm kiếm và xem video hướng dẫn để làm một chiếc thùng
+rác nhỏ từ vật liệu tái ché (Hình 69).
+Hướng dẫn
+Bước 1: Tìm kiếm và mở video.
+—_ Truy cập địa chỉ /outube.corm.
+— Sử dụng từ khoá "làm hộp đựng rác
+từ vật liệu tái chế" để tìm kiếm video.
+—_ Chọn và mở một video mà em có thể
+làm theo.
+Bước 2: Xem video. Xem một lượt để biết
+tổng thể nội dung và những vật dụng cần
+chuân bị. Hình 69. Thùng rác từ vật liệu tái chế
+Bước 3: Xem từng bước và làm theo.
+—_ Thực hiện từng bước theo hướng dẫn trong video.
+— Sử dụng các nút điều khiển để tạm dừng, xem lại,... giúp em xem kĩ hơn
+và có đủ thời gian thực hiện.
+50
+
+[Trang 51 | ocr]
+4đ.e TẬP
+Em hãy sử dụng từ khoá "đồ dùng thủ công từ vật liệu tái chế" để tìm kiếm trên
+YouTube và cho biết có thể sử dụng vật liệu tái chế để làm ra những đồ dùng
+nào phục vụ các hoạt động trong gia đình.
+LỊ
+Hình 70. Một số đồ dùng thủ công làm từ ống hút nhựa
+Cộ su
+Em hãy tìm trên YouTube một video hướng dẫn làm khung ảnh với vật liệu
+sẵn có trong điều kiện thực tế của em như giấy, bìa, ống hút nhựa,...
+lÍ
+Ỉ
+}
+Hình 71. Một số khung ảnh được làm từ vật liệu tái chế
+51
+
+[Trang 52 | ocr]
+CHỦ ĐỀ 6. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ
+ỢGIÚPCỦAMÁYTÍNH _
+“ BÀI" £ F 3
+` 1 0 Ứ CÂU TRÚC TUẦN TỰ
+PHONG Sau bài này em sẽ:
+* Nêu được ví dụ cụ thể mô tả cấu trúc tuần tự.
+*. Sửdụng được cấu trúc tuần tựtrong một số chương trình đơn giản.
+øo KHỞI ĐỘNG
+Hình 72 là hướng dẫn các thao tác định
+dạng văn bản, em thực hiện lần lượt Đính dạng phông chữ, cỡ chữ
+Bước 1, Bước 2, Bước 3,... đễ được kết. 5” 1: Chọn phần văn bản cần định
+5 _ ng.
+quả như yêu cầu. Sước 2: Nháy chuột vào lệnh phông
+Việc thực hiện lần lượt từng bước theo chữ để chọn phông Verdana.
+thứ tự như vậy còn được gọi là thực hiện cua? `. vào lệnh cỡ chữ
+tuần tự. Hằng ngày có rất nhiều hoạt  YÀ°honcỡchữ12.
+động mà em thực hiện tuần tự. Em hãy pịng 72, Hướng dẫn định dạng văn bản
+kể ba hoạt động như vậy.
+. CẤU TRÚC TUẦN TỰ
+Í HOẠT ĐỘNG - Chương trình "Xin chào!"
+Em hãy sắp xếp các lệnh sau theo thứ tự đúng để được chương trình
+thực hiện ý tưởng: Nhân vật mèo xuất hiện trên sân kháu, di chuyển
+100 bước và nói "Xin chào!" trong 3 giây. Mèo kêu meo và nói tiếp
+"Rát vui được gặp các bạn.".
+s2
+
+[Trang 53 | ocr]
+@ Trong phần Khởi động, việc định dạng
+văn bản được thực hiện lần lượt, tuần Khi bắm vào
+tự theo từng bước. Việc định dạng văn
+bản đó được gọi là có cầu trúc tuần tự. dichuyên @EĐ) sước
+Sau khi sắp xếp các lệnh ở Hoạt động em tong @ o2y
+được chương trình "Xin chào!" như Hình 73. sư nnG —=
+Các lệnh của chương trình này được thực 22 AM Vui...
+hiện lần lượt theo thứ tự. Chương tìnhnày ấT
+được gọi là chương trình có cấu trúc tuần tự.
+Hình 73. Chương trình
+"Xin chào!"
+: « Trong cấu trúc tuần tự, các việc được thực hiện lần lượt :
+: theo thứ tự. ì
+¡ « Trong chương trình có cấu trúc tuần tự, các lệnh hoặc ï
+‡ _ khối lệnh được thực hiện lần lượt theo thứ tự. ị
+gi? Chọn phát biểu sai.
+A. Trong chương trình có cấu trúc tuần tự, các lệnh được thực hiện
+theo thứ tự ngẫu nhiên.
+B. Trong chương trình có cấu trúc tuần tự, các lệnh được thực hiện
+lần lượt theo thứ tự.
+©. Trong cấu trúc tuần tự, các việc được thực hiện lần lượt theo thứ tự.
+. THỰC HÀNH
+NHIỆM VỤ Kñ rạo chương trình "Xin chào!" với ý tưởng sau:
+s Nhân vật: mèo.
+e Hoạt động: Nhân vật thực hiện lần lượt các hành động sau:
+1. Di chuyển 100 bước.
+2. Nói "Xin chào!" trong 3 giây.
+3. Kêu meo.
+4. Nói "Rất vui được gặp các bạn.".
+53
+
+[Trang 54 | ocr]
+Hướng dẫn
+Bước 1: Tạo chương trình cho nhân vật mèo. Bảng sau cho tương ứng mỗi
+bước thực hiện ý tưởng với một lệnh trong Scratch. Em sử dụng các lệnh
+trong bảng để tạo chương trình như minh hoạ trong Hình 73.
+Mèo nói "Xin chào!" trong
+3 giây.
+Mèo nói "Rất vui được
+gặp các bạn.".
+Bước 2: Chạy thử chương trình để xem kết quả.
+Bước 3: Lưu tệp với tên là XinChao vào thư mục của em.
+NHIỆM VỤ B Tạo chương trình điều khiển nhân vật mèo thực hiện tuần tự
+các hành động sau:
+1. Di chuyển 10 bước.
+2. Thay đổi động tác.
+3. Đợi 1 giây.
+4. Di chuyển 10 bước.
+5. Thay đổi động tác.
+6. Đợi 1 giây.
+7. Di chuyển 10 bước.
+8. Thay đổi động tác.
+9. Đợi 1 giây.
+Hướng dẫn
+Bước 7: Mở tệp chương trình mới.
+8ước 2: Tạo chương trình cho nhân vật mèo. Bảng sau cho tương ứng mỗi
+hành động với một lệnh trong Scratch. Em sử dụng các lệnh trong bảng để
+tạo chương trình.
+54
+
+[Trang 55 | ocr]
+Khi bằm vào
+Mèo di chuyển 10 bước. dichuyên §Œ) suốc
+trang phục kế tiếp
+4 hục kế tiế
+„” 5 mm = - © =
+di chuyển ŒỒ cước
+Đợi trong 1 giây. + @55)
+trang phục kế tiếp
+8ước 3: Kéo thả các lệnh để có chương trình như đợi @® giây
+Hình 74.
+Bước 4: Chạy thử chương trình và quan sát kết quả. eicnuyên Đ) cước
+Bước 5: Lưu tệp với tên là MeoDiChuyen vào thư mục trang phục kế tiếp
+của em.
+Bưn si @›»
+— Một nhân vật có thể có nhiều trang phục. Hình 74. Chương trình
+— Khi thay đổi liên tiếp các trang phục của nhân vật thì mèo đi chuyển
+tạo hiệu ứng hoạt hình.
+= R trang phục kế tiếp M `.
+— Sử dụng lệnh để thay đổi động tác của nhân vật.
+dị chuyển ® bước
+Cho chương trình điều khiển nhân vật mèo
+như Hlình 78. G wono @Q ›2>
+a) Chương trình có cấu trúc tuần tự không? trang phục kế tiếp
+b) Nhân vật thực hiện lần lượt những hành P
+động nào?
+Hình 75. Chương trình
+điêu khiển nhân vật mèo
+VẬN DỤNG
+1. Tương tự Hoạt động ở Mục 1, em hãy mô tả ý tưởng chương trình để nhân
+vật nói "Tạm biệt!" và "Hẹn gặp lại!" thay cho "Xin chào!" và "Rất vui được
+gặp các bạn.".
+2. Em hãy viết chương trình theo ý tưởng ở Câu 1.
+55
+
+[Trang 56 | ocr]
+@ 11 Ð CÂU TRÚC LẬP
+` `... ; Sau bài này em sẽ:
+». Nêu được ví dụ cụ thể mô tả cấu trúc lặp.
+øo KHỞI ĐỘNG
+Trong môn Giáo dục thể chát 4, em đã làm quen
+với các bài tập rèn luyện kĩ năng bật, nhảy, trong đó
+em cần thực hiện lặp lại các động tác. Chẳng hạn,
+bài tập nhảy đập bóng (Hình 76) yêu cầu thực hiện
+lặp lại 20 lần động tác nhảy với tay đập bóng.
+Em hãy kể thêm một số việc khác mà em thực hiện
+lặp lại nhiều lần.
+Z ä Hình 76. Bài tập nhảy đập bóng
+Í. cÁu TRÚC LẶP ,
+HOẠT ĐỘNG sở (ấu trúc lặp
+Trong Nhiệm vụ 2 của Bài 10, em đã tạo chương trình điều khiển nhân
+vật mèo di chuyển trên sân kháu và thay đổi động tác (Hình 74). Trong
+chương trình đó, khối lệnh nào được lặp lại và lặp lại bao nhiêu lần?
+Có cách nào để chương trình ngắn gọn hơn không?
+Trong phần Khởi động,
+động tác nhảy đập
+bóng được làm đi làm “
+lại nhiều lần. Một công việc #w#@9ƒ W8
+được thực hiện nhiều lần như Re 3lần được lặp lại
+thế được gọi là công việc có h
+cầu trúc lặp. ¡ @®ö» TA VÀ
+Chương trình ở Hình 77acó S2 =» ®
+một khối lệnh được lặp li kồ tếp dicuyên §Ð) so
+ba lần. Chương trình cólệnh ˆ: tran phực kế tp
+hoặc khối lệnh được lặp lại “Z5” ai @Ề»*
+gọi là chương trình có cáu |. 2
+trúc lặp. Scratch cung cáp e-
+lệnh lặp để điều khiển cấu
+trúc lặp đó như minh hoạ ở a) Khói lệnh lặp lại 3 lần _ b) Sử dụng lệnh lặp (3 lần)
+Hình 77b. Hình 77. Chương trình điêu khiển nhân vật mèo
+56
+
+[Trang 57 | ocr]
+8 ị s Trong cấu trúc lặp, công việc được thực hiện lặp lại. ị
+‡ » Trong chương trình có cấu trúc lặp, lệnh hoặc khối lệnh ‡
+: _ được thực hiện lặp lại. ì
+g® Em hãy chỉ ra lệnh lặp ở Hình 77b, biết rằng lệnh lặp chứa khối lệnh
+được lặp lại.
+Ê CÁC LỆNH LẶP
+@ Scratch có ba lệnh điều khiển cáu trúc lặp thuộc nhóm lệnh Điều: khiềr;
+như trong bảng sau:
+Lệnh lặp Ví dụ minh hoạ Mô tả hoạt động
+a) Lệnh lặp với só ——— |Khối lệnh trong
+lần biết trước ¿p'a: @ lệnh lặp được lặp
+di chuyến ) ước lại 3 lân.
+splai @3 trang phục kế tiếp
+Khối lệnh
++ đợi @® giây được lặp lại
+Nơi đặt khối +
+lệnh được lặp lại
+b) Lệnh lặp n Khối lệnh trong
+liên tục ] ¬¬ lệnh lặp được lặp
+Khối lệnh lể
+dichuyển Ề) cước liên tục, không
+g. —=—=— ldừng.
+trang phục kế tiếp
+Nơi đặt khối lệnh = @«
+được lặp lại +
+Ầ)- Lệnh lặp có Khối lệnh trong
+điêu kiện lệnh lặp được
+lp lạ cho đến khi - chuộ(được nhấn? thực hiện cho đến
+- : khi điều kiện được
+lặp lại cho đến khi dichuyển §Œ) bước Khối lệnh thoả mãn (chuột
+trang phục kế tiếp được lặp lại được nháy).
+đợi giả
+Nơi đặt khối lệnh e®»
+được lặp lại `
+57
+
+[Trang 58 | ocr]
+8: Trong Scratch, có ba lệnh lặp như sau: ]
+¡ | Lệnh lặp với số | Lệnh lặp liên tục Lệnh lặp ị
+ị lần biết trước có điều kiện |
+ị lap lại @ lặp lại cho đến khi ị
+@P Để điều khiển nhân vật lặp lại một việc 10 lần, em sử dụng lệnh nào
+sau đây?
+A. Lệnh lặp với số lần biết trước.
+8. Lệnh lặp liên tục.
+€. Lệnh lặp có điều kiện.
+4đ. TẬP
+Em hãy ghép mỗi khối lệnh ở cột bên trái với một ý nghĩa ở cột bên phải cho
+phù hợp.
+lặp lạ cho đếnkhi phím phímtrẳng v được bẩm?
+1) T24. a) Nhân vật thay đổi trang phục
+ai @ o2 liên tục không dừng lại.
+3à
+So) b) Nhân vật liên tục thay đổi
+trang phục kế bếp, trang phục cho đến khi người
+«” @% sử dụng nhấn phím dầu cách
+= (phím trắng) thì dừng lại.
+lên tạc
+3) c) Nhân vật lặp lại việc thay đồi
+ai @Đ o2 trang phục 10 lần.
+2.
+Hãy mô tả các bước thực hiện của chương trình có một chú cá bơi liên tục
+trong bể, khi cá chạm cạnh bể thì bật lại. Khi tạo chương trình em sẽ sử dụng
+lệnh lặp nào?
+58
+
+[Trang 59 | ocr]
+7 BÀI `
+THỰC HÀNH SỬ DỤNG LỆNH LẶP
+Sau bài này em sẽ:
+». Sử dụng được lệnh lặp trong một số chương trình đơn giản.
+" . Chạy thử được chương trình.
+Øo KHỞI ĐỘNG
+Sau khi học về cấu trúc lặp, bạn Khoa có ý tưởng tạo chương trình mô tả chú
+vẹt bay liên tục trên sân khấu như sau:
+— Nhân vật: vẹt.
+—_ Sân khấu: phông nền bầu trời hoặc nền mặc định.
+— Hành động của nhân vật: lặp lại liên tục các hành động sau:
+1. Di chuyển 10 bước. 2. Vỗ cánh.
+3. Đợi 1 giây. 4. Nếu chạm cạnh sân kháu thì bật lại.
+Em hãy cùng bạn Khoa thực hành tạo chương trình đó nhé.
+THỰC HÀNH
+NHIỆM VỤ m Tạo khối lệnh điều khiển nhân vật vẹt thực hiện tuần tự các
+hành động:
+1. Di chuyển 10 bước. 2. Vỗ cánh.
+3. Đợi 1 giây. 4. Nếu chạm cạnh sân kháu thì bật lại.
+Hướng dẫn »w
+Bước ï: Xoá nhân vật mèo, thêm nhân vật (trong chủ đề Động vật).
+8ước 2: Sử dụng các lệnh trong bảng sau để tạo khối lệnh như minh hoạ
+trong Hình 78.
+Hành động ©
+R : di chuyển bước
+Vẹt di chuyền 10 bước.
+trang phục kế tiếp
+Ã =4 trang phục kế tiếp
+Nếu chạm cạnh sân kháu Hình 78. Khối lệnh
+thì bật lại. được lặp
+Bước 3: Lưu tệp với tên FianhiDongCuaVet vào thư mục của em.
+59
+
+[Trang 60 | ocr]
+NHIỆM UỤ ẾỔ Tạo ba chương trình thực hiện các ap lại @)
+yêu cầu sau: di chuyển ® bước
+a) Vẹt bay 10 lần. <
+b) Vẹt bay liên tục. trang phục kế tiếp
+c) Vẹt bay liên tục cho đến khi nháy chuột. đơi @® giây
+Hướng dẫn bật lại nếu chạm cạnh
+a) Vẹt bay 10 lần +
+Để thực hiện yêu câu này, em sử dụng lệnh lặp với Hình 79. Khối lệnh vẹt
+số lân biêt trước đề lặp lại 10 lân khôi lệnh ở Hình 78. bay 10 lần
+Bước 1: Mở tệp HanhDongCuaVet đã tạo ở
+Nhiệm vụ 1.
+Khi bẩm vảo
+Bước 2: Chỉnh sửa chương trình: ñ
+đặtkiểuxoay trái- phải v
+— Kéo thả lệnh lặp lại vào chương trình để được khối =
+lệnh như Hình 79. sp5i
+di chuyên Œ) sooc
+— Bổ sung lệnh như Hình 80 để «cuc
+vẹt không bị lộn ngược. @
+đợi lây
+Bước 3: Chạy thử chương trình và quan sát kết quả. -
+Bước 4: Lưu tệp với tên là VetBay1 vào thư mục _`ˆ Mhhiioliedi
+của em. =
+b) Vẹt bay liên tục “ My In: bụng
+Để thực hiện yêu cầu này, em sử dụng lệnh lặp -
+liên tục để lặp liên tục khối lệnh ở Hình 78. ... RA
+Bước 1: Mở tệp HanhDongCuaVet đã tạo ở :
+Nhiệm vụ 1. đậtkiểuxoay trái - phải #
+Bước 2: Chỉnh sửa chương trình: tiên tục
+— Kéo thả lệnh lặp liên tuc vào chương trình. di chuyển @® bước
+— Tương tự câu a, em bổ sung lệnh như Hình 81 để Số Tư Tí
+vẹt không bị lộn ngược. °
+đợi lây
+Bước 3: Chạy thử chương trình và quan sát kết quả. b
+Bước 4: Lưu tệp với tên là VetBay2 vào thư mục Xe togA hơi Qui
+của em. *
+Hình 81. Vẹt bay
+liên tục
+60
+
+[Trang 61 | ocr]
+c) Vẹt bay liên tục cho đến khi nháy chuột
+Để thực hiện yêu cầu này, em sử dụng lệnh lặp lại cho đén khi để lặp khối
+lệnh ở Hình 78 đến khi nháy chuột.
+Bước 7: Mở tệp chương trình Flanhi5ongCuaVet đã tạo ở Nhiệm vụ 1.
+Bước 2: Chỉnh sửa chương trình:
+— Kéo thả lệnh lặp lại co đến khi vào chương
+trình. đật kiểu xoay trái - phải
+- Trong nhóm lệnh Cảm biến, kéo thả lặp lại cho đến khi chuột được nhấn?
+TT”? vào õ điều kiện. uyên §Ð sốc
+~ Tương tự câu a, em bổ sung lệnh như Hình kiohojaicluyô ng 2
+82 để vẹt không bị lộn ngược. si @‹2.
+Bước 3: Chạy thử chương trình, nháy chuột Fup-. JBEM
+và quan sát kết quả xem vẹt có dừng bay 5
+hay không.
+Bước 4: Lưu tệp với tên là VetBay3 vào thự Hình _ MAN Art tục cho
+mục của em. lến khi nháy chuột
+4Ö. TẬP
+1. Tạo khối lệnh để nhân vật thực hiện tuần tự các hành động sau:
+
+1. Di chuyển 20 bước.
+
+2. Thay đổi động tác.
+
+3. Đợi 1 giây.
+2. Sử dụng lệnh lặp tạo ba chương trình, mỗi chương trình thực hiện một yêu
+cầu sau:
+a) Lặp lại 15 lần khối lệnh ở Câu 1.
+b) Lặp liên tục khối lệnh ở Câu 1.
+c) Lặp khối lệnh ở Câu 1 cho đến khi nháy chuột.
+œ VẬN DỤNG
+Em hãy tạo chương trình sử dụng lệnh lặp với số lần biết trước để vẽ
+hình vuông.
+
+61
+
+[Trang 62 | ocr]
+7 BÀI `
+XE Ỹ cÁu TRúc RÉ NHÁNH
+Sau bài này em sẽ:
+"- Nêu được ví dụ cụ thể mô tả cấu trúc rẽ nhánh.
+"Sử dụng được cấu trúc rẽ nhánh trong một số chương trình
+đơn giản.
+" . Chạy thử được chương trình.
+øo KHỞI ĐỘNG
+Khi chuẩn bị qua đường, em quan sát đèn tín hiệu giao
+thông dành cho người đi bộ (Hình 83). Em qua đường
+nếu đèn màu xanh và dừng lại nếu đèn màu đỏ. Việc qua
+đường, được thực hiện hay không tuỳ thuộc vào màu của
+đèn tín hiệu, gọi là công việc có cấu trúc rẽ nhánh. Em hãy
+kể thêm ví dụ về công việc có cấu trúc rẽ nhánh. Hình 83. Đèn tín hiêu
+H P > P giao thông
+1 CẤU TRÚC RẼ NHÁNH
+H0ẠT ĐỘNG ằ Mèo đổi màu
+Một chương trình Scratch điều khiển nhân vật mèo như sau:
+Khi chạm vào con trỏ chuột, nhân vật đổi từ màu này sang màu khác.
+1. Em hãy cho biết điều kiện để mèo đổi màu là gì.
+2. Hãy sử dụng cách nói néu.... thì... để mô tả hành động đổi màu của
+nhân vật.
+Trong tình huống khởi động, khi thấy đèn dành cho người đi bộ màu
+3) xanh, em sẽ đi qua đường. Tình huống này được diễn đạt như sau:
+Ñéu đèn tín hiệu cho người đi bộ màu xanh t/:¡ em đi qua đường.
+Tương tự như vậy, trong Hoạt động 1, nhân vật mèo đổi màu khi nó chạm vào
+con trỏ chuột. Điều kiện để mèo đổi màu là “chạm vào con trỏ chuột”. Hành
+động của mèo có thê được mô tả như sau:
+AÑléu chạm con trỏ chuột í/:¡ mèo đổi màu.
+Một công việc được thực hiện hay không được thực hiện tuỳ thuộc vào một
+điều kiện được thoả mãn hay không gọi là công việc có cấu trúc rẽ nhánh.
+62
+
+[Trang 63 | ocr]
+Mèo trở về màu vàng
+Giả sử kịch bản trong Hoạt động 1 thay đổi như sau:
+—_ Khi chạm vào con trỏ chuột, nhân vật đổi từ màu này sang màu khác.
+— Khi con trỏ chuột không còn chạm vào mèo, nhân vật trở về màu vàng
+ban đầu.
+1. Em hãy cho biết nhân vật thay đổi như thế nào khi con trỏ chuột không
+còn chạm vào nó.
+2. Hãy sử dụng cách nói néu... ihì... để mô tả hành động của nhân vật
+trong trường hợp này.
+@ Hành động của nhân vật trong Hoạt động 2 có thể được mô tả theo
+cách nói nều... thì... bằng hai câu như sau:
+Nều chạm con trỏ chuột (:¡ mèo đổi màu.
+Néu không chạm con trỏ chuột (lì mèo trở về màu ban đầu.
+Đây là cách mô tả công việc bằng cấu trúc rẽ nhánh dạng thiếu.
+Hành động của nhân vật trong Hoạt động 2 cũng có thể được mô tả gọn bằng
+một câu như sau:
+Nều chạm con trỏ chuột t:¡ mèo đổi màu
+nếu không thì mèo trở về màu ban đầu.
+Đây là cách mô tả công việc bằng cấu trúc rẽ nhánh dạng đủ.
+8: Cấu trúc rẽ nhánh có hai dạng: F
+‡ s Cấu trúc rẽ nhánh dạng thiếu: ị
+ì nếu <điều kiện> thì <công việc> ì
+‡ e Cấu trúc rẽ nhánh dạng đủ: ị
+ị nếu <điều kiện> thì <công việc 1> ị
+ị nếu không thì <công việc 2> ị
+gP Hãy sử dụng cấu trúc rẽ nhánh dạng đủ và điều kiện “đèn tín hiệu cho
+người đi bộ màu đỏ” để mô tả hoạt động qua đường của người đi bộ.
+63
+
+[Trang 64 | ocr]
+Ê. CÁC LỆNH RẼ NHÁNH
+@ Scratch có hai lệnh điều khiển cấu trúc rẽ nhánh thuộc nhóm lệnh
+Điều khiển như trong bảng sau:
+a) Lệnh nếu... thì... Nếu điều kiện
+"`.ằồ ô=...."¬ “đang chạm con
+: tốn vi G trỏ chuột” được
+_Ằ@- nh thoả mãn thì
+thực hiện lệnh
+Khối lệnh được thực hiện “thay đổi hiệu
+Nơi đặt khối lệnh khi điều kiện được thoả mãn ứng màu...”.
+
+b) Lệnh nu... f0... Khối lệnh được thực | Nếu điều kiện
+nếu không thì... hiện khi điều kiện |! “đang chạm con
+được thoả mãn trỏ chuột” được
+
+ñỂU  đangchạm cantỏchuôlv 2 th thoả mãn thì
+
+_ ®- ereinkuee E->) số Œ thực hiện lệnh
+
+.=- khối lệnh ¡ || [AT "thay đổi hiệu
+
+Nơi đặt bỏ các hiệu ứng dồ họa ứng màu...”,
+
+khối lệnh 2 nếu không thì
+
+Khối lệnh được thực hiện khi điề. qHẸC TiểT EDH
+
+ối lệnh được thực hiện khi điều ty 3⁄25 331) 122 1:1
+kiện không được thoả mãn bề các hiệu xi)
+đô hoạ”.
+Lưu ý:
+— Điều kiện chạm con trỏ chuột (trong nhóm lệnh
+Cảm biên) thoả mãn khi con trỏ chuột chạm vào nhân vật.
+— Lệnh (trong nhóm lệnh 'iiên tf:¡) được sử dụng
+để thay đổi màu của nhân vật.
+— Lệnh IESEE) (trong nhóm lệnh Liền t!:¡) huỷ bỏ các hiệu ứng đồ hoạ
+(trong đó có đổi màu) được sử dụng để trả nhân vật về màu ban đầu của nó.
+
+6: Trong chương trình có cấu trúc rẽ nhánh, một lệnh hoặc ĩ
+¡ khối lệnh được thực hiện hay không được thực hiện tuỳ :
+
+¡ thuộc vào điều kiện đúng hay sai. ì
+
+64
+
+[Trang 65 | ocr]
+g® Đoạn chương trình nào sau đây có cấu trúc rẽ nhánh?
+Khi bắm vào.
+Khi bắm vào.
+trang phục kề tiếp.
+khi bắm phim phím trắng lặp lại ®
+di chuyển @® bước
+nếu đangchạm con trỏ chuột ? thì trang phục kế tiếp
+.. PK. saes Ð
+Nghe 2°, di chuyển ® bước đợi o5) giây
+di chuyển @® bước `
+A. B, e.
+3. THỰC HÀNH SỬ DỤNG CẤU TRÚC RẼ NHÁNH
+NHIỆM VỤ Hãy viết chương trình Mèo đổi màu như ý tưởng được mô tả trong
+Hoạt động 1: Nhân vật mèo thực hiện lặp liên tục "n:éu chạm con trỏ chuột thì
+đổi màu".
+Hướng dẫn
+Bước 1: Ghép các lệnh và điều kiện sau thành chương trình thực hiện ý
+tưởng đã nêu.
+Lặp để nhân vật thực hiện liên tục Khi bắm vào
+khối lệnh bên trong
+liên tục
+Tại mỗi bước lặp: nếu  đangchạm con trỏchuột  ? thì
+Nếu nhân vật chạm con trỏ chuột LÌ
+thì thay đổi màu một lượng bằng 3 thay đổi hiệuứng màu w mộtlượng ®
++
+65
+
+[Trang 66 | ocr]
+Bước 2: Chạy chương trình và quan sát kết quả.
+Bước 3: Lưu chương trình với tên \úeoDoiliau vào thư mục của em.
+4Ø e TẬP
+Khối lệnh nào sau đây điều khiển nhân vật hành động theo mô tả trong
+Hoạt động 2?
+nêu chuột được nhắn? thì
+bỏ các hiệu ứng đồ họa
+A. nếu không thì
+thay đổi hiệuứng màu # mộtlượng L2)
+nếu đangchạm contrỏchuộtv 2. thì
+bỏ các hiệu ứng đồ họa
+B. nếu không thì
+thay đổi hiệu ứng màu _ mộtlượng @®
+nếu đang chạm con trỏ chuột e 2? thi
+thay đổi hiệu ứng màu w một lượng ®
+C. Hỗ Núi
+bỏ các hiệu ứng đồ họa
+Hãy viết chương trình mèo đổi màu như ý tưởng được mô tả trong
+Hoạt động 2: Nhân vật mèo thực hiện lặp liên tục "né: chạm con trỏ chuột
+thì đổi màu riều không thì trở về màu ban đầu". Lưu chương trình với tên tệp
+MeoTroVeMauVang.
+66
+
+[Trang 67 | ocr]
++ Ð Sử DỤNG BIÊN TRONG
+ì 14 CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+». Sử dụng được biến nhớ trong một số chương trình đơn giản.
+o KHỞI ĐỘNG
+H0ẠT ĐỘNG + Chương trình "Xin chào bạn..."
+Bạn An tạo chương trình như minh hoạ ở
+Hình 84. Khi chạy chương trình, nhân vật Khi bẩm vào
+đưa ra câu hỏi “Tên của bạn là gì?” và ô & =
+để nhập câu trả lời (Hình 85a). Sau khi 5
+nhập câu trả lời và nhấn phím Enter,màn  [ đe tai
+hình hiển thị câu chào của mèo theo tên
+vừa nhập (Hình 85b). Em có biết tại sao Hình 84 Chương trình
+mèo lại chào đúng theo tên không? Xin chào bạn...
+vwảlời @WW trải!
+%2
+Ô đểnhập
+câu trả lời
+¬ ®
+4) Màn hình nhập câu trả lời b) Màn hình kết quả
+Hình 85. Màn hình của chương trình “Xin chào bạn...”
+Í_ SỬ DỤNG BIẾN “TRẢ LỜI” TRONG SCRATCH
+@ Trong chương trình ở phần Khởi động, câu trả
+lời nhập vào từ bàn phím được lưu vào biến b2) œ®
+trả lời. Sau khi nhập dữ liệu, biến trả li có giá Cảm biến
+trị là tên mà người sử dụng vừa nhập từ bàn phím jm
+(Hình 86b). Biến trả lời là biến có sẵn của Scratch, nh han ni”
+được đặt trong nhóm lệnh ©ảm biên như minh hoạ ở
+Hình 86.
+Lử4
+
+[Trang 68 | ocr]
+Lưu ý: Nháy chuột chọn hộp kiểm ngay e 6 œ®
+trước tên biến rộ (Hình 87) để hiển thị °3”°ê* Nháy chuột vào
+giá trị của biến này trên sân kháu.
+Hình 87. Hiển thị giá trị biến trả lời
+a) Nhập giá trị cho biến œ@®
+Sử dụng lệnh (trong nhóm lệnh Cảm bién) để nhập giá
+trị cho biến œ® Khi thực hiện lệnh, trên màn hình xuất hiện câu hỏi và ô để
+nhập câu trả lời như Hình 85a. Sau khi người sử dụng nhập câu trả lời và xác
+nhận bằng cách nhắn phím Enter, giá trị vừa nhập được đưa vào biến œ®
+b) Hiễn thị giá trị của biến œ ra màn hình
+hoặc 5¬ để hiển thị giá trị của biến nói (lời
+(Hình 88).
+Hình 88. Chương trình
+sử dụng biến trả lời
+Có thể sử dụng lệnh của nhóm lệnh Các phép toán để có
+câu thông báo đây đủ hơn. Ví dụ, lệnh sẽ điều khiển
+nhân vật thông báo ra màn hình câu “Xin chào bạn Minh” nếu người sử dụng
+nhập dữ liệu cho biến œ® là “Minh”.
+= ni
+¡ se Sử dụng lệnh để nhập thông tin từ :
+¡ e Thông tin nhập vào từ bàn phím được lưu trong
+¡ biến CÓ, ì
+g® Nếu trên sân khấu hiển thị lời thì giá tị của biền ĐỘ
+bằng bao nhiêu? Người sử dụng đã nhập thông tin gì từ bàn phím?
+68
+
+[Trang 69 | ocr]
+£. TẠO VÀ SỬ DỤNG BIẾN
+@ a) Tạo biến
+Trong Scratch, ngoài biến có sẵn, em có thể tạo biến với tên tự đặt.
+Các lệnh về biến được đặt trong nhóm lệnh ©ác biến: só.
+Để tạo biến, em sử dụng lệnh và đặt tên cho biến như minh
+hoạ ở Hình 89. Khi đó một biến mới được tạo như minh hoạ ở Hình 90.
+Biến mới x
+Tên biến mới:
+®Cho tất cả nhân  © Chỉ nhân vật Gícbiên số
+vật này
+Tạo một biến.
+B—. sœ®
+Hình 89. Tạo biến Hình 90. Kết quả tạo biến
+Lưu ý: Nháy chuột chọn hộp kiểm ngay trước tên biến như minh hoạ ở Hình 90
+để hiển thị giá trị của biến trên sân kháu.
+b) Đặt giá trị cho biến
+Em sử dụng lệnh để đặt giá trị cho biến và lệnh
+e2 ¬4~ 230M6) để thay đổi giá trị của biến như minh hoạ ở Hình 91
+và Hình 92.
+Giá trị của biến sẽ
+Ôchứa || Ô chứa giá được cộng thêm
+tên biến || trị của biến giá trị trong ô này
+đạt Tuổiy thành #ẰỀ tayđổi Tuổi v mótlưong §Ề
+Hình 91. Đặt giá trị cho biến Hình 92. Thay đổi giá trị của biến
+c) Hiễn thị giá trị của biến ra màn hình
+sauen đỒ ...„
+Tương tự như cách hiển thị giá trị của biến , em sử dụng lệnh
+hoặc để hiển thị giá trị của biến.
+69
+
+[Trang 70 | ocr]
+Ví dụ, chương trình ở Hình 93 sử dụng biến Tuỏi và giá trị của biến được
+nhập vào từ bàn phím.
+Tuổi EU
+Khi bắm vào Tuổi của bạn An là 10.
+C)
+đặt Tuổi thành trảiời 4%
+nói _ kếthợp Tuổi
+a) Chương trình b) Kết quả chạy chương trình
+Hình 93. Chương trình thông báo tuổi
+g: « Em có thể tạo biến để sử dụng khi tạo chương trình.
+¡ e Trong Scratch, các lệnh về biến thuộc nhóm lệnh ‡
+¡ _ Các biến số, ỉ
+g® Sau khi thực hiện khối lệnh ở Hình 94 thì giá mi la+ nám ŒS
+trị của biến a là bao nhiêu? F"
+thayđổi a w một lượng
+A.2. B.4.
+Hình 94. Khối lệnh thay
+e.5. D.6. đổi giá trị biến ‹
+3. THỰC HÀNH SỬ DỤNG BIẾN
+NHIỆM VỤ 1| Tạo chương trình sử dụng biến @® của Scratch.
+Tạo chương trình “Xin chào bạn...” có nhân vật mèo và thực hiện yêu cầu
+được mô tả trong phần Khởi động.
+Hướng dẫn
+8ước 7: Tạo lệnh yêu cầu người
+sử dụng nhập tên từ bàn phím như
+Hình 95. Hình 95. Lệnh nhập tên người sử dụng
+70
+
+[Trang 71 | ocr]
+Bước 2: Tạo lệnh để nhân vật nói “Xin chào bạn...” theo tên vừa nhập.
+— Đưa lệnh vào vùng soạn thảo chương trình.
+—_ Trong nhóm lệnh ©ác phép toán, kéo lệnh thả vào vị
+trí ô trống “Xin chào” như minh hoạ trong Hình 96a.
+— Đưa biến œ® đặt vào vị trí như Hình 96b.
+— Chỉnh sửa câu chào như minh hoạ trong Hình 96c.
+4) b) bi)
+Hình 96. Tạo lệnh để nhân vật nói “Xin chào bạn...” theo tên vừa nhập
+— Ghép lệnh tạo được như Hình 96c vào sau lệnh ở Bước 1.
+Bước 3: Ghép lệnh œa vào khói lệnh tạo được sau Bước 2 để
+được chương trình như Hình 84.
+Bước 4: Chạy thử chương trình và quan sát kết quả.
+Bước 5: Lưu tệp với tên là ChaoHoi vào thư mục của em.
+NHIỆM VỤ 2| Tạo chương trình sử dụng biến.
+Tạo chương trình sử dụng biến Tuỏi với giá trị của biến được nhập vào từ
+bàn phím và hiển thị giá trị của biến ra màn hình.
+Hướng dẫn
+ước 1: Tạo biến mới có tên là Tuỏi.
+Bước 2: Nhập giá trị cho biến ® từ bàn phím.
+— Tạo lệnh để nhập thông tin từ bàn phím.
+Bước 3: Đặt giá trị của biến ® là thông tin nhập từ bàn phím:
+71
+
+[Trang 72 | ocr]
+— Kéo thả lệnh vào vùng soạn thảo chương trình.
+
+— Kéo thả biến œ® vào ô chứa giá trị của biến để được lệnh:
+
+— Ghép lệnh này vào khối lệnh ở Bước 2.
+
+Bước 4: Thông báo giá trị của biến ® ra màn hình. Thực hiện tương tự
+
+Bước 2 của Nhiệm vụ 1 để được lệnh:
+
+Ghép lệnh này vào khối lệnh ở Bước 3.
+
+Bước 5: Chạy thử chương trình và quan sát kết quả.
+
+Bước 6: Lưu tệp với tên là HloiTuoi vào thư mục của em.
+
+4đ.e TẬP
+
+Mở tệp chương trình 'ioiTuoi và thực hiện các yêu cầu sau:
+
+a) Bổ sung lệnh thay đổi giá trị của biến Tuỏi một lượng là 2.
+
+b) Thông báo ra màn hình giá trị của biến Tuỏi sau khi thay đổi.
+
+lởoj VẬN DỤNG
+
+Em hãy tạo chương trình thực hiện các yêu cầu sau:
+
+a) Chương trình đưa ra câu hỏi "Bạn là học sinh lớp nào?".
+
+b) Sau khi nhập câu trả lời, chương trình đưa ra lời chào. Ví dụ "Xin chào
+bạn học sinh lớp 5A", trong đó 5A là câu trả lời vừa được nhập vào từ
+bàn phím.
+
+72
+
+[Trang 73 | ocr]
+đGIÍ Tm _. K Z
+à. 1 5 ” SƯ DỤNG BIÊU THỨC
+ng TRONG CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+» Sử dụng được biểu thức trong một số chương trình đơn giản.
+» Chạy thử được chương trình.
+o KHỞI ĐỘNG
+HOẠT ĐỘNG + Biểu thức
+Giả sử biến œ@œ@ được dùng để lưu độ dài cạnh của hình vuông. Scratch
+có các phép toán cộng, trừ, nhân, chia như trong môn Toán. Theo em biểu
+thức nào sau đây tính chu vi hình vuông trong Scratch?
+^, “
+Í_ BIÊU THỨC TRONG SCRATCH
+@ Nếu biểu thức trong môn Toán gồm các số, chữ, phép toán và dáu
+HS 8 biểu thức trong Scratch gồm các số, biến và phép toán.
+Nhóm lệnh “:*” trong Scratch có các lệnh tạo biểu thức với một số phép toán
+như sau:
+— Bốn phép toán số học: cộng, trừ, nhân, chia. Ví dụ minh hoạ được trình
+bày trong bảng sau:
+_ Biến | Biutứ
+©O ŒP c1 CD ŒP GP.
+(165) 20 j 10 20 | T5 9 -
+6/3) 9| 12 | 12 | 18, 2 _
+73
+
+[Trang 74 | ocr]
+— Ba phép toán so sánh: bé hơn, bằng, lớn hơn. Các phép toán này được
+dùng để tạo biểu thức điều kiện. Ví dụ minh hoạ được trình bày trong các
+bảng sau:
+đúng (true) sai (false)
+30 j đứng | sai
+80 | 28 | sa đứng ¡ sai |
+30 | 30 j đúng j sa j sa
+— Một số phép toán đặc biệt khác:
+Phép lấy số Có kết quả là một số tự nhiên
+ngẫu nhiên | Gà MA - NMÃ '2)-- | pát kì ty 1 đến 10.
+Phép chia lầy €ó kết quả là 3, là số dư trong
+dư @--.. @ phép chia 15 cho 4.
+Lưu ý: Scratch không có dấu ngoặc để quy
+định thứ tự thực hiện phép toán. Với biểu thức. 7-5=2
+có nhiều phép toán, khi chạy chương trình, :
+các phép toán được thực hiện theo thứ tự từ _Á--
+trong ra ngoài. Ví dụ minh hoạ như Hình 97. Khối bên ngoài thực hiện sau:
+2+8=10
+Hình 97. Biểu thức lồng nhau
+8: » Scratch cung cấp các phép toán để em tạo biểu thức số, Ì
+: biểu thức điều kiện. ị
+¡« Các phép toán tạo biểu thức thuộc nhóm lệnh :
+¡ _ Các phép toán. ẵ
+74
+
+[Trang 75 | ocr]
+gP Giả sử hai biến ® và ® lưu độ dài hai cạnh của hình chữ nhật.
+a) Hãy ghép mỗi biểu thức trong Scratch ở cột bên trái với một biểu thức toán
+học tương ứng ở cột bên phải.
+Biểu thức trong Scratch Biểu thức toán học
+
+5
+
+b) Trong các biểu thức ở trên, chỉ ra những biểu thức trong Scratch để tính
+chu vi của hình chữ nhật.
+_ À, “
+. THỰC HÀNH SỬ DỤNG BIÊU THỨC
+NHIỆM VỤ Tạo chương trình sử dụng biến.
+Tạo chương trình tính chu vi hình chữ nhật với độ dài hai cạnh nhập vào từ
+bàn phím.
+Hướng dẫn
+Buóc 1: Tạo hai biến có tên là a và b để lưu độ dài hai cạnh của hình chữ nhật.
+Bước 2: Tạo khối lệnh nhập giá trị cho hai biến a và b từ bàn phím. Sử dụng
+các lệnh trong bảng sau để được khối lệnh như minh hoạ trong Hình 98.
+Hành động
+biến a từ bàn phím E —
+Đặt giá trị của biến
+a là thông tin vừa đặt aw thành trảlời
+nhập :
+bn thản phim, sà kàunni. —-
+Đặt giá trị của biến Hình 98. Khối lệnh nhập giá trị
+nhập
+75
+
+[Trang 76 | ocr]
+Bước 3: Tạo lệnh thông báo ra màn hình chu vi hình chữ nhật.
+— Kéo thả phép toán cộng vào vùng soạn thảo chương trình, tạo biểu thức
+@ - G" Kéo thả phép toán nhân vào vùng soạn thảo. Kéo thả biểu thức
+@m vào phép toán nhân để tạo biểu thức tính chu vi hình chữ nhật
+— Kéo thả phép toán vào vùng soạn thảo chương
+trình, kéo thả biểu thức vào ô chứa từ “chuối”. Chỉnh sửa
+nội dung ô “táo” để được biểu thức. ì
+— Kéo thả lệnh ghép vào khối lệnh ở Bước 2.
+— Kéo thả biểu thức vừa tạo vào
+ô "Xin chào!". Thay đổi số giây hiển thị thông báo thành 5 giây, em được
+chương trình như minh hoạ ở Hình 99.
+
+Khi bầm vào.
+
+đặt aw thành trả lời
+
+đặi bvw thành trả lời
+
+Hình 99. Chương trình thông báo ra màn hình chu vi hình chữ nhật
+
+Bước 4: Chạy thử chương trình và quan sát kết quả.
+Bước 5: Lưu tệp với tên là HliniChuNhat vào thư mục của em.
+76
+
+[Trang 77 | ocr]
+4e TẬP
+1. Hãy viết biểu thức toán học tương ứng của mỗi biểu thức sau trong Scratch.
+
+a)
+
+' xã @- Ẳ
+
+„mm
+
+©) Ỗ
+
+d) ị
+2. Hai biến a, b lưu độ dài hai cạnh của hình chữ nhật. Giá trị của hai biến
+hiện tại đang là + % b @€@.
+Khi đó, lệnh sẽ đưa thông
+báo nào ra màn hình?
+A. Diện tích hình chữ nhật là 3.
+8. Diện tích hình chữ nhật là 12.
+©. Diện tích hình chữ nhật là 4.
+D. Diện tích hình chữ nhật là 7.
+Tạo chương trình tính diện tích hình vuông có độ dài cạnh nhập vào từ
+bàn phím.
+
+T7
+
+[Trang 78 | ocr]
+7 BÀI `)
+MT Từ KịcH BẢN ĐỀN CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+" Hợp tác được theo nhóm để viết kịch bản và tạo chương trình
+thể hiện kịch bản.
+" Chạy thử được chương trình.
+øo KHỞI ĐỘNG
+H0ẠT ĐỘNG +* Ý tưởng chương trình trò chơi “Mèo bắt bóng”
+Nhóm bạn An, Minh và Khoa muốn tạo chương | sx œœ
+trình trò chơi “Mèo bắt bóng” (Hình 100),
+trong đó có một con mèo và một trái bóng.
+Bóng liên tục di chuyển trong sân kháu. Mèo
+di chuyển theo con trỏ chuột, con trỏ chuột di é®)
+chuyển đến đâu mèo di chuyển theo đến đó. =
+Người chơi dùng chuột để điều khiển mèo di
+chuyển sao cho mèo chạm được vào bóng.
+Mỗi lần mèo chạm vào bóng thì điểm số của Hình 100. Trò chơi
+người chơi được tăng thêm 1. Mèo bắt bóng
+Em hãy thảo luận với bạn để trả lời các câu hỏi sau:
+1. Chương trình gồm những nhân vật nào?
+2. Các nhân vật hành động như thế nào?
+Í_ VIẾT KỊCH BẢN
+Trong các bài học trước, ý tưởng của mỗi chương trình Scratch đều
+@ đã được mô tả cụ thể theo cách chia nhỏ công việc để dễ hiểu và dễ
+thực hiện. Việc mô tả như vậy chính là viết kịch bản chương trình.
+Kịch bản chương trình nên được viết để trả lời các câu hỏi sau:
+1. Chương trình có nhân vật nào?
+2. Chương trình diễn ra trong bối cảnh (sân kháu) nào?
+3. Hành động của các nhân vật là gì?
+Dựa trên ý tưởng được nêu ở hoạt động Khởi động, kịch bản chương trình
+“Mèo bắt bóng” được mô tả như sau:
+78
+
+[Trang 79 | ocr]
+1. Nhân vật và sân kháu: Có hai nhân vật là mèo và trái bóng.
+2. Sân khấu mặc định nền trắng.
+3. Hành động của các nhân vật như sau:
+— Trái bóng di chuyển liên tục trong sân kháu.
+— Mèo di chuyển theo con trỏ chuột. Trong lúc di chuyển, nếu chạm vào
+bóng thì tăng điểm lên 1.
+Từ kịch bản chương trình, em sử dụng lệnh Scratch tương ứng để thực hiện
+các công việc được mô tả trong kịch bản.
+& ị Kịch bản giúp em xác định cụ thể các công việc mà chương ị
+‡ trình cần thực hiện. Từ kịch bản, em dễ dàng tạo ra chương :
+: trình để thực hiện ý tưởng. ì
+g® 1. Em hãy ghép mỗi hành động của nhân vật ở cột bên trái với một
+cấu trúc phù hợp ở cột bên phải.
+— HànNGỆG  Ï Gámwớ |
+1) Trái bóng di chuyển liên tục trong sân khấu. | a) Cáu trúc lặp
+2) Mèo liên tục di chuyển theo con trỏ chuột.
+3) Nếu mèo chạm vào bóng thì tăng điểm lên 1. . Ð) Câu trúc rễ nhánh
+2. Em hãy chọn lệnh phù hợp với cấu trúc đã xác định trong Câu 1.
+Cấu trúc lặp , b) sp ai @) ©) lặp lại cho đến khi
+cò +
+Cấu trúc ©)
+rẽ nhánh d)
+2. THỰC HÀNH TẠO VÀ CHẠY THỬ CHƯƠNG TRÌNH
+NHIỆM VỤ l1| Tạo chương trình thể hiện kịch bản trò chơi “Mèo bắt bóng”
+được mô tả ở Mục 1.
+Hướng dẫn: Nhiệm vụ 1 được chia thành các công việc nhỏ hơn như sau:
+79
+
+[Trang 80 | ocr]
+1. Tạo hai nhân vật mèo và trái bóng.
+2. Tạo biến Điẻ:r: để lưu điểm só.
+3. Tạo chương trình điều khiển hành động của từng nhân vật theo kịch bản
+mô tả ở Mục 1.
+Khởi động phần mềm Scratch và thực hiện các bước sau:
+Bước 1: Ngoài nhân vật '_ --_' đã có sẵn, thêm một nhân vật trái bóng -*“=~/.
+Bước 2: Tạo biến mới ®œ® để lưu điểm số của người chơi.
+Bước 3: Tạo chương trình cho nhân vật -=—' như minh hoạ ở Hình 101.
+Hành
+ẻ liên tục
+Di chuyên
+liên 3M L.v lướt trong L¡) giâylới vị tí ngẫu nhiên v
+trong sân lướt rong ĐỀ o2y 6i v6ïn2innõn ~ vã
+kháu. kế Hình 101. Chương trình điều khiển
+nhân vật trái bóng
+Bước 4: Tạo chương trình cho nhân vật như minh hoạ ở Hình 102.
+Hành động
+Di chuyển |.
+liên tục Khi bắm vào.
+theo con trỏ đitới con trỏ chuột # cm Bi mollssn
+chuột. + mờ nàn @
+liên tục
+Kiểm _ tra :
+điều kiện đitới con trỏ chuột w
+chạm vào „ Ca UP >>:
+nhân vật
+bóng. l thayđổi Điểm w  mộtlượng L1)
+Nếu chạm | 8ã, .... Đ
+vào bóng R _——
+thì lần thayđổi Điểm v mộtượng @Ề Hình 102. Chương trình điều khiển
+ni g nhân vật mèo
+điểm lên 1.
+Bước 5: Lưu tệp với tên là IeoBatBong vào thư mục của em.
+80
+
+[Trang 81 | ocr]
+NHIỆM VỤ 2| Chạy thử chương trình tạo được ở Nhiệm vụ 1.
+Chạy chương trình và thực hiện các công việc sau:
+1. Quan sát kết quả.
+2. So sánh kết quả chạy chương trình với kịch bản xem đã đúng chưa.
+3. Chương trình có điều gì chưa đạt yêu cầu không? Nếu có thì tìm cách cải
+tiến hoặc sửa lỗi chương trình.
+Hướng dẫn
+Bước 1: Nháy nút lệnh ?# để chạy chương trình, di chuyển liên tục con trỏ
+chuột đuồi theo bóng và quan sát kết quả để tháy điểm số tăng lên khi mèo
+chạm bóng.
+Bước 2: Nháy nút để ©® dừng chương trình.
+Bước 3: Chạy lại chương trình nhiều lần để đảm bảo thực hiện đủ các yêu
+cầu của nhiệm vụ.
+W: Sau khi tạo chương trình, em cần chạy thử, quan sát kết ï
+
+: quả và chỉnh sửa để chương trình thực hiện đúng yêu cầu. :
+LỆ CC -
+4Œ... TẬP
+1. Kịch bản chương trình được viết để trả lời những câu hỏi nào sau đây?
+A. Chương trình có những nhân vật nào?
+B. Sân kháu là gì?
+©. Hành động của các nhân vật là gì?
+D. Làm thế nào để chạy chương trình?
+2. Em hãy cho biết tại sao cần phải chạy thử chương trình.
+Em hãy tạo chương trình thực hiện kịch bản “Mèo bắt bóng”, trong đó chương
+trình cho nhân vật mèo như Hình 103. Hãy chạy thử chương trình để thực
+hiện các công việc như yêu cầu trong Nhiệm vụ 2.
+
+81
+
+[Trang 82 | ocr]
+Khi bắm vào
+liên tục
+điới con trỏ chuột #
+nêu đang chạm Beachballw 2 thì
+thayđỗi Điểm # một lương @®
+cổ,
+Hình 103. Chương trình cho nhân vật mèo
+Gợi ý:
+Quan sát giá trị của biến Điểm khi bắt đầu mỗi lần chạy chương trình.
+Lưu ý:
+Em có thể tạo chương trình thực hiện kịch bản “Mèo bắt bóng”, trong đó
+chương trình cho nhân vật mèo ở Hình 103, theo cách sau:
+1. Mở tệp MeoBatBong.
+2. Chọn lệnh Lưu về máy tính trong bảng chọn Tệp tin để lưu tệp với tên
+khác, ví dụ: MeoBatBong1.
+3. Chọn nhân vật mèo, chỉnh sửa để được chương trình như Hình 103.
+82
+
+[Trang 83 | ocr]
+BẢNG GIẢI THÍCH THUẬT NGỮ
+Vùng lưu trữ dữ liệu trong máy tính được đặt
+Biến tên, cho phép chương trình xử lí dữ liệu đó | 67
+thông qua tên.
+Gọi điện thoại bằng máy tính hoặc điện thoại
+Gọi video thông minh qua Internet mà hai bên nhìn tháy
+nhau qua camera và màn hình hiển thị.
+Hộp kiểm Ô vuông nhỏ, người dùng có thể bật hay tắt
+ĩ để thể hiện lựa chọn hay không lựa chọn.
+Phương tiện trên Internet cho phép người sử
+Mạng xã hội dụng kết nối, tạo nhóm có chung mối quan
+tâm hay sở thích để trao đồi, chia sẻ thông tin.
+Gửi và nhận thông tin ngắn (dạng văn bản,
+Nhắn tin hình ảnh, âm thanh,...) giữa các thiết bị di
+động hoặc máy tính, thường được sử dụng
+để liên hệ nhanh theo cả hai chiều.
+Thư được gửi và nhận bằng máy tính thông
+sa qua Internet, thường được sử dụng với nội
+T | Tứ điện/tứt dung dài mà người dùng cần lưu để truy cập
+sau này.
+Website Tập hợp những trang Web có liên quan, có
+chung một địa chỉ truy cập trên Internet.
+83
+
+[Trang 84 | ocr]
+Nhà xuất bản Giáo dục Việt Nam xin trân trọng cảm ơn
+các tác giả có tác phẩm, tr liệu được sử dụng, trích dẫn
+trong cuốn sách này.
+Chịu trách nhiệm xuất bản:
+Tổng Giám đốc HOÀNG LÊ BÁCH
+Chịu trách nhiệm nội dung:
+Tổng biên tập PHẠM VĨNH THÁI
+Biên tập nội dung: NGUYỄN THỊ THANH XUÂN - PHẠM THỊ THANH NAM
+Biên tập mĩ thuật: NGUYỄN BÍCH LA
+Thiết kế sách: NGUYỄN THÚY QUỲNH
+Trình bày bìa: NGUYỄN BÍCH LA
+Minh hoạ: NGUYỄN THỊ THANH VÂN
+Sửa bản in: VŨ THỊ THANH TÂM - TẠ THỊ HƯỜNG
+Chế bản: CÔNG TY CÔ PHÀN MĨ THUẬT VÀ TRUYỀN THÔNG
+Bản quyền © (2024) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tắt cả các phần của nội dung cuốn sách
+này đều không được sao chép, lưu trữ, chuyển thể dưới bát kì hình thức nào khi
+chưa có sự cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+TIN HỌC 5
+Mã số: ....
+In... bản, (QÐ 01) khổ 19 x 26,5 em
+Đơn vị in: ..
+Địa chỉ:
+Số ĐKXB: 4229-2023/CXBIPH/4-2170/GD
+Số QĐXE: .../QĐ-GD — HN ngày ... tháng ... năm 2023.
+In xong và nộp lưu chiễu tháng ... năm 2023.
+Mã số ISBN: 978-604-0-39021-9
+84
+
+[Trang 85 | ocr]
+“TOÁN 5 _ TOÁN 5 KHOAHoc 5
+SỈ ụ su à
+ĐẠo bức MMẠC Ð | MITHUTŠ  cônoxot5 LÔ UeWSU 5:
+'HUÂN CHƯƠNG HỒ CHÍ MINH ~? F+AU DJ NỔ.
+KN. kiem
+= cử .HERSS~— —=I----:- | =——:-
+BỘ SÁCH GIÁO KHOA LỚP 5— KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+1. Tiếng Việt 5, tập một 9. Công nghệ 5
+2. Tiếng Việt 5, tập hai 10. Lịch sử và Địa lí 5
+3. Toán 5, tập một 11.Tin học 5
+4.Toán 5, tập hai 12. Hoạt động trải nghiệm 5
+5. Khoa học 5 13. Giáo dục thể chất 5
+6. Đạo đức 5 14. Tiếng Anh 5 - Global Success - SHS, tập một
+7. Âm nhạc 5 15. Tiếng Anh 5 - Global Success - SHS, tập hai
+8. Mĩ thuật 5
+Các đơn vị đầu mối phát hành
+« Miền Bắc: CTCP Đầu tư và Phát triển Giáo dục Hà Nội
+CTCP Sách và Thiết bị Giáo dục miền Bắc
+«© MiểnTrung: CTCP Đầu tưvà Phát triển Giáo dục Đà Nẵng
+CTCP Sách và Thiết bị Giáo dục miền Trung
+» Miền Nam: CTCP Đầu tư và Phát triển Giáo dục Phương Nam
+CTCP Sách và Thiết bị Giáo dục miền Nam.
+CTCP Sách và Thiết bị Giáo dục Cửu Long
+Sách điện tử:  http⁄/hanhtrangso.nxbgd.vn
+|
+II
+TF ll lÌ)
+SÁCHKHÔNG BẠN

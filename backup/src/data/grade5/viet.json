@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Từ đồng nghĩa với 'dũng cảm' là?",
+    "a": "CAN ĐẢM",
+    "c": [
+      "CAN ĐẢM",
+      "NHÚT NHÁT",
+      "HIỀN LÀNH",
+      "KIÊN NHẪN"
+    ]
+  },
+  {
+    "q": "Từ đồng nghĩa với 'chăm chỉ' là?",
+    "a": "CẦN CÙ",
+    "c": [
+      "CẦN CÙ",
+      "LƯỜI BIẾNG",
+      "VUI VẺ",
+      "THÔNG MINH"
+    ]
+  },
+  {
+    "q": "Trong câu 'Chân trời ửng hồng.', từ 'chân' mang nghĩa gì?",
+    "a": "NGHĨA CHUYỂN",
+    "c": [
+      "NGHĨA CHUYỂN",
+      "NGHĨA GỐC",
+      "NGHĨA BÓNG",
+      "NGHĨA ĐEN"
+    ]
+  },
+  {
+    "q": "Trong câu 'Bạn ấy bị đau chân.', từ 'chân' mang nghĩa gì?",
+    "a": "NGHĨA GỐC",
+    "c": [
+      "NGHĨA GỐC",
+      "NGHĨA CHUYỂN",
+      "NGHĨA BÓNG",
+      "NGHĨA ẨN"
+    ]
+  },
+  {
+    "q": "Từ đồng nghĩa với 'tươi đẹp' là?",
+    "a": "XINH ĐẸP",
+    "c": [
+      "XINH ĐẸP",
+      "XẤU XÍ",
+      "TỐI TĂM",
+      "KHÔ HÉO"
+    ]
+  },
+  {
+    "q": "Từ nào trái nghĩa với 'nhân hậu'?",
+    "a": "ĐỘC ÁC",
+    "c": [
+      "ĐỘC ÁC",
+      "THÂN THIỆN",
+      "TỬ TẾ",
+      "HÒA ĐỒNG"
+    ]
+  }
+]

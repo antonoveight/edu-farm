@@ -1,0 +1,33 @@
+Khi bằm vào
+Mèo di chuyển 10 bước. dichuyên §Œ) suốc
+trang phục kế tiếp
+4 hục kế tiế
+„” 5 mm = - © =
+di chuyển ŒỒ cước
+Đợi trong 1 giây. + @55)
+trang phục kế tiếp
+8ước 3: Kéo thả các lệnh để có chương trình như đợi @® giây
+Hình 74.
+Bước 4: Chạy thử chương trình và quan sát kết quả. eicnuyên Đ) cước
+Bước 5: Lưu tệp với tên là MeoDiChuyen vào thư mục trang phục kế tiếp
+của em.
+Bưn si @›»
+— Một nhân vật có thể có nhiều trang phục. Hình 74. Chương trình
+— Khi thay đổi liên tiếp các trang phục của nhân vật thì mèo đi chuyển
+tạo hiệu ứng hoạt hình.
+= R trang phục kế tiếp M `.
+— Sử dụng lệnh để thay đổi động tác của nhân vật.
+dị chuyển ® bước
+Cho chương trình điều khiển nhân vật mèo
+như Hlình 78. G wono @Q ›2>
+a) Chương trình có cấu trúc tuần tự không? trang phục kế tiếp
+b) Nhân vật thực hiện lần lượt những hành P
+động nào?
+Hình 75. Chương trình
+điêu khiển nhân vật mèo
+VẬN DỤNG
+1. Tương tự Hoạt động ở Mục 1, em hãy mô tả ý tưởng chương trình để nhân
+vật nói "Tạm biệt!" và "Hẹn gặp lại!" thay cho "Xin chào!" và "Rất vui được
+gặp các bạn.".
+2. Em hãy viết chương trình theo ý tưởng ở Câu 1.
+55

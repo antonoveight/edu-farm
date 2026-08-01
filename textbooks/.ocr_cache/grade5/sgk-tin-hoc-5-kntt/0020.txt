@@ -1,0 +1,55 @@
+Số lượng các tệp và thư mục trong một
+
+&@ máy tính rất lớn. Nếu em không sắp xếp Thường Xuyên dọn dẹp và
+và lưu trữ chúng một cách hợp lí thì sẽ _ SắP XẾP lại các fhư mục và
+
+rất khó khăn khi cần tìm. tệp trong máy tính.
+
+Để tạo được một cấu trúc cây thư mục hợp lí,
+
+em thực hiện:
+
+— Đặt tên thư mục hoặc tệp theo một cách ®.
+
+thóng nhát. Tên cần rõ ràng, gợi nhớ nội dung Ò
+
+của thư mục hoặc tệp. Xà) A2)
+
+—_ Phân loại tệp và sắp xếp vào các thư mục: W P
+
+Em cần phân loại các tệp. Ví dụ: phân theo loại `
+
+tệp (tệp ảnh, phim, văn bản, trình chiếu,...),
+
+theo thời gian (theo từng năm, từng tháng,...), theo đối tượng (ảnh gia đình, ảnh
+
+bạn bè,...). Hình 19 là cây thư mục trong máy tính của Khoa, lưu trữ các tệp
+
+được dùng để tạo bài trình chiếu của nhóm. Các tệp được phân theo loại tệp
+
+(tệp ảnh) và được lưu trữ trong các thư mục có tên là tên của người sở hữu
+
+các tệp đó.
+
+&: « Sắp xếp các thư mục và tệp bằng cấu trúc cây hợp lí sẽ ï
+¡ _ giúp tìm kiếm dễ dàng và tiết kiệm thời gian. ị
+‡ « Để có được cấu trúc cây hợp lí em cần phân loại các tệp
+:__ theo các tiêu chí như thời gian, nội dung, loại tệp, người :
+
+g® Vì sao việc đặt tên cho thư mục và tệp lại quan trọng?
+
+£. (ÔNG CỤ TÌM KIẾM TRÊN MÁY TÍNH
+
+@ Ngoài việc tìm kiếm thư mục và tệp dựa vào cách sắp xếp, em còn có
+
+thể sử dụng công cụ tìm kiếm có sẵn trên máy tính.
+
+Khi mở cửa sổ This PC (Hình 20), em sẽ nhìn thấy công cụ tìm kiếm nằm ở
+
+góc trên, bên phải cửa số.
+
+Công cụ tìm kiếm rất hữu ích khi em chỉ nhớ được tên hoặc một phần tên tệp
+
+mà không nhớ chính xác tệp đó được lưu ở thư mục nào.
+
+20

@@ -1,0 +1,42 @@
+[
+  {
+    "q": "Bộ phận nào trên mặt dùng để nhìn?",
+    "a": "MẮT",
+    "c": [
+      "MẮT",
+      "MŨI",
+      "TAI",
+      "MIỆNG"
+    ]
+  },
+  {
+    "q": "Đâu là loài vật nuôi trong gia đình?",
+    "a": "CHÓ",
+    "c": [
+      "CHÓ",
+      "HỔ",
+      "SƯ TỬ",
+      "VOI"
+    ]
+  },
+  {
+    "q": "Cây xanh cần gì để lớn lên?",
+    "a": "NƯỚC VÀ ÁNH SÁNG",
+    "c": [
+      "NƯỚC VÀ ÁNH SÁNG",
+      "CHỈ ĐẤT",
+      "CHỈ SỎI",
+      "KHÔNG CẦN GÌ"
+    ]
+  },
+  {
+    "q": "Màu nào là màu của lá cây thông thường?",
+    "a": "MÀU XANH LÁ",
+    "c": [
+      "MÀU XANH LÁ",
+      "MÀU ĐỎ",
+      "MÀU VÀNG",
+      "MÀU TÍM"
+    ]
+  }
+]

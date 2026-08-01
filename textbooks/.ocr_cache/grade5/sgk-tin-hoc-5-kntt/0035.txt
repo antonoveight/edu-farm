@@ -1,0 +1,33 @@
+—_ Thực hiện gõ và sao chép những phần văn bản giống nhau để không phải
+gõ lại nhiều lần.
+— Nếu gõ nhằm hoặc sai thì sử dụng phím Delete hoặc Backspace để xoá.
+— Để gõ chữ hoa em nhắn giữ phím Shift và gõ phím chữ.
+b) Chèn hình ảnh
+Bước 7: Chèn hình ảnh minh hoạ vào văn bản. Gõ thông tin nguồn hình ảnh
+tương tự dòng văn bản cuối cùng ở Hình 38.
+Bưóc 2: Thay đổi kích thước và vị trí của hình ảnh cho phù hợp.
+c) Định dạng văn bản
+8ước ï: Chọn toàn bộ văn bản. Trong nhóm lệnh Font của dải lệnh Home,
+thực hiện các lệnh định dạng chữ màu xanh, phông chữ Calibri, cỡ chữ 13.
+Bước 2: Chọn tên bài hát TRẺ EM HÔM NAY THÉ GIỚI NGÀY MAI, thực
+hiện các lệnh định dạng kiểu chữ đậm, cỡ chữ 16, chữ màu đỏ.
+Bước 3: Chọn dòng 2, 3 (thông tin tác giả), thực hiện định dạng kiểu chữ
+nghiêng. Thực hiện tương tự với dòng cuối cùng (nguồn hình ảnh).
+Bước 4: Thực hiện định dạng màu chữ cho các cụm từ Trẻ em hôm nay, Thế
+giới ngày mai thành màu vàng như minh hoạ ở Hình 38.
+d) Hoàn thiện và lưu văn bản
+Bước 1: Xem lại và sửa các lỗi chính tả để hoàn thiện văn bản.
+Bước 2: Lưu văn bản với tên tệp TreEmHomNay.
+NHIỆM VỤ E chinh sửa tệp văn bản TreErniHIorniNay để bổ sung lời hát lần 2.
+Hướng dẫn
+a) Chỉnh sửa văn bản
+Bước ï: Nháy chuột để đặt con h ¬
+trỏ soạn thảo ở vị trí cuối câu ứng SHHGGSSkuzkei
+của dòng 3. Nhấn phím Enter Lời thơ: Phùng Ngọc Hùng
+để xuống dòng. Gõ (Làn 1) và T lạng
+định dạng kiểu chữ gạch chân ĐÓ "ˆ Hy mai
+và chữ nghiêng như minh hoạ cướn Si vã
+trong Hình 39. Trẻ em hôm nay.
+Thế giới ngày mai
+Hình 39. Kết quả sau khi thực hiện Bước 1
+35

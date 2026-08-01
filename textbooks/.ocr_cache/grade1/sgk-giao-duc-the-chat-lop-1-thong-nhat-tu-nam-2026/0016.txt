@@ -1,0 +1,13 @@
+ Têp hợp hàng dọc
++ _ Khẩu lệnh: “Thành 1 (2, 3, 4,...) hàng dọc — Tập hợp!”.
++ _ Động tác: Chỉ huy đưa tay phải ra trước, em đầu hàng đứng đối diện với
+chỉ huy, các em khác lần lượt đứng sau theo thứ tự từ tháp đến cao.
+_ g—©€ Ý-. In ÝPn*®%:
+Tập họp 1 hàng dọc Tập hợp 4 hàng dọc
+bóng hàng dọc
++ _ Khẩu lệnh: “Nhìn trước — Thẳng!”. + Khẩu lệnh: "Thôi.
++ Động tác: Em đầu hàng giơ tay + Động tác: Tất cả về tư thế
+phải lên cao, các em đứng sau để đứng nghiêm.
+tay trái lên vai em đứng trước.
+Điểm số theo đội hình hàng dọc
++ _ Khẩu lệnh: "Từ 1 đến hết - Điểm số”.

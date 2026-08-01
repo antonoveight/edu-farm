@@ -1,0 +1,21 @@
+Nhìn vào bảng ta biết:
+~ . Ba môn thể thao được ghi trong bảng là: kéo co, chạy tiếp sức, nhảy bao bó.
+~ . Kéo co có 15 bạn tham gia, chạy tiếp sức có 5 bạn tham gia, nhảy bao bó
+có 8 bạn tham gia.
+Ất.
+@uới đây là bảng só liệu về số vật nuôi trong một trang trại.
+Loại vật nuôi Bò | Gà Lợn | Dê
+Số lượng (con) 45 120 78 36
+Dựa vào bảng trên, trả lời câu hỏi:
+a) Trong trang trại có những loại vật nuôi nào? Mỗi loại có bao nhiêu con?
+b) Trong trang trại, loại vật nuôi nào ít nhát? Loại vật nuôi nào nhiều nhát?
+cno bảng só liệu về số quyển sách bán được trong ba tháng đầu năm
+của một cửa hàng sách.
+IS ¡| 4 | 3_|
+Sách khoa học 280 quyển 200 quyển | 320 quyển
+| Truyện tranh 400 quyển . 540 quyển ] 612 quyển _
+Dựa vào bảng trên, trả lời câu hỏi:
+a) Trong tháng 2, cửa hàng bán được bao nhiêu quyển sách mỗi loại?
+b) Mỗi tháng cửa hàng bán được bao nhiêu quyền truyện tranh?
+ce) Trong tháng 1, cửa hàng bán được tát cả bao nhiêu quyển sách?
+105

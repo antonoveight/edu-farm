@@ -1,0 +1,14 @@
+Vẽ đoạn thẳng
+
+Vẽ đoạn thẳng dài 7 cm.
+
+Bước 1: Chấm một điểm.
+
+Bước 2: Đặt thước để vạch só 0 của thước trùng với điểm vừa chấm.
+
+Bước 3: Chấm một điểm tại vị trí 7 cm.
+
+Bước 4: Nói hai điểm đó ta được một đoạn thẳng dài 7 cm.
+Š.›«„
+L1) Vẽ đoạn thẳng:
+108

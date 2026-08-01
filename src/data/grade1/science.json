@@ -1,0 +1,374 @@
+[
+  {
+    "q": "Bộ phận nào trên cơ thể dùng để nghe âm thanh?",
+    "a": "TAI",
+    "c": [
+      "TAI",
+      "MẮT",
+      "MŨI",
+      "TAY"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Khi đi bộ trên đường, bé cần đi trên phần đường nào?",
+    "a": "VỈA HÈ",
+    "c": [
+      "VỈA HÈ",
+      "LÒNG ĐƯỜNG",
+      "ĐƯỜNG RAY",
+      "DƯỚI MƯƠNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Khi đi xe máy cùng bố mẹ, bé cần tuân thủ luật lệ nào để an toàn?",
+    "a": "ĐỘI MŨ BẢO HIỂM",
+    "c": [
+      "ĐỘI MŨ BẢO HIỂM",
+      "ĐEO KÍNH RÂM",
+      "MẶC ÁO MƯA",
+      "MANG BA LÔ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Động vật nào kêu 'meo meo' và thích bắt chuột?",
+    "a": "CON MÈO",
+    "c": [
+      "CON MÈO",
+      "CON CHÓ",
+      "CON GÀ",
+      "CON THỎ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Loài hoa nào thường hướng về phía mặt trời?",
+    "a": "HOA HƯỚNG DƯƠNG",
+    "c": [
+      "HOA HƯỚNG DƯƠNG",
+      "HOA HỒNG",
+      "HOA CÚC",
+      "HOA LAN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Trái cây nào sau đây có gai nhọn và mùi thơm rất đậm?",
+    "a": "SẦU RIÊNG",
+    "c": [
+      "SẦU RIÊNG",
+      "DƯA HẤU",
+      "TÁO",
+      "XOÀI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Ban đêm chúng ta nhìn bầu trời thấy gì sáng lên?",
+    "a": "TRĂNG VÀ SAO",
+    "c": [
+      "TRĂNG VÀ SAO",
+      "MẶT TRỜI",
+      "MÂY TRẮNG",
+      "CẦU VỒNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Cây cần gì để sống và phát triển?",
+    "a": "NƯỚC, ÁNH SÁNG, ĐẤT",
+    "c": [
+      "NƯỚC, ÁNH SÁNG, ĐẤT",
+      "ĐÁ VÀ CÁT",
+      "BÚT VÀ VỞ",
+      "DẦU VÀ MỠ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Mặt trời mọc ở hướng nào?",
+    "a": "ĐÔNG",
+    "c": [
+      "ĐÔNG",
+      "TÂY",
+      "NAM",
+      "BẮC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Trời mưa xuất hiện hiện tượng màu sắc nào trên bầu trời?",
+    "a": "CẦU VỒNG",
+    "c": [
+      "CẦU VỒNG",
+      "SAO BĂNG",
+      "ÁNH TRĂNG",
+      "SƯƠNG MÙ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Điền từ thích hợp: Rửa ___ sạch sẽ trước khi ăn để bảo vệ sức khỏe.",
+    "a": "tay",
+    "c": [
+      "tay",
+      "chân",
+      "mặt",
+      "tóc"
+    ],
+    "type": "fill_blank",
+    "sentence": "Rửa ___ sạch sẽ trước khi ăn để bảo vệ sức khỏe.",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Điền từ thích hợp: Mỗi người chúng ta đều có ___ bàn tay.",
+    "a": "hai",
+    "c": [
+      "hai",
+      "một",
+      "ba",
+      "bốn"
+    ],
+    "type": "fill_blank",
+    "sentence": "Mỗi người chúng ta đều có ___ bàn tay.",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Điền từ thích hợp: Không vứt ___ bừa bãi ra môi trường.",
+    "a": "rác",
+    "c": [
+      "rác",
+      "nước",
+      "đồ chơi",
+      "sách"
+    ],
+    "type": "fill_blank",
+    "sentence": "Không vứt ___ bừa bãi ra môi trường.",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Sắp xếp lời dạy của bác sĩ:",
+    "a": "Hãy uống nước đun sôi để nguội",
+    "c": [
+      "Hãy uống nước đun sôi để nguội"
+    ],
+    "type": "reorder",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé",
+    "words": [
+      "Hãy",
+      "uống",
+      "nước",
+      "đun",
+      "sôi",
+      "để",
+      "nguội"
+    ]
+  },
+  {
+    "q": "Bộ phận nào trên mặt dùng để nhìn?",
+    "a": "MẮT",
+    "c": [
+      "MẮT",
+      "MŨI",
+      "TAI",
+      "MIỆNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Đâu là loài vật nuôi trong gia đình?",
+    "a": "CHÓ",
+    "c": [
+      "CHÓ",
+      "HỔ",
+      "SƯ TỬ",
+      "VOI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Cây xanh cần gì để lớn lên?",
+    "a": "NƯỚC VÀ ÁNH SÁNG",
+    "c": [
+      "NƯỚC VÀ ÁNH SÁNG",
+      "CHỈ ĐẤT",
+      "CHỈ SỎI",
+      "KHÔNG CẦN GÌ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Màu nào là màu của lá cây thông thường?",
+    "a": "MÀU XANH LÁ",
+    "c": [
+      "MÀU XANH LÁ",
+      "MÀU ĐỎ",
+      "MÀU VÀNG",
+      "MÀU TÍM"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Việc làm nào giúp em giữ vệ sinh răng miệng sạch sẽ hằng ngày?",
+    "a": "Chải răng mỗi ngày 2 lần sáng và tối",
+    "c": [
+      "Chải răng mỗi ngày 2 lần sáng và tối",
+      "Chỉ chải răng khi ăn kẹo",
+      "Chỉ súc miệng bằng nước",
+      "Không cần chải răng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Tại sao em cần phải rửa tay trước khi ăn và sau khi đi vệ sinh?",
+    "a": "Để phòng tránh vi khuẩn và bảo vệ sức khoẻ",
+    "c": [
+      "Để phòng tránh vi khuẩn và bảo vệ sức khoẻ",
+      "Để tay có mùi thơm",
+      "Để tay ướt dễ cầm thức ăn",
+      "Để được bố mẹ khen"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Khi đi bộ trên đường phố, em nên đi ở đâu để đảm bảo an toàn?",
+    "a": "Đi trên vỉa hè",
+    "c": [
+      "Đi trên vỉa hè",
+      "Đi sát dải phân cách",
+      "Đi dưới lòng đường",
+      "Đi chéo qua ngã tư"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Việc nào em nên làm để giúp đỡ bố mẹ khi ở nhà?",
+    "a": "Dọn dẹp đồ chơi gọn gàng sau khi chơi",
+    "c": [
+      "Dọn dẹp đồ chơi gọn gàng sau khi chơi",
+      "Vứt đồ dùng bừa bãi",
+      "Đòi bố mẹ mua thêm đồ chơi",
+      "Chỉ ngồi xem tivi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+  },
+  {
+    "q": "Ghép bộ phận cây với chức năng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết cấu tạo và chức năng các bộ phận của cây xanh",
+    "pairs": [
+      {
+        "left": "Rễ",
+        "right": "Hút nước từ đất"
+      },
+      {
+        "left": "Thân",
+        "right": "Dẫn nước và chất dinh dưỡng"
+      },
+      {
+        "left": "Lá",
+        "right": "Quang hợp tạo thức ăn"
+      },
+      {
+        "left": "Hoa",
+        "right": "Sinh sản và kết quả"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp thứ tự các mùa trong năm (bắt đầu từ mùa Xuân):",
+    "a": "Xuân Hạ Thu Đông",
+    "c": [
+      "Xuân Hạ Thu Đông"
+    ],
+    "words": [
+      "Xuân",
+      "Hạ",
+      "Thu",
+      "Đông"
+    ],
+    "type": "reorder",
+    "lo": "Nhận biết và sắp xếp thứ tự các mùa trong năm"
+  },
+  {
+    "q": "Điền từ thích hợp: Cây xanh cần ___ để quang hợp và tạo thức ăn.",
+    "a": "ánh sáng",
+    "c": [
+      "ánh sáng",
+      "bóng tối",
+      "không khí lạnh",
+      "muối ăn"
+    ],
+    "type": "fill_blank",
+    "sentence": "Cây xanh cần ___ để quang hợp và tạo thức ăn.",
+    "lo": "Nhận biết điều kiện sống của cây xanh"
+  },
+  {
+    "q": "Điền từ thích hợp: Con người cần ___ để thở và sống.",
+    "a": "không khí",
+    "c": [
+      "không khí",
+      "đất cát",
+      "ánh đèn",
+      "sách vở"
+    ],
+    "type": "fill_blank",
+    "sentence": "Con người cần ___ để thở và sống.",
+    "lo": "Nhận biết nhu cầu sống cơ bản của con người"
+  },
+  {
+    "q": "Gõ lại từ sau: MẶT TRỜI",
+    "a": "mặt trời",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết tên hiện tượng tự nhiên"
+  },
+  {
+    "q": "Gõ lại từ sau: CON CÁ",
+    "a": "con cá",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết tên sinh vật dưới nước"
+  },
+  {
+    "q": "Điền từ thích hợp: Vào mùa ___, trời lạnh và có thể có tuyết rơi ở vùng núi cao.",
+    "a": "đông",
+    "c": [
+      "đông",
+      "xuân",
+      "hạ",
+      "thu"
+    ],
+    "type": "fill_blank",
+    "sentence": "Vào mùa ___, trời lạnh và có thể có tuyết rơi ở vùng núi cao.",
+    "lo": "Nhận biết đặc điểm thời tiết theo mùa"
+  },
+  {
+    "q": "Gõ lại từ sau: BẦU TRỜI",
+    "a": "bầu trời",
+    "type": "typing",
+    "lo": "Rèn luyện nhận biết và viết từ chỉ thiên nhiên"
+  }
+]

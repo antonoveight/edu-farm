@@ -1,0 +1,18 @@
+Chọn tấm thẻ nào?
+Cách chơi: _—_—_—`
+— Chơi theo nhóm. °
+— Đặt 12 tấm thẻ trên mặt bàn. Khi đến lượt, người Ñ Jễ
+chơi gieo xúc xắc, úp tấm thẻ ghi phép tính có `.~
+kết quả bằng số chấm ở mặt trên xúc xắc.
+—_ Trò chơi kết thúc khi úp được 6 tấm thẻ.
+TT (
+x0 +1) \ x0
+"— &
+/
+.„t
+xe.
+, 4
+Xe <*>" <x>
+ N xe gi
+lSj
+85

@@ -1,0 +1,39 @@
+NHIỆM UỤ ẾỔ Tạo ba chương trình thực hiện các ap lại @)
+yêu cầu sau: di chuyển ® bước
+a) Vẹt bay 10 lần. <
+b) Vẹt bay liên tục. trang phục kế tiếp
+c) Vẹt bay liên tục cho đến khi nháy chuột. đơi @® giây
+Hướng dẫn bật lại nếu chạm cạnh
+a) Vẹt bay 10 lần +
+Để thực hiện yêu câu này, em sử dụng lệnh lặp với Hình 79. Khối lệnh vẹt
+số lân biêt trước đề lặp lại 10 lân khôi lệnh ở Hình 78. bay 10 lần
+Bước 1: Mở tệp HanhDongCuaVet đã tạo ở
+Nhiệm vụ 1.
+Khi bẩm vảo
+Bước 2: Chỉnh sửa chương trình: ñ
+đặtkiểuxoay trái- phải v
+— Kéo thả lệnh lặp lại vào chương trình để được khối =
+lệnh như Hình 79. sp5i
+di chuyên Œ) sooc
+— Bổ sung lệnh như Hình 80 để «cuc
+vẹt không bị lộn ngược. @
+đợi lây
+Bước 3: Chạy thử chương trình và quan sát kết quả. -
+Bước 4: Lưu tệp với tên là VetBay1 vào thư mục _`ˆ Mhhiioliedi
+của em. =
+b) Vẹt bay liên tục “ My In: bụng
+Để thực hiện yêu cầu này, em sử dụng lệnh lặp -
+liên tục để lặp liên tục khối lệnh ở Hình 78. ... RA
+Bước 1: Mở tệp HanhDongCuaVet đã tạo ở :
+Nhiệm vụ 1. đậtkiểuxoay trái - phải #
+Bước 2: Chỉnh sửa chương trình: tiên tục
+— Kéo thả lệnh lặp liên tuc vào chương trình. di chuyển @® bước
+— Tương tự câu a, em bổ sung lệnh như Hình 81 để Số Tư Tí
+vẹt không bị lộn ngược. °
+đợi lây
+Bước 3: Chạy thử chương trình và quan sát kết quả. b
+Bước 4: Lưu tệp với tên là VetBay2 vào thư mục Xe togA hơi Qui
+của em. *
+Hình 81. Vẹt bay
+liên tục
+60

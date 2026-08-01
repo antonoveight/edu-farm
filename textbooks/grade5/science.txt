@@ -1,0 +1,63 @@
+Q: Kim loại nào có tính dẫn điện tốt nhất, màu đỏ cam, thường làm lõi dây điện?
+A: ĐỒNG
+C: ĐỒNG, SẮT, NHÔM, GANG
+
+Q: Nguồn năng lượng nào sau đây được coi là năng lượng sạch, không gây ô nhiễm?
+A: NĂNG LƯỢNG MẶT TRỜI
+C: NĂNG LƯỢNG MẶT TRỜI, THAN ĐÁ, DẦU MỎ, KHÍ ĐỐT
+
+Q: Để phòng tránh bệnh sốt xuất huyết, việc làm nào thiết thực nhất?
+A: DIỆT LOĂNG QUĂN VÀ MẮC MÀN KHI NGỦ
+C: DIỆT LOĂNG QUĂN VÀ MẮC MÀN KHI NGỦ, UỐNG NHIỀU NƯỚC CAM, RỬA TAY BẰNG XÀ PHÒNG, ĐEO KHẨU TRANG KHI RA NGOÀI
+
+Q: Cao su có tính chất đặc trưng nổi bật nhất là gì?
+A: CÓ TÍNH ĐÀN HỒI CAO
+C: CÓ TÍNH ĐÀN HỒI CAO, DẪN NHIỆT TỐT, DỄ BỊ GỈ SÉT, DỄ TAN TRONG NƯỚC
+
+Q: Tính chất nổi bật nhất của thủy tinh là gì?
+A: TRONG SUỐT, DỄ VỠ
+C: TRONG SUỐT, DỄ VỠ, DẪN ĐIỆN TỐT, ĐÀN HỒI CAO, NHẸ, DẺO
+
+Q: Nguồn tài nguyên nào sau đây là tái tạo được?
+A: NĂNG LƯỢNG GIÓ
+C: NĂNG LƯỢNG GIÓ, THAN ĐÁ, DẦU MỎ, KHÍ THIÊN NHIÊN
+
+Q: Điền chất thích hợp vào chỗ trống phòng cháy điện:
+A: nước
+C: nước, cát, bình CO2, vải ướt
+
+Q: Điền từ thích hợp:
+A: mặt trời
+C: mặt trời, điện, gió, than đá
+
+Q: Năng lượng nào được coi là năng lượng sạch, thân thiện môi trường?
+A: NĂNG LƯỢNG MẶT TRỜI
+C: NĂNG LƯỢNG MẶT TRỜI, THAN ĐÁ, DẦU MỎ, KHÍ ĐỐT
+
+Q: Hoa của cây thụ phấn nhờ gió thường có đặc điểm gì?
+A: HẠT PHẤN NHỎ, NHẸ
+C: HẠT PHẤN NHỎ, NHẸ, HẠT PHẤN NHỎ, NHẸ, CÁNH HOA TO, SẶC SỠ, CÓ MÙI THƠM NỒNG, TIẾT NHIỀU MẬT
+
+Q: Kim loại nào dẫn điện tốt nhất và dùng phổ biến trong dây điện?
+A: ĐỒNG
+C: ĐỒNG, NHÔM, SẮT, NHỰA
+
+Q: Gió thổi từ vùng cao áp sang vùng?
+A: THẤP ÁP
+C: THẤP ÁP, CAO ÁP, TRUNG ÁP, BÌNH NGUYÊN
+
+Q: Biến đổi nào là biến đổi HÓA HỌC?
+A: ĐỐT CHÁY GỖ
+C: ĐỐT CHÁY GỖ, ĐÁ VỠ, NƯỚC ĐÔNG THÀNH ĐÁ, GẤP GIẤY
+
+Q: Muốn phòng tránh tai nạn giao thông đường bộ, học sinh cần làm gì?
+A: Học và tuân thủ nghiêm chỉnh luật an toàn giao thông
+C: Học và tuân thủ nghiêm chỉnh luật an toàn giao thông, Đi xe đạp dàn hàng ba hàng bốn, Vượt đèn đỏ khi đường vắng, Chạy sang đường không quan sát
+
+Q: Tài nguyên thiên nhiên nào là tài nguyên vô hạn nếu biết bảo vệ và khai thác hợp lý?
+A: Năng lượng gió và năng lượng mặt trời
+C: Năng lượng gió và năng lượng mặt trời, Dầu mỏ, Than đá, Quặng sắt
+
+Q: Tác nhân chính nào gây ra hiệu ứng nhà kính và biến đổi khí hậu toàn cầu?
+A: Khí thải carbon dioxide (CO2) từ hoạt động công nghiệp và giao thông
+C: Khí thải carbon dioxide (CO2) từ hoạt động công nghiệp và giao thông, Việc trồng thêm nhiều rừng xanh, Sử dụng năng lượng mặt trời, Hơi nước tự nhiên từ đại dương

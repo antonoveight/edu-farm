@@ -1,0 +1,22 @@
+Bước 2: Tạo lệnh để nhân vật nói “Xin chào bạn...” theo tên vừa nhập.
+— Đưa lệnh vào vùng soạn thảo chương trình.
+—_ Trong nhóm lệnh ©ác phép toán, kéo lệnh thả vào vị
+trí ô trống “Xin chào” như minh hoạ trong Hình 96a.
+— Đưa biến œ® đặt vào vị trí như Hình 96b.
+— Chỉnh sửa câu chào như minh hoạ trong Hình 96c.
+4) b) bi)
+Hình 96. Tạo lệnh để nhân vật nói “Xin chào bạn...” theo tên vừa nhập
+— Ghép lệnh tạo được như Hình 96c vào sau lệnh ở Bước 1.
+Bước 3: Ghép lệnh œa vào khói lệnh tạo được sau Bước 2 để
+được chương trình như Hình 84.
+Bước 4: Chạy thử chương trình và quan sát kết quả.
+Bước 5: Lưu tệp với tên là ChaoHoi vào thư mục của em.
+NHIỆM VỤ 2| Tạo chương trình sử dụng biến.
+Tạo chương trình sử dụng biến Tuỏi với giá trị của biến được nhập vào từ
+bàn phím và hiển thị giá trị của biến ra màn hình.
+Hướng dẫn
+ước 1: Tạo biến mới có tên là Tuỏi.
+Bước 2: Nhập giá trị cho biến ® từ bàn phím.
+— Tạo lệnh để nhập thông tin từ bàn phím.
+Bước 3: Đặt giá trị của biến ® là thông tin nhập từ bàn phím:
+71

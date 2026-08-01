@@ -1,0 +1,35 @@
+— Kéo thả lệnh vào vùng soạn thảo chương trình.
+
+— Kéo thả biến œ® vào ô chứa giá trị của biến để được lệnh:
+
+— Ghép lệnh này vào khối lệnh ở Bước 2.
+
+Bước 4: Thông báo giá trị của biến ® ra màn hình. Thực hiện tương tự
+
+Bước 2 của Nhiệm vụ 1 để được lệnh:
+
+Ghép lệnh này vào khối lệnh ở Bước 3.
+
+Bước 5: Chạy thử chương trình và quan sát kết quả.
+
+Bước 6: Lưu tệp với tên là HloiTuoi vào thư mục của em.
+
+4đ.e TẬP
+
+Mở tệp chương trình 'ioiTuoi và thực hiện các yêu cầu sau:
+
+a) Bổ sung lệnh thay đổi giá trị của biến Tuỏi một lượng là 2.
+
+b) Thông báo ra màn hình giá trị của biến Tuỏi sau khi thay đổi.
+
+lởoj VẬN DỤNG
+
+Em hãy tạo chương trình thực hiện các yêu cầu sau:
+
+a) Chương trình đưa ra câu hỏi "Bạn là học sinh lớp nào?".
+
+b) Sau khi nhập câu trả lời, chương trình đưa ra lời chào. Ví dụ "Xin chào
+bạn học sinh lớp 5A", trong đó 5A là câu trả lời vừa được nhập vào từ
+bàn phím.
+
+72

@@ -1,0 +1,31 @@
+Sau bài này em sẽ:
+». Tạo được các thư mục với cấu trúc cây hợp lí.
+»_ Sử dụng được công cụ tìm kiếm trên máy tính để tìm các thư
+mục và các tệp.
+o KHỞI ĐỘNG
+Trong chương trình Tin học lớp 3, em đã biết các tệp và thư mục trong máy
+tính được sắp xếp theo cấu trúc cây. Cấu trúc cây được sử dụng để biểu diễn
+một cách sắp xếp, phân loại cụ thể. Em cũng biết việc sắp xếp, phân loại hợp
+lí sẽ giúp em dễ tìm kiếm và tìm kiếm nhanh hơn. Vậy cách sắp xếp, phân loại
+thế nào là hợp lí2 Cáu trúc cây thư mục thế nào là hợp lí?
+1. TẠO THƯ MỤC VỚI CẤU TRÚC CÂY HỢP LÍ
+H0ẠT ĐỘNG “* Thế nào là một cấu trúc cây thư mục hợp lí?
+Em hãy quan sát hai cây thư mục trong Hình 18, Hình 19 và trả lời các
+câu hỏi sau:
+Cây thư mục nào có cấu trúc hợp lí hơn? Tại sao?
+Local Disk (D:) Local Disk (D:) |
+Anh-Bai-tap-nhom Anh-Bai-tap-nhom.
+Khoa An
+An  Sanay-Cam-Ranh.jpg.
+E Sanbay-Cam-Ranhjpg C Ven-Hai-Duong-hocjpg
+ Ven-Hai-Duong-hocjpg & vinpearl-Landjpg
+ Vinpear-Landjpg Khoa
+& cho-Da+Latjpg  choDa+Latjpg
+= Ho-Than-tho.jpg. &C He-Than-tho jpo.
+& Niatho-Con-gajpg  Nha-tho-Con-gajpg
+Minh Minh
+&C chúoteui jpg  chúot‹ui jpg
+& Nhanat-Opera.jpg  Nha-hat-Operajpg
+RE Tuyetroiipo  Tuyetroijpo
+Hình 18. Cây thư mục 1 Hình 19. Cây thư mục 2
+19

@@ -1,0 +1,23 @@
+Bước 3: Tạo lệnh thông báo ra màn hình chu vi hình chữ nhật.
+— Kéo thả phép toán cộng vào vùng soạn thảo chương trình, tạo biểu thức
+@ - G" Kéo thả phép toán nhân vào vùng soạn thảo. Kéo thả biểu thức
+@m vào phép toán nhân để tạo biểu thức tính chu vi hình chữ nhật
+— Kéo thả phép toán vào vùng soạn thảo chương
+trình, kéo thả biểu thức vào ô chứa từ “chuối”. Chỉnh sửa
+nội dung ô “táo” để được biểu thức. ì
+— Kéo thả lệnh ghép vào khối lệnh ở Bước 2.
+— Kéo thả biểu thức vừa tạo vào
+ô "Xin chào!". Thay đổi số giây hiển thị thông báo thành 5 giây, em được
+chương trình như minh hoạ ở Hình 99.
+
+Khi bầm vào.
+
+đặt aw thành trả lời
+
+đặi bvw thành trả lời
+
+Hình 99. Chương trình thông báo ra màn hình chu vi hình chữ nhật
+
+Bước 4: Chạy thử chương trình và quan sát kết quả.
+Bước 5: Lưu tệp với tên là HliniChuNhat vào thư mục của em.
+76

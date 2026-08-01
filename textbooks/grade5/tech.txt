@@ -1,0 +1,67 @@
+Q: Trong lập trình Scratch, khối lệnh 'Repeat' thuộc nhóm nào?
+A: CONTROL (ĐIỀU KHIỂN)
+C: CONTROL (ĐIỀU KHIỂN), MOTION (CHUYỂN ĐỘNG), LOOKS (NGOẠI HÌNH), SOUND (ÂM THANH)
+
+Q: Khối lệnh Scratch dùng để di chuyển nhân vật tiến lên phía trước là lệnh nào?
+A: MOVE 10 STEPS
+C: MOVE 10 STEPS, TURN 15 DEGREES, SAY HELLO, PLAY SOUND
+
+Q: Để bảo vệ thông tin cá nhân trên mạng, hành vi nào nên làm?
+A: ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT
+C: ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT, CHIA SẺ ẢNH CÁ NHÂN CHO NGƯỜI LẠ, BẤM VÀO ĐƯỜNG LINK TRÚNG THƯỞNG LẠ, TIẾT LỘ ĐỊA CHỈ NHÀ CHO NGƯỜI CHƯA QUEN
+
+Q: Thuật ngữ 'Bug' trong lập trình máy tính có nghĩa là gì?
+A: LỖI TRONG CHƯƠNG TRÌNH
+C: LỖI TRONG CHƯƠNG TRÌNH, TÊN MỘT LỆNH ĐẶC BIỆT, MỘT LOẠI PHẦN MỀM, MỘT BỘ PHẬN CỦA MÁY TÍNH
+
+Q: Vòng lặp trong lập trình dùng để làm gì?
+A: LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH
+C: LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH, DỪNG CHƯƠNG TRÌNH, TẠO MÀU SẮC, VẼ HÌNH
+
+Q: Nhấn tổ hợp phím để TẠO MỚI (New) một tệp trống:
+A: ctrl+n
+C: ctrl+n
+
+Q: Nhấn tổ hợp phím để IN (Print) tài liệu ra máy in:
+A: ctrl+p
+C: ctrl+p
+
+Q: Luyện gõ lệnh lặp Scratch:
+A: repeat 10 times
+C: repeat 10 times
+
+Q: Trong Scratch, nhóm lệnh nào chứa lệnh 'khi nhấn cờ xanh'?
+A: NHÓM SỰ KIỆN
+C: NHÓM SỰ KIỆN, NHÓM CHUYỂN ĐỘNG, NHÓM NGOẠI HÌNH, NHÓM ÂM THANH
+
+Q: Bé nên làm gì khi nhận thấy mật khẩu tài khoản bị lộ?
+A: ĐỔI MẬT KHẨU NGAY
+C: ĐỔI MẬT KHẨU NGAY, KHÔNG LÀM GÌ CẢ, CHIA SẺ CHO BẠN BÈ, TẮT MÁY TÍNH THÔI
+
+Q: Mạng máy tính toàn cầu kết nối hàng triệu thiết bị gọi là?
+A: INTERNET
+C: INTERNET, BLUETOOTH, WIFI NỘI BỘ, LAN
+
+Q: Trong Scratch, lệnh nào giúp nhân vật di chuyển?
+A: DI CHUYỂN ... BƯỚC
+C: DI CHUYỂN ... BƯỚC, PHÁT TIẾNG NHẠC, ĐỔI MÀU SẮC, HIỆN RA
+
+Q: Mật khẩu mạnh cần có yếu tố nào?
+A: CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT
+C: CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT, CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT, CHỈ DÙNG SỐ, TÊN CỦA MÌNH, NGÀY SINH CỦA MÌNH
+
+Q: James Watt (Giêm Oát) là nhà sáng chế nổi tiếng thế giới với phát minh vĩ đại nào?
+A: Động cơ hơi nước
+C: Động cơ hơi nước, Bóng đèn điện, Ô tô chạy xăng, Điện thoại di động
+
+Q: Thomas Edison (Tô-mát Ê-đi-xơn) nổi tiếng với phát minh nào làm thay đổi lịch sử chiếu sáng của nhân loại?
+A: Bóng đèn điện sợi đốt
+C: Bóng đèn điện sợi đốt, Động cơ hơi nước, Máy in, Máy bay
+
+Q: Khi sử dụng điện thoại thông minh, thói quen nào có thể gây nguy hiểm nghiêm trọng đến tính mạng?
+A: Vừa sạc pin vừa sử dụng điện thoại
+C: Vừa sạc pin vừa sử dụng điện thoại, Chỉ nhắn tin khi cần thiết, Giới hạn thời gian sử dụng, Tắt wifi khi đi ngủ
+
+Q: Đâu là một quy tắc ứng xử lịch sự khi giao tiếp qua điện thoại?
+A: Chào hỏi, xưng danh và nêu mục đích của cuộc gọi
+C: Chào hỏi, xưng danh và nêu mục đích của cuộc gọi, Nói trống không không xưng tên, Bất ngờ gác máy không chào, Nói thật to và gào thét vào mic

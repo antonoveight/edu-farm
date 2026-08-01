@@ -1,0 +1,24 @@
+L2) Cho biểu đỏ về số quả cam, quả táo, quả xoài ở một cửa hàng bán hoa
+quả trong chợ.
+SÓ QUẢ CAM, QUÀ TÁO, QUẢ XOÀI Ở MỘT CỬA HÀNG
+ô tt (A lá!
+œ@ Ä
+Cam Táo @ xoài #@
+Ghi chú: Mỗi N là 10 quả, mỗi ® là 1 quả.
+a) Số 2
+Có (2) quả cam; (2 quả táo; (2` quả xoài.
+b) Chọn câu trả lời đúng.
+»_ Loại quả nào có nhiều nhát?
+A. Cam B. Táo €. Xoài
+» _ Loại quả nào có ít nhát?
+A. Cam B. Táo ©. Xoài
+© Nam cho 2 quả bóng xanh và 1 quả bóng 2
+đỏ vào hộp. Không nhìn vào hộp, Rô-bót
+lấy ra 2 quả bóng. Chọn khả năng xảy ra J&
+trong mỗi trường hợp sau: Pn
+a) Cả 2 quả lấy ra đều là bóng xanh. CS Y Kon E01<= 002/2
+A. Chắc chắn B. Không thể C. Có thể
+b) Cả 2 quả lấy ra đều là bóng đỏ.
+A. Chắc chắn B. Không thể C. Có thể
+c) Trong 2 quả lấy ra, có ít nhát 1 bóng xanh.
+A. Chắc chắn B. Không thể C. Có thể

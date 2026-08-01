@@ -1,0 +1,28 @@
+Mèo trở về màu vàng
+Giả sử kịch bản trong Hoạt động 1 thay đổi như sau:
+—_ Khi chạm vào con trỏ chuột, nhân vật đổi từ màu này sang màu khác.
+— Khi con trỏ chuột không còn chạm vào mèo, nhân vật trở về màu vàng
+ban đầu.
+1. Em hãy cho biết nhân vật thay đổi như thế nào khi con trỏ chuột không
+còn chạm vào nó.
+2. Hãy sử dụng cách nói néu... ihì... để mô tả hành động của nhân vật
+trong trường hợp này.
+@ Hành động của nhân vật trong Hoạt động 2 có thể được mô tả theo
+cách nói nều... thì... bằng hai câu như sau:
+Nều chạm con trỏ chuột (:¡ mèo đổi màu.
+Néu không chạm con trỏ chuột (lì mèo trở về màu ban đầu.
+Đây là cách mô tả công việc bằng cấu trúc rẽ nhánh dạng thiếu.
+Hành động của nhân vật trong Hoạt động 2 cũng có thể được mô tả gọn bằng
+một câu như sau:
+Nều chạm con trỏ chuột t:¡ mèo đổi màu
+nếu không thì mèo trở về màu ban đầu.
+Đây là cách mô tả công việc bằng cấu trúc rẽ nhánh dạng đủ.
+8: Cấu trúc rẽ nhánh có hai dạng: F
+‡ s Cấu trúc rẽ nhánh dạng thiếu: ị
+ì nếu <điều kiện> thì <công việc> ì
+‡ e Cấu trúc rẽ nhánh dạng đủ: ị
+ị nếu <điều kiện> thì <công việc 1> ị
+ị nếu không thì <công việc 2> ị
+gP Hãy sử dụng cấu trúc rẽ nhánh dạng đủ và điều kiện “đèn tín hiệu cho
+người đi bộ màu đỏ” để mô tả hoạt động qua đường của người đi bộ.
+63

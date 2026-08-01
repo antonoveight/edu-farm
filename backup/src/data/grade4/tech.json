@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Tổ hợp phím tắt để SAO CHÉP (Copy) là gì?",
+    "a": "CTRL + C",
+    "c": [
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + X",
+      "CTRL + Z"
+    ]
+  },
+  {
+    "q": "Tổ hợp phím tắt để DÁN (Paste) là gì?",
+    "a": "CTRL + V",
+    "c": [
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + S",
+      "CTRL + N"
+    ]
+  },
+  {
+    "q": "Tổ hợp phím tắt để CẮT (Cut) là gì?",
+    "a": "CTRL + X",
+    "c": [
+      "CTRL + X",
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + Z"
+    ]
+  },
+  {
+    "q": "Tổ hợp phím tắt để HOÀN TÁC (Undo) là gì?",
+    "a": "CTRL + Z",
+    "c": [
+      "CTRL + Z",
+      "CTRL + Y",
+      "CTRL + X",
+      "CTRL + S"
+    ]
+  },
+  {
+    "q": "Tổ hợp phím tắt để LƯU (Save) tài liệu là gì?",
+    "a": "CTRL + S",
+    "c": [
+      "CTRL + S",
+      "CTRL + A",
+      "CTRL + F",
+      "CTRL + P"
+    ]
+  },
+  {
+    "q": "Trình duyệt Web nào sau đây được dùng phổ biến?",
+    "a": "GOOGLE CHROME",
+    "c": [
+      "GOOGLE CHROME",
+      "MICROSOFT WORD",
+      "EXCEL",
+      "PAINT"
+    ]
+  }
+]

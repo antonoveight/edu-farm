@@ -1,0 +1,17 @@
+Khi bắm vào
+liên tục
+điới con trỏ chuột #
+nêu đang chạm Beachballw 2 thì
+thayđỗi Điểm # một lương @®
+cổ,
+Hình 103. Chương trình cho nhân vật mèo
+Gợi ý:
+Quan sát giá trị của biến Điểm khi bắt đầu mỗi lần chạy chương trình.
+Lưu ý:
+Em có thể tạo chương trình thực hiện kịch bản “Mèo bắt bóng”, trong đó
+chương trình cho nhân vật mèo ở Hình 103, theo cách sau:
+1. Mở tệp MeoBatBong.
+2. Chọn lệnh Lưu về máy tính trong bảng chọn Tệp tin để lưu tệp với tên
+khác, ví dụ: MeoBatBong1.
+3. Chọn nhân vật mèo, chỉnh sửa để được chương trình như Hình 103.
+82

@@ -1,0 +1,27 @@
+Q Giảm chân tại chỗ
+
++ TTCB: Đứng nghiêm.
+
++ _ Khẩu lệnh: “Giậm chân - Giậm!".
+
+« Động tác: Nâng đùi trái lên, bàn chân cách mặt đất 10 - 15 cm, đồng thời
+tay trái đánh thắng ra sau, tay phải gập trước ngực, hai bàn tay nắm hờ.
+Tiếp theo, cùng một lúc giậm chân trái xuống đất (đúng vào nhịp 1), nâng
+đùi phải lên, tay phải đánh thắng ra Sau, tay trái gập trước ngực. Tiệp theo
+nhịp 1, cùng một lúc giậm chân phải xuống đất (đúng vào nhịp 2), nâng đùi
+trái lên, tay trái đánh thẳng ra sau, tay phải gập trước ngực.
+
+` N..
+È
+TTCB Nhịp 1 Nhịp 2
+© búng li
+
+« Khẩu lệnh: “Đứng lại - Đứng”.
+
++. Động tác: Dự lệnh “Đứng lại" khi bàn chân phải chạm đắt, tiếp tục thực hiện
+nhịp 1. Động lệnh “Đứng!” vào nhịp 2 kê tiếp (bàn chân phải chạm đất), thực
+hiện tiếp nhịp 1 rồi hạ chân phải vẻ thành tư thế đứng nghiêm.
+
+¬ S
+—> —> —> —>
+" ư `" « làn"

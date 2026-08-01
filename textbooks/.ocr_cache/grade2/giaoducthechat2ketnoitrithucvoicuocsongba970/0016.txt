@@ -1,0 +1,31 @@
+Chuyền đội hình vòng tròn thành đội hình hàng ngang
+
++ _ Chuẩn bị: Cả lớp đứng theo đội hình vòng tròn, hướng mặt vào trong.
+
++ _ Khẩu lệnh: "Bên phải — Quay!”.
+
++ Động tác: Tất cả thực hiện động tác quay phải để quay mặt theo chiều
+vòng tròn.
+
++ _ Khẩu lệnh: “Thành 1 (2. 3, 4...) hàng ngang đi thường (chạy thường) —
+Bước (Chạy)!".
+
++ Động tác: Tắtcả đi theo chiều vòng tròn (hướng ngược chiều kim đồng h),
+sau đó bắt đầu từ tô trưởng tô 1, các em lần lượt đi thường (chạy thường)
+tạo thành 1 (hoặc 2, 3, 4....) hàng ngang. “^
+
+Đ 6 §
+e@u Wc Ÿ g
+xŸý” PN:š
+N Ị đãi =_ án:
+„Hvuyt
+Đội hình vòng tròn
+đến ›£ Án .à
+So '1+2 `
+S sv Sư : \
+TIAỢN§  .
+_..
+VÀ ÑÃ AC NA AE XZ
+' Vu
+la
+Chuyển thành đội hình hàng ngang

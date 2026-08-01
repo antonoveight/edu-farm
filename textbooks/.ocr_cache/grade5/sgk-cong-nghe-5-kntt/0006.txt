@@ -1,0 +1,15 @@
+MỤC LỤC:
+.aaa=
+Hướng dẫn sử dụng sách P2
+Lời nói đầu 8
+Bài 1 Vai trò của công nghệ 6
+Bài 2 Nhà sáng chế 9
+Bài 3 Tìm hiểu thiết kế 14
+Bài 4. Thiết kế sản phẩm 17
+Bài5 Sử dụng điện thoại 19
+Bài 6 Sử dụng tủ lạnh 26
+Bài 7. Lắp ráp mô hình xe điện chạy bằng pin 32
+Bài 8 Mô hình máy phát điện gió 38
+Bài 9 Mô hình điện mặt trời 44
+Bảng giải thích thuật ngữ 51
+4

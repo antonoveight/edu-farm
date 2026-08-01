@@ -1,0 +1,14 @@
+Gắn có định tám pin mặt trời lên khung giá đỡ và dùng băng dinh 2 mặt để gắn
+đèn LED lên khung giá đỡ như Hình ô.
+— Kiểm tra lại các mối ghép, sự chắc chắn của mô hình và vị trí nối dây dẫn
+
+điện với các chân của đèn LED.
+— Kiểm tra hoạt động của mô hình:
+
++ Quan sát các trạng thái của đèn LED tương ứng với sự thay đổi của ánh
+
+sáng chiếu tới tắm pin mặt trời.
++ Ghi chép lại hoạt động của mô hình theo bảng gợi ý dưới đây.
+chiếu vào pin mặt trời
+—_ Điều chỉnh lại mô hình (nếu cần).
+49

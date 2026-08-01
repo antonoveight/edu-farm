@@ -1,0 +1,28 @@
+8: Trong Scratch, có ba lệnh lặp như sau: ]
+¡ | Lệnh lặp với số | Lệnh lặp liên tục Lệnh lặp ị
+ị lần biết trước có điều kiện |
+ị lap lại @ lặp lại cho đến khi ị
+@P Để điều khiển nhân vật lặp lại một việc 10 lần, em sử dụng lệnh nào
+sau đây?
+A. Lệnh lặp với số lần biết trước.
+8. Lệnh lặp liên tục.
+€. Lệnh lặp có điều kiện.
+4đ. TẬP
+Em hãy ghép mỗi khối lệnh ở cột bên trái với một ý nghĩa ở cột bên phải cho
+phù hợp.
+lặp lạ cho đếnkhi phím phímtrẳng v được bẩm?
+1) T24. a) Nhân vật thay đổi trang phục
+ai @ o2 liên tục không dừng lại.
+3à
+So) b) Nhân vật liên tục thay đổi
+trang phục kế bếp, trang phục cho đến khi người
+«” @% sử dụng nhấn phím dầu cách
+= (phím trắng) thì dừng lại.
+lên tạc
+3) c) Nhân vật lặp lại việc thay đồi
+ai @Đ o2 trang phục 10 lần.
+2.
+Hãy mô tả các bước thực hiện của chương trình có một chú cá bơi liên tục
+trong bể, khi cá chạm cạnh bể thì bật lại. Khi tạo chương trình em sẽ sử dụng
+lệnh lặp nào?
+58

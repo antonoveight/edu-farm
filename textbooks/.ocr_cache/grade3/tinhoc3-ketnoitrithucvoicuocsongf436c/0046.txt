@@ -1,0 +1,31 @@
+NHIỆM VỤ BH Tìm tệp ở thư mục cho trước theo yêu cầu.
+HƯỚNG DẪN Du lieu (D)
+Bước 1: Mở cửa số This PC. nuyen tranh
+Buớc 2: Lần lượt mở các thư mục theo ÐG'ie 6n
+yêu cầu để đến được tệp cần tìm. Ta có KẾ Anhjpg
+thể mở các thư mục và thư mục con ở ban
+khung bên trái hoặc nháy đúp vào mỗi
+thư mục ở khung bên phải. Hang Guạnh
+3 T¡ tịch
+Ví dụ, đê tìm tệp Anh.jpg trong thư mục ng
+Truyen tranh như cây thư mục Hình 58. Ẩl Danh mục sach xisx
+Hình 58. Ví dụ cây thư mục
+1. Trong khung bên trái của cửa sỏ This PC, em nháy chuột vào ỏ đĩa D: ở
+khung bên trái.
+2. Tìm thư mục Truyen tranh ở khung bên phải, nháy đúp chuột vào thư mục
+Truyen tranh để mỏ, ta sẽ tháy tệp Anh.jpg.
+Lưu ý: Mỗi máy tính sẽ có tên tệp và thư mục khác nhau, em hãy thực hiện
+theo hướng dẫn cụ thẻ của thây, cô giáo.
+4Œ. TẬP
+1. Hãy tạo các thư mục theo sơ đồ hình cây biểu diễn cách sắp xếp sách
+trên giá như sau:
+GIA SACH CUA EM
+Truyen tho Sach vo
+Tho hoc tro Truyen co tich l Truyen tranh Sach giao khoa Vo viet
+— _ Đổi tên thư mục Truyen co tich thành Truyen thieu nhị.
+—_ Xoá thư mục Vo viet.
+2. Em hãy tìm một tệp nằm trong một thư mục ở ỏ đĩa C: hoặc ỏ đĩa D: của
+máy tính em đang thực hành.
+œ VẬN DỤNG
+Em hãy tạo thư mục Anh chup và các thư mục con để lưu ảnh của mình một
+cách họp lí.

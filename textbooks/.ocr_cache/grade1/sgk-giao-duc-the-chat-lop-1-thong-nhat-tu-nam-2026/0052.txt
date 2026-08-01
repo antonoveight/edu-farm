@@ -1,0 +1,13 @@
+© Động tác đứng đưa một chân ra sau
+Từ TTCB, đưa chân trái ra sau. Từ TTCB, đưa chân phải ra sau.
+...e" ~<
+— xa .-
+TTCB TTCB
+€ Bài tập phối hợp các động tác chân
+*_ Bài tập 1
+TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+Đưa chân trái VềTTCB Đưa chân phải Về TTCB
+sang ngang sang ngang
+Nhịp 5 Nhịp 6 Nhịp 7 Nhịp 8
+Đưa chân trái Về TTCB Đưa chân Về TTCB
+ra trước phải ra trước

@@ -1,0 +1,20 @@
+— Lắp hệ truyền động vào trục bánh xe và động cơ như Hình 5.
+— Lắp bánh xe vào trục bánh xe như Hình 5.
+<6 -.=+z
+5 " \
+4
+® .e- ` Ì
+ec©° ~— h
+eo°Ẳ ì
+Cc)C):: Ti
+°V9
+———————
+————
+— Kiểm tra các mối ghép.
+— Lắp 2 pin tiểu 1,5 V vào giá pin và đóng công tắc để chạy thử mô hình xe
+điện như Hình 6.
+Lưu ý: Khi lắp pin phải mở công tắc và lắp đúng cực.
+— Điều chỉnh lại sản phẩm (nếu cản).
+| lụt _  k
+_ Hình 6 _
+36

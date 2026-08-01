@@ -1,0 +1,27 @@
+NHIỆM VỤ n Sử dụng công cụ chọn (Select), thay đổi kích thước (Resize),
+công cụ quay (Rotate) để tạo chùm bóng bay nhiều màu.
+Hướng dẫn
+Bước ï: Nháy chuột chọn công cụ chọn Select Ï““, kéo thả chuột để tạo
+thành một hình chữ nhật bao quanh quả bóng bay (Hình 48). Phần hình chữ
+nhật chứa quả bóng bay trên trang vẽ đã được chọn.
+Lưu ý: Nếu không muốn chọn cả phần nền màu trắng xung quanh quả
+bóng bay, em nháy chuột vào mũi tên bên dưới công cụ Select, chọn
+————A
+để chuyền thành LÝ #ewesetseeelss—_. 1chị đó, phần nền
+màu trắng sẽ được chuyển thành trong suốt.
+Bước 2: Nháy chuột chọn lệnh Copy 1® để sao chép phần hình ảnh đã
+chọn, nháy chuột chọn lệnh Paste E để tạo ra phần hình chữ nhật chứa quả
+bóng bay thứ hai (Hình 49).
+Bước 3: Dùng chuột kéo thả các hình vuông nhỏ ở khung chữ nhật bao
+quanh quả bóng để thay đổi kích thước, làm cho quả bóng thứ hai nhỏ hơn,
+tròn hơn quả bóng thứ nhất (Hình 50).
+Hình 48. Chọn hình Hình 49. Quả bóng Hình 50. Thay đồi kích
+quả bóng thứ hai được tạo ra thước quả bóng thứ hai
+Bước 4: Nháy chuột vào mũi tên bên cạnh lệnh Rotate [ZA Retee, chọn lệnh
+Elip hiorizontal [ak-.#ipherzomat....| để lật quả bóng thứ hai. Em được kết quả
+như Hình 51.
+Bước 5: Chọn công cụ m| nháy chuột chọn màu tím trong hộp màu rồi tô
+màu cho quả bóng thứ hai, được kết quả tương tự Hình 52.
+Bước 6: Thực hiện tương tự các bước từ Bước 1 đến Bước 5 để tạo ra một
+chùm bóng bay nhiều màu như Hình 53.
+41

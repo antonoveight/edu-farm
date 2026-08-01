@@ -1,0 +1,25 @@
+E5 “Điện năng lượng mặt trời” đang được xếp vào nguồn năng lượng tái tạo
+
+*W sạch, cần được khuyến khích phát triển. Quá trình sử dụng pin mặt trời tạo
+ra điện từ năng lượng ánh sáng mặt trời không gây ô nhiễm. Hiện nay, pin
+mặt trời được ứng dụng rất nhiều trong cuộc sống (Hình 2).
+
+_ a b
+sé —
+_ Hình2 -
+Tuy nhiên, các tắm pin mặt trời có thể được làm từ các chất độc hại, bởi vậy
+cần được quản lí chặt chẽ và đúng cách trong quá trình sản xuất, sử dụng
+và thay thế để tránh ảnh hưởng đến môi trường. Ngoài ra, chi phí để
+thực hiện việc lưu trữ điện từ năng lượng mặt trời cũng rất cao.
+2. THỰC HÃNH LẮP RÂP MÔ HĨNH ĐIỆN MẶT TRỜI
+a) Tìm hiểu sàn phầm mẫu
+Quan sát Hình 3 và cho biết mô hình điện mặt trời gồm có những bộ phận
+chính nào.
+b) Tắm pin mặt tròi và ©) Đèn LED
+dây dẫn điện
+8) Mô hình điện mặt tròi đ) Khung giá đỡ
+_ Hình3 -
+Yêu cầu sản phẩm: Đúng và đủ các bộ phận; đúng hình dạng; mối ghép chắc
+chắn; dây dẫn điện gọn gàng; đèn LED phát sáng khi có ánh sáng chiếu vào
+tắm pin; độ sáng đèn LED thay đỏi khi độ sáng chiếu vào tắm pin thay đổi.
+45

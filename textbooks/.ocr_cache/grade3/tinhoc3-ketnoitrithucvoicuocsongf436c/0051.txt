@@ -1,0 +1,31 @@
+CHỦ ĐỂ 5. ỨNG DỤNG TIN HỌC
+Sau bài này em sẽ:
+» Nhận biết được biểu tượng của phần mềm trình chiếu và khởi
+động được phần mềm.
+«. Tạo được tệp trình chiếu, thêm trang chiếu mới, gõ được một vài
+dòng văn bản đơn giản không dấu, đưa được hình ảnh vào một
+S trang chiếu, lưu và đặt được tên cho tệp trình chiếu.
+“MÀ 2
+9P kuới bộnc
+Em đã được học bài mà các thầy cô chiếu các hình ảnh, video,... trên bảng
+chiếu chưa? Các thầy cô giáo sử dụng phản mềm nào để tạo ra các trang
+chiếu đó nhỉ? Hôm nay chúng ta sẽ tìm hiểu phần mềm tạo ra các trang chiêu
+đó nhé!
+(Những hướng dẫn dưới đây sử dụng phần mềm Microsoft PowerPoint 2010
+để minh hoạ).
+NHIỆM Í Nhận biết biểu tượng của phần mềm trình chiếu, khởi động
+phần mềm trình chiếu và quan sát các thành phần của màn hình làm việc.
+HƯỚNG DẪN
+Nháy đúp chuột vào biểu tượng .x màn hình nền để khởi động phần
+mềm trình chiếu. Màn hình làm việc của phần mềm trình chiếu có dạng như sau:
+/.92-ðIz Prezentatjon1 - Microzoft PowePoint - na x
+L_” 1 16 S..ẽ... 6... a.... 1A6...
+ải lộ IỆ C BE ::rc¿z nem m 5jA)
+Dải lệnh | TỔ lun _ nh Dãi E05 Lang = inng BH chat mdghen
+- TỂN TNế | Set of SE SỊC Nhế 5 Sva|DrEnw€p® coH|ÍC 2 JỆP? TẾ 20974040110
+Trang chiêu Em. - —=J
+thu nhỏ lj : |
+| l-2-—ct2SEEie>-ag
+Các khung văn bản mm “———————
+đê chứa nội dung —__
+50 Hình 62. Màn hình làm việc của phần mềm trình chiếu

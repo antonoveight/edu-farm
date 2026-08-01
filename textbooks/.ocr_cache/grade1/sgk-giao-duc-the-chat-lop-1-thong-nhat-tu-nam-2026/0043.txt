@@ -1,0 +1,19 @@
+Q bông tác xoay đầu một vòng từ trái sang phải tổ
+Từ TTCB, thực hiện nghiêng và xoay đầu một Ệ "‹
+vòng từ trái sang phải.
+TTCB
+Đông tác xoay đầu một vòng từ phải sang trái
+Từ TTCB, thực hiện nghiêng và xoay đầu một ‹
+vòng từ phải sang trái. J_—Ẫ
+€ Bà tập phối hợp các động tác đâu và cổ TẠP,
+*. Bài tập 1
+TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+Cúiđầằu Ngửađầu Nghiêng đầu Nghiêng đầu
+sang trái sang phải
+Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4.
+*_ Bài tập 2
+TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+Quay đầu Quay đầu Xoayđầu  Xoay đầu một
+sang trái sang phải một vòng từ vòng từ phải
+- trái sang phải sang trái
+Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4.

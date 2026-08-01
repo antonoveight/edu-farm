@@ -1,0 +1,23 @@
+— . Nhấn phím N để chuyển sang mức tiếp theo.
+— . Nhấn phím F2 để luyện tập lại từ đầu.
+—.. Nhắn phím G để kết thúc luyện tập.
+Bước 4: Tổng kết.
+Khi kết thúc 5 mức luyện tập, phần mềm sẽ đưa ra tổng điểm của em.
+
+Tổng điểm 'Well Done, you have completed Grey Olltwits Basic Mouse Skills
+
+ghi được
+
+Overall Score 2628 Overall Rating: Good
+Thoát khỏi Click Try Again for another go or Quit to finlsh the program.
+phần mềm 'Visit www.greyolltwit.com for lots more educational programs.
+h
+Hình 79. Màn hình tổng kết điểm
+Hãy luyện tập ba lần, ghi kết quả vào vở theo mẫu dưới đây đẻ theo dõi sự
+tiền bộ của mình:
+NHIỆM VỤ Hesu dụng nút cuộn chuột đẻ chuyển giữa các trang chiếu của
+bài trình chiếu.
+HƯỚNG DẪN
+Bước ï: Tìm tệp trình chiếu mà em đã hoàn thành ở bài 11.
+Bước 2: Nháy đúp chuột vào tệp để mở bài trình chiếu đó.
+_61

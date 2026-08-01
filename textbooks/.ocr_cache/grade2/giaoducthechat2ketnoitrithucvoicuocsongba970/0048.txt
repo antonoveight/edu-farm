@@ -1,0 +1,20 @@
+Bi nhanh dân theo vạch kẻ thẳng, hai tay phối hợp tự nhiên
++  TTCB: Đứng chân trước chân sau, hai tay buông tự nhiên.
++ _ Động tác: Từ vạch xuất phát, đi nhanh dàn theo vạch kẻ thẳng, hai tay phói
+hợp tự nhiên, mắt nhìn phía trước.
+Ầ
+—> :.—>
+TTCBỊ Đithường ! — Đinhanh :
+XP Đích
+5i nhanh dân theo vạch kẻ thẳng, hai tay chống hông
++ _ TTCB: Đứng chân trước chân sau, hai tay chống hông.
++ Động tác: Từ vạch xuất phát, đi nhanh dần theo vạch kẻ thẳng, hai tay
+chống hông, mắt nhìn phía trước.
+TTCBỊ  Đithường 'R.—-
+" Đích
+Đi nhanh chuyển sang chạy theo vạch kẻ thẳng
++  TTCB: Đứng chân trước chân sau, hai tay buông tự nhiên.
++ _ Động tác: Từ vạch xuất phát, đi nhanh, sau đó chuyển sang chạy theo vạch
+kẻ thẳng, hai tay phối hợp tự nhiên, mắt nhìn phía trước.
+TTCBỈ Đinhanh ' - Chạy -
+XP Đích

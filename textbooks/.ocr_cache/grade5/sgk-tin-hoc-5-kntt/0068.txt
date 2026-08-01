@@ -1,0 +1,25 @@
+Lưu ý: Nháy chuột chọn hộp kiểm ngay e 6 œ®
+trước tên biến rộ (Hình 87) để hiển thị °3”°ê* Nháy chuột vào
+giá trị của biến này trên sân kháu.
+Hình 87. Hiển thị giá trị biến trả lời
+a) Nhập giá trị cho biến œ@®
+Sử dụng lệnh (trong nhóm lệnh Cảm bién) để nhập giá
+trị cho biến œ® Khi thực hiện lệnh, trên màn hình xuất hiện câu hỏi và ô để
+nhập câu trả lời như Hình 85a. Sau khi người sử dụng nhập câu trả lời và xác
+nhận bằng cách nhắn phím Enter, giá trị vừa nhập được đưa vào biến œ®
+b) Hiễn thị giá trị của biến œ ra màn hình
+hoặc 5¬ để hiển thị giá trị của biến nói (lời
+(Hình 88).
+Hình 88. Chương trình
+sử dụng biến trả lời
+Có thể sử dụng lệnh của nhóm lệnh Các phép toán để có
+câu thông báo đây đủ hơn. Ví dụ, lệnh sẽ điều khiển
+nhân vật thông báo ra màn hình câu “Xin chào bạn Minh” nếu người sử dụng
+nhập dữ liệu cho biến œ® là “Minh”.
+= ni
+¡ se Sử dụng lệnh để nhập thông tin từ :
+¡ e Thông tin nhập vào từ bàn phím được lưu trong
+¡ biến CÓ, ì
+g® Nếu trên sân khấu hiển thị lời thì giá tị của biền ĐỘ
+bằng bao nhiêu? Người sử dụng đã nhập thông tin gì từ bàn phím?
+68

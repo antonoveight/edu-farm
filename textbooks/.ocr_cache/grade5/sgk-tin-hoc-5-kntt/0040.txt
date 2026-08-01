@@ -1,0 +1,28 @@
+— Hộp công cụ nằm ở phía trên bên trái màn hình (Hình 44). Muốn sử dụng
+công cụ nào em nháy chuột vào công cụ đó để chọn rồi thực hiện thao tác
+trên trang vẽ.
+š ý crop T cá NA OH|- ÌZ outinex | ——
+=
+ñ fa L[ Resize ` 4 IEƯNN _—
+no se [Di sac - | Z: ©@œOo> „
+—_]
+Clipboard. Image Tools Shapes
+Hình 44. Hộp công cụ
+~ Trang vẽ là vùng hình chữ nhật màu trắng. Trang vẽ tương tự như tờ giấy vẽ.
+Em sử dụng các công cụ để vẽ, chỉnh sửa,... tạo nên sản phẩm trên trang vẽ.
+NHIỆM VỤ H Làm quen với công cụ vẽ hình, tô màu; vẽ hình và tô màu quả
+bóng bay.
+Hướng dẫn
+Bước 1: Nháy chuột chọn công cụ Oval le) trong nhóm công cụ vẽ hình, kéo
+thả chuột trong trang vẽ để vẽ hình một quả bóng bay (Hình 45).
+Bước 2: Nháy chuột chọn công cụ Line trong nhóm công cụ vẽ hình, kéo
+thả chuột để vẽ hình dây bóng bay (Hình 46).
+Bước 3: Nháy chuột chọn công cụ tô màu Fill si nháy chuột vào bên trong
+hình quả bóng bay để tô màu cho quả bóng (Hình 47).
+Hình 45. Vẽ hình quả Hình 46. Vẽ thêm dây Hình 47. Tô màu cho
+bóng bay bóng bay bóng bay
+Bước 4: Lưu tệp với tên Bongay (thực hiện tương tự như các phần mềm đã học).
+Lưu ý: Khi em vẽ hình và tô màu cho quả bóng bay thì màu của quả bóng bay
+chính là màu hiện tại trong ô rnàui 1. Nếu muốn đổi màu khác, em cần chọn
+màu trước khi thực hiện vẽ và tô màu.
+40

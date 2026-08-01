@@ -1,0 +1,267 @@
+[
+  {
+    "q": "Để lưu trữ tài liệu ngăn nắp trên máy tính, chúng ta tạo ra thư mục gọi là gì?",
+    "a": "FOLDER (THƯ MỤC)",
+    "c": [
+      "FOLDER (THƯ MỤC)",
+      "FILE (TỆP TIN)",
+      "DESKTOP",
+      "ICON"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Khi muốn mở một trang web trên internet, phần mềm nào được gọi là trình duyệt web?",
+    "a": "GOOGLE CHROME",
+    "c": [
+      "GOOGLE CHROME",
+      "MICROSOFT WORD",
+      "SCRATCH",
+      "PAINT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Để xóa một thư mục bị sai, ta nhấp chuột phải và chọn lệnh nào?",
+    "a": "DELETE",
+    "c": [
+      "DELETE",
+      "RENAME",
+      "COPY",
+      "NEW FOLDER"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Biểu tượng màn hình Desktop thường được gọi là gì?",
+    "a": "ICON (BIỂU TƯỢNG)",
+    "c": [
+      "ICON (BIỂU TƯỢNG)",
+      "FOLDER",
+      "FILE",
+      "SHORTCUT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Để thoát khỏi một chương trình đang chạy, ta nhấn tổ hợp phím nào?",
+    "a": "ALT + F4",
+    "c": [
+      "ALT + F4",
+      "CTRL + S",
+      "CTRL + Z",
+      "CTRL + C"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để CẮT (Cut) dữ liệu:",
+    "a": "ctrl+x",
+    "c": [
+      "ctrl+x"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để CHỌN TẤT CẢ (Select All):",
+    "a": "ctrl+a",
+    "c": [
+      "ctrl+a"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Luyện gõ lệnh cơ bản của Scratch:",
+    "a": "move 10 steps",
+    "c": [
+      "move 10 steps"
+    ],
+    "type": "typing",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Phím nào giúp gõ được chữ HOA khi giữ cùng lúc?",
+    "a": "SHIFT",
+    "c": [
+      "SHIFT",
+      "ENTER",
+      "SPACE",
+      "BACKSPACE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Ngón tay cái dùng để nhấn phím nào?",
+    "a": "PHÍM SPACE BAR",
+    "c": [
+      "PHÍM SPACE BAR",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM CAPS LOCK"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Bộ phận nào của máy tính hiển thị hình ảnh?",
+    "a": "MÀN HÌNH",
+    "c": [
+      "MÀN HÌNH",
+      "CHUỘT",
+      "BÀN PHÍM",
+      "LOA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Tư thế ngồi học máy tính đúng cần đảm bảo điều gì?",
+    "a": "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
+    "c": [
+      "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
+      "NGỒI KHOM LƯNG",
+      "MẮT SÁT MÀN HÌNH",
+      "NẰM KHI GÕ PHÍM",
+      "NGỒI NGHIÊNG SANG PHẢI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Phím nào dài nhất trên bàn phím?",
+    "a": "PHÍM SPACE BAR",
+    "c": [
+      "PHÍM SPACE BAR",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM BACKSPACE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Thiết bị nào dưới đây là thiết bị vào của máy tính?",
+    "a": "Bàn phím và chuột",
+    "c": [
+      "Bàn phím và chuột",
+      "Màn hình và máy in",
+      "Loa và tai nghe",
+      "Thân máy và nguồn điện"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Khi sử dụng Internet, em cần làm gì để bảo vệ thông tin cá nhân của mình?",
+    "a": "Không chia sẻ mật khẩu và thông tin gia đình cho người lạ",
+    "c": [
+      "Không chia sẻ mật khẩu và thông tin gia đình cho người lạ",
+      "Chia sẻ địa chỉ nhà công khai",
+      "Cho người lạ mượn tài khoản học tập",
+      "Đăng ảnh cá nhân kèm số điện thoại"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Phép nhân nào có kết quả bằng 24?",
+    "a": "6 x 4",
+    "c": [
+      "6 x 4",
+      "5 x 5",
+      "7 x 3",
+      "8 x 2"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
+  },
+  {
+    "q": "Ghép phần mềm với công dụng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết các phần mềm ứng dụng cơ bản và công dụng trong học tập",
+    "pairs": [
+      {
+        "left": "Microsoft Word",
+        "right": "Soạn thảo văn bản"
+      },
+      {
+        "left": "Microsoft Paint",
+        "right": "Vẽ và tô màu"
+      },
+      {
+        "left": "Calculator",
+        "right": "Tính toán"
+      },
+      {
+        "left": "File Explorer",
+        "right": "Quản lý tập tin"
+      }
+    ]
+  },
+  {
+    "q": "Luyện gõ cụm từ thực hành:",
+    "a": "tin hoc vui",
+    "c": [
+      "tin hoc vui"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím tiếng Việt không dấu"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để TÌM KIẾM (Find) trong tài liệu:",
+    "a": "ctrl+f",
+    "c": [
+      "ctrl+f"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt tìm kiếm Ctrl+F trong soạn thảo văn bản"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để IN TÀI LIỆU (Print):",
+    "a": "ctrl+p",
+    "c": [
+      "ctrl+p"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt in tài liệu Ctrl+P"
+  },
+  {
+    "q": "Ghép loại tập tin với đuôi mở rộng tương ứng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Phân biệt các định dạng tập tin phổ biến và biết cách sử dụng",
+    "pairs": [
+      {
+        "left": "Văn bản Word",
+        "right": ".docx"
+      },
+      {
+        "left": "Hình ảnh",
+        "right": ".jpg"
+      },
+      {
+        "left": "Trang Web",
+        "right": ".html"
+      },
+      {
+        "left": "Bảng tính Excel",
+        "right": ".xlsx"
+      }
+    ]
+  }
+]

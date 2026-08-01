@@ -1,0 +1,22 @@
+“BÀI NgS.-
+
+9 THỰC HÀNH VỚI TỆP
+
+VÀ THƯ MỤC TRONG MAY TÍNH
+o KHỞI ĐỘNG
+An: Buỏi học trước được học về tệp và thư mục trong máy tính, hôm nay
+chúng ta được thực hành trên máy tính đáy.
+Khoa: Tớ đã vẽ sơ đồ hình cây biểu diễn các thư mục ảnh của gia đình tớ.
+Hôm nay tớ sẽ thực hành đẻ tạo các thư mục này trên máy tính.
+An: Tuyệt quái
+NHIỆM VỤ m Mở và tìm hiểu cáu trúc của một thư mục.
+HƯỚNG DẪN
+¬——
+
+Bước 1: Nháy đúp chuột vào biểu tượng trên màn hình nền. Cửa sổ
+This PC mở ra có dạng như Hình 51.
+Bước 2:
+@  Nháy chuột vào Thịis PC ở khung bên trái, quan sát khung bên phải.
+®_ Nháy đúp chuột vào ổ đĩa D: ở khung bên phải, quan sát để xem bên trong
+
+ở đĩa D: chứa gì.

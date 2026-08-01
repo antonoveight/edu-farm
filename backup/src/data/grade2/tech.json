@@ -1,0 +1,52 @@
+[
+  {
+    "q": "Thiết bị nào là thiết bị NHẬP dữ liệu vào máy tính?",
+    "a": "BÀN PHÍM",
+    "c": [
+      "BÀN PHÍM",
+      "MÀN HÌNH",
+      "LOA",
+      "MÁY IN"
+    ]
+  },
+  {
+    "q": "Thiết bị nào là thiết bị XUẤT dữ liệu từ máy tính?",
+    "a": "MÀN HÌNH",
+    "c": [
+      "MÀN HÌNH",
+      "CHUỘT",
+      "BÀN PHÍM",
+      "MÁY QUÉT"
+    ]
+  },
+  {
+    "q": "Phím nào dùng để xóa ký tự vừa gõ?",
+    "a": "BACKSPACE",
+    "c": [
+      "BACKSPACE",
+      "DELETE",
+      "ENTER",
+      "ESCAPE"
+    ]
+  },
+  {
+    "q": "Bộ nhớ nào lưu trữ dữ liệu lâu dài khi tắt máy?",
+    "a": "Ổ CỨNG (HDD)",
+    "c": [
+      "Ổ CỨNG (HDD)",
+      "RAM",
+      "CPU",
+      "GPU"
+    ]
+  },
+  {
+    "q": "Phím nào dùng để xuống hàng khi soạn văn bản?",
+    "a": "ENTER",
+    "c": [
+      "ENTER",
+      "TAB",
+      "SPACE",
+      "SHIFT"
+    ]
+  }
+]

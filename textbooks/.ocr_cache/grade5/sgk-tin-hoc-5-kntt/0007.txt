@@ -1,0 +1,33 @@
+Hướng dẫn
+ước ï: Khởi động phần mềm Scratch và mở tệp !/eCuing. Giao diện trò chơi
+được mở ra trên màn hình tương tự Hình 1.
+Bước 2: Nháy chuột vào nút lệnh ?% để bắt đầu chơi. Sử dụng các phím mũi tên
+để điều khiển chú chuột di chuyển từ Lói vào đến Lói ra.
+Lối ra (t )
+
+Thời li
+
+gian
+
+chơi \ Ỉ /
+
+|
+Lõi vào -#e
+Hình 1. Mê cung Hình 2. Ngón tay nhấn
+các phím mũi tên
+Lưu ý:
+—_ Em sử dụng ngón trỏ, ngón giữa và ngón áp út của bàn tay phải để nhán
+các phím mũi tên (Hình 2).
+—_ Thời gian chơi, tính bằng giây, được tính từ lúc bắt đầu chơi đến khi chú
+chuột đến được L ói ra.
+Trò chơi mê cung là một chương trình được viết bằng Scratch. Nếu chăm chỉ
+học tập và tìm hiểu, em cũng có thể tự mình viết được những chương trình
+trò chơi thú vị như vậy.
+4Œ... TẬP
+Hãy nêu một ví dụ máy tính giúp em trong học tập, giải trí hoặc hợp tác với
+bạn tạo ra sản phẩm só. Trong ví dụ ấy, em đã sử dụng phần mềm nào?
+ltii VẬN DỤNG
+Hãy kể tên một sản phẩm số mà em có thể cùng bạn tạo ra (bức ảnh, bản ghi
+âm, đoạn video quay em đang hát, thiệp chúc mừng sinh nhật,...). Máy tính
+giúp các em tạo ra sản phẩm đó như thế nào?
+VỀ

@@ -1,0 +1,17 @@
+= hegb
+L1) Kẻ tên các đường gấp khúc trong mỗi hình vẽ sau:
+a) B b) D E
+G
+A
+H G
+ Gó máy hình tứ giác?
+Tính độ dài đường gáp khúc ABCD.
+G
+tốt
+về <
+Ầ 5cm
+B D
+Bài giải
+.Độ dài đường gáp khúc ABCD là:
+- Đáp số: L2 cm. -
+103

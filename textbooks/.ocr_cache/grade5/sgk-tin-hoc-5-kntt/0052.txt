@@ -1,0 +1,25 @@
+CHỦ ĐỀ 6. GIẢI QUYẾT VẤN ĐỀ VỚI SỰ
+ỢGIÚPCỦAMÁYTÍNH _
+“ BÀI" £ F 3
+` 1 0 Ứ CÂU TRÚC TUẦN TỰ
+PHONG Sau bài này em sẽ:
+* Nêu được ví dụ cụ thể mô tả cấu trúc tuần tự.
+*. Sửdụng được cấu trúc tuần tựtrong một số chương trình đơn giản.
+øo KHỞI ĐỘNG
+Hình 72 là hướng dẫn các thao tác định
+dạng văn bản, em thực hiện lần lượt Đính dạng phông chữ, cỡ chữ
+Bước 1, Bước 2, Bước 3,... đễ được kết. 5” 1: Chọn phần văn bản cần định
+5 _ ng.
+quả như yêu cầu. Sước 2: Nháy chuột vào lệnh phông
+Việc thực hiện lần lượt từng bước theo chữ để chọn phông Verdana.
+thứ tự như vậy còn được gọi là thực hiện cua? `. vào lệnh cỡ chữ
+tuần tự. Hằng ngày có rất nhiều hoạt  YÀ°honcỡchữ12.
+động mà em thực hiện tuần tự. Em hãy pịng 72, Hướng dẫn định dạng văn bản
+kể ba hoạt động như vậy.
+. CẤU TRÚC TUẦN TỰ
+Í HOẠT ĐỘNG - Chương trình "Xin chào!"
+Em hãy sắp xếp các lệnh sau theo thứ tự đúng để được chương trình
+thực hiện ý tưởng: Nhân vật mèo xuất hiện trên sân kháu, di chuyển
+100 bước và nói "Xin chào!" trong 3 giây. Mèo kêu meo và nói tiếp
+"Rát vui được gặp các bạn.".
+s2

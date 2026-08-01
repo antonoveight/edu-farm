@@ -1,0 +1,11 @@
+Lắp đèn LED với dây dẫn điện và dùng băng dính điện để cố định đèn LED với
+đầu dây dẫn điện như Hình 5.
+
+Ỉ _ Hình5 ˆ
+Lưu ý: Dây dẫn điện màu đỏ nói với chân dài của đèn LED, dây dẫn điện màu
+đen nối với chân ngắn của đèn LED.
+Gắn cố định máy phát điện lên khung giá đỡ và dùng băng dinh 2 mặt để
+gắn đèn LED lên khung giá đỡ như Hình 8.
+
+_ Hình6 _
+42

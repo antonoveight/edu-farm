@@ -1,0 +1,12 @@
+@ Biến đổi đội hình từ hai vòng tròn thành một vòng tròn
+
++ _ Khẩu lệnh: “Về vị trí cũ - Bước!"
+
++ Cách thực hiện: Em số đứng tại chỗ. Em số 2 bước chân trái lên một
+bước chéch sang trái về vị trí cũ, sau đó thu chân phải lên thành tư thế
+đứng nghiêm.
+
+LÌ) =: )
+⁄
+|
+Luyện tập nhóm

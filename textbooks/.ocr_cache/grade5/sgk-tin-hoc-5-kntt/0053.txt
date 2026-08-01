@@ -1,0 +1,30 @@
+@ Trong phần Khởi động, việc định dạng
+văn bản được thực hiện lần lượt, tuần Khi bắm vào
+tự theo từng bước. Việc định dạng văn
+bản đó được gọi là có cầu trúc tuần tự. dichuyên @EĐ) sước
+Sau khi sắp xếp các lệnh ở Hoạt động em tong @ o2y
+được chương trình "Xin chào!" như Hình 73. sư nnG —=
+Các lệnh của chương trình này được thực 22 AM Vui...
+hiện lần lượt theo thứ tự. Chương tìnhnày ấT
+được gọi là chương trình có cấu trúc tuần tự.
+Hình 73. Chương trình
+"Xin chào!"
+: « Trong cấu trúc tuần tự, các việc được thực hiện lần lượt :
+: theo thứ tự. ì
+¡ « Trong chương trình có cấu trúc tuần tự, các lệnh hoặc ï
+‡ _ khối lệnh được thực hiện lần lượt theo thứ tự. ị
+gi? Chọn phát biểu sai.
+A. Trong chương trình có cấu trúc tuần tự, các lệnh được thực hiện
+theo thứ tự ngẫu nhiên.
+B. Trong chương trình có cấu trúc tuần tự, các lệnh được thực hiện
+lần lượt theo thứ tự.
+©. Trong cấu trúc tuần tự, các việc được thực hiện lần lượt theo thứ tự.
+. THỰC HÀNH
+NHIỆM VỤ Kñ rạo chương trình "Xin chào!" với ý tưởng sau:
+s Nhân vật: mèo.
+e Hoạt động: Nhân vật thực hiện lần lượt các hành động sau:
+1. Di chuyển 100 bước.
+2. Nói "Xin chào!" trong 3 giây.
+3. Kêu meo.
+4. Nói "Rất vui được gặp các bạn.".
+53

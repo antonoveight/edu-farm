@@ -1,0 +1,1814 @@
+[Trang 1 | ocr]
+BỘ GIÁO DỤC VÀ ĐAO TẠO
+LOAN 1
+ƒ `
+TẬP MỘT
+ÖÐƑ†—}_——————————
+-“-
+v
+|.
+=
+`»
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+[Trang 2 | ocr]
+HÀ HUY KHOÁI (Tổng Chủ biên)
+LÊ ANH VINH (Chủ biên)
+NGUYÊN ÁNG - VŨ VĂN DƯƠNG
+NGUYÊN MINH HẢI - BÙI BÁ MẠNH
+TẬP MỘT
+}ò}——
+(Tái bản lần thứ sáu)
+NHÀ XUẤT BẢN GIÁO DỤC VIỆT NAM
+
+[Trang 3 | ocr]
+HƯỚNG DẦN SỬ DỤNG SÁCH
+Gửi các em học sinh lớp 1!
+Trong sách Toán 7, các em sẽ gặp một só biểu tượng chỉ dẫn.
+Ý nghĩa của chúng như thế này nhé:
+Ea Tìm hiểu kiến thức mới.
+` Làm bài tập để thực hành
+S¿hoob động kiến thức.
+3) Vừa học vừa chơi,
+'t>ôœx1 củng cố kiến thức đã học.
+mĐ Ôn tập, vận dụng kiến thức đã học
+qua các bài tập và trò chơi.
+Số 2 Tìm số thích hợp.
+K88: Tìm dầu >; <; = thích hợp.
+mm: Câu nào đúng? Câu nào sai?
+Cùng với hướng dẫn của các thầy cô giáo, những biểu tượng này
+giúp các em nhận biết được các hoạt động học tập cần thực hiện
+trong mỗi bài học.
+Hãy bảo quản, giữ gìn sách giáo khoa để dành tặng
+các em học sinh lớp sau!
+2
+
+[Trang 4 | ocr]
+LỜI NÓI ĐẦU
+Các em yêu quý!
+Sách Toán 1 được biên soạn dành riêng cho các em.
+Cuốn sách này giúp các em không chỉ có được những
+kiến thức, kĩ năng toán học cơ bản ban đầu mà còn tìm
+thấy Toán học trong cuộc sống hằng ngày qua những
+trò chơi, hoạt động gắn với thực tiễn.
+Sách Toán 7 được viết thật dễ hiểu, các ví dụ hay bài
+tập luôn gắn với những hình ảnh sinh động, ngộ nghĩnh,
+hấp dẫn và những tình huống gần gũi để giúp các em
+cảm nhận được niềm vui học toán.
+Để học tốt môn Toán, các em hãy làm theo hướng dẫn của
+các thầy cô, tham gia phát biểu xây dựng bài. Đặc biệt,
+các em hãy tích cực trao đôi, thảo luận nhóm trong các
+hoạt động và trò chơi. Làm được điều đó, các em sẽ nuôi
+dưỡng được tình yêu với toán học và hình thành một thái
+độ học tập tích cực không chỉ với môn Toán mà cả với
+các môn học khác.
+Hi vọng cuốn sách này sẽ là người bạn đồng hành thân thiết,
+gắn bó với các em trong suốt năm học.
+Chúc các em học tập chăm chỉ và thành công nhé!
+
+3
+
+[Trang 5 | ocr]
+MỤC LỤC
+_¬ mmm...r.Ïi—=aa=
+Em CÁC SỐ TỪ O0 ĐẾN 10 6
+L_— Tiết học đâu tiên §
+¬ Các số 0, 1, 2, 3, 4, 5 8
+Bài 2. Các số ó,7, 8, 9, 10 14
+Bài 3. - Nhiều hơn, íthơn, bằng nhau 20
+ma Bài Á. So sónh số 24
+ma Bài 5. Mấy và mấy 32
+ma Bài ó. Luyện tập chung 348
+xị LẦM QUEN VỚI MỘT SỐ HÌNH PHẲNG 48
+—— Bài 7. Hình vuông, hình tròn, hình tam gióc, hình chữ nhật 46
+má Bài 8. Thực hành láp ghép, xếp hình 50
+ma Bài 9. Luyện lập chung 54
+PHÉP CỘNG, PHÉP TRỪ TRONG PHẠM VI 10 56
+Bài 10. Phép cộng trong phạm vi 10 S6
+4
+
+[Trang 6 | ocr]
+II. SEEEEEEE”
+—.____ i1, Phép reng phợnvi10 68
+Ims Bài 12. Bảng cộng, bảng trờ trong phạm vi 10 80
+m Bài 13. Luyện tập chung 86
+I5 LÀM QUEN VỚI MỘT SỐ HÌNH KHỐI 92
+mm Bài 14. Khối lập phương, khối hộp chữ nhật 92
+IS Bài 15. Vị trí, định hướng trong không gian 96
+mm Bài 1ó. Luyện tập chung 100
+L=- ÔN TẬP HỌC KÌ 1 102
+mm Bài ]7. Ôn lập các số trong phạm vi I0 102
+ma Bài 18. Ôn tập phép cộng, phép trừ trong phạm vi 10 106
+m Bài 19. Ôn tập hình học T10
+Một số thuật ngữ dùng trong sách 114
+5
+
+[Trang 7 | ocr]
+“TU CA SOTƯ/O ĐEN 1O
+TIẾT HỌC ĐẦU TIÊN
+e
+®% ` = là _S
+Nam Mai Rô-bốt Việt à”
+: s
+Khu Â_ By _—— >
+«4 _-.e Xt, DU... -m,
+2)
+
+[Trang 8 | ocr]
+âu E qự
+' 3e nam ! Tim “uy “:
+tụt : :
+
+[Trang 9 | ocr]
+Bài 1
+CÁC SỐ O, 1, 2, 5, 4, 5
+19,480
+Đam
+$ S@0606 5 -
+8
+
+[Trang 10 | ocr]
+Ò Tạp viết số.
+9Ì l*l lp | la laÌ l&
+ s :
+a)
+| %xe.«*>+
+ñ. AM? tt,
+Ằ®% (+ \(
+) @) €3 2 $2 3
+
+[Trang 11 | ocr]
+® luuện Độp)
+o8: ¬
+Si ă&
+`
+ớt _i
+O8:
+đc 909009096
+_v )w
+
+[Trang 12 | ocr]
+KỒ Có bao nhiêu củ cà rốt đã tô màu?
+a) bu na
+j j j —~
+c) 8
+Ñ ⁄Z: cv? SV2 SV2
+đ) xẻ Z* mc sở
+.ÿ#Ƒ Ƒ J7
+g &: : : s3 Ÿ s ng
+@ Có bao nhiêu con gà ghi số 2?
+3) m Í
+à
+W Ú9 có z
+by
+11
+
+[Trang 13 | ocr]
+éŒ
+SỞ luyện
+L4) Chọn số thích hợp với số con vật.
++ dỗ dj 4
+đồ é :
+` ) S, g
+À) 7N. anh
+l2) Chọn câu trả lời đúng.
+Cho thêm thùng lên xe để:
+a) Trên xe có 3 thùng.
+IMU
+= AI ÐÐỨH
+b) Trên xe có 5 thùng.
+^^ AI mm
+12
+
+[Trang 14 | ocr]
+@ 6 :
+“““ˆ-[(ololooio
+@ 6 ›
+"-.. .
+13
+
+[Trang 15 | ocr]
+Bài 2
+CÁC SỐ 6, 7, 8, 9, 1O
+Db 8'
+TỔ ` bảy
+_=
+mm mười
+14
+
+[Trang 16 | ocr]
+6Œ
+&aheot
+( Tạp viết số.
+#'| l#.| lạ] Là] hai
+số :
+K5 z -
+vừ°%g k ác ) TU ÔN” Soa
+Ồ mtìng ?
+Chọn câu trả lời đúng.
+Cho thêm bánh lên đĩa để:
+a) Trên đĩa có 6 cái bánh. h b) Trên đĩa có 9 cái bánh.
+| ấn
+\ j
+:® :@®G ' “66 : 06
+15
+
+[Trang 17 | ocr]
+eo
+L4) Số ?
+=3» “=>
+l2) Số 2
+8eE)s(2ml9ø8g)
+'9)(z)#0!: J8 '(›)(z] g8)
+16
+
+[Trang 18 | ocr]
+KỒ Có bao nhiêu con vật có 6 chân?
+@ G§ :
+HHH HH. TH xa.
+Vệ. Ẻ 2X dị TH Bò. -àb .Ú
+2) ta _¬g AI ˆ SN lóc đề,
+“4 “ É>s=\/e N
+_ NXVƯYN.:..8s.
+. z5 2 5 \
+7” mẽ CV 7-_£@*
+17
+
+[Trang 19 | ocr]
+L4) Chọn số thích hợp với số con vật.
+6 THÊ
+, ME ‹
+NA (2772
+Số “va ”x, lˆ' cay dc
+Á -“ :
+.® 1 PB -› s N
+: VN SS\ im
+`, A-s*^c
+2) Chọn câu trả lời đúng.
+Cho thêm trứng vào khay để trong khay có 8 quả trứng.
+Có Gỗ lC) . ®@
+18
+
+[Trang 20 | ocr]
+(XNN 9687)
+VÀ 2/031 MU
+D34 A VÀ
+VAJ/VˆVIAAVAV
+28/2/29)02820À
+ JYJÄVAYJV XIN,
+À\2/0)JÀ RA
+VAVAuAVA,AVAUAN/
+
+[Trang 21 | ocr]
+Bài 4
+NHIỀU HƠN, ÍT HƠN, BẰNG NHAU
+» ca Số ếch nhiều hơn số lá.
+› Số lá ít hơn số ếch.
+Ni @ ¿4
+k đ® c 4Š)... Sốthổ bằng số cà rốt.
+Q Số bướm nhiều hơn hay số hoa nhiều hơn?
+
+[Trang 22 | ocr]
+ÊÖ câu nào đúng?
+luà.
+a) Số ổ cắm nhiều hơn số đồ vật.
+b) Số đồ vật nhiều hơn số ổ cắm.
+Ö Câu nào đúng?
+a) Số chim nhiều hơn số cá.
+b) Số chim bằng số cá.
+c) Số cá ít hơn số mèo.
+Mã
+=s |
+\ * t4 x ) |
+' ‹`'-- s<
+ì `... ) _É, =—<
+21
+
+[Trang 23 | ocr]
+œ®
+* luyện
+ÂÔ cau nào đúng?
+Ị J
+‹ là
+\VÉ 2y
+%
+ờ X
+{ \
+a) Số È5))›'ƒ)) nhiều hơn số @®
+b) Số ẾỐ nhiêu nơn số £8))›:ÿ2
+@sø nấm nhiều hơn hay số nhím nhiều hơn?
+Zj^ „lÚ
+&. “
+"
+22
+
+[Trang 24 | ocr]
+K Chọn câu trả lời đúng.
+Cho thêm cà rốt để:
+a) Số cà rốt bằng số bắp cải.
+"` ¬"
+L3 Š `
+b) Số cà rốt nhiều hơn số bắp cải.
+35 ` hŠ `"
+€C) Câu nào đúng?
+Ề S : Š.-(UNI|fIT vụ ¡úc _E ==
+^2 “J(U
+=m.uwxẽ.Ẽ 0a
+a) Số vịt dưới nước nhiều hơn số vịt trên bờ.
+b) Số vịt trên bờ ít hơn số mèo.
+c) Số mèo bằng số vịt.
+23
+
+[Trang 25 | ocr]
+Bài 4
+SO SÁNH SỐ
+LỚN HƠN, DẤU >
+4> 3
+Bốn lớn hơn ba.
+@œ@@®@ œ@@®G
+5 > 4
+Năm lớn hơn bốn.
+©0)
+€+ạp viết dấu >.
+>
+im số thích hợp.
+24
+
+[Trang 26 | ocr]
+@so sánh (theo mẫu).
+#v
+(z)@) (z)@z)
+CÔ Đường Mai về nhà qua các ô có số lớn hơn 4. Tìm đường Mai về nhà.
+(0 (0X3 X2X4X2X+) 3®
+(4X3X1X4Xs8X?)
+D2 Y2 z6
+3XzX4XsXaoX2)
+>¬<<`<<~<
+` (6 XÓc ĐC Xô)
+ñnn II llEŠ si
+% X>
+r4)
+
+[Trang 27 | ocr]
+Pháo BÉ HƠN, DẤU <
+_ 2 < 3 |
+| Hai bé hơn ba. |
+_ K / |
+¬ Sáu bé hơn tám. "¬ —_J
+Ta
+hegb
+rạp viết dấu <.
+€Tm số thích hợp.
+26
+
+[Trang 28 | ocr]
+© So sánh (theo mẫu).
+\ &> a <<
+\àó `@ #@^-,
+(4)(s] (z)@)
+
+t @. 9ˆ” c*
+
+@ Cho mỗi chuồng một xe cỏ để số dê trong chuồng ít hơn số bó cỏ.
+
+— nh” cụ “==... Ì „z
+
+PT
+
+[Trang 29 | ocr]
+BẰNG NHAU, DẤU =
+* (hhórn.
+4= 4
+Bốn bằng bốn.
+5-5 3 3 + #@Ð #Ð £2 #@»#Ð
+Nam rên nàn
+&
+Tạp viết dấu =. _#“
+ÊÖ Tìm hình thích hợp.
+^%Ê..4.‹ - Ñ@: 6)G0)
+Xău ¬¬
+#Ö› §@$ 565
+28
+
+[Trang 30 | ocr]
+K Câu nào đúng?
+
+a) Số lá màu vàng nhiều hơn số lá màu xanh.
+
+b) Số lá màu vàng bằng số lá màu xanh.
+
+C
+@ Si) — Kx.
+(4) (4) (5s) (7)
+h
+T J—
+29
+
+[Trang 31 | ocr]
+oaa:
+(e3
+5(=,5 3?)5
+8ø @  (}
+120 422
+€© #8 :
+® œ @® @® œ ®
+4) cyỀ
+
+[Trang 32 | ocr]
+K) Tàu nào chở nhiều thùng hàng nhất?
+LÀ si nhưàc —@œ -ñm-
+IIHININI BE IIIII IIIINI
+ii ni IIINI I1
+đề
+® -—_——.._—-=¬
+c mmmn
+II Iui
+@ ®S :
+g s
+@O l8 ữ tụi Sh))
+Nhệu
+a) Có ? quả màu đỏ và? quả màu xanh: ,J “Ít
+b) Có 2 quả ớtvà. ? quả táo: # Ít (7
+31
+
+[Trang 33 | ocr]
+Bài 5
+MẦY VÀ MẦY
+x Đếm số cá ở mỗi bể và ở cả hai bể.
+s.£ / \ Í [w `2
+Mai có: | 3 | @« Nam có:| 2 | @
+3Ì và(2]@« được(5 Ì @«
+“c2”. 6.
+) số :
+a) —_] —— =A —
+2| | ®® SVỈ ki
+?Ì4&j# và ? đất quọc ? đŒ®&
+? (@®' @$S)“
+2| @ và 2| ® aưọc ? | @®
+©) = -===- “——
+L) &= ..` “wc+.
+— NH* —.
+242W 2 (499 được 2 q9
+32
+
+[Trang 34 | ocr]
+@ sẽ:
+` 7 `° 7
+ñ¬ ý 5
+¡( @ ® ¡í @ @)
+c5 2 $° 27
+-h s)
+` 7 `° 7
+— ”`
+
+[Trang 35 | ocr]
+Có 5 con cá
+gồm 1 con cá to
+và 4 con cá nhỏ.
+Có 5 con cá cối „
+gồm 2 con cá màu hồng 1é `
+và 3 con cá màu vàng. ~> >
+=—— (5)sớm[1 #4]
+` 2 f0 (yạ €‹ 5 Jsồm|4 Jvà|1 )
+ Ì «&
+< \ ===
+(5 ]gổm[ 2 |và[ 3 )
+(5 Jsảm[3]w(2)
+@Q) số :
+4 s^‹
+H4|? |
+@Œ<
+34
+
+[Trang 36 | ocr]
+€ số :
+Lấy 6 que tính. Tách 6 que tính đó thành hai nhóm.
+Tìm số que tính ở mỗi nhóm (theo mẫu).
+@œ) Ỉ v Ì
+5
+35
+
+[Trang 37 | ocr]
+eo
+
+Q65:
+Œ) (1) : “IU
+8B... -BE..„
+3) — &)?)  —
+@rt+ ` k*)í? -
+
+@ 8 ›:
+
+a) . s
+s
+
+b) =-
+
+36
+
+[Trang 38 | ocr]
+@ Số :
+mị . S==—=.”
+S~ — S2 G _Ý“._n 7”
+4i
+r
+Ca)
+9Ø 9Ø
+“I/
+
+[Trang 39 | ocr]
+&e
+Trong hình dưới đây có những số nào?
+V7 sZxZS
+ÁQ <2
+1⁄4
+<<»
+ÊÖ Trong mỗi bể có bao nhiêu con cá?
+
+[Trang 40 | ocr]
+€ im chậu hoa thích hợp.
+(
+) =
+@ 6 :
+4) \/
+— m NA 2m —
+_—_ km. — — ` NV s
+P v " hà Š
+39
+
+[Trang 41 | ocr]
+Q) Số :
+e* |2] (3) (4 e© (3) (?) (5
+XT_. . . N6...
+e® (4) (?) (8 e [7) (?) (9
+x1... __... ....
+e* [8] (?} Í10 e«S [0) |?) (2
+1: . _ 8Ñ... ....
+& S :
+'L Ý' . . {4 —_o :
+"~ mH=Ổ S% PS CAI 2 - —- -2—.
+1 ~ 2z. XáC x x 5 =
+, QC =ị
+...... » h_XÝ
+rợn .,$ › @ (2W
+40
+
+[Trang 42 | ocr]
+31-.k
+a) 2 b)
+1 3
+4 1
+=Ă= 10
+? m No
+8 ñ E1 8
+[? | Mu
+= |
+€ a) Cốc nào có nhiều hạt sen nhất?
+Ò) GŒ
+Ầ B € D
+b) Cốc nào có ít hạt sen nhất?
+VÌ 4
+k Ô cb
+Ờ Ỗ 6$)
+Ẩ B c D
+41
+
+[Trang 43 | ocr]
+co
+Q48:
+1(?)2 LẬP: af?la
+sà 8 |?) 7 10 ?Ì5
+2) So sánh (theo mẫu).
+tự
+P) La ¬x [?j@\?} á‹
+bày các &
+_ ` h.ịj ghẦ»? - _ `
+4 tễ š& LP Sz==s x. $‹
+6u?” Í”  4b« 4m.
+42
+
+[Trang 44 | ocr]
+Cầu thang - Cầu trượt vo
+
+Cách chơi:
+
+— Chơi theo nhóm.
+
+— Người chơi bắt đầu từ ô xuất phát. Khi đến lượt, người chơi gieo xúc
+xắc. Đếm số chấm ở mặt trên xúc xắc rồi di chuyển số ô bằng số
+chấm nhận được. Đọc số lớn hơn trong ô đó. Khi đến cầu thang, em
+leo lên; khi đến cầu trượt, em trượt xuống.
+
+—_ Trò chơi kết thúc khi có người về đích.
+
+__ 2 bạ F :
+(s1): (3)(s) ¡ ÌsJ(2) ¡ (3)#o ›)(3)
+\ Tố ềy ị h h
+¡2J(9) ¡ L |0 |1)“ pmár
+43
+
+[Trang 45 | ocr]
+*⁄ luyện tập)
+L4) Hàng nào có nhiều đồ chơi hơn?
+oœo®5aœe5 YS
+B. C3 là K3 tổ zP Kế s`
+È đồ £ì 4ô @ áo (CN?
+ÊÖ Chọn câu trả lời đúng.
+"¬-_-... ==—= =--_=
+==... s-
+Xà í ch CS : \
+ÀN F `
+A. Số ô tô ít hơn số máy bay.
+B. Số ô tô bằng số máy bay.
+€. Số ô tô nhiều hơn số máy bay.
+44
+
+[Trang 46 | ocr]
+© 6 :
+
+2 2Ì R
+#øœ@ 8% 6G
+E G :
+sộ + --
+
+@ 8 ›:
+3)
+š 5, THẾ 99
+b) -
+SE 4 VỆ
+45
+
+[Trang 47 | ocr]
+. bị  UƯAMIGUEN)VỚI
+HÌNH|IPHÀNG) -
+Bài 7
+- HÌNH VUÔNG, HÌNH TRÒN, _
+HÌNH TAM GIÁC, HÌNH CHỮ NHẠT
+(U2S
+Hình vuông Hình tròn
+Á Á E1
+Hình tam giác Hình chữ nhật
+Ghost dong
+L4) Mỗi đồ vật có dạng hình gì?
+Hình vuông mm
+»i4 Hình tròn @
+XVÁ Hình chữ nhật ST
+N5 Hình tam giác / `
+46
+
+[Trang 48 | ocr]
+a) Những hình nào là hình tròn?
+Ẩ B ec D E
+b) Những hình nào là hình tam giác?
+Ầ B c D E
+c) Những hình nào là hình vuông?
+LŠ B € D E
+d) Những hình nào là hình chữ nhật?
+Ẩ B € D E
+Trong hình sau có bao nhiêu hình vuông?
+Bao nhiêu hình tròn? Bao nhiêu hình tam giác?
+47
+
+[Trang 49 | ocr]
+ót (12)
+àø+2oŒ›
+ÂÊÖ) Có bao nhiêu hình tròn? Bao nhiêu hình vuông? Bao nhiêu hình tam giác?
+Bao nhiêu hình chữ nhật?
+ÊÖ Các que tính được xếp thành hình dưới đây. Trong hình đó có bao nhiêu
+hình vuông? Bao nhiêu hình tam giác?
+48
+
+[Trang 50 | ocr]
+co bao nhiêu hình vuông, hình tròn, hình tam giác, hình chữ nhật trong
+mỗi hình sau?
+2) b›
+©) J¡
+\ “ể
+a) 2 ? 3 | ?
+|—————————+——————| ————
+b) ? | 1 ? 0
+©) 3/đ1|. ñpf Q @ 0 |
+ẤÊ) Những hình nào không là hình vuông?
+49
+
+[Trang 51 | ocr]
+® ®
+Bài 8
+THỰC HANH LAP GHEP, XEP HINH
+SÁhhóm phó)
+Có năm miếng bìa:
+Việt và Mai đã ghép thành các hình sau:
+S,M(/1? 7 \
+h>x-=TS PC =
+= ^ Á(2 ,-
+trf ttTryya =
+= j Z—
+a) Với năm miếng bìa như trên, em hãy ghép lại thành các hình giống như
+hình của bạn Việt và bạn Mai.
+b) Em có thể ghép được hình nào khác không?
+50
+
+[Trang 52 | ocr]
+c@
+ qhoot
+Có ba miếng bìa:
+Em hãy ghép ba miếng bìa đó để được mỗi hình sau:
+a) b)
+©)
+9)
+51
+
+[Trang 53 | ocr]
+{@®)
+% luuện ộp
+L1) Bạn Việt cắt miếng bìa hình vuông thành bốn miếng bìa hình tam giác:
+` %®
+`. =
+`
+1X»
+`,
+_ `...
+`¬> \
+Em hãy ghép bốn miếng bìa hình tam giác đó để được mỗi hình sau:
+L— ý N
+c) d) ,
+52
+
+[Trang 54 | ocr]
+ÂÖ Tim hai miếng bìa để ghép được hình tròn; hình vuông; hình tam giác hoặc
+hình chữ nhật.
+
+[Trang 55 | ocr]
+® ©@
+Bài 9
+LUYỆN TẬP CHUNG
+“Ÿ luiện
+L4) Liên hệ xung quanh mình và quanh lớp học, bạn Việt đã nêu được tên một
+số đồ vật có dạng các hình đã học như sau:
+Khung cửa sổ Biển báo giao thông Đĩa DVD
+Bánh xe Bảng lớp Cái bánh
+\ .. đ 8002 VIỆT NAM 1
+Bìa sách Ê-ke Con tem
+Mỗi đồ vật trên có dạng hình gì?
+É)a) Em hãy xếp các que tính để được
+hình bên.
+b) Em hãy xếp 5 que tính thành một
+hình có 2 hình tam giác.
+54
+
+[Trang 56 | ocr]
+Â) Hình thích hợp đặt vào dấu "2" là hình nào?
+
+3)
+
+A —¬ /r —N Ze.
+b)
+A@eMA®H?:@Rm
+.À .@ .ME
+
+€ với các miếng bìa hình tam giác: b-
+
+Bạn Mai ghép thành hình sau:
+
+Hỏi bạn Mai đã dùng bao nhiêu miếng bìa hình tam giác để ghép được
+
+hình trên?
+
+55
+
+[Trang 57 | ocr]
+` IIRONGIPHAMVII109
+Bài 1O
+PHÉP CỘNG TRONG PHẠM VI 10
+Ta
+`.
+`“ (khórmn
+Gộp lại thì bằng mấy?
+8s (G@p 3 quả bóng và 2 quả bóng \
+NA được mấy quả bóng? :
+m`\ C .®@@® @Q :
+£ 3 cc =
+Thế X.}7 3+2=5
+“ø Ba cộng hai bằng năm. Dấu cộng: +
+b) NETrwiritata+r+rerr —— — — — ——¬
+">>. -~
+ụ %3 đ Ầ Một cộng ba bằng bốn.
+6@
+sơ
+@s›:
+› & !1::-(?) ° ồŒ@ 2-:-(?)
+2 v È¿:1-?) 9 s`Š 1+4=(2)
+56
+
+[Trang 58 | ocr]
+€ số :
+3
+# ah “GIAN
+
+k -Đm
+
+€ số :
+
+› ky 6š)
+3. 3 j2 2-2
+2+3=|5 1+2=|?) 2+2=?,
+
+: lo # Ẳ
+
+_Iq ,8 ”,8
+1+1=/?) 3+1=|? 2+1=/?
+
+Sĩ
+
+[Trang 59 | ocr]
+Ê eo
+Q\S ›
+^teeeese 4+2= (?)
+“KcXXLX%%€.O
+ÂÖ Tính nhầm.
+Ø1 1+2 1+5-
+[1i] 1+3 2+3-
+ii 1+4 4+2-
+58
+
+[Trang 60 | ocr]
+@ 6ð ›
+3)
+W ¿2 42 9%
+“ x Ó~x) 3+?J/=|?
+` ko x*»
+©)
+đ&ề ấŒồ .......
+@) G8 ›
+1+|?j=2 3+2 =5
+2+|?)=4 5+ 2 =6
+59
+
+[Trang 61 | ocr]
+Go
+1/nen
+Thêm vào thì bằng mấy?
+A - Š bông hoa, 1 |
+Q . thêm 2 bông hoa
+Ẫ được mấy bông hoa ?
+@@@66G9@..
+5+2=7 Đếm thêm: 5, 6, 7 |
+ó@
+@Q số :
+a) b)
+x
+ma .ư
+6+1=(?) 4+3=(?)
+60
+
+[Trang 62 | ocr]
+2
+a) h@ i18
+móc
+_ TR Š
+⁄7Ÿ / Nhưng
+„ii TH ch Tà
+#4)+[z)=[z)
+b)
+s22 Na vi A2 v2
+(3)+(z)=(?)
+© số :
+.....
+` | 7+2=(?) | 7+1=(?)|s+4=(?)⁄/
+ị
+l1
+°
+@==
+
+[Trang 63 | ocr]
+Go
+ì khóm phó;
+Số 0 trong phép cộng
+a) s
+/ lÍÌ À (ỦÀ
+|ÍfFTNIET, l TT tIì
+IIE) „(|| ??j) 0+2=2
+Tính nhẩm.
+0+4 2+3 3+3
+3+1 0+5 4+2
+2+2 1+4 6+0
+2.
+|1|2|3|14|5 ||
+| j7 |? |r |7 lr |r |7
+62
+
+[Trang 64 | ocr]
+© số :
+3) c<= ==—
+4932 /—
+b) -
+Ly
+i2 +|?)=[?]
+2à àà
+@ Tìm chuồng cho thỏ.
+Đổ Ấn ÔI [ ĐÔ
+"Ẫ «
+h «»
+` S-Al, `2 sa “ nh,
+63
+
+[Trang 65 | ocr]
+@Q) Số :
+a)
+--| nung 6 |
+?
+| 6+2=(?) | 2+6=(?) H
+”"Ii èeebe 5 |
+bòoob 4 ?
+S+4= ?| 4+5=2) BỊ
+S) ¬ s.S/  -
+>òooo "MS
+L1} x1. &
+4+6= ?| 6+4= 2? 6
+ÁÖ Tính nhẩm.
+7+ 6+2 5+3 4+4
+4+7 2+6 3+5 8+0
+@ Số :
+9 Jg|]7 |s6|5
+| M | 1 | 2 3 | 4
+_9...? ? ? ?
+64
+
+[Trang 66 | ocr]
+€ S ›
+a) ( è s0:
+{«$® sài đền nà
+“ 4 1 `. \ử
+wụ =>
+-S9 `Ô \ 002 2Ì|+j|?j|=j|?
+b 4c
+) "9 40 s1c `
+Cặp tấm thẻ anh em
+Cách chơi:
+— Chơi theo nhóm.
+—. Úp các tấm thẻ có các phép cộng dưới đây thành một nhóm theo thứ tự
+bất kì.
+110 4+3 2+1 2+4 Tông
+G2 1+) j. S+^ Kì 272
+— Úp các tấm thẻ có các số dưới đây thành một nhóm theo thứ tự bất kì.
+8 2 6 10 5
+3 Hi 1 4 9
+—_ Khi đến lượt, người chơi lấy ở mỗi nhóm 1 tấm thẻ. Nếu là cặp tấm thẻ
+anh em (cặp tấm thẻ có ghi phép tính và kết quả của phép tính đó, ví dụ
+1+0 và ‡ ) thì người chơi được giữ lấy, nếu không thì xếp trả lại.
+—_ Trò chơi kết thúc khi có người lấy được 2 cặp tấm thẻ anh em.
+65
+
+[Trang 67 | ocr]
+lÝe®)
+" ¬
+10 |? |? |? |?
+Tính nhẩm.
+a) ính nhầm 2+7 2+8 3+5
+1+8 “hy TẾ 1+7
+bị Số 2 |?) 7 '?Ì+4 = 40
+3+1+2=6 Nhẩm: 3 + 1 = 4
+4+2=6
+66
+
+[Trang 68 | ocr]
+€) Tìm những quả bóng ghi phép tính có kết quả bằng 10.
+/ .)
+⁄ |
+IÐĐ ` ^¬
+NỊ/ X ø' xN _
+“cế, 8
+_«
+51. .k 4+1=5
+1+1=2 =
+... (Ï ồ ø ¿2 D
+$c
+_\
+Ẳ 3
+67
+
+[Trang 69 | ocr]
+Bài TI
+PHÉP TRỪ TRONG PHẠM VI 1O
+""+»> áx*?
+com
+Bớt đi còn lại mấy?
+a) tb à
+THÊ `. «92
+còn lại mấy quả? - cào L_.
+C2.
+: 6-1=5
+® @® ® @® ® ® Sáu trừ một bằng năm.
+Dấu trừ: —
+b)
+: M2 Bay mất 2 quả, còn
+J§ l.Š lại mấy quả bóng?
+sẽ.
+._.,u 0°
+ẳ - ức
+68
+
+[Trang 70 | ocr]
+SIU (020 cÈ Z,
+.— mấy quả bưởi trên cây? ~ À6” ý
+màu
+8)-|?Ì= '
+b) Còn lại mấy quả trứng chưa nở? "“...-
+C xả vỆ kế
+sz:
+@@essoss ` #BMET
+(eeaaana
+(®eeaasaaa
+s9
+
+[Trang 71 | ocr]
+Tách ra còn lại mấy?
+8) Hoa màu vàng có 3 bông. —
+cu Hoa màu đỏ có mẩy bông? @) \
+Ñ {?) 9-3=6
+4 = — —Ÿ—.-.-
+b) Đĩa màu vàng có 3 quả. Ì ->`
+'Ð 5 Đĩa màu xanh có mấy quả? q2):
+š) 8-3=5
+ễÄễẽẼẽ =ễäŸẳŸẳ*#*
+co)
+». 5
+hogb
+@s%:
+Có 6 gấu bông và sóc bông, trong đó có
+2 gấu bông. Hỏi có mấy sóc bông? TẾ ty
+@j(— '(89-?)-?) @~ #
+70
+
+[Trang 72 | ocr]
+€ sẽ :
+« «4>
+: 8J-I?)=)
+© s:
+8 cay L8) ` H ¿ rẾ. 18 7-1=|2)
+942] s-2-?) 2A › ĐnH:')
+=ì Lẻ Ễ TR l¿
+é) số ?
+—
+sươn: nà =
+¿
+71
+
+[Trang 73 | ocr]
+@) Số :
+# ®  S @ § co
+Ó #9 #.®.®g.:
+L2) Tìm những chú thỏ ghi phép tính có kết quả bằng 4.
+¬“Á£ c3 š
+72
+
+[Trang 74 | ocr]
+@ Số ›
+
+8g|7|?|?|?|?|?|7?
+Tim phép tính thích hợp với mỗi hình.
+
+' ` tị :ẽ r. ® “ X x
+
+` <:=sxx*t 10-2=8
+
+#— ÌỒ ` R
+
+“igiú\
+
+\ m J
+
+_ =—=- „=-... /
+
+l& Ạ 2
+
+T3
+
+[Trang 75 | ocr]
+St ¬—.
+khórn
+Số 0 trong phép trừ
+
+a) Vớt 1 con cá, còn lại mấy con cá?
+
+b) Vớt 2 con cá, còn lại mấy con cá?
+kT——— š
+
+04
+
+== >4 _——i
+
+c) Vớt 3 con cá, còn lại mấy con cá?
+——.
+
+d) Không vớt con cá nào, còn lại mấy con cá?
+
+9 Á
+74
+
+[Trang 76 | ocr]
+» :
+lhogt động)
+
+ÊÔ Tính nhầm.
+
+5—0 4-0 3—0 2-0
+
+6-6 T7 4-4 9-9
+
+5+0 0+4 3+0 0+2
+2) Hai phép tính nào có cùng kết quả?
+
+mm. “ NA SSC j2
+© Số:
+
+` # \
+Ệ:)
+3) 0)
+75
+
+[Trang 77 | ocr]
+^ buon bọp
+L1) a) Tính nhẩm.
+2-1 =2 TT) 4-4
+4-1 3-1 5-1 2-0
+b) Số ?
+BNUC 7 3% X47 “EIEN
+| |s?7ƒ2Z| 7174714 o |?
+L2) Những bông hoa nào ghi phép tính có kết quả lớn hơn 3?
+'4022= T42 SS= ¿-o:
+S xe: Z5//00172/, 9S
+TA < 2# 22/0
+“HN V\ SN
+` << “= 6-1E\
+= =~ À 2 \ == s
+=Z 8-4 = Z2
+TA 700
+VN
+76
+
+[Trang 78 | ocr]
+€a) Có mấy con cá đang cắn câu?
+@ ŸW @ @W W # t
+C> <%(
+s
+b) Số ?
+@ = :
+—= bà, =-
+25 \ Ñ ›_ SG A^-_—
+T7
+
+[Trang 79 | ocr]
+s@
+“ luyện tập,
+@) Số :
+Vớt ra 3 con, còn lại mấy con cá? 2EE(G
+vướng Xí .' ^: hu-
+Vớt ra tiếp 2 con, còn lại mấ ———........
+toi cá ` 2z _= “4
+6-2=Í? j =' c h8
+9-3-2=4
+F 9-3=6
+Mềm sT2=4
+Ö Tính:
+2) 8—2-3 b 7—4-1
+ T0Ø-8-—2 d 3+6-4
+78
+
+[Trang 80 | ocr]
+Câu cá
+—_ Xúc xắc A: Sáu mặt ghi các số 0, 1, 2, 3, 4, 5.
+—_ Xúc xắc B: Sáu mặt ghi các số 5, 6, 7, 8, 9, 10.
+Cách chơi: <e>
+—_ Chơi theo nhóm. 8 (40
+— Khi đến lượt, người chơi gieo 2 con xúc xắc.
+— Lấy số ở mặt trên xúc xắc B trừ đi số ở mặt Ẩ B
+trên xúc xắc A.
+—_ Bắt con cá ghi số bằng với kết quả nhận được.
+—_ Trò chơi kết thúc khi bắt được 5 con cá.
+sf (
+ề (e)
+9 <9 so:
+>> ` ƠO-1*é*«qw
+= 4 >>”
+2` .%
+.O^ © ;
+79
+
+[Trang 81 | ocr]
+TRONG PHẠM VỊ 1O
+
+.—_. ảng cộng
+#9299996% :.c-:
+#449999 :.--:
+#§@&@ö@ 666 :‹á-:
+468944999 ..:-:
+#9886 %%° ‹-:-:
+“00066 c.:-:
+
+°
+
+_
+
+@Q số:
+
+ng  g VIn
+
+[Trang 82 | ocr]
+Â Em hoàn thành bảng cộng.
+l1+7=8 |a+7=2] 3+7=10 =.s Ất
+P š = F —
+€nim cánh hoa cho mỗi chú ong.
+›
+2 5
+
+[Trang 83 | ocr]
+Đam
+@ojjjjjð : ‹-:
+@@œoœjœjœjj@ : :-:
+oi jjja ::-:
+œjjj## : .-‹
+„œoœjg gui : ‹-:
+pin : ‹-:
+?ữcœœ@ c-:-:
+
+đ seo
+
+@Q sẽ :
+HHHHHHH
+
+[Trang 84 | ocr]
+ÊÖ Em hoàn thành bảng trừ.
+4-bet 8-87) 6-5-3 Tc8=4 le-ses
+me
+Tính nhầm. XD <5
+—.S F— 7
+én9.
+7-3
+4-1 mm \ÒO;
+Ụ
+5-2 8-5
+w
+
+[Trang 85 | ocr]
+@œ
+®Z tuuện tập)
+Q8 :
+a) (đê
+4+3=.?)
+eo 6® 7:
+7-4=(?Ì
+|
+b) Z __ R /-
+5= =-—--
+© 88:
++4 -4
+„® <2)
+_2 +2 +2
+
+[Trang 86 | ocr]
+Chọn tấm thẻ nào?
+Cách chơi: _—_—_—`
+— Chơi theo nhóm. °
+— Đặt 12 tấm thẻ trên mặt bàn. Khi đến lượt, người Ñ Jễ
+chơi gieo xúc xắc, úp tấm thẻ ghi phép tính có `.~
+kết quả bằng số chấm ở mặt trên xúc xắc.
+—_ Trò chơi kết thúc khi úp được 6 tấm thẻ.
+TT (
+x0 +1) \ x0
+"— &
+/
+.„t
+xe.
+, 4
+Xe <*>" <x>
+ N xe gi
+lSj
+85
+
+[Trang 87 | ocr]
+^ ®
+Bài 15
+LUYỆN TẬP CHUNG
+¬ Tc
+11-1
+a 3+5=8 4+2=6 8+2=10
+8-3=? 6-4=? 10-2= ?
+8-52|? 6-2=|? 10-8=(|?
+b) 4+3=7. 7+1=8 5+0=5
+3+4= 2. HD T1? 5-0= ?
+lẽ .=L? Bi =1? 5-5= ?
+€ Sẽ :
+1+. ®OOOOOOOOO 10-1=s
+.2+8=10 ®@C)CCC)). 10-2=8
+.3+7=10. ®@@(C)C)CCC)C) 10-3=7
+c2+s=10 ®@@@OOOOOO 10-4=s
+cs+s:10 ®@@@@@OOOOO 10-s=5.
+.s+4=?) ®@@@®@6®)CC) ›0-s=?
+c7r+-?) ®@@@@@@©©C ›5-7=?:)
+8+2?) ®@®@@@@@@@CC :5-s-:
+c;+1=?) ®@@6@@@6666.) ›53-3-?:
+86
+
+[Trang 88 | ocr]
+l31- k
+a)
+[|7]? |? |?|109|?|7:-
+b) °
+L8 57? |l;|s
+? 12: VY pc |?-
+c0? ? 8 Ẩ3 E3
+@ 6 :
+b)
+?.
+[8]?)
+[1]2)110)
+
+[Trang 89 | ocr]
+^Ÿ luuệnbộp
+L4) Những con ong nào chứa phép tính có kết quả bằng 42
+§ C€
+` 4-0v
+2+4°.! \®3+
+=> =
+$ 99
+6-2? s“4+0
+€ Sẽ ›
+3+2
+_” kẽ 4+ 2
+8”) `# 8)
+L 5
+— Ki 2+2?
+88
+
+[Trang 90 | ocr]
+©
+/ >2 <=
+te CS
+@ b9 Đt
+DJ
+tí xướng -›
+a) Tìm kết quả phép tính ghi trên mỗi quả bưởi.
+b) Có mấy quả bưởi ghi phép tính có kết quả bằng 5?
+89
+
+[Trang 91 | ocr]
+s@œ
+
+heo
+
+0s“: +w+*#
+
+Lễ l ...¡)
+
+?2|+|?|=|?)
+
+€ S§ ›
+
+S6 * Fì : AM _VÃ " »:-kui 4
+
+?|+|?|=|?)
+
+90
+
+[Trang 92 | ocr]
+) 9(?)4+1 b 3+4 L?)7
+8(?]10—2 7+2 (?)8
+7(?)2+6 10—2Í?)7
+
+@ 8# :
+
+Ấ > f8. # — ` = ồ
+› ⁄. 6 "®át 2 hs
+
+hề AM xi. LIY”,,
+
+ụ * v `. j
+c Tế là _ tài l&,
+8|-J?|=]?)
+91
+
+[Trang 93 | ocr]
+C MỘT/SỐ)HÌNHIKHÔIS
+.„ò_— Bài14
+KHÔI LẬP PHƯƠNG,
+KHỔI HỘP CHỮ NHẬT
+
+S⁄/LIytn09
+
+5] Khối lập phương
+
+b) Khối hộp chữ nhật
+92
+
+[Trang 94 | ocr]
+Go đóng)
+
+Những hình nào là khối lập phương?
+
+A B c D
+Những hình nào là khối hộp chữ nhật?
+
+A B Ki D
+a) Mỗi đồ vật sau có dạng hình gì?
+Khối lập phương (3 Khối hộp chữ nhật (—
+b) Em hãy nêu tên một số đồ vật có dạng khối lập phương hoặc khối hộp
+chữ nhật ở quanh ta nhé!
+
+[Trang 95 | ocr]
+óŒœb
+.x ^
+àø 2Œ
+CÔ Bạn Mai xếp được hình dưới đây. Trong hình đó:
+a) Có bao nhiêu khối lập phương?
+b) Có bao nhiêu khối hộp chữ nhật màu đỏ?
+bùng các khối lập phương nhỏ như nhau, bạn Việt xếp thành các chữ
+T, H, € như sau:
+a) Chữ nào được xếp bởi nhiều khối lập phương nhất?
+b) Hai chữ nào được xếp bởi số khối lập phương bằng nhau?
+94
+
+[Trang 96 | ocr]
+© Các khối lập phương nhỏ như nhau được xếp thành các hình sau:
+A B =
+Hình nào là khối lập phương?
+ẤC) Hình khối thích hợp đặt vào dấu "2" là hình nào?
+3)
+s8gø8øsf :
+b)
+ø-/ø6g8.:/g@:.:/g
+. ../ .Ø
+95
+
+[Trang 97 | ocr]
+® ®
+Bài 15
+VỊ TRI, ĐỊNH HƯƠNG
+TRONG KHONG GIAN
+Trước — Sau, ở giữa
+— Thỏ nâu ở trước thỏ khoang. 6&
+— Thỏ xám ở sau thỏ khoang. =. È
+—_ Thỏ khoang ở giữa thỏ nâu
+và thỏ xám.
+Trên — Dưới
+— Búp bê ở trên.
+— Con mèo ở dưới. Ụ
+iheg
+L1) Số ? — Toa L?) ở trước toa 2.
+— Toa ở sau toa 3.
+Pụ Toa|[? ]ä iữa toa 1 và toa 3
+- f iữa toa 1 vị :
+"a1 —2—.:—3! k
+l2) a) Đèn trên cùng màu gì?
+b) Đèn ở giữa màu gì?
+c) Đèn dưới cùng màu gì?
+96
+
+[Trang 98 | ocr]
+“SŸ luyện tập,
+L4) Có một số bạn ngồi thành hai hàng để xem phim hoạt hình.
+Fˆˆ.ˆyYy "ĐC ^“
+"ẽˆ.ẽ. 1V [
+ŠIẾ(. ¿(004
+SẾP m “Ú. “Z” á
+Hỏi:
+a) Hàng trước có mấy bạn, hàng sau có mấy bạn?
+b) Có tất cả bao nhiêu bạn ngồi xem phim?
+l2) Các viên gạch được xếp thành hình dưới đây. Hỏi có bao nhiêu viên gạch ở:
+a) Hàng trên cùng?
+b) Hàng dưới cùng?
+c) Hàng giữa?
+d) Cả ba hàng?
+97
+
+[Trang 99 | ocr]
+270
+Phải - Trái
+=®) °e @) SỐ) x=
+Thỏ Rùa Mai Nam Rô-bốt
+a) b)
+— Bên phải là rùa. Từ trái sang phải: thứ nhất là
+ï Mai, thứ hai là Nam và thứ ba là
+— Bên trái là thỏ. F
+ên trái là thỏ  ruấi
+Á Bên phải là khối hình nào, bên trái là khối hình nào?
+@- Từ trái sang phải, hình tam giác ở vị trí thứ mấy?
+—_ Từ phải sang trái, hình ở vị trí thứ ba là hình gì?
+— Hình nào ở giữa hình tròn và hình tam giác?
+
+[Trang 100 | ocr]
+éŒ®
+a) Nêu tên các hình theo thứ tự từ trái sang phải.
+b) Hình nào ở giữa hình tam giác và hình tròn?
+ở khối lập phương A: mặt trước tô màu đỏ, mặt trên tô màu xanh, mặt bên
+phải tô màu vàng.
+` B
+Em cho biết ở khối lập phương B, mặt trước tô màu gì? Mặt trên tô màu gì?
+Mặt bên phải tô màu gì?
+99
+
+[Trang 101 | ocr]
+© =
+Bài 16
+LUYỆN TẬP CHUNG
+Llc = à
+/ lugện bếp,
+L4) Những hình nào là khối lập phương? Những hình nào là khối hộp chữ nhật?
+Ầ | B re
+L l D sI „Ì -#
+a) Mặt trước xúc xắc có mấy chấm?
+b) Mặt bên phải xúc xắc có mấy chấm?
+c) Mặt trên xúc xắc có mấy chấm?
+100
+
+[Trang 102 | ocr]
+Â cau nào đúng?
+
+a) Hình bên phải có nhiều khối lập phương nhỏ hơn hình bên trái.
+
+b) Hai hình có số khối lập phương nhỏ bằng nhau.
+
+.. | ấ
+
+[4h 8 khối lập phương nhỏ như nhau, em hãy xếp thành một khối lập
+
+phương lớn.
+
+ÂĂ=~¬
+) lÀ,
+Ñ @<
+= <>^8._—< «4 À.
+101
+
+[Trang 103 | ocr]
+" IÔNITÂP,)HOC]KÌ)T
+Bài 17
+
+ÔN TẬP CÁC SỐ TRONG PHẠM VI 1O
+®
+ec
+Q8 :
+
+=
+si
+
+[Trang 104 | ocr]
+ế? Q29 c«. SE Q wnn b 4
+mm... . .
+vớ... cổ — ” s... „Ă>
+a) Số 2
+8 ? Ki ? : Ẳ
+b) Trong các con vật: con thỏ, con chó, con trâu, số con vật nào ít nhất?
+© >,<;¡= 2
+a 6|2|8 b) 9 2 .9—‡ c 10 .2.8+2
+103
+
+[Trang 105 | ocr]
+Tan
+BÁC
+^V luuện lbộp)
+ÂÔ Nối các số theo thứ tự từ bé đến lớn là được hình dưới đây. Các số còn
+thiếu là số nào?
+1
+9 S)
+ĩ
+2) Cho các số:
+l \
+l 8 "
+a) Sắp xếp các số đó theo thứ tự từ bé đến lớn.
+b) Trong các số đó, số nào lớn nhất? Số nào bé nhất?
+c) Trong các số đó, những số nào vừa lớn hơn 5, vừa bé hơn 82?
+
+[Trang 106 | ocr]
+Â Có 3 bạn rùa đi dạo chơi, rùa xanh đi thứ nhất, rùa vàng đi thứ hai, rùa
+nâu đi thứ ba.
+Nếu bạn rùa đỏ vào giữa rùa xanh và rùa vàng thì khi đó rùa nâu đi
+thứ mấy?
+š 6)
+Nu =5 " MỆT VÀU 2v XÃ
+- = Ừw WM- ”vx êm .
+4) Có 3 bạn thỏ đang chơi thì trời mưa, các bạn chạy vào trong cả hai chuồng.
+Hỏi mỗi chuồng có mấy bạn thỏ? Biết rằng số thỏ ở chuồng A nhiều hơn
+số thổ ở chuồng B.
+2<
+—..=.. SN Do -
+105
+
+[Trang 107 | ocr]
+^ =
+Bài 18
+ÔN TẬP PHÉP CỘNG, PHÉP TRỪ
+TRONG PHẠM VI 1O
+an
+ÂÔ Tính nhầm.
+3) 2+4 3+6 4+5
+S1iẢ 8+0 725 T/
+b 3 —1 9—6 10—4
+4-2 8-0 6-3
+€a› Số 2
+b) >;<;¡= ?
+5+4 2/9 3? .9—7 8+029
+106
+
+[Trang 108 | ocr]
+@ Những bông hoa nào ghi phép tính có kết quả bằng 52?
+“ân ¬ RE @®
+4+1 ES Foo
+v >1) sa"
+\ j
+xã
+nổ).
+4) Từ các số dưới đây và các dấu +, —, =, em có thể lập được các phép tính
+đúng nào?
+m2 Ẽ
+À7
+
+107
+
+[Trang 109 | ocr]
+^V lun tệp,
+Q nim kết quả phép tính ghi ở mỗi toa tàu:
+%>
+®
+£]
+@ 88:
+KETNDTTRITHUC
+(?|=|3|:=]:2
+»¬-:
+€© Sẽ : *
+NG RÌ 8E:
+?|+|?|=|?
+4108
+
+[Trang 110 | ocr]
+Bắt gà
+
+Cách chơi:
+
+— Chơi theo nhóm.
+
+— Người chơi bắt đầu từ ô xuất phát. Khi đến lượt, người chơi gieo
+xúc xắc. Đếm số chấm ở mặt trên xúc xắc rồi di chuyển số ô bằng số
+chấm đó. Tìm kết quả phép tính tại ô đi đến rồi bắt một con gà ghi số
+bằng kết quả đó.
+
+—_ Trò chơi kết thúc khi bắt được 5 con gà.
+6+1 10-9 3-3 6-3 7-0 6-†1
+
+`Z NIZ
+6 đà ` & 6+3
+= “Ả.
+/¿® C63
+6+2 G „ " 4+3
+TP nNN..-:' x93 s~2
+2 4
+XUẤT
+1+3 3+5 6-0 7-3 8-8  PHÁT
+109
+
+[Trang 111 | ocr]
+^® ®
+Bài 19
+ÔN TẬP HÌNH HỌC
+“{a®)
+Iu?#- à
+Ầ B € D
+E G H 1 K
+a) Những hình nào là hình vuông?
+b) Những hình nào là hình tam giác?
+c) Những hình nào là hình tròn?
+d) Những hình nào là hình chữ nhật?
+2) Những hình nào là khối lập phương?
+A B c
+D E G
+110
+
+[Trang 112 | ocr]
+& Hình thích hợp đặt vào dấu "2" là hình nào?
+@ANHGAM@G2Km
+@ Từ bốn hình tam giác như nhau:
+Em hãy ghép thành mỗi hình sau:
+a)
+`“ — | -
+`
+b) :
+111
+
+[Trang 113 | ocr]
+^ ®
+Bài 2O
+ÔN TẬP CHUNG
+4®
+@Q) Số :
+a) 2 b) —¬—_—-amA
+'—ˆ : W““. Ấ.
+W{&œ, 5s” ;
+sáp xếp các số sau theo thứ tự từ bé đến lớn.
+ba _
+© Số :
+3+5= 2? 6+4= 2 3+0= ?
+8-4=(? 10—5=| ? 5—0=[?
+112
+
+[Trang 114 | ocr]
+€@ Số ›
+8) -~r
+111%
+2|+j?2|=|?
+b)
+làn ) lộ tỉ m _
+2- 5=?
+© Hình thích hợp đặt vào dấu "2" là hình nào?
+@ỒMAS.0MA5S:@Nˆ?
+113
+
+[Trang 115 | ocr]
+MỘT SỐ THUẬT NGỮ DÙNG TRONG SÁCH
+Thuật ngữ Trang
+B
+bằng nhau 20
+bé hơn 26
+D
+dưới 96
+H
+hình chữ nhật 46
+hình tam giác 46
+hình tròn 46
+hình vuông 46
+I
+ít hơn 20
+K
+khối hộp chữ nhật 92
+khối lập phương 92
+L
+lắp ghép 5O
+lớn hơn 24
+
+114
+
+[Trang 116 | ocr]
+Thuật ngữ Trang
+N
+nhiều hơn 20
+P
+phải 98
+phép cộng 56
+phép trừ 68
+L)
+sau 96
+T
+trái 98
+trên 96
+trước 96
+x
+xếp hình 5O
+115
+
+[Trang 117 | ocr]
+Nhà xuất bản Giáo dục Việt Nam xin trân trọng cảm ơn
+các tác giả có tác phẩm, tư liệu được sử dụng, trích dẫn
+trong cuốn sách này.
+Chịu trách nhiệm xuất bản:
+Chủ tịch Hội đồng thành viên - Tổng Giám đốc NGUYỄN TIỀN THANH
+Chịu trách nhiệm nội dung:
+Tổng biên tập PHẠM VĨNH THÁI
+Biên tập lần đầu: VŨ MINH HẢI - LƯU THÉ SƠN
+Biên tập tái bản: VŨ MINH HẢI
+Biên tập mĩ thuật: NGUYỄN BÍCH LA
+Thiết kế sách: PHAN THỊ TH HƯƠNG
+Trình bày bìa: NGUYÊN BÍCH LA
+Minh hoạ: NGUYÊN THẺ PHI - NGUYỄN THỊ HUẾ
+Sửa bản in: PHẠM THỊ TÌNH
+Chế bản: CTCP MĨ THUẬT VÀ TRUYÊN THÔNG
+Bàn quyền © (2020) thuộc Nhà xuất bản Giáo dục Việt Nam.
+Xuất bản phẩm đã đăng kí quyền tác giả. Tất cả các phần của nội dung cuốn sách này
+đều không được sao chép, lưu trữ, chuyển thể dưới bắt kì hình thức nào khi chưa có sự
+cho phép bằng văn bản của Nhà xuất bản Giáo dục Việt Nam.
+TOÁN T - TẠP MỘT
+Mã số: G1HH1T001h26
+In bản, (QĐ ...~ NXBGDHN) khổ 19 x 26,5 cm.
+ĐH 6c s2soazas
+Cơ sở in: IseVx906
+Số ĐKXB: 7-2026/CXBIPH/6-09/GD
+Số QĐXE: ....../Đ-GD-HN ngày... tháng... năm.......
+In xong và nộp lưu chiều quý ... năm
+Mã số ISBN: Tập một: 978-604-0-19567-8
+Tập hai: 978-604-0-19568-5
+
+[Trang 118 | ocr]
+J9201) QJOÁN1
+== —ˆ —m.'.¬ ở ^
+Lễ: x đệ 9v” VN ‹ \ v.? CA
+Pă.. °«°?) đ | : -
+BỘ SÁCH GIÁO KHOA LỚP 1 - KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+1. Tiếng Việt 1, tập một 7. Âm nhạc 1
+2. Tiếng Việt 1, tập hai 8. Mĩ thuật 1
+3. Toán 1, tập một 9. Hoạt động trải nghiệm 1
+4. Toán 1, tập hai 10. Giáo dục thể chất 1
+5. Tự nhiên và Xã hội 1 11. Tiếng Anh 1 - Global Success —
+6.Đao đức 1 Sách học sinh
+Website: https://www.nxbgd.vn
+#3 ISBN 97§-604-0-19567-8
+, TH- II
+786040 ” 195678
+Giá: 14.000 đ

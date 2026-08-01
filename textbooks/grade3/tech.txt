@@ -1,0 +1,63 @@
+Q: Để lưu trữ tài liệu ngăn nắp trên máy tính, chúng ta tạo ra thư mục gọi là gì?
+A: FOLDER (THƯ MỤC)
+C: FOLDER (THƯ MỤC), FILE (TỆP TIN), DESKTOP, ICON
+
+Q: Khi muốn mở một trang web trên internet, phần mềm nào được gọi là trình duyệt web?
+A: GOOGLE CHROME
+C: GOOGLE CHROME, MICROSOFT WORD, SCRATCH, PAINT
+
+Q: Để xóa một thư mục bị sai, ta nhấp chuột phải và chọn lệnh nào?
+A: DELETE
+C: DELETE, RENAME, COPY, NEW FOLDER
+
+Q: Biểu tượng màn hình Desktop thường được gọi là gì?
+A: ICON (BIỂU TƯỢNG)
+C: ICON (BIỂU TƯỢNG), FOLDER, FILE, SHORTCUT
+
+Q: Để thoát khỏi một chương trình đang chạy, ta nhấn tổ hợp phím nào?
+A: ALT + F4
+C: ALT + F4, CTRL + S, CTRL + Z, CTRL + C
+
+Q: Nhấn tổ hợp phím để CẮT (Cut) dữ liệu:
+A: ctrl+x
+C: ctrl+x
+
+Q: Nhấn tổ hợp phím để CHỌN TẤT CẢ (Select All):
+A: ctrl+a
+C: ctrl+a
+
+Q: Luyện gõ lệnh cơ bản của Scratch:
+A: move 10 steps
+C: move 10 steps
+
+Q: Phím nào giúp gõ được chữ HOA khi giữ cùng lúc?
+A: SHIFT
+C: SHIFT, ENTER, SPACE, BACKSPACE
+
+Q: Ngón tay cái dùng để nhấn phím nào?
+A: PHÍM SPACE BAR
+C: PHÍM SPACE BAR, PHÍM ENTER, PHÍM SHIFT, PHÍM CAPS LOCK
+
+Q: Bộ phận nào của máy tính hiển thị hình ảnh?
+A: MÀN HÌNH
+C: MÀN HÌNH, CHUỘT, BÀN PHÍM, LOA
+
+Q: Tư thế ngồi học máy tính đúng cần đảm bảo điều gì?
+A: LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM
+C: LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM, LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM, NGỒI KHOM LƯNG, MẮT SÁT MÀN HÌNH, NẰM KHI GÕ PHÍM, NGỒI NGHIÊNG SANG PHẢI
+
+Q: Phím nào dài nhất trên bàn phím?
+A: PHÍM SPACE BAR
+C: PHÍM SPACE BAR, PHÍM ENTER, PHÍM SHIFT, PHÍM BACKSPACE
+
+Q: Thiết bị nào dưới đây là thiết bị vào của máy tính?
+A: Bàn phím và chuột
+C: Bàn phím và chuột, Màn hình và máy in, Loa và tai nghe, Thân máy và nguồn điện
+
+Q: Khi sử dụng Internet, em cần làm gì để bảo vệ thông tin cá nhân của mình?
+A: Không chia sẻ mật khẩu và thông tin gia đình cho người lạ
+C: Không chia sẻ mật khẩu và thông tin gia đình cho người lạ, Chia sẻ địa chỉ nhà công khai, Cho người lạ mượn tài khoản học tập, Đăng ảnh cá nhân kèm số điện thoại
+
+Q: Phép nhân nào có kết quả bằng 24?
+A: 6 x 4
+C: 6 x 4, 5 x 5, 7 x 3, 8 x 2

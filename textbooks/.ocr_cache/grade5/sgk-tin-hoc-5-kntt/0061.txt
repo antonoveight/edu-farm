@@ -1,0 +1,34 @@
+c) Vẹt bay liên tục cho đến khi nháy chuột
+Để thực hiện yêu cầu này, em sử dụng lệnh lặp lại cho đén khi để lặp khối
+lệnh ở Hình 78 đến khi nháy chuột.
+Bước 7: Mở tệp chương trình Flanhi5ongCuaVet đã tạo ở Nhiệm vụ 1.
+Bước 2: Chỉnh sửa chương trình:
+— Kéo thả lệnh lặp lại co đến khi vào chương
+trình. đật kiểu xoay trái - phải
+- Trong nhóm lệnh Cảm biến, kéo thả lặp lại cho đến khi chuột được nhấn?
+TT”? vào õ điều kiện. uyên §Ð sốc
+~ Tương tự câu a, em bổ sung lệnh như Hình kiohojaicluyô ng 2
+82 để vẹt không bị lộn ngược. si @‹2.
+Bước 3: Chạy thử chương trình, nháy chuột Fup-. JBEM
+và quan sát kết quả xem vẹt có dừng bay 5
+hay không.
+Bước 4: Lưu tệp với tên là VetBay3 vào thự Hình _ MAN Art tục cho
+mục của em. lến khi nháy chuột
+4Ö. TẬP
+1. Tạo khối lệnh để nhân vật thực hiện tuần tự các hành động sau:
+
+1. Di chuyển 20 bước.
+
+2. Thay đổi động tác.
+
+3. Đợi 1 giây.
+2. Sử dụng lệnh lặp tạo ba chương trình, mỗi chương trình thực hiện một yêu
+cầu sau:
+a) Lặp lại 15 lần khối lệnh ở Câu 1.
+b) Lặp liên tục khối lệnh ở Câu 1.
+c) Lặp khối lệnh ở Câu 1 cho đến khi nháy chuột.
+œ VẬN DỤNG
+Em hãy tạo chương trình sử dụng lệnh lặp với số lần biết trước để vẽ
+hình vuông.
+
+61

@@ -1,0 +1,17 @@
+Tìm hiểu về nhịp 3
+- Nhịp 3 có bq phóch trong một ô nhịp, mỗi phóch có gió trị trường độ bằng
+một nốt đen. Phóch thứ nhốt lò phách mạnh, phách thứ hơi và phóch thứ bơ là
+phóch nhẹ.
+mạnh nhẹ nhẹ mọnh nhẹ nhẹ mẹnh nhẹ nhẹ mạnh nhẹ nhẹ
+: > > > >
+Phách 1 2 3 1 2 3 1 2 3 1 2 3
+- Nhịp 3 thường được viết cho những tác phẩm âm nhọc có tính chất nhịp nhàng,
+uyễn chuyển.
+Luyện tập
+Nghe vò đọc tên cóc nốt nhạc lò phéch mạnh vò phóch nhẹ trong khuông nhạc
+dưới đôy:
+=—
+%4 Nhịp Ẫ có mấy phách trong một ô nhịp? Phách mọợnh là phách
+thứ mấy của ô nhịp?
+k +} Nghe, cảm nhận vỏ vận động theo nhịp} trích đoạn bài hớt
+- Đếm sao.

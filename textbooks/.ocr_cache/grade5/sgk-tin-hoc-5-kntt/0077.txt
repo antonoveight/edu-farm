@@ -1,0 +1,24 @@
+4e TẬP
+1. Hãy viết biểu thức toán học tương ứng của mỗi biểu thức sau trong Scratch.
+
+a)
+
+' xã @- Ẳ
+
+„mm
+
+©) Ỗ
+
+d) ị
+2. Hai biến a, b lưu độ dài hai cạnh của hình chữ nhật. Giá trị của hai biến
+hiện tại đang là + % b @€@.
+Khi đó, lệnh sẽ đưa thông
+báo nào ra màn hình?
+A. Diện tích hình chữ nhật là 3.
+8. Diện tích hình chữ nhật là 12.
+©. Diện tích hình chữ nhật là 4.
+D. Diện tích hình chữ nhật là 7.
+Tạo chương trình tính diện tích hình vuông có độ dài cạnh nhập vào từ
+bàn phím.
+
+T7

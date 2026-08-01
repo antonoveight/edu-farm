@@ -1,0 +1,18 @@
+s%›:
+16 945 8472 1 '16945:2=8472 (dư 1)
+ a) Đăttính rồi tính.
+45 250 : 5 27/82 13 36 180 : 4
+b) Trong các phép tính ở câu a:
+— Phép tính nào có kết quả lớn nhất?
+— Phép tính nào có kết quả bé nhát?
+
+@c 12 000 bút sáp màu. Người ta đóng hết số bút sáp màu đó vào
+các hộp, mỗi hộp 6 bút sáp. Hỏi đóng được tất cả bao nhiêu hộp bút
+sáp màu?
+
+Ngức.
+{cc" '
+G1, "d2 5
+8¬ V(/
+¬)\
+400

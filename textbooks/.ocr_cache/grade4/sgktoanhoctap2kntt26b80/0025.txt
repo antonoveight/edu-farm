@@ -1,0 +1,33 @@
+D
+{9 Í (Ò Ở Taitieu cam
+¬ b) Xếp 218 áo phao lên các thuyển, mỗi thuyền 18 áo phao. Hỏi xếp
+được nhiều nhất bao nhiêu thuyền và còn thừa máy áo phao?
+°
+E 218:18=2
+b Ta có thể đặt ính rỗi tính như sau
+° 216 [18 + 21 chía 18 được 1, viết 1.
+® 18 _|[12 1 nhân 8 bằng 8, viết 8.
+T3 1 nhân 1 bằng 1, viết 1
+l= 2 21 trừ 18 bằng 3, viết 3.
+© =--¿
+2 « Hạ 8, được 38; 38 chia 18 được 2, viết 2.
+=! 2 nhân 8 bằng 16, viết 6 nhớ 1
+®, 2 nhân 1 bằng 2, thêm 1 bằng 3, viết 3.
+= 38 trừ 36 bằng 2, viết 2.
+E Í 248 18=12(du2) Ì
+2>  .=——
+BH
+B Ấ seo
+D Qbăttnh ri tính
+<
+t3 322 :14 1554: 37
++
+E 325 : 14 1857 :42
+lŠ
+im nhàm.
+4) 450 : 90 560 :70 320 : 80
+Mẫu: 450 : 90= 2
+Cùng xoá 1 chữ số 0 ở tận cùng só chia và số bị chia rồi thực hiện
+phép chia 45 : 9
+'Vậy: 450 : 90 = 45 : 9= 5,
+2

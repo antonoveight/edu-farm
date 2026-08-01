@@ -1,0 +1,21 @@
+Trò chơi bỏ trợ khởi động
+
+Trò chơi Làm theo hiệu lệnh
+
+CÓ Ế) lJ ÂU CÓ Ty
+JVÑ ` & s“w— _—NÑ À, r
+=£) ©- me. "M. &, `
+
+P.0 P PB -
+_—  = —=—~ —
+L1) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc và ngược lại
+
+a) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc
+
++ _ Khẩu lệnh: “Theo 1, 2; 1, 2 ~ Điểm sót".
+
++ Cách thực hiện: Làn lượttừ em đầu hàng quay mặt qua trái, ra sau, hô to
+số của mình theo thứ tự 1, 2; 1, 2;... rồi quay mặt vẻ tư thế ban đầu. Em
+cuối hàng hô to số của mình và hô “Hết”. ng)
+
+(® œ 2. Hết

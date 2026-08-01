@@ -1,0 +1,27 @@
+Ệ Hình vuông xuất hiện
+Thông báo ngẫu nhiên trên
+làm đúng màn hình
+ThatsRighl
+Xếp hạng. Khi điểm này đạt
+lượt luyệntập đến 10, em sẽ được
+chuyên sang mức
+Số điểm cho tiệp theo
+lần thao tác
+Hình 77. Màn hình luyện tập với chuột
+Phàn mềm Basic Mouse Skills có các bài tập theo 5 mức:
+Mức 1: Luyện thao tác di chuyển chuột.
+Mức 2: Luyện thao tác nháy chuột
+Mức 3: Luyện thao tác nháy đúp chuột.
+Mức 4: Luyện thao tác nháy nút phải chuột.
+Mức 5: Luyện thao tác kéo thả chuột.
+Với mỗi mức, phần mềm quy định 10 làn luyện tập. Phần mềm sẽ tính điểm
+cho từng mức và thông báo tổng số điểm khi em hoàn thành xong cả 5 mức.
++ Ở các mức 1, 2, 3, 4 trên màn hình sẽ xuất hiện một hình vuông. Các hình
+vuông sẽ xuất hiện ngẫu nhiên trên màn hình với kích thước ngày càng
+nhỏ. Kết thúc mỗi mức độ, em sẽ nhận được thông báo. Nhắn phím bát kì
+để chuyển sang mức tiếp theo.
++  Ở mức 5, trên màn hình sẽ có một cửa sổ nhỏ và một biểu tượng.
+Nhiệm vụ của em là kéo thả biêu tượng vào trong cửa sô nhỏ đó.
+Eh: E-L Vi Hep
+”
+Hình 78. Màn hình luyện tập kéo thả chuột

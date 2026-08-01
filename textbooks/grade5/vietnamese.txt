@@ -1,0 +1,83 @@
+Q: Cặp từ 'đất' - 'trời' hay 'cao' - 'thấp' thuộc nhóm từ nào?
+A: TỪ TRÁI NGHĨA
+C: TỪ TRÁI NGHĨA, TỪ ĐỒNG NGHĨA, TỪ ĐỒNG ÂM, TỪ NHIỀU NGHĨA
+
+Q: Cặp từ 'bao la' - 'mênh mông' thuộc nhóm từ nào?
+A: TỪ ĐỒNG NGHĨA
+C: TỪ ĐỒNG NGHĨA, TỪ TRÁI NGHĨA, TỪ ĐỒNG ÂM, TỪ NHIỀU NGHĨA
+
+Q: Từ 'đường' trong 'con đường' và 'đường kính' (đồ ngọt) có quan hệ thế nào?
+A: TỪ ĐỒNG ÂM KHÁC NGHĨA
+C: TỪ ĐỒNG ÂM KHÁC NGHĨA, TỪ NHIỀU NGHĨA, TỪ ĐỒNG NGHĨA, TỪ TRÁI NGHĨA
+
+Q: Trong câu ghép 'Nếu trời mưa to thì chúng em được nghỉ học thể chất', hai vế câu nối với nhau bằng cặp quan hệ từ nào?
+A: NẾU... THÌ
+C: NẾU... THÌ, VÌ... NÊN, TUY... NHƯNG, MẶC DÙ... NHƯNG
+
+Q: Biện pháp tu từ nào được dùng trong câu 'Trăng là người bạn đồng hành của những người đi xa'?
+A: ẨN DỤ
+C: ẨN DỤ, SO SÁNH, NHÂN HÓA, ĐIỆP NGỮ
+
+Q: Đoạn văn được cấu tạo bởi những gì?
+A: CÁC CÂU LIÊN QUAN MẬT THIẾT VỀ Ý NGHĨA
+C: CÁC CÂU LIÊN QUAN MẬT THIẾT VỀ Ý NGHĨA, CHỈ MỘT CÂU DUY NHẤT, HAI CÂU BẤT KÌ, CÁC TỪ GHI LIỀN NHAU
+
+Q: Hình thức nghị luận trong văn bản là gì?
+A: TRÌNH BÀY LUẬN ĐIỂM VÀ LẬP LUẬN ĐỂ THUYẾT PHỤC
+C: TRÌNH BÀY LUẬN ĐIỂM VÀ LẬP LUẬN ĐỂ THUYẾT PHỤC, MÔ TẢ THIÊN NHIÊN, KỂ LẠI SỰ VIỆC, THƠ CA TRỮ TÌNH
+
+Q: Chọn từ tạo thành từ đồng nghĩa với 'bao la':
+A: mênh
+C: mênh, xanh, cao, đẹp
+
+Q: Điền quan hệ từ phù hợp:
+A: nhưng
+C: nhưng, và, vì, nên
+
+Q: Điền từ thích hợp:
+A: mẹ đẻ
+C: mẹ đẻ, nước ngoài, học đường, mới mẻ
+
+Q: Ghép các từ thành câu ghép đúng ngữ pháp:
+A: Vì trời mưa nên đường trơn
+C: Vì trời mưa nên đường trơn
+
+Q: Sắp xếp câu ca dao:
+A: Bầu ơi thương lấy bí cùng
+C: Bầu ơi thương lấy bí cùng
+
+Q: Từ đồng nghĩa với 'dũng cảm' là?
+A: CAN ĐẢM
+C: CAN ĐẢM, NHÚT NHÁT, HIỀN LÀNH, KIÊN NHẪN
+
+Q: Từ đồng nghĩa với 'chăm chỉ' là?
+A: CẦN CÙ
+C: CẦN CÙ, LƯỜI BIẾNG, VUI VẺ, THÔNG MINH
+
+Q: Trong câu 'Chân trời ửng hồng.', từ 'chân' mang nghĩa gì?
+A: NGHĨA CHUYỂN
+C: NGHĨA CHUYỂN, NGHĨA GỐC, NGHĨA BÓNG, NGHĨA ĐEN
+
+Q: Trong câu 'Bạn ấy bị đau chân.', từ 'chân' mang nghĩa gì?
+A: NGHĨA GỐC
+C: NGHĨA GỐC, NGHĨA CHUYỂN, NGHĨA BÓNG, NGHĨA ẨN
+
+Q: Từ đồng nghĩa với 'tươi đẹp' là?
+A: XINH ĐẸP
+C: XINH ĐẸP, XẤU XÍ, TỐI TĂM, KHÔ HÉO
+
+Q: Từ nào trái nghĩa với 'nhân hậu'?
+A: ĐỘC ÁC
+C: ĐỘC ÁC, THÂN THIỆN, TỬ TẾ, HÒA ĐỒNG
+
+Q: Từ nào đồng nghĩa với từ 'thanh bình'?
+A: Hòa bình, yên tĩnh
+C: Hòa bình, yên tĩnh, Ồn ào, náo nhiệt, Chiến tranh, xung đột, Nhộn nhịp, vui tươi
+
+Q: Câu ghép nào dưới đây thể hiện mối quan hệ nguyên nhân - kết quả?
+A: Vì trời mưa to nên đường phố bị ngập nước.
+C: Vì trời mưa to nên đường phố bị ngập nước., Tuy nhà nghèo nhưng Lan vẫn học giỏi., Hễ gió thổi mạnh là diều bay cao., Không những Nam học giỏi mà bạn ấy còn đá bóng hay.
+
+Q: Trong câu: 'Những cánh buồm trắng muốt đang lướt sóng ra khơi', từ nào là vị ngữ?
+A: đang lướt sóng ra khơi
+C: đang lướt sóng ra khơi, Những cánh buồm, buồm trắng muốt, lướt sóng

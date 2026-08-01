@@ -1,0 +1,18 @@
+3. THỰC HIỆN CUỘC GỌI
+a) Biểu tượng thể hiện trạng thái, chức năng hoạt động của điện thoại
+$: hãy lựa chọn mô tả ở cột B sao cho phù hợp với biểu tượng, trạng thái
+điện thoại ở cột A.
+—A —B.
++ m¬ :a Chế độ máy bay
+2ø '' Máy ảnh
+: @ @ Phyểu
+® [+ ‹—: Danh bạ điện thoại
+5s :& Mức sóng điện thoại
+8 '8' Kết thúc cuộc gọi
+® % ‹h' Điện thoại đang sạc pin
+8 TiilÌ 1: Mức sóng wifi
+, ® '& Thực hiện cuộc gọi
+sạn sát Hình 4 và cho biết trường hợp nào có thể thực hiện được cuộc gọi
+điện thoại bình thường.
+_ Hình4 -
+21

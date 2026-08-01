@@ -1,0 +1,34 @@
+& ị s Định dạng kí tự (phông chữ, kiểu chữ, cỡ chữ, màu chữ,...) ị
+¡_ giúp em trình bày văn bản đẹp hơn, dễ đọc và dễ ghi nhớ. :
+‡ s Có thể thay đổi cách bố trí hình ảnh trong văn bản để ‡
+¡ _ văn bản được trình bày đẹp hơn. ì
+g Để định dạng cho tiêu đề em cầu vòng hoa quả trong Hình 28, em
+sẽ chọn các lệnh nào trong các lệnh ở Hình 312
+£. THỰC HÀNH ĐỊNH DẠNG KÍ TỰ VÀ BỐ TRÍ HÌNH ẢNH
+TRONG VĂN BẢN
+(Hướng dẫn sau đây sử dụng phần mềm soạn thảo văn bản Microsoft Word
+đê minh hoạ.)
+NHIỆM VỤ Efbinm dạng kí tự theo yêu cầu như ở Hình 34.
+Phông chữ Tahoma, = = =
+cỡ chữ 16, màu xanh, Kem cầu vồng hoa quả
+kiểu chữ đậm Nguyên liệu:
+Xoài, nho xanh, thanh long, dưa hấu, sữa chua.
+Phông chữ Verdana, Dụng cụ:
+cỡ chữ 12, màu tím, 1 cốc cao.
+kiểu chữ đậm, nghiêng Hướng dẫn:
+1. Làm sạch trái cây.
+2. Nho cắt đôi, các loại hoa quả khác cắt thành miếng vừa ăn.
+Phân nội dung văn bản: 3. Cho sữa chua vào đáy cốc.
+phông chữ Verdana, 4. Lần lượt xếp từng loại trái cây vào cốc, bắt đầu với xoài,
+cỡchữ 12 sau đó là thanh long, dưa hấu và nho.
+5. Đưa cốc kem vào ngăn đá tủ lạnh.
+Hình 34. Yêu câu định dạng kí tự
+Hướng dẫn
+Mở tệp CongThueLami<er và thực hiện các công việc sau:
+a) Định dạng toàn bộ văn bản
+Bước 7: Chọn toàn bộ văn bản.
+ước 2: Nháy chuột vào lệnh phông chữ để chọn phông Verdana.
+Bước 3: Nháy chuột vào lệnh cỡ chữ và chọn cỡ chữ 12.
+b) Định dạng tiêu đề văn bản
+8ước 7: Chọn dòng tiêu đề.
+31

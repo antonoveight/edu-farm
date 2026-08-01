@@ -1,0 +1,87 @@
+Q: Bộ phận nào trên cơ thể dùng để nghe âm thanh?
+A: TAI
+C: TAI, MẮT, MŨI, TAY
+
+Q: Khi đi bộ trên đường, bé cần đi trên phần đường nào?
+A: VỈA HÈ
+C: VỈA HÈ, LÒNG ĐƯỜNG, ĐƯỜNG RAY, DƯỚI MƯƠNG
+
+Q: Khi đi xe máy cùng bố mẹ, bé cần tuân thủ luật lệ nào để an toàn?
+A: ĐỘI MŨ BẢO HIỂM
+C: ĐỘI MŨ BẢO HIỂM, ĐEO KÍNH RÂM, MẶC ÁO MƯA, MANG BA LÔ
+
+Q: Động vật nào kêu 'meo meo' và thích bắt chuột?
+A: CON MÈO
+C: CON MÈO, CON CHÓ, CON GÀ, CON THỎ
+
+Q: Loài hoa nào thường hướng về phía mặt trời?
+A: HOA HƯỚNG DƯƠNG
+C: HOA HƯỚNG DƯƠNG, HOA HỒNG, HOA CÚC, HOA LAN
+
+Q: Trái cây nào sau đây có gai nhọn và mùi thơm rất đậm?
+A: SẦU RIÊNG
+C: SẦU RIÊNG, DƯA HẤU, TÁO, XOÀI
+
+Q: Ban đêm chúng ta nhìn bầu trời thấy gì sáng lên?
+A: TRĂNG VÀ SAO
+C: TRĂNG VÀ SAO, MẶT TRỜI, MÂY TRẮNG, CẦU VỒNG
+
+Q: Cây cần gì để sống và phát triển?
+A: NƯỚC, ÁNH SÁNG, ĐẤT
+C: NƯỚC, ÁNH SÁNG, ĐẤT, ĐÁ VÀ CÁT, BÚT VÀ VỞ, DẦU VÀ MỠ
+
+Q: Mặt trời mọc ở hướng nào?
+A: ĐÔNG
+C: ĐÔNG, TÂY, NAM, BẮC
+
+Q: Trời mưa xuất hiện hiện tượng màu sắc nào trên bầu trời?
+A: CẦU VỒNG
+C: CẦU VỒNG, SAO BĂNG, ÁNH TRĂNG, SƯƠNG MÙ
+
+Q: Điền từ thích hợp để bảo vệ sức khỏe:
+A: tay
+C: tay, chân, mặt, tóc
+
+Q: Điền từ thích hợp vào chỗ trống:
+A: hai
+C: hai, một, ba, bốn
+
+Q: Điền từ thích hợp:
+A: rác
+C: rác, nước, đồ chơi, sách
+
+Q: Sắp xếp lời dạy của bác sĩ:
+A: Hãy uống nước đun sôi để nguội
+C: Hãy uống nước đun sôi để nguội
+
+Q: Bộ phận nào trên mặt dùng để nhìn?
+A: MẮT
+C: MẮT, MŨI, TAI, MIỆNG
+
+Q: Đâu là loài vật nuôi trong gia đình?
+A: CHÓ
+C: CHÓ, HỔ, SƯ TỬ, VOI
+
+Q: Cây xanh cần gì để lớn lên?
+A: NƯỚC VÀ ÁNH SÁNG
+C: NƯỚC VÀ ÁNH SÁNG, CHỈ ĐẤT, CHỈ SỎI, KHÔNG CẦN GÌ
+
+Q: Màu nào là màu của lá cây thông thường?
+A: MÀU XANH LÁ
+C: MÀU XANH LÁ, MÀU ĐỎ, MÀU VÀNG, MÀU TÍM
+
+Q: Việc làm nào giúp em giữ vệ sinh răng miệng sạch sẽ hằng ngày?
+A: Chải răng mỗi ngày 2 lần sáng và tối
+C: Chải răng mỗi ngày 2 lần sáng và tối, Chỉ chải răng khi ăn kẹo, Chỉ súc miệng bằng nước, Không cần chải răng
+
+Q: Tại sao em cần phải rửa tay trước khi ăn và sau khi đi vệ sinh?
+A: Để phòng tránh vi khuẩn và bảo vệ sức khoẻ
+C: Để phòng tránh vi khuẩn và bảo vệ sức khoẻ, Để tay có mùi thơm, Để tay ướt dễ cầm thức ăn, Để được bố mẹ khen
+
+Q: Khi đi bộ trên đường phố, em nên đi ở đâu để đảm bảo an toàn?
+A: Đi trên vỉa hè
+C: Đi trên vỉa hè, Đi sát dải phân cách, Đi dưới lòng đường, Đi chéo qua ngã tư
+
+Q: Việc nào em nên làm để giúp đỡ bố mẹ khi ở nhà?
+A: Dọn dẹp đồ chơi gọn gàng sau khi chơi
+C: Dọn dẹp đồ chơi gọn gàng sau khi chơi, Vứt đồ dùng bừa bãi, Đòi bố mẹ mua thêm đồ chơi, Chỉ ngồi xem tivi

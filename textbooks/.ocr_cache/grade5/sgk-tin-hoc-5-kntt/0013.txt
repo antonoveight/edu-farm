@@ -1,0 +1,26 @@
+Bước 2: Ngắt kết nối USB khỏi máy tính.
+Sau khi sao chép tệp, em cần ngắt USB khỏi máy tính đúng cách để tránh
+làm hỏng USB và tệp.
+— Nháy chuột vào mũi tên nhỏ ở phía dưới, bên phải màn hình nền.
+— Chọn biểu tượng USB, chọn Eject trong hộp thoại vừa được mở.
+— Máy tính hiện thông báo như Hình 13 cho biết em có thể rút USB ra khỏi
+máy tính an toàn.
+— Rút USB ra khỏi cổng USB.
+ñ¿ Windows Explorer
+Ề Safe To Remove Hardware
+|
+Hình 13. Thông báo có thể rút USB ra khỏi máy tính an toàn
+47 TẬP
+Em hãy quan sát Hình 14 và thực hiện các yêu cầu sau:
+a) Nêu địa chỉ website.
+b) Nêu tên các chủ đề thông tin trong website.
+©) Chỉ ra vị trí của công cụ tìm kiếm thông tin.
+angmgorvn sa
+sà TRUNG TÂM DỰ BÁO KHÍTƯỢNGTWÚY. VĂN QUỐC GIA :
+mm + mhAMfT - ẤM ~ THẳYVM - HẪVễN - PHẢNVNGHÌROTHPATA ~ EOAÐgCaciMEMOE ~ mốc ~ HESWEmV
+Hình 14. Một phần giao diện website
+œ VẬN DỤNG
+Em hãy truy cập vào website ở Hình 14, xem thông tin theo các chủ đề, sử
+dụng chức năng tìm kiếm của website để tìm kiếm thông tin về thời tiết ở địa
+phương em.
+13

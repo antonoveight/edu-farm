@@ -1,0 +1,268 @@
+[
+  {
+    "q": "Cơ quan nào trong cơ thể giúp chúng ta hít thở không khí?",
+    "a": "PHỔI",
+    "c": [
+      "PHỔI",
+      "DẠ DÀY",
+      "TIM",
+      "GAN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Cơ quan tiêu hóa gồm các bộ phận nào sau đây?",
+    "a": "MIỆNG, THỰC QUẢN, DẠ DÀY, RUỘT",
+    "c": [
+      "MIỆNG, THỰC QUẢN, DẠ DÀY, RUỘT",
+      "TIM VÀ MẠCH MÁU",
+      "NÃO VÀ DÂY THẦN KINH",
+      "PHỔI VÀ KHÍ QUẢN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Tim và mạch máu thuộc cơ quan nào trong cơ thể?",
+    "a": "CƠ QUAN TUẦN HOÀN",
+    "c": [
+      "CƠ QUAN TUẦN HOÀN",
+      "CƠ QUAN TIÊU HÓA",
+      "CƠ QUAN HÔ HẤP",
+      "CƠ QUAN BÀI TIẾT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Khi đi đường gặp đèn đỏ, chúng ta phải làm gì?",
+    "a": "DỪNG LẠI",
+    "c": [
+      "DỪNG LẠI",
+      "ĐI TIẾP",
+      "ĐI NHANH HƠN",
+      "QUAY ĐẦU XE CHẠY NGƯỢC LẠI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Để giữ cho đôi mắt khỏe mạnh, bé không nên làm gì?",
+    "a": "NHÌN MÀN HÌNH QUÁ LÂU",
+    "c": [
+      "NHÌN MÀN HÌNH QUÁ LÂU",
+      "ĂN RAU XÀ LÁCH",
+      "NGỦ ĐỦ GIẤC",
+      "ĂN CÁ NHIỀU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Buổi sáng bé nên làm gì đầu tiên sau khi thức dậy?",
+    "a": "TẬP THỂ DỤC VÀ VỆ SINH CÁ NHÂN",
+    "c": [
+      "TẬP THỂ DỤC VÀ VỆ SINH CÁ NHÂN",
+      "ĂN NGAY ĐỒ ĂN VẶT",
+      "XEM TI VI",
+      "CHƠI ĐIỆN THOẠI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Vì sao chúng ta cần ăn đủ các nhóm thức ăn?",
+    "a": "ĐỂ CÓ ĐỦ CHẤT DINH DƯỠNG CHO CƠ THỂ",
+    "c": [
+      "ĐỂ CÓ ĐỦ CHẤT DINH DƯỠNG CHO CƠ THỂ",
+      "ĐỂ KHÔNG BỊ BUỒN",
+      "CHỈ VÌ THÓI QUEN",
+      "ĐỂ KHÔNG PHẢI HỌC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Điền từ thích hợp: Không nghịch ___ để tránh bị bỏng.",
+    "a": "lửa",
+    "c": [
+      "lửa",
+      "sách",
+      "đồ chơi",
+      "gấu bông"
+    ],
+    "type": "fill_blank",
+    "sentence": "Không nghịch ___ để tránh bị bỏng.",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Điền từ thích hợp: Súc miệng bằng nước ___ loãng để bảo vệ răng.",
+    "a": "muối",
+    "c": [
+      "muối",
+      "đường",
+      "chanh",
+      "ớt"
+    ],
+    "type": "fill_blank",
+    "sentence": "Súc miệng bằng nước ___ loãng để bảo vệ răng.",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Rễ cây có nhiệm vụ gì?",
+    "a": "HÚT NƯỚC VÀ MUỐI KHOÁNG",
+    "c": [
+      "HÚT NƯỚC VÀ MUỐI KHOÁNG",
+      "QUANG HỢP",
+      "THỤ PHẤN",
+      "CHỞ DINH DƯỠNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Con cá thở bằng gì?",
+    "a": "MANG",
+    "c": [
+      "MANG",
+      "PHỔI",
+      "DA",
+      "MŨI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Bộ phận nào của cây thực hiện quang hợp?",
+    "a": "LÁ CÂY",
+    "c": [
+      "LÁ CÂY",
+      "RỄ CÂY",
+      "THÂN CÂY",
+      "QUẢ CÂY"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Động vật nào sống được cả trên cạn và dưới nước?",
+    "a": "ẾCH",
+    "c": [
+      "ẾCH",
+      "MÈO",
+      "CÁ",
+      "CHÓ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Cây lấy năng lượng chủ yếu từ đâu?",
+    "a": "ÁNH SÁNG MẶT TRỜI",
+    "c": [
+      "ÁNH SÁNG MẶT TRỜI",
+      "ĐẤT",
+      "NƯỚC",
+      "KHÔNG KHÍ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Loài cây nào không có lá?",
+    "a": "XƯƠNG RỒNG",
+    "c": [
+      "XƯƠNG RỒNG",
+      "CÀ RỐT",
+      "BẮP CẢI",
+      "DỪA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Quê hương của bài dân ca 'Màu xanh quê hương' là của dân tộc nào?",
+    "a": "Dân tộc Khmer",
+    "c": [
+      "Dân tộc Khmer",
+      "Dân tộc Kinh",
+      "Dân tộc Tày",
+      "Dân tộc Thái"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Việc làm nào thể hiện tình yêu thương và sự quan tâm của em đối với ông bà khi ở xa?",
+    "a": "Gọi điện hỏi thăm sức khỏe ông bà thường xuyên",
+    "c": [
+      "Gọi điện hỏi thăm sức khỏe ông bà thường xuyên",
+      "Chờ ông bà gọi điện trước",
+      "Không bao giờ hỏi thăm",
+      "Chỉ hỏi thăm khi cần tiền"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Em nên làm gì khi đi tham quan các di tích lịch sử hoặc cảnh đẹp quê hương?",
+    "a": "Giữ vệ sinh chung và không xả rác bừa bãi",
+    "c": [
+      "Giữ vệ sinh chung và không xả rác bừa bãi",
+      "Khắc tên lên cột đá di tích",
+      "Hái hoa bẻ cành trang trí",
+      "Chạy nhảy làm đổ vỡ đồ vật"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khám phá tự nhiên xã hội, bảo vệ sức khỏe lớp 2"
+  },
+  {
+    "q": "Ghép bộ phận cơ thể với chức năng bảo vệ sức khỏe:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu chức năng các bộ phận cơ thể để bảo vệ sức khỏe",
+    "pairs": [
+      {
+        "left": "Đôi mắt",
+        "right": "Nhìn thấy sự vật"
+      },
+      {
+        "left": "Đôi tai",
+        "right": "Nghe âm thanh"
+      },
+      {
+        "left": "Mũi",
+        "right": "Ngửi mùi và thở"
+      },
+      {
+        "left": "Đôi tay",
+        "right": "Cầm nắm và làm việc"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp các bước rửa tay đúng thứ tự:",
+    "a": "Mở vòi nước Xoa xà phòng Rửa sạch Lau khô",
+    "c": [
+      "Mở vòi nước Xoa xà phòng Rửa sạch Lau khô"
+    ],
+    "words": [
+      "Mở",
+      "vòi",
+      "nước",
+      "Xoa",
+      "xà",
+      "phòng",
+      "Rửa",
+      "sạch",
+      "Lau",
+      "khô"
+    ],
+    "type": "reorder",
+    "lo": "Nắm vững quy trình rửa tay đúng cách để phòng bệnh"
+  }
+]

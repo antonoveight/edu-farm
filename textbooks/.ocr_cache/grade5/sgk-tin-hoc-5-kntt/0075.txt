@@ -1,0 +1,27 @@
+gP Giả sử hai biến ® và ® lưu độ dài hai cạnh của hình chữ nhật.
+a) Hãy ghép mỗi biểu thức trong Scratch ở cột bên trái với một biểu thức toán
+học tương ứng ở cột bên phải.
+Biểu thức trong Scratch Biểu thức toán học
+
+5
+
+b) Trong các biểu thức ở trên, chỉ ra những biểu thức trong Scratch để tính
+chu vi của hình chữ nhật.
+_ À, “
+. THỰC HÀNH SỬ DỤNG BIÊU THỨC
+NHIỆM VỤ Tạo chương trình sử dụng biến.
+Tạo chương trình tính chu vi hình chữ nhật với độ dài hai cạnh nhập vào từ
+bàn phím.
+Hướng dẫn
+Buóc 1: Tạo hai biến có tên là a và b để lưu độ dài hai cạnh của hình chữ nhật.
+Bước 2: Tạo khối lệnh nhập giá trị cho hai biến a và b từ bàn phím. Sử dụng
+các lệnh trong bảng sau để được khối lệnh như minh hoạ trong Hình 98.
+Hành động
+biến a từ bàn phím E —
+Đặt giá trị của biến
+a là thông tin vừa đặt aw thành trảlời
+nhập :
+bn thản phim, sà kàunni. —-
+Đặt giá trị của biến Hình 98. Khối lệnh nhập giá trị
+nhập
+75

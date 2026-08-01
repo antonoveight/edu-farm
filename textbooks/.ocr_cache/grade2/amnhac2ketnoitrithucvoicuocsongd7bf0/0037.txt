@@ -1,0 +1,14 @@
+Bài số 3
+Vừa phải
+
+&.c
+
+hạ£Z Đọc tên nốt trong bài đọc nhạc
+
+lồi Tập đọc nhợc theo kí hiệu bàn tay
+L2 Tập đọc nhạc với nhạc đệm
+
+s Tập đọc nhạc kết hợp vận động theo nhịp
+_< Nhì
+
+Vó Trong bài đọc nhạc, những nốt nào cần đọc nhanh hơn? |

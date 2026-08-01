@@ -1,0 +1,35 @@
+8 ị s Trong cấu trúc lặp, công việc được thực hiện lặp lại. ị
+‡ » Trong chương trình có cấu trúc lặp, lệnh hoặc khối lệnh ‡
+: _ được thực hiện lặp lại. ì
+g® Em hãy chỉ ra lệnh lặp ở Hình 77b, biết rằng lệnh lặp chứa khối lệnh
+được lặp lại.
+Ê CÁC LỆNH LẶP
+@ Scratch có ba lệnh điều khiển cáu trúc lặp thuộc nhóm lệnh Điều: khiềr;
+như trong bảng sau:
+Lệnh lặp Ví dụ minh hoạ Mô tả hoạt động
+a) Lệnh lặp với só ——— |Khối lệnh trong
+lần biết trước ¿p'a: @ lệnh lặp được lặp
+di chuyến ) ước lại 3 lân.
+splai @3 trang phục kế tiếp
+Khối lệnh
++ đợi @® giây được lặp lại
+Nơi đặt khối +
+lệnh được lặp lại
+b) Lệnh lặp n Khối lệnh trong
+liên tục ] ¬¬ lệnh lặp được lặp
+Khối lệnh lể
+dichuyển Ề) cước liên tục, không
+g. —=—=— ldừng.
+trang phục kế tiếp
+Nơi đặt khối lệnh = @«
+được lặp lại +
+Ầ)- Lệnh lặp có Khối lệnh trong
+điêu kiện lệnh lặp được
+lp lạ cho đến khi - chuộ(được nhấn? thực hiện cho đến
+- : khi điều kiện được
+lặp lại cho đến khi dichuyển §Œ) bước Khối lệnh thoả mãn (chuột
+trang phục kế tiếp được lặp lại được nháy).
+đợi giả
+Nơi đặt khối lệnh e®»
+được lặp lại `
+57

@@ -1,0 +1,30 @@
++ Ð Sử DỤNG BIÊN TRONG
+ì 14 CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+». Sử dụng được biến nhớ trong một số chương trình đơn giản.
+o KHỞI ĐỘNG
+H0ẠT ĐỘNG + Chương trình "Xin chào bạn..."
+Bạn An tạo chương trình như minh hoạ ở
+Hình 84. Khi chạy chương trình, nhân vật Khi bẩm vào
+đưa ra câu hỏi “Tên của bạn là gì?” và ô & =
+để nhập câu trả lời (Hình 85a). Sau khi 5
+nhập câu trả lời và nhấn phím Enter,màn  [ đe tai
+hình hiển thị câu chào của mèo theo tên
+vừa nhập (Hình 85b). Em có biết tại sao Hình 84 Chương trình
+mèo lại chào đúng theo tên không? Xin chào bạn...
+vwảlời @WW trải!
+%2
+Ô đểnhập
+câu trả lời
+¬ ®
+4) Màn hình nhập câu trả lời b) Màn hình kết quả
+Hình 85. Màn hình của chương trình “Xin chào bạn...”
+Í_ SỬ DỤNG BIẾN “TRẢ LỜI” TRONG SCRATCH
+@ Trong chương trình ở phần Khởi động, câu trả
+lời nhập vào từ bàn phím được lưu vào biến b2) œ®
+trả lời. Sau khi nhập dữ liệu, biến trả li có giá Cảm biến
+trị là tên mà người sử dụng vừa nhập từ bàn phím jm
+(Hình 86b). Biến trả lời là biến có sẵn của Scratch, nh han ni”
+được đặt trong nhóm lệnh ©ảm biên như minh hoạ ở
+Hình 86.
+Lử4

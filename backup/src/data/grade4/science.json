@@ -1,0 +1,54 @@
+[
+  {
+    "q": "Thành phần nào chiếm nhiều nhất trong không khí?",
+    "a": "NI-TƠ",
+    "c": [
+      "NI-TƠ",
+      "OXY",
+      "CO2",
+      "HƠI NƯỚC"
+    ]
+  },
+  {
+    "q": "Ánh sáng truyền theo đường như thế nào?",
+    "a": "ĐƯỜNG THẲNG",
+    "c": [
+      "ĐƯỜNG THẲNG",
+      "ĐƯỜNG CONG",
+      "ĐƯỜNG XIÊN",
+      "ĐƯỜNG ZIG-ZAG"
+    ]
+  },
+  {
+    "q": "Nước đá (0°C) khi để ngoài trời sẽ?",
+    "a": "TAN CHẢY THÀNH NƯỚC LỎNG",
+    "c": [
+      "TAN CHẢY THÀNH NƯỚC LỎNG",
+      "BIẾN THÀNH HƠI",
+      "KHÔNG ĐỔI GÌ",
+      "CỨNG HƠN"
+    ]
+  },
+  {
+    "q": "Cây xanh cần gì để thực hiện quang hợp?",
+    "a": "ÁNH SÁNG VÀ CO2",
+    "c": [
+      "ÁNH SÁNG VÀ CO2",
+      "NƯỚC VÀ MUỐI",
+      "CHỈ NƯỚC",
+      "CHỈ ĐẤT"
+    ]
+  },
+  {
+    "q": "Âm thanh truyền qua môi trường nào?",
+    "a": "CẢ RẮN, LỎNG VÀ KHÍ",
+    "c": [
+      "CẢ RẮN, LỎNG VÀ KHÍ",
+      "CẢ RẮN",
+      "LỎNG VÀ KHÍ",
+      "CHỈ KHÔNG KHÍ",
+      "CHỈ NƯỚC",
+      "KHÔNG GIAN CHÂN KHÔNG"
+    ]
+  }
+]

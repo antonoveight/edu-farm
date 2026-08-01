@@ -1,0 +1,32 @@
+[
+  {
+    "q": "Khi ngồi học máy tính, lưng phải như thế nào?",
+    "a": "THẲNG",
+    "c": [
+      "THẲNG",
+      "KHÒM",
+      "NGHIÊNG",
+      "NẰM CHƠI"
+    ]
+  },
+  {
+    "q": "Chuột máy tính dùng để làm gì?",
+    "a": "ĐIỀU KHIỂN CON TRỎ",
+    "c": [
+      "ĐIỀU KHIỂN CON TRỎ",
+      "ĐÁNH CHỮ",
+      "IN GIẤY",
+      "PHÁT NHẠC"
+    ]
+  },
+  {
+    "q": "Màn hình máy tính hiển thị cái gì?",
+    "a": "HÌNH ẢNH VÀ CHỮ",
+    "c": [
+      "HÌNH ẢNH VÀ CHỮ",
+      "TIẾNG NÓI",
+      "BÀN PHÍM",
+      "PIN"
+    ]
+  }
+]

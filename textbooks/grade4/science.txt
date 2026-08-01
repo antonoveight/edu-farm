@@ -1,0 +1,67 @@
+Q: Nước tồn tại ở mấy thể chính trong tự nhiên?
+A: 3 THỂ (LỎNG, KHÍ, RẮN)
+C: 3 THỂ (LỎNG, KHÍ, RẮN), 2 THỂ, 4 THỂ, 1 THỂ
+
+Q: Nhóm thức ăn nào cần ăn nhiều nhất hàng ngày cho năng lượng?
+A: BỘT ĐƯỜNG (TINH BỘT)
+C: BỘT ĐƯỜNG (TINH BỘT), CHẤT BÉO, VITAMIN, ĐẠM
+
+Q: Hiện tượng nước bốc hơi thành hơi nước, rồi ngưng tụ thành mưa gọi là gì?
+A: VÒNG TUẦN HOÀN CỦA NƯỚC
+C: VÒNG TUẦN HOÀN CỦA NƯỚC, QUANG HỢP, HÔ HẤP CỦA CÂY, THỦY TRIỀU
+
+Q: Nhóm thức ăn nào chứa hàm lượng chất đạm dồi dào nhất?
+A: THỊT, CÁ, TRỨNG, SỮA
+C: THỊT, CÁ, TRỨNG, SỮA, RAU XANH VÀ QUẢ CHÍN, MỠ HEO VÀ BƠ, CƠM VÀ KHOAI LANG
+
+Q: Chất nào sau đây dẫn điện tốt nhất?
+A: ĐỒNG
+C: ĐỒNG, NHỰA, GỖ, CAO SU
+
+Q: Vật nào sau đây không dẫn điện?
+A: CAO SU
+C: CAO SU, SẮT, NHÔM, ĐỒNG
+
+Q: Điền từ thích hợp vào chuỗi thức ăn:
+A: cáo
+C: cáo, sâu, lúa, nước
+
+Q: Điền trạng thái nước vào chỗ trống:
+A: hơi nước
+C: hơi nước, nước đá, tuyết, sương
+
+Q: Thành phần nào chiếm nhiều nhất trong không khí?
+A: NI-TƠ
+C: NI-TƠ, OXY, CO2, HƠI NƯỚC
+
+Q: Ánh sáng truyền theo đường như thế nào?
+A: ĐƯỜNG THẲNG
+C: ĐƯỜNG THẲNG, ĐƯỜNG CONG, ĐƯỜNG XIÊN, ĐƯỜNG ZIG-ZAG
+
+Q: Nước đá (0°C) khi để ngoài trời sẽ?
+A: TAN CHẢY THÀNH NƯỚC LỎNG
+C: TAN CHẢY THÀNH NƯỚC LỎNG, BIẾN THÀNH HƠI, KHÔNG ĐỔI GÌ, CỨNG HƠN
+
+Q: Cây xanh cần gì để thực hiện quang hợp?
+A: ÁNH SÁNG VÀ CO2
+C: ÁNH SÁNG VÀ CO2, NƯỚC VÀ MUỐI, CHỈ NƯỚC, CHỈ ĐẤT
+
+Q: Âm thanh truyền qua môi trường nào?
+A: CẢ RẮN, LỎNG VÀ KHÍ
+C: CẢ RẮN, LỎNG VÀ KHÍ, CẢ RẮN, LỎNG VÀ KHÍ, CHỈ KHÔNG KHÍ, CHỈ NƯỚC, KHÔNG GIAN CHÂN KHÔNG
+
+Q: Nước có những tính chất vật lý nào sau đây?
+A: Không màu, không mùi, không vị, không có hình dạng nhất định
+C: Không màu, không mùi, không vị, không có hình dạng nhất định, Có màu xanh, mùi thơm, vị ngọt, Có dạng hình tròn, vị mặn, Không thấm qua vải, chỉ chảy từ dưới lên
+
+Q: Phương pháp nào giúp loại bỏ các chất không tan ra khỏi nước đục?
+A: Lọc nước
+C: Lọc nước, Đun sôi nước, Khử trùng bằng hóa chất, Để ngoài nắng
+
+Q: Đâu là nguyên nhân chính dẫn đến ô nhiễm nguồn nước sạch?
+A: Xả nước thải sinh hoạt và công nghiệp chưa qua xử lý ra sông, hồ
+C: Xả nước thải sinh hoạt và công nghiệp chưa qua xử lý ra sông, hồ, Trồng nhiều cây xanh ven hồ, Sử dụng bình lọc nước, Dọn dẹp vệ sinh ao giếng
+
+Q: Lịch sử ghi nhận triều đại nào đã có công dời đô từ Hoa Lư về Thăng Long?
+A: Triều Lý
+C: Triều Lý, Triều Trần, Triều Lê, Triều Nguyễn

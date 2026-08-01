@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Rễ cây có nhiệm vụ gì?",
+    "a": "HÚT NƯỚC VÀ MUỐI KHOÁNG",
+    "c": [
+      "HÚT NƯỚC VÀ MUỐI KHOÁNG",
+      "QUANG HỢP",
+      "THỤ PHẤN",
+      "CHỞ DINH DƯỠNG"
+    ]
+  },
+  {
+    "q": "Con cá thở bằng gì?",
+    "a": "MANG",
+    "c": [
+      "MANG",
+      "PHỔI",
+      "DA",
+      "MŨI"
+    ]
+  },
+  {
+    "q": "Bộ phận nào của cây thực hiện quang hợp?",
+    "a": "LÁ CÂY",
+    "c": [
+      "LÁ CÂY",
+      "RỄ CÂY",
+      "THÂN CÂY",
+      "QUẢ CÂY"
+    ]
+  },
+  {
+    "q": "Động vật nào sống được cả trên cạn và dưới nước?",
+    "a": "ẾCH",
+    "c": [
+      "ẾCH",
+      "MÈO",
+      "CÁ",
+      "CHÓ"
+    ]
+  },
+  {
+    "q": "Cây lấy năng lượng chủ yếu từ đâu?",
+    "a": "ÁNH SÁNG MẶT TRỜI",
+    "c": [
+      "ÁNH SÁNG MẶT TRỜI",
+      "ĐẤT",
+      "NƯỚC",
+      "KHÔNG KHÍ"
+    ]
+  },
+  {
+    "q": "Loài cây nào không có lá?",
+    "a": "XƯƠNG RỒNG",
+    "c": [
+      "XƯƠNG RỒNG",
+      "CÀ RỐT",
+      "BẮP CẢI",
+      "DỪA"
+    ]
+  }
+]

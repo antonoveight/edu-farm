@@ -1,0 +1,67 @@
+Q: Hàng phím cơ sở trên bàn phím có chứa hai phím có gờ là phím nào?
+A: F và J
+C: F và J, D và K, A và L, G và H
+
+Q: Phím dài nhất trên bàn phím máy tính nằm ở hàng phím nào?
+A: HÀNG PHÍM DƯỚI CÙNG
+C: HÀNG PHÍM DƯỚI CÙNG, HÀNG PHÍM SỐ, HÀNG PHÍM CƠ SỞ, HÀNG PHÍM TRÊN
+
+Q: Hai ngón tay cái của bé được phân công để nhấn phím nào?
+A: PHÍM CÁCH (SPACE)
+C: PHÍM CÁCH (SPACE), PHÍM ENTER, PHÍM SHIFT, PHÍM BACKSPACE
+
+Q: Ngón tay nào đặt lên phím 'F' khi gõ theo phương pháp mười ngón?
+A: NGÓN TRỎ TRÁI
+C: NGÓN TRỎ TRÁI, NGÓN GIỮA TRÁI, NGÓN ÚT TRÁI, NGÓN TRỎ PHẢI
+
+Q: Hàng phím nào chứa các chữ số từ 1 đến 0?
+A: HÀNG PHÍM SỐ
+C: HÀNG PHÍM SỐ, HÀNG PHÍM CƠ SỞ, HÀNG PHÍM TRÊN, HÀNG PHÍM DƯỚI
+
+Q: Nhấn tổ hợp phím để SAO CHÉP (Copy) văn bản:
+A: ctrl+c
+C: ctrl+c
+
+Q: Nhấn tổ hợp phím để DÁN (Paste) văn bản đã sao chép:
+A: ctrl+v
+C: ctrl+v
+
+Q: Luyện gõ các phím hàng cơ sở:
+A: fgjhdeki
+C: fgjhdeki
+
+Q: Luyện gõ hàng cơ sở cơ bản:
+A: asdfg
+C: asdfg
+
+Q: Thiết bị nào là thiết bị NHẬP dữ liệu vào máy tính?
+A: BÀN PHÍM
+C: BÀN PHÍM, MÀN HÌNH, LOA, MÁY IN
+
+Q: Thiết bị nào là thiết bị XUẤT dữ liệu từ máy tính?
+A: MÀN HÌNH
+C: MÀN HÌNH, CHUỘT, BÀN PHÍM, MÁY QUÉT
+
+Q: Phím nào dùng để xóa ký tự vừa gõ?
+A: BACKSPACE
+C: BACKSPACE, DELETE, ENTER, ESCAPE
+
+Q: Bộ nhớ nào lưu trữ dữ liệu lâu dài khi tắt máy?
+A: Ổ CỨNG (HDD)
+C: Ổ CỨNG (HDD), RAM, CPU, GPU
+
+Q: Phím nào dùng để xuống hàng khi soạn văn bản?
+A: ENTER
+C: ENTER, TAB, SPACE, SHIFT
+
+Q: Phép tính nào có kết quả bằng 15?
+A: 8 + 7
+C: 8 + 7, 9 + 5, 6 + 8, 7 + 7
+
+Q: Bộ phận nào của máy tính hiển thị hình ảnh và văn bản để em quan sát?
+A: Màn hình
+C: Màn hình, Bàn phím, Thân máy, Chuột
+
+Q: Đâu là một hành vi an toàn khi sử dụng máy tính?
+A: Ngồi thẳng lưng và giữ khoảng cách hợp lý với màn hình
+C: Ngồi thẳng lưng và giữ khoảng cách hợp lý với màn hình, Ngồi sát mắt vào màn hình, Vừa ăn uống vừa bấm bàn phím, Tự ý tháo dây cắm điện của máy tính

@@ -1,0 +1,6 @@
+€ số :
+Lấy 6 que tính. Tách 6 que tính đó thành hai nhóm.
+Tìm số que tính ở mỗi nhóm (theo mẫu).
+@œ) Ỉ v Ì
+5
+35

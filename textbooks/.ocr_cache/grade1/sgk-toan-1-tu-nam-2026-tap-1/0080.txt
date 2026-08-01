@@ -1,0 +1,18 @@
+Câu cá
+—_ Xúc xắc A: Sáu mặt ghi các số 0, 1, 2, 3, 4, 5.
+—_ Xúc xắc B: Sáu mặt ghi các số 5, 6, 7, 8, 9, 10.
+Cách chơi: <e>
+—_ Chơi theo nhóm. 8 (40
+— Khi đến lượt, người chơi gieo 2 con xúc xắc.
+— Lấy số ở mặt trên xúc xắc B trừ đi số ở mặt Ẩ B
+trên xúc xắc A.
+—_ Bắt con cá ghi số bằng với kết quả nhận được.
+—_ Trò chơi kết thúc khi bắt được 5 con cá.
+sf (
+ề (e)
+9 <9 so:
+>> ` ƠO-1*é*«qw
+= 4 >>”
+2` .%
+.O^ © ;
+79

@@ -1,0 +1,32 @@
+3. THỰC HÀNH TẠO CÂY THƯ MỤC VÀ SỬ DỤNG CÔNG CỤ TÌM KIỀM
+TRÊN MAY TÍNH
+
+IIHIỆM \UỤ ÑẾ Tạo cây thư mục có cấu trúc như Hình 19.
+Hướng dẫn
+Bước 1: Mở cửa số This PC.
+ước 2: Nháy chuột vào ổ đĩa D: trong khung bên trái của cửa sổ This ĐC.
+Bước 3: Tạo thư mục có tên Anh-Bai-tap-nhom.
+Bước 4: Nháy đúp chuột vào biểu tượng thư mục Anih-Bai-tap-nhorrn vừa tạo
+để mở thư mục.
+Bước 5: Tạo ba thư mục có tên lần lượt là An, Minh, Khoa.
+Bước 6: Sao chép các tệp ảnh của mỗi bạn vào thư mục có tên tương ứng để
+được kết quả tương tự như Hình 22.
+
+«&  > v 4 Ê› ThisPC › NewVolume (D) › Anh-Bai-tap-nhom › An
+
+v88 Anh-Bai-tap-nhom Name
+— TAn . [8ì San-bay-Cam-Ranh.jpg
+Ÿ§ Khoa [3Ì Vien-Hai-Duong-hoc.jpg
+B8 Minh [Ì Vinpearl-Land.jpg
+Hình 22. Kết quả thực hành
+
+NHIỆM VỤ 2| Khoa đã hoàn thành việc tạo bài trình chiếu có tên Ki-nghi-he
+và lưu lại trên ô Ð: của máy tính nhưng không nhớ cụ thể ở thư mục nào. Em
+hãy giúp Khoa tìm lại tệp trình chiếu bằng công cụ tìm kiếm trên máy tính.
+Hướng dẫn
+Bước 1: Mở cửa sỗ This PC.
+ước 2: Nháy chuột vào ổ đĩa D: trong khung bên trái của cửa sổ This PC.
+ước 3: Nháy chuột vào ô tìm kiếm, nhập tên bài trình chiếu là !<¡-rgii-:e và
+nhắn phím Enter. Kết quả tìm kiếm là các tệp và thư mục có tên chứa từ khoá
+sẽ được hiển thị trên cửa sổ tương tự như Hình 23.
+22

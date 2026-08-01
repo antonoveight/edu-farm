@@ -1,0 +1,33 @@
+@ bông tác đi đều
+
++ TTCB: Đứng nghiêm.
+
++ _ Khẩu lệnh: “Đi đều - Bước!".
+
+« Động tác:
+
+—_ Nhịp 1: Bước chân trái ra trước khoảng 20 - 30 cm, chạm đất (đúng vào
+nhịp 1), đồng thời nâng đùi phải lên, tay phải đánh thắng ra sau, tay trái
+gập trước ngực.
+
+— Nhịp 2: Tiếp theo nhịp 1, bước chân phải ra trước chạm đất (đúng vào
+nhịp 2), đông thời nâng đùi trái lên, tay trái đánh thẳng ra sau, tay phải
+gập trước ngực.
+
+.. .` ©I và =
+(À CỔ ( c(Ó.. Án
+TTCB Nhịp 1 Nhịp 2
+bông tác đứng lại
+
+« Khẩu lệnh: “Đứng lại - Đứng!"
+
++ Động tác: Dự lệnh “Đứng lại” khi bàn chân phải chạm đất, tiếp tục thực hiện
+nhịp 1. Động lệnh “Đứng!” vào nhịp 2 ké tiếp (bàn chân phải chạm đất),
+thực hiện tiếp nhịp 1 rồi thu chân phải về thành tư thế đứng nghiêm.
+
+À.
+bó . Nc È
+tả tả
+<T ) c<T kh (À
+Ñ\ /
+“Đứng lại” Ộ “Đứng” ˆ Đứng nghiêm

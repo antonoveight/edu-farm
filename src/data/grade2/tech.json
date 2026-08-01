@@ -1,0 +1,275 @@
+[
+  {
+    "q": "Hàng phím cơ sở trên bàn phím có chứa hai phím có gờ là phím nào?",
+    "a": "F và J",
+    "c": [
+      "F và J",
+      "D và K",
+      "A và L",
+      "G và H"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Phím dài nhất trên bàn phím máy tính nằm ở hàng phím nào?",
+    "a": "HÀNG PHÍM DƯỚI CÙNG",
+    "c": [
+      "HÀNG PHÍM DƯỚI CÙNG",
+      "HÀNG PHÍM SỐ",
+      "HÀNG PHÍM CƠ SỞ",
+      "HÀNG PHÍM TRÊN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Hai ngón tay cái của bé được phân công để nhấn phím nào?",
+    "a": "PHÍM CÁCH (SPACE)",
+    "c": [
+      "PHÍM CÁCH (SPACE)",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM BACKSPACE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Ngón tay nào đặt lên phím 'F' khi gõ theo phương pháp mười ngón?",
+    "a": "NGÓN TRỎ TRÁI",
+    "c": [
+      "NGÓN TRỎ TRÁI",
+      "NGÓN GIỮA TRÁI",
+      "NGÓN ÚT TRÁI",
+      "NGÓN TRỎ PHẢI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Hàng phím nào chứa các chữ số từ 1 đến 0?",
+    "a": "HÀNG PHÍM SỐ",
+    "c": [
+      "HÀNG PHÍM SỐ",
+      "HÀNG PHÍM CƠ SỞ",
+      "HÀNG PHÍM TRÊN",
+      "HÀNG PHÍM DƯỚI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để SAO CHÉP (Copy) văn bản:",
+    "a": "ctrl+c",
+    "c": [
+      "ctrl+c"
+    ],
+    "type": "shortcut",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để DÁN (Paste) văn bản đã sao chép:",
+    "a": "ctrl+v",
+    "c": [
+      "ctrl+v"
+    ],
+    "type": "shortcut",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Luyện gõ các phím hàng cơ sở:",
+    "a": "fgjhdeki",
+    "c": [
+      "fgjhdeki"
+    ],
+    "type": "typing",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Luyện gõ hàng cơ sở cơ bản:",
+    "a": "asdfg",
+    "c": [
+      "asdfg"
+    ],
+    "type": "typing",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Thiết bị nào là thiết bị NHẬP dữ liệu vào máy tính?",
+    "a": "BÀN PHÍM",
+    "c": [
+      "BÀN PHÍM",
+      "MÀN HÌNH",
+      "LOA",
+      "MÁY IN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Thiết bị nào là thiết bị XUẤT dữ liệu từ máy tính?",
+    "a": "MÀN HÌNH",
+    "c": [
+      "MÀN HÌNH",
+      "CHUỘT",
+      "BÀN PHÍM",
+      "MÁY QUÉT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Phím nào dùng để xóa ký tự vừa gõ?",
+    "a": "BACKSPACE",
+    "c": [
+      "BACKSPACE",
+      "DELETE",
+      "ENTER",
+      "ESCAPE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Bộ nhớ nào lưu trữ dữ liệu lâu dài khi tắt máy?",
+    "a": "Ổ CỨNG (HDD)",
+    "c": [
+      "Ổ CỨNG (HDD)",
+      "RAM",
+      "CPU",
+      "GPU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Phím nào dùng để xuống hàng khi soạn văn bản?",
+    "a": "ENTER",
+    "c": [
+      "ENTER",
+      "TAB",
+      "SPACE",
+      "SHIFT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Phép tính nào có kết quả bằng 15?",
+    "a": "8 + 7",
+    "c": [
+      "8 + 7",
+      "9 + 5",
+      "6 + 8",
+      "7 + 7"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Bộ phận nào của máy tính hiển thị hình ảnh và văn bản để em quan sát?",
+    "a": "Màn hình",
+    "c": [
+      "Màn hình",
+      "Bàn phím",
+      "Thân máy",
+      "Chuột"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Đâu là một hành vi an toàn khi sử dụng máy tính?",
+    "a": "Ngồi thẳng lưng và giữ khoảng cách hợp lý với màn hình",
+    "c": [
+      "Ngồi thẳng lưng và giữ khoảng cách hợp lý với màn hình",
+      "Ngồi sát mắt vào màn hình",
+      "Vừa ăn uống vừa bấm bàn phím",
+      "Tự ý tháo dây cắm điện của máy tính"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết và sử dụng thiết bị máy tính và phần mềm cơ bản"
+  },
+  {
+    "q": "Ghép phím tắt với chức năng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Thành thạo các phím tắt cơ bản trong soạn thảo văn bản",
+    "pairs": [
+      {
+        "left": "Ctrl+S",
+        "right": "Lưu tài liệu"
+      },
+      {
+        "left": "Ctrl+Z",
+        "right": "Hoàn tác"
+      },
+      {
+        "left": "Ctrl+C",
+        "right": "Sao chép"
+      },
+      {
+        "left": "Ctrl+V",
+        "right": "Dán"
+      }
+    ]
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để CHỌN TẤT CẢ (Select All):",
+    "a": "ctrl+a",
+    "c": [
+      "ctrl+a"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt chọn tất cả Ctrl+A"
+  },
+  {
+    "q": "Luyện gõ từ trên bàn phím máy tính:",
+    "a": "hello world",
+    "c": [
+      "hello world"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím kết hợp Space Bar"
+  },
+  {
+    "q": "Luyện gõ hàng số trên bàn phím:",
+    "a": "123456",
+    "c": [
+      "123456"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím hàng số"
+  },
+  {
+    "q": "Ghép thiết bị với vai trò trong việc học:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu vai trò và ứng dụng của các thiết bị CNTT trong học tập",
+    "pairs": [
+      {
+        "left": "Máy tính bảng",
+        "right": "Học bài và đọc sách"
+      },
+      {
+        "left": "Máy in",
+        "right": "In tài liệu ra giấy"
+      },
+      {
+        "left": "Tai nghe",
+        "right": "Nghe nhạc và học ngoại ngữ"
+      },
+      {
+        "left": "Webcam",
+        "right": "Học trực tuyến, gọi video"
+      }
+    ]
+  }
+]

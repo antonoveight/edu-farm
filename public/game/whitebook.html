@@ -1,0 +1,922 @@
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu-Farm: Nông Trại Tri Thức - Whitebook Hướng Dẫn Chi Tiết</title>
+
+    <!-- Google Fonts (Montserrat supports Vietnamese perfectly) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+        rel="stylesheet">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <!-- FontAwesome v6 -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+    <!-- AOS (Animate On Scroll) -->
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+
+    <!-- Tailwind Config for Custom Colors/Fonts -->
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    fontFamily: {
+                        outfit: ['Montserrat', 'sans-serif'],
+                        sans: ['Montserrat', 'sans-serif'],
+                    },
+                    colors: {
+                        cyber: {
+                            cyan: '#06b6d4',
+                            blue: '#3b82f6',
+                            purple: '#a855f7',
+                        },
+                        eco: {
+                            green: '#10b981',
+                            dark: '#064e3b',
+                        },
+                        magic: {
+                            pink: '#d946ef',
+                            violet: '#7c3aed',
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+
+    <style>
+        /* Custom Premium Styles */
+        body {
+            background-color: #0b0f19;
+            color: #f1f5f9;
+            font-family: 'Montserrat', sans-serif;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
+        }
+
+        /* Glassmorphism Classes */
+        .glass-panel {
+            background: rgba(15, 23, 42, 0.45);
+            backdrop-filter: blur(16px);
+            -webkit-backdrop-filter: blur(16px);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+        }
+
+        .glass-panel-glow-eco:hover {
+            border-color: rgba(16, 185, 129, 0.3);
+            box-shadow: 0 0 25px rgba(16, 185, 129, 0.15);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .glass-panel-glow-cyber:hover {
+            border-color: rgba(6, 182, 212, 0.3);
+            box-shadow: 0 0 25px rgba(6, 182, 212, 0.15);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .glass-panel-glow-magic:hover {
+            border-color: rgba(217, 70, 239, 0.3);
+            box-shadow: 0 0 25px rgba(217, 70, 239, 0.15);
+            transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        /* Custom Scrollbar */
+        ::-webkit-scrollbar {
+            width: 8px;
+        }
+
+        ::-webkit-scrollbar-track {
+            background: #0b0f19;
+        }
+
+        ::-webkit-scrollbar-thumb {
+            background: #1e293b;
+            border-radius: 4px;
+        }
+
+        ::-webkit-scrollbar-thumb:hover {
+            background: #334155;
+        }
+
+        /* Glowing Text gradient */
+        .text-glow-green {
+            text-shadow: 0 0 15px rgba(16, 185, 129, 0.4);
+        }
+
+        .text-glow-cyan {
+            text-shadow: 0 0 15px rgba(6, 182, 212, 0.4);
+        }
+
+        .text-glow-purple {
+            text-shadow: 0 0 15px rgba(217, 70, 239, 0.4);
+        }
+
+        /* Floating Animation */
+        @keyframes float {
+            0% {
+                transform: translateY(0px) rotate(0deg);
+            }
+
+            50% {
+                transform: translateY(-10px) rotate(2deg);
+            }
+
+            100% {
+                transform: translateY(0px) rotate(0deg);
+            }
+        }
+
+        .floating-element {
+            animation: float 6s ease-in-out infinite;
+        }
+    </style>
+</head>
+
+<body class="antialiased">
+
+    <!-- Top Navigation Bar -->
+    <header
+        class="fixed top-0 left-0 w-full z-50 bg-[#0b0f19]/80 backdrop-blur-md border-b border-slate-900 px-6 py-4 flex items-center justify-between">
+        <div class="flex items-center gap-3">
+            <span class="text-3xl">🌾</span>
+            <span
+                class="font-outfit font-black text-xl tracking-wider bg-gradient-to-r from-emerald-400 via-cyan-400 to-fuchsia-400 bg-clip-text text-transparent mr-1">
+                EDU-FARM
+            </span>
+            <span class="h-5 w-[1.5px] bg-slate-800 hidden sm:block"></span>
+            <img src="./images/logo-saoviet-light.png" alt="Tin Học Sao Việt" class="h-6 hidden sm:block opacity-90">
+        </div>
+        <nav class="hidden md:flex items-center gap-8 text-sm font-semibold text-slate-300">
+            <a href="#about" class="hover:text-emerald-400 transition-colors">Ý Tưởng</a>
+            <a href="#worlds" class="hover:text-cyan-400 transition-colors">Thế Giới</a>
+            <a href="#features" class="hover:text-fuchsia-400 transition-colors">Tính Năng</a>
+            <a href="#roadmap" class="hover:text-yellow-400 transition-colors">Lộ Trình</a>
+        </nav>
+        <div>
+            <a href="index.html"
+                class="px-5 py-2.5 bg-gradient-to-r from-emerald-500 to-cyan-500 hover:from-emerald-400 hover:to-cyan-400 text-slate-950 font-black rounded-xl text-xs uppercase tracking-wider transition-all transform hover:scale-105 shadow-lg shadow-emerald-500/20 flex items-center gap-2">
+                <i class="fa-solid fa-play"></i> Vào Chơi Ngay
+            </a>
+        </div>
+    </header>
+
+    <!-- HERO SECTION -->
+    <section
+        class="relative pt-32 pb-24 md:pt-40 md:pb-36 flex flex-col items-center justify-center text-center px-4 overflow-hidden">
+        <!-- Background Glows -->
+        <div
+            class="absolute top-1/4 left-1/4 w-[300px] h-[300px] bg-emerald-500/10 rounded-full blur-[100px] pointer-events-none">
+        </div>
+        <div
+            class="absolute bottom-1/4 right-1/4 w-[300px] h-[300px] bg-fuchsia-500/10 rounded-full blur-[100px] pointer-events-none">
+        </div>
+
+        <div class="max-w-4xl mx-auto relative z-10" data-aos="fade-up" data-aos-duration="1000">
+            <div
+                class="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/30 text-emerald-400 text-xs font-black tracking-widest uppercase mb-6">
+                <span class="w-2 h-2 rounded-full bg-emerald-400 animate-pulse"></span>
+                Dự Án Học Tập Trò Chơi Hóa Tiêu Biểu
+            </div>
+
+            <h1 class="font-outfit font-black text-4xl sm:text-6xl md:text-7xl leading-tight mb-8">
+                Cẩm Nang Số Bạch Thư<br>
+                <span
+                    class="bg-gradient-to-r from-emerald-400 via-cyan-400 to-fuchsia-400 bg-clip-text text-transparent">
+                    Nông Trại Tri Thức
+                </span>
+            </h1>
+
+            <p class="text-slate-400 text-base sm:text-lg md:text-xl max-w-2xl mx-auto mb-6 leading-relaxed">
+                Tài liệu phân tích chuyên sâu về hệ thống tính năng, triết lý giáo dục và mô hình phần thưởng kích thích
+                sự sáng tạo dành cho các bé tiểu học học tập chủ động.
+            </p>
+
+            <div class="flex items-center justify-center gap-3 mb-10 opacity-80">
+                <span class="text-xs font-bold text-slate-400 uppercase tracking-widest">Đồng phát triển bởi:</span>
+                <img src="./images/logo-saoviet-light.png" alt="Tin Học Sao Việt" class="h-7 sm:h-8">
+            </div>
+
+            <div class="flex flex-col sm:flex-row justify-center items-center gap-4">
+                <a href="#about"
+                    class="w-full sm:w-auto px-8 py-3.5 bg-slate-800 hover:bg-slate-700 border border-slate-700 hover:border-slate-600 text-slate-200 font-bold rounded-xl text-sm transition-all flex items-center justify-center gap-2">
+                    Khám phá Tính Năng <i class="fa-solid fa-arrow-down"></i>
+                </a>
+                <a href="index.html"
+                    class="w-full sm:w-auto px-8 py-3.5 bg-gradient-to-r from-emerald-500 via-emerald-400 to-cyan-500 hover:opacity-95 text-slate-950 font-black rounded-xl text-sm transition-all flex items-center justify-center gap-2 transform hover:scale-105 shadow-xl shadow-emerald-500/10">
+                    Trải Nghiệm Game <i class="fa-solid fa-gamepad"></i>
+                </a>
+            </div>
+        </div>
+
+        <!-- Floating SVG Icons representing the game items -->
+        <div class="absolute left-10 top-1/3 text-4xl floating-element hidden lg:block opacity-60">🥬</div>
+        <div class="absolute right-12 top-1/4 text-5xl floating-element hidden lg:block opacity-60"
+            style="animation-delay: 2s;">🤖</div>
+        <div class="absolute left-20 bottom-1/4 text-5xl floating-element hidden lg:block opacity-50"
+            style="animation-delay: 4s;">🔮</div>
+        <div class="absolute right-24 bottom-1/3 text-4xl floating-element hidden lg:block opacity-60"
+            style="animation-delay: 1s;">🦖</div>
+    </section>
+
+    <!-- SECTION 1: TRIẾT LÝ GIÁO DỤC -->
+    <section id="about" class="py-20 border-t border-slate-900 bg-slate-950/30">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="font-outfit font-black text-3xl md:text-4xl text-slate-100 mb-4">
+                    Triết Lý Giáo Dục Của Edu-Farm
+                </h2>
+                <div class="w-16 h-1 bg-emerald-500 mx-auto rounded-full"></div>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+                <!-- Card 1 -->
+                <div class="glass-panel p-8 rounded-2xl border border-slate-800/80 glass-panel-glow-eco"
+                    data-aos="fade-up" data-aos-delay="100">
+                    <div
+                        class="w-12 h-12 rounded-xl bg-emerald-500/10 flex items-center justify-center text-emerald-400 text-xl font-bold mb-6">
+                        <i class="fa-solid fa-brain"></i>
+                    </div>
+                    <h3 class="text-lg font-black text-slate-100 mb-3">Học qua Trải Nghiệm (Experiential Learning)</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">
+                        Thay vì làm bài tập giấy khô khan, các bé dùng tri thức giải toán, tiếng Việt và khoa học để
+                        tích lũy tài nguyên, tưới nước, và chăm sóc cho nông trại của riêng mình.
+                    </p>
+                </div>
+
+                <!-- Card 2 -->
+                <div class="glass-panel p-8 rounded-2xl border border-slate-800/80 glass-panel-glow-cyber"
+                    data-aos="fade-up" data-aos-delay="200">
+                    <div
+                        class="w-12 h-12 rounded-xl bg-cyan-500/10 flex items-center justify-center text-cyan-400 text-xl font-bold mb-6">
+                        <i class="fa-solid fa-award"></i>
+                    </div>
+                    <h3 class="text-lg font-black text-slate-100 mb-3">Vòng lặp Động Lực (Motivation Loop)</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">
+                        Thu hoạch nông sản tạo ra Vàng để nâng cấp Thị Trấn tri thức và mua hạt giống hiếm. Bé khám phá
+                        bản đồ để nhận Rương Kho Báu chứa các vật phẩm độc bản không có ở cửa hàng.
+                    </p>
+                </div>
+
+                <!-- Card 3 -->
+                <div class="glass-panel p-8 rounded-2xl border border-slate-800/80 glass-panel-glow-magic"
+                    data-aos="fade-up" data-aos-delay="300">
+                    <div
+                        class="w-12 h-12 rounded-xl bg-fuchsia-500/10 flex items-center justify-center text-fuchsia-400 text-xl font-bold mb-6">
+                        <i class="fa-solid fa-graduation-cap"></i>
+                    </div>
+                    <h3 class="text-lg font-black text-slate-100 mb-3">Cá nhân hóa theo Cấp Độ (Adaptive Leveling)</h3>
+                    <p class="text-sm text-slate-400 leading-relaxed">
+                        Chương trình hỗ trợ từ Lớp 1 đến Lớp 5. Độ khó câu hỏi tự động đồng bộ hóa tương thích với cấp
+                        học đã chọn, kết hợp các thử thách nâng cao tại các ải Boss/Kho báu.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 2: BA THẾ GIỚI -->
+    <section id="worlds" class="py-20">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="font-outfit font-black text-3xl md:text-4xl text-slate-100 mb-4">
+                    Hành Trình Khám Phá 3 Thế Giới
+                </h2>
+                <p class="text-slate-400 text-sm md:text-base max-w-xl mx-auto">
+                    Mỗi thế giới sở hữu một diện mạo, hệ thống hạt giống nông sản và phong cách đồ họa độc bản.
+                </p>
+                <div class="w-16 h-1 bg-cyan-500 mx-auto rounded-full mt-4"></div>
+            </div>
+
+            <!-- Eco World -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center mb-20" data-aos="fade-right">
+                <div class="lg:col-span-7 space-y-6">
+                    <div
+                        class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-emerald-500/10 border border-emerald-500/20 text-emerald-400 text-xs font-bold uppercase">
+                        Thế giới 01
+                    </div>
+                    <h3 class="font-outfit font-black text-3xl text-emerald-400 text-glow-green">Đảo Sinh Thái (Eco
+                        Island)</h3>
+                    <p class="text-slate-300 leading-relaxed text-sm md:text-base">
+                        Nơi các bé bắt đầu hành trình với thiên nhiên xanh mướt. Đảo Sinh Thái hướng bé đến tình yêu môi
+                        trường và kiến thức tự nhiên học cơ bản. Giao diện ngập tràn cỏ xanh, mô đất tơi xốp cùng hệ
+                        thống hạt mầm gần gũi.
+                    </p>
+                    <ul class="grid grid-cols-2 gap-3 text-sm text-slate-400 font-semibold">
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-leaf text-emerald-500"></i> Cải Ngọt
+                            (🥬)</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-leaf text-emerald-500"></i> Cà Tomato
+                            (🍅)</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-leaf text-emerald-500"></i> Dưa Hấu
+                            (🍉)</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-star text-yellow-500"></i> Kho Báu Cổ
+                            Thụ (🌳)</li>
+                    </ul>
+                </div>
+                <div class="lg:col-span-5">
+                    <div
+                        class="glass-panel p-6 rounded-3xl border border-emerald-500/10 bg-gradient-to-br from-[#0c1f19] to-[#0b0f19]">
+                        <!-- Interactive SVG Representation of Eco Plot -->
+                        <svg viewBox="0 0 140 140" class="w-full max-w-[260px] mx-auto">
+                            <!-- Soil -->
+                            <ellipse cx="70" cy="94" rx="60" ry="18" fill="#3E2723" />
+                            <ellipse cx="70" cy="91" rx="54" ry="14" fill="#4E342E" />
+                            <!-- Water Drops -->
+                            <circle cx="20" cy="80" r="1.5" fill="#3b82f6" opacity="0.6" />
+                            <circle cx="120" cy="88" r="2" fill="#3b82f6" opacity="0.6" />
+                            <!-- Plant: Eco Ripe watermelon -->
+                            <path d="M70 90 Q68 50 70 30" fill="none" stroke="#15803d" stroke-width="6" />
+                            <ellipse cx="70" cy="50" rx="26" ry="22" fill="#22c55e" />
+                            <path d="M52 38 Q65 42 62 70" fill="none" stroke="#15803d" stroke-width="3"
+                                stroke-linecap="round" />
+                            <path d="M70 28 Q73 50 70 72" fill="none" stroke="#15803d" stroke-width="3"
+                                stroke-linecap="round" />
+                            <path d="M88 38 Q75 42 78 70" fill="none" stroke="#15803d" stroke-width="3"
+                                stroke-linecap="round" />
+                            <!-- Face -->
+                            <circle cx="61" cy="46" r="2.5" fill="#000" />
+                            <circle cx="79" cy="46" r="2.5" fill="#000" />
+                            <path d="M67 52 Q70 56 73 52" fill="none" stroke="#000" stroke-width="1.5"
+                                stroke-linecap="round" />
+                        </svg>
+                        <div class="text-center mt-4">
+                            <span class="text-xs font-bold text-slate-400">Hình ảnh minh họa: Quả Dưa Hấu Chín 🎉</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Cyber World -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center mb-20" data-aos="fade-left">
+                <div class="lg:col-span-5 order-last lg:order-first">
+                    <div
+                        class="glass-panel p-6 rounded-3xl border border-cyan-500/10 bg-gradient-to-br from-[#0a232c] to-[#0b0f19]">
+                        <!-- Interactive SVG Representation of Cyber Plot -->
+                        <svg viewBox="0 0 140 140" class="w-full max-w-[260px] mx-auto">
+                            <!-- Circuit Base -->
+                            <rect x="18" y="85" width="104" height="20" rx="6" fill="#1e293b" stroke="#06b6d4"
+                                stroke-width="2" />
+                            <rect x="24" y="89" width="92" height="12" rx="4" fill="#0f172a" />
+                            <circle cx="34" cy="95" r="2.5" fill="#22d3ee" />
+                            <circle cx="106" cy="95" r="2.5" fill="#22d3ee" />
+                            <!-- Plant: Cyber Led Module -->
+                            <path
+                                d="M70 33 C58 33 52 42 52 55 C52 63 58 66 60 72 L80 72 C82 66 88 63 88 55 C88 42 82 33 70 33 Z"
+                                fill="#0c4a6e" stroke="#38bdf8" stroke-width="2.5" />
+                            <rect x="62" y="72" width="16" height="8" fill="#64748b" />
+                            <!-- Light Glow -->
+                            <circle cx="70" cy="50" r="18" fill="#38bdf8" opacity="0.2" />
+                            <!-- Face -->
+                            <path d="M60 52 Q64 48 64 52" fill="none" stroke="#fff" stroke-width="1.5"
+                                stroke-linecap="round" />
+                            <path d="M76 52 Q76 44 80 58" fill="none" stroke="#fff" stroke-width="1.5"
+                                stroke-linecap="round" />
+                        </svg>
+                        <div class="text-center mt-4">
+                            <span class="text-xs font-bold text-slate-400">Hình ảnh minh họa: Bóng Đèn LED Module
+                                💡</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="lg:col-span-7 space-y-6">
+                    <div
+                        class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-cyan-500/10 border border-cyan-500/20 text-cyan-400 text-xs font-bold uppercase">
+                        Thế giới 02
+                    </div>
+                    <h3 class="font-outfit font-black text-3xl text-cyan-400 text-glow-cyan">Trạm Công Nghệ (Cyber
+                        Station)</h3>
+                    <p class="text-slate-300 leading-relaxed text-sm md:text-base">
+                        Bước vào kỷ nguyên số với những vi mạch phát quang đầy sắc màu khoa học viễn tưởng. Nơi đây nuôi
+                        dưỡng tư duy logic thông qua các hạt giống kỹ thuật số. Bé được làm quen với khái niệm công nghệ
+                        thông tin cơ bản.
+                    </p>
+                    <ul class="grid grid-cols-2 gap-3 text-sm text-slate-400 font-semibold">
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-bolt text-cyan-500"></i> Pin Mini (🔋)
+                        </li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-bolt text-cyan-500"></i> Led Module
+                            (💡)</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-bolt text-cyan-500"></i> Chip AI (🌌)
+                        </li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-star text-yellow-500"></i> Lõi Lượng
+                            Tử (💎)</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Magic World -->
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center" data-aos="fade-right">
+                <div class="lg:col-span-7 space-y-6">
+                    <div
+                        class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-fuchsia-500/10 border border-fuchsia-500/20 text-fuchsia-400 text-xs font-bold uppercase">
+                        Thế giới 03
+                    </div>
+                    <h3 class="font-outfit font-black text-3xl text-fuchsia-400 text-glow-purple">Khu Rừng Phép Thuật
+                        (Magic Forest)</h3>
+                    <p class="text-slate-300 leading-relaxed text-sm md:text-base">
+                        Thế giới phép thuật nhiệm màu với các hạt giống ma thuật lấp lánh bụi tinh vân. Nơi kích hoạt
+                        trí tưởng tượng vô hạn của các bé. Mô đất trồng cây phản ứng với ánh trăng huyền ảo cùng các
+                        chồi phép thuật kỳ thú.
+                    </p>
+                    <ul class="grid grid-cols-2 gap-3 text-sm text-slate-400 font-semibold">
+                        <li class="flex items-center gap-2"><i
+                                class="fa-solid fa-wand-magic-sparkles text-fuchsia-500"></i> Hoa Tiên (🌸)</li>
+                        <li class="flex items-center gap-2"><i
+                                class="fa-solid fa-wand-magic-sparkles text-fuchsia-500"></i> Nấm Sáng (🍄)</li>
+                        <li class="flex items-center gap-2"><i
+                                class="fa-solid fa-wand-magic-sparkles text-fuchsia-500"></i> Tim Thần (🔮)</li>
+                        <li class="flex items-center gap-2"><i class="fa-solid fa-star text-yellow-500"></i> Hạt Không
+                            Gian (🌌)</li>
+                    </ul>
+                </div>
+                <div class="lg:col-span-5">
+                    <div
+                        class="glass-panel p-6 rounded-3xl border border-fuchsia-500/10 bg-gradient-to-br from-[#210f2c] to-[#0b0f19]">
+                        <!-- Interactive SVG Representation of Magic Plot -->
+                        <svg viewBox="0 0 140 140" class="w-full max-w-[260px] mx-auto">
+                            <!-- Magic Base -->
+                            <ellipse cx="70" cy="94" rx="60" ry="18" fill="#4a044e" />
+                            <ellipse cx="70" cy="91" rx="54" ry="14" fill="#701a75" />
+                            <polygon points="26,78 28,81 31,82 28,83 26,86 24,83 21,82 24,81" fill="#fdf4ff" />
+                            <polygon points="114,78 116,81 119,82 116,83 114,86 112,83 109,82 112,81" fill="#fdf4ff" />
+                            <!-- Plant: Magic Flower -->
+                            <circle cx="70" cy="40" r="12" fill="#f43f5e" opacity="0.9" />
+                            <circle cx="52" cy="55" r="12" fill="#f43f5e" opacity="0.9" />
+                            <circle cx="88" cy="55" r="12" fill="#f43f5e" opacity="0.9" />
+                            <circle cx="58" cy="72" r="12" fill="#f43f5e" opacity="0.9" />
+                            <circle cx="82" cy="72" r="12" fill="#f43f5e" opacity="0.9" />
+                            <circle cx="70" cy="58" r="10" fill="#fbbf24" />
+                            <!-- Face -->
+                            <circle cx="66" cy="56" r="1.5" fill="#000" />
+                            <circle cx="74" cy="56" r="1.5" fill="#000" />
+                            <path d="M69 59 Q70 60 71 59" fill="none" stroke="#000" stroke-width="1"
+                                stroke-linecap="round" />
+                        </svg>
+                        <div class="text-center mt-4">
+                            <span class="text-xs font-bold text-slate-400">Hình ảnh minh họa: Đóa Hoa Tiên Magic
+                                🌸</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- SECTION 3: TÍNH NĂNG CHI TIẾT -->
+    <section id="features" class="py-20 border-t border-slate-900 bg-slate-950/30">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="font-outfit font-black text-3xl md:text-4xl text-slate-100 mb-4">
+                    Bản Đồ Các Tính Năng Đang Có
+                </h2>
+                <div class="w-16 h-1 bg-fuchsia-500 mx-auto rounded-full"></div>
+            </div>
+
+            <!-- Features Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+
+                <!-- Feature 1 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="100">
+                    <div>
+                        <div class="text-3xl mb-4">🏜️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Thao Tác Nông Trại Chân Thực</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Hỗ trợ tương tác trực quan: chọn hạt giống từ kho để gieo, tưới nước khi đất khô héo hiển
+                            thị chữ <span class="text-yellow-500 font-bold">KHÔ CẰN!</span>, bắt sâu bệnh khi có sâu
+                            bướm quấy nhiễu hiển thị chữ <span class="text-red-500 font-bold">CÓ SÂU!</span>.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-emerald-400">Tính năng cốt
+                        lõi</span>
+                </div>
+
+                <!-- Feature 2 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="200">
+                    <div>
+                        <div class="text-3xl mb-4">⏱️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Bộ Đếm Giây Thời Gian Thực</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Hiển thị chính xác số giây đếm ngược còn lại để cây trưởng thành chín muồi. Trạng thái tự
+                            động cập nhật liên tục mỗi giây thông qua vòng lặp game thực tế. Ngưng lớn hoàn toàn nếu
+                            không được tưới nước.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-emerald-400">Tính năng nâng
+                        cao</span>
+                </div>
+
+                <!-- Feature 3 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="300">
+                    <div>
+                        <div class="text-3xl mb-4">🗝️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Bản Đồ Học Tập & Rương Kho Báu</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Bản đồ gồm 5 chặng. Chặng 5 là Rương Thần Kỳ. Bé dùng 1 chìa khóa để vào mở rương, trả lời
+                            liên tục 5 câu hỏi mức cực khó (Cấp độ lớp + 1). Nếu trả lời sai, tiến trình reset về 0.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-cyan-400">Học tập cốt lõi</span>
+                </div>
+
+                <!-- Feature 4 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="400">
+                    <div>
+                        <div class="text-3xl mb-4">👑</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Độc Quyền: Hạt Giống Hiếm</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Các hạt giống hiếm bậc cao nhất (`s11`, `s12`, `s13`) không thể mua được từ cửa hàng. Bé chỉ
+                            có thể sở hữu chúng thông qua việc mở Rương Kho Báu ở Bản Đồ, thúc đẩy ham muốn khám phá vô
+                            hạn.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-cyan-400">Kích thích động
+                        lực</span>
+                </div>
+
+                <!-- Feature 5 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="500">
+                    <div>
+                        <div class="text-3xl mb-4">⚔️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Đấu Trường Boss Kịch Tính</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Đại chiến với Boss Sâu Khổng Lồ trong 60 giây. Bé phải giải nhanh các bài toán thử thách
+                            dưới áp lực thời gian để triệu hồi sấm sét tấn công. Chiến thắng nhận Vàng cực khủng và Chìa
+                            khóa vàng.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-fuchsia-400">Chế độ thách
+                        thức</span>
+                </div>
+
+                <!-- Feature 6 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="600">
+                    <div>
+                        <div class="text-3xl mb-4">🐢</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Ấp Trứng & Thú Cưng Hỗ Trợ</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Chăm chỉ giải bài tập ở các sự kiện để ấp nở thú cưng đồng hành. Mỗi người bạn đều có kỹ
+                            năng bổ trợ đắc lực. Ví dụ bạn Rùa Eco tự động quét tìm và tưới nước cho cây bị khô hạn mỗi
+                            30s.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-fuchsia-400">Hệ thống đồng
+                        hành</span>
+                </div>
+
+                <!-- Feature 7 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="700">
+                    <div>
+                        <div class="text-3xl mb-4">🏛️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Nâng Cấp Thị Trấn Tri Thức</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Tích lũy tiền vàng kiếm được từ thu hoạch nông sản để nâng cấp các công trình trọng yếu: Thư
+                            Viện Tri Thức (buff giảm thời gian tăng trưởng), Phòng Thí Nghiệm (buff tỷ lệ rớt chìa
+                            khóa), Đài Quan Sát.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-yellow-400">Hệ thống mở
+                        rộng</span>
+                </div>
+
+                <!-- Feature 8 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="800">
+                    <div>
+                        <div class="text-3xl mb-4">🌦️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Thời Tiết Biến Động Kỹ Thuật Số</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Hiện tượng thời tiết xoay tua (Nắng, Mưa, Bão Axit). Trời mưa tăng 150% tốc độ lớn của cây.
+                            Bão Axit hắc ám đóng băng tốc độ phát triển về 0, yêu cầu bé giải toán kích hoạt Lá Chắn để
+                            bảo vệ nông trại.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-yellow-400">Thời tiết môi
+                        trường</span>
+                </div>
+
+                <!-- Feature 9 -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80 flex flex-col justify-between"
+                    data-aos="fade-up" data-aos-delay="900">
+                    <div>
+                        <div class="text-3xl mb-4">🧚‍♀️</div>
+                        <h3 class="text-lg font-black text-slate-100 mb-2">Trợ Lý Dẫn Đường Chuyên Nghiệp</h3>
+                        <p class="text-xs text-slate-400 leading-relaxed mb-4">
+                            Cô Tiên Xanh, Robo Chip, hoặc Phù Thủy luôn sẵn sàng bên góc màn hình trò chuyện, cung cấp
+                            gợi ý chi tiết về cách khắc phục cây khô hằn, dọn sâu bệnh, hướng bé đến nhiệm vụ học tập
+                            hằng ngày tiếp theo.
+                        </p>
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-emerald-400">Trải nghiệm người
+                        dùng</span>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 4: THỬ THÁCH BẢN ĐỒ & TIẾN TRÌNH RƯƠNG KHO BÁU -->
+    <section class="py-20 overflow-hidden">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
+                <div class="lg:col-span-5" data-aos="fade-right">
+                    <!-- Interactive Visual of Treasure Chest and Nodes -->
+                    <div
+                        class="glass-panel p-8 rounded-3xl border border-yellow-500/20 bg-gradient-to-br from-[#231d10] to-[#0b0f19] relative">
+                        <!-- Neon Node Line Map -->
+                        <div class="flex items-center justify-between mb-8 relative">
+                            <!-- Connector lines -->
+                            <div class="absolute left-0 top-1/2 w-full h-1 bg-slate-800 z-0"></div>
+                            <div class="absolute left-0 top-1/2 w-4/5 h-1 bg-yellow-500/50 z-0"></div>
+
+                            <!-- Node 1 -->
+                            <div
+                                class="w-8 h-8 rounded-full bg-emerald-500 flex items-center justify-center text-xs font-black z-10 text-slate-950">
+                                1</div>
+                            <!-- Node 2 -->
+                            <div
+                                class="w-8 h-8 rounded-full bg-emerald-500 flex items-center justify-center text-xs font-black z-10 text-slate-950">
+                                2</div>
+                            <!-- Node 3 -->
+                            <div
+                                class="w-8 h-8 rounded-full bg-emerald-500 flex items-center justify-center text-xs font-black z-10 text-slate-950">
+                                3</div>
+                            <!-- Node 4 -->
+                            <div
+                                class="w-8 h-8 rounded-full bg-emerald-500 flex items-center justify-center text-xs font-black z-10 text-slate-950">
+                                4</div>
+                            <!-- Node 5 (Treasure) -->
+                            <div
+                                class="w-12 h-12 rounded-full bg-gradient-to-r from-yellow-400 to-amber-500 border-2 border-yellow-300 flex items-center justify-center text-xl z-10 shadow-lg shadow-yellow-500/50 animate-bounce">
+                                👑
+                            </div>
+                        </div>
+
+                        <!-- Chest Info Panel -->
+                        <div class="bg-slate-950/80 rounded-xl p-4 border border-slate-800 text-center">
+                            <span class="text-3xl block mb-2">🎁</span>
+                            <h4 class="text-sm font-black text-yellow-400 mb-1">Rương Kho Báu Khóa Chặt</h4>
+                            <p class="text-[11px] text-slate-400">Bé cần 1 Chìa Khóa Vàng để bắt đầu hành trình mở khóa.
+                            </p>
+
+                            <!-- Heart indicators -->
+                            <div class="flex justify-center gap-1.5 mt-3">
+                                <span class="text-xs text-red-500">❤️</span>
+                                <span class="text-xs text-red-500">❤️</span>
+                                <span class="text-xs text-red-500">❤️</span>
+                                <span class="text-xs text-red-500">❤️</span>
+                                <span class="text-xs text-red-500">❤️</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lg:col-span-7 space-y-6" data-aos="fade-left">
+                    <div
+                        class="inline-flex items-center gap-2 px-3 py-1 rounded-full bg-yellow-500/10 border border-yellow-500/20 text-yellow-400 text-xs font-bold uppercase">
+                        Cơ chế thử thách đặc biệt
+                    </div>
+                    <h3 class="font-outfit font-black text-3xl text-yellow-400">Hành Trình Chinh Phục Rương Kho Báu</h3>
+                    <p class="text-slate-300 text-sm md:text-base leading-relaxed">
+                        Cơ chế phần thưởng tối cao giúp thúc đẩy nỗ lực học tập tự thân của bé. Bản đồ chặng đi được
+                        chia làm các bước thử thách nâng cao:
+                    </p>
+
+                    <div class="space-y-4">
+                        <!-- Step 1 -->
+                        <div class="flex gap-4">
+                            <div
+                                class="w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-400 border border-yellow-500/30 flex items-center justify-center font-bold text-xs shrink-0 mt-1">
+                                01
+                            </div>
+                            <div>
+                                <h4 class="font-black text-sm text-slate-200">Chuẩn bị Chìa khóa Vàng</h4>
+                                <p class="text-xs text-slate-400">Bé tích lũy khóa vàng bằng cách thực hiện nhiệm vụ
+                                    hàng ngày hoặc tiêu diệt Boss sâu róm thành công ở Đấu trường.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 2 -->
+                        <div class="flex gap-4">
+                            <div
+                                class="w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-400 border border-yellow-500/30 flex items-center justify-center font-bold text-xs shrink-0 mt-1">
+                                02
+                            </div>
+                            <div>
+                                <h4 class="font-black text-sm text-slate-200">Vượt 5 câu hỏi nâng cao (Cấp lớp + 1)</h4>
+                                <p class="text-xs text-slate-400">Câu hỏi thuộc nhóm khó vượt trội so với bài thông
+                                    thường. Các bài tập được tạo ngẫu nhiên, không lặp lại và cập nhật tự động sau mỗi
+                                    lần hoàn thành bản đồ.</p>
+                            </div>
+                        </div>
+
+                        <!-- Step 3 -->
+                        <div class="flex gap-4">
+                            <div
+                                class="w-8 h-8 rounded-full bg-yellow-500/10 text-yellow-400 border border-yellow-500/30 flex items-center justify-center font-bold text-xs shrink-0 mt-1">
+                                03
+                            </div>
+                            <div>
+                                <h4 class="font-black text-sm text-slate-200">Reset về 0 nếu làm sai</h4>
+                                <p class="text-xs text-slate-400">Chỉ một lần trả lời sai sẽ bị reset toàn bộ số câu
+                                    đúng về 0, rèn luyện cho bé tính cẩn thận, cân nhắc kỹ lưỡng trước khi đưa ra đáp
+                                    án.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECTION 5: LỘ TRÌNH PHÁT TRIỂN & CHƯƠNG TRÌNH HỌC -->
+    <section id="roadmap" class="py-20 border-t border-slate-900 bg-slate-950/30">
+        <div class="max-w-6xl mx-auto px-4">
+            <div class="text-center mb-16" data-aos="fade-up">
+                <h2 class="font-outfit font-black text-3xl md:text-4xl text-slate-100 mb-4">
+                    Khung Chương Trình Học & Lộ Trình Mở Rộng
+                </h2>
+                <div class="w-16 h-1 bg-emerald-500 mx-auto rounded-full"></div>
+            </div>
+
+            <!-- Curriculum Alignment Grid -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
+                <!-- TV -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80">
+                    <h3 class="font-black text-lg text-emerald-400 flex items-center gap-2 mb-4">
+                        <i class="fa-solid fa-book"></i> Phân Môn Tiếng Việt
+                    </h3>
+                    <div class="space-y-3 text-xs text-slate-400 leading-relaxed">
+                        <p><strong>Lớp 1 - Lớp 2:</strong> Nhận diện chữ cái, ghép vần, dấu thanh, phân biệt từ đơn và
+                            từ láy cơ bản.</p>
+                        <p><strong>Lớp 3 - Lớp 4:</strong> Điền từ vào chỗ trống, câu đố đồng nghĩa - trái nghĩa, hoàn
+                            thiện thành ngữ tục ngữ Việt Nam.</p>
+                        <p><strong>Lớp 5:</strong> Phân tích ngữ pháp câu ghép, xác định chủ ngữ - ngữ vị, mở rộng vốn
+                            từ vựng nâng cao.</p>
+                    </div>
+                </div>
+
+                <!-- TNS -->
+                <div class="glass-panel p-6 rounded-2xl border border-slate-800/80">
+                    <h3 class="font-black text-lg text-cyan-400 flex items-center gap-2 mb-4">
+                        <i class="fa-solid fa-microscope"></i> Phân Môn Tự Nhiên & Công Nghệ
+                    </h3>
+                    <div class="space-y-3 text-xs text-slate-400 leading-relaxed">
+                        <p><strong>Lớp 1 - Lớp 2:</strong> Nhận biết thế giới động thực vật xung quanh, vệ sinh cá nhân,
+                            kiến thức môi trường sống.</p>
+                        <p><strong>Lớp 3 - Lớp 4:</strong> Vòng tuần hoàn của nước, các bộ phận của cơ thể, các khái
+                            niệm công nghệ số cơ bản.</p>
+                        <p><strong>Lớp 5:</strong> Năng lượng mặt trời, chuỗi thức ăn sinh học, bảo vệ tài nguyên đất và
+                            tài nguyên sinh thái.</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Roadmap Timeline -->
+            <div class="relative border-l border-slate-800 max-w-3xl mx-auto pl-8 space-y-12">
+
+                <!-- Giai đoạn 1 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-emerald-500 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-emerald-400">Giai đoạn 1 - ĐÃ
+                        HOÀN THÀNH</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Nền Tảng Nông Trại & Đa Thế Giới</h4>
+                    <p class="text-xs text-slate-400 mt-2 leading-relaxed">
+                        Thiết lập hệ thống 3 thế giới Eco, Cyber, Magic. Đồng bộ hóa logic 10 loại hạt giống mặc định và
+                        hệ thống 3 hạt giống độc quyền cực hiếm. Tích hợp AI Trợ lý đồng hành dẫn đường cùng hệ thống
+                        thời tiết biến động.
+                    </p>
+                </div>
+
+                <!-- Giai đoạn 2 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-emerald-500 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-emerald-400">Giai đoạn 2 - ĐÃ
+                        HOÀN THÀNH</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Đấu Trường Boss & Rương Kho Báu Bản Đồ</h4>
+                    <p class="text-xs text-slate-400 mt-2 leading-relaxed">
+                        Phát triển thành công Đấu Trường Boss kiểm tra phản ứng nhanh. Xây dựng Bản đồ thử thách 5
+                        chặng, mở khóa rương kho báu ngẫu nhiên nhận hạt giống hiếm độc quyền không bán trong shop. Áp
+                        dụng cơ chế phạt reset khi trả lời sai.
+                    </p>
+                </div>
+
+                <!-- Giai đoạn 3 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-cyan-500 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-cyan-400">Giai đoạn 3 - ĐANG PHÁT
+                        TRIỂN (ƯU TIÊN)</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Nhiệm Vụ Có Bối Cảnh Cốt Truyện & NPC Gia Sư
+                    </h4>
+                    <p class="text-xs text-slate-400 mt-2 leading-relaxed">
+                        Chuyển đổi câu hỏi đơn lẻ thành chuỗi nhiệm vụ kết hợp câu chuyện, gặp gỡ NPC gia sư để nhận gợi
+                        ý học tập 3 cấp độ phù hợp, tăng động lực tìm tòi của trẻ.
+                    </p>
+                </div>
+
+                <!-- Giai đoạn 4 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-slate-700 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-slate-400">Giai đoạn 4 - LẬP KẾ
+                        HOẠCH</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Hệ Thống Phân Tích Lỗi & Ôn Tập Ngắt Quãng
+                        (Spaced Repetition)</h4>
+                    <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+                        Nhận diện dạng lỗi học tập thường gặp của bé để chủ động đề xuất gợi ý ôn tập, kết hợp ôn tập
+                        ngắt quãng thông minh sau 1/3/7/14 ngày để bé nhớ bài lâu hơn.
+                    </p>
+                </div>
+
+                <!-- Giai đoạn 5 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-slate-700 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-slate-400">Giai đoạn 5 - LẬP KẾ
+                        HOẠCH</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Đấu Trường Học Tập Liên Trường & Đội Nhóm</h4>
+                    <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+                        Tích hợp bảng xếp hạng liên trường (Leaderboard) toàn quốc và cơ chế hợp tác đội nhóm vượt thử
+                        thách học tập (nhiệm vụ giải đố nhóm có phân chia vai trò).
+                    </p>
+                </div>
+
+                <!-- Giai đoạn 6 -->
+                <div class="relative" data-aos="fade-up">
+                    <div
+                        class="absolute -left-[41px] top-1.5 w-6 h-6 rounded-full bg-slate-700 border-4 border-[#0b0f19] flex items-center justify-center">
+                    </div>
+                    <span class="text-[10px] uppercase font-black tracking-widest text-slate-400">Giai đoạn 6 - LẬP KẾ
+                        HOẠCH</span>
+                    <h4 class="font-black text-base text-slate-200 mt-1">Trang Báo Cáo Phân Tích Năng Lực Cho Phụ Huynh
+                        & Giáo Viên</h4>
+                    <p class="text-xs text-slate-300 mt-2 leading-relaxed">
+                        Xây dựng Dashboard thống kê tiến độ học tập chi tiết theo từng chỉ tiêu đầu ra (LO), đo lường
+                        mức độ tư duy nhận thức (thang Bloom) và các dạng lỗi sai để phụ huynh đồng hành cùng bé.
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- FOOTER / CALL TO ACTION -->
+    <footer class="py-16 text-center border-t border-slate-900 relative overflow-hidden bg-slate-950">
+        <div class="max-w-4xl mx-auto px-4 space-y-6 relative z-10" data-aos="fade-up">
+            <span class="text-4xl">🌱</span>
+            <h2 class="font-outfit font-black text-3xl md:text-4xl text-slate-200">
+                Hãy Để Bé Trở Thành Kỹ Sư Nông Trại Tri Thức
+            </h2>
+            <p class="text-slate-400 text-sm max-w-md mx-auto leading-relaxed">
+                Trải nghiệm phương pháp học tập tương tác hiện đại, giúp bé tăng cường khả năng tư duy tự lập một cách
+                hoàn toàn tự nhiên.
+            </p>
+            <div class="pt-4">
+                <a href="index.html"
+                    class="inline-flex items-center gap-2 px-8 py-3.5 bg-gradient-to-r from-emerald-500 to-cyan-500 hover:from-emerald-400 hover:to-cyan-400 text-slate-950 font-black rounded-xl text-sm uppercase tracking-wider transition-all transform hover:scale-105 shadow-xl shadow-emerald-500/20">
+                    Bắt đầu chơi thử ngay <i class="fa-solid fa-circle-play"></i>
+                </a>
+            </div>
+            <div class="pt-8 flex flex-col items-center gap-3 border-t border-slate-900/60 mt-8">
+                <img src="./images/logo-saoviet-light.png" alt="Tin Học Sao Việt"
+                    class="h-9 opacity-80 hover:opacity-100 transition-opacity">
+                <p class="text-[11px] text-slate-400">
+                    &copy; 2026 Edu-Farm Project. Được nghiên cứu và phát triển chuyên nghiệp bởi <strong>Tin Học Sao
+                        Việt</strong>. Tất cả bản quyền được bảo lưu.
+                </p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Initialize AOS -->
+    <script>
+        AOS.init({
+            duration: 800,
+            once: true,
+        });
+    </script>
+</body>
+
+</html>

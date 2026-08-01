@@ -1,0 +1,16 @@
+Cánh cụt câu cá <= 4
+Cách chơi:
+— Chơi theo nhóm.
+— Người chơi bắt đầu từ ô xuất phát. Khi đến lượt,
+người chơi gieo xúc xắc. Đếm số chấm ở mặt trên
+xúc xắc rồi di chuyển số ô bằng số chấm nhận được. 2
+— Câu con cá thích hợp với số ở ô đang đứng. Ví dụ,
+đến ô có số 14 thì câu con cá ghi mười bốn.
+— Trò chơi kết thúc khi câu được hết cá.
+3ốn mươi ấ
+ln mươi b:
+@} Bảy mươi sáu
+42 Š : 58.
+"` —x l Mười pốn VÀ
+Fì ` `
+15

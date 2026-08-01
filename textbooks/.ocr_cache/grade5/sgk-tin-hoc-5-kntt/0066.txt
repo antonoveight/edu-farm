@@ -1,0 +1,22 @@
+Bước 2: Chạy chương trình và quan sát kết quả.
+Bước 3: Lưu chương trình với tên \úeoDoiliau vào thư mục của em.
+4Ø e TẬP
+Khối lệnh nào sau đây điều khiển nhân vật hành động theo mô tả trong
+Hoạt động 2?
+nêu chuột được nhắn? thì
+bỏ các hiệu ứng đồ họa
+A. nếu không thì
+thay đổi hiệuứng màu # mộtlượng L2)
+nếu đangchạm contrỏchuộtv 2. thì
+bỏ các hiệu ứng đồ họa
+B. nếu không thì
+thay đổi hiệu ứng màu _ mộtlượng @®
+nếu đang chạm con trỏ chuột e 2? thi
+thay đổi hiệu ứng màu w một lượng ®
+C. Hỗ Núi
+bỏ các hiệu ứng đồ họa
+Hãy viết chương trình mèo đổi màu như ý tưởng được mô tả trong
+Hoạt động 2: Nhân vật mèo thực hiện lặp liên tục "né: chạm con trỏ chuột
+thì đổi màu riều không thì trở về màu ban đầu". Lưu chương trình với tên tệp
+MeoTroVeMauVang.
+66

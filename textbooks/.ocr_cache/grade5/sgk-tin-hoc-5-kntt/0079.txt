@@ -1,0 +1,27 @@
+1. Nhân vật và sân kháu: Có hai nhân vật là mèo và trái bóng.
+2. Sân khấu mặc định nền trắng.
+3. Hành động của các nhân vật như sau:
+— Trái bóng di chuyển liên tục trong sân kháu.
+— Mèo di chuyển theo con trỏ chuột. Trong lúc di chuyển, nếu chạm vào
+bóng thì tăng điểm lên 1.
+Từ kịch bản chương trình, em sử dụng lệnh Scratch tương ứng để thực hiện
+các công việc được mô tả trong kịch bản.
+& ị Kịch bản giúp em xác định cụ thể các công việc mà chương ị
+‡ trình cần thực hiện. Từ kịch bản, em dễ dàng tạo ra chương :
+: trình để thực hiện ý tưởng. ì
+g® 1. Em hãy ghép mỗi hành động của nhân vật ở cột bên trái với một
+cấu trúc phù hợp ở cột bên phải.
+— HànNGỆG  Ï Gámwớ |
+1) Trái bóng di chuyển liên tục trong sân khấu. | a) Cáu trúc lặp
+2) Mèo liên tục di chuyển theo con trỏ chuột.
+3) Nếu mèo chạm vào bóng thì tăng điểm lên 1. . Ð) Câu trúc rễ nhánh
+2. Em hãy chọn lệnh phù hợp với cấu trúc đã xác định trong Câu 1.
+Cấu trúc lặp , b) sp ai @) ©) lặp lại cho đến khi
+cò +
+Cấu trúc ©)
+rẽ nhánh d)
+2. THỰC HÀNH TẠO VÀ CHẠY THỬ CHƯƠNG TRÌNH
+NHIỆM VỤ l1| Tạo chương trình thể hiện kịch bản trò chơi “Mèo bắt bóng”
+được mô tả ở Mục 1.
+Hướng dẫn: Nhiệm vụ 1 được chia thành các công việc nhỏ hơn như sau:
+79

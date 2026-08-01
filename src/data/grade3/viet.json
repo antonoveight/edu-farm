@@ -1,0 +1,338 @@
+[
+  {
+    "q": "Trong câu 'Mặt trời đỏ rực như một quả cầu lửa', tác giả sử dụng biện pháp nghệ thuật gì?",
+    "a": "SO SÁNH",
+    "c": [
+      "SO SÁNH",
+      "NHÂN HÓA",
+      "ẨN DỤ",
+      "HOÁN DỤ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Trong câu 'Chị mây mặc áo trắng phất phơ dạo chơi', sự vật nào được nhân hóa?",
+    "a": "MÂY",
+    "c": [
+      "MÂY",
+      "ÁO TRẮNG",
+      "DẠO CHƠI",
+      "PHẤT PHƠ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Tên riêng nào sau đây viết đúng quy tắc chính tả viết hoa?",
+    "a": "Trần Quốc Toản",
+    "c": [
+      "Trần Quốc Toản",
+      "trần quốc toản",
+      "Trần quốc toản",
+      "Trần Quốc toản"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Câu 'Bông hoa đẹp quá!' là câu gì?",
+    "a": "CÂU CẢM",
+    "c": [
+      "CÂU CẢM",
+      "CÂU HỎI",
+      "CÂU KỂ",
+      "CÂU KHIẾN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Câu 'Con có thể đọc truyện này không?' là câu gì?",
+    "a": "CÂU HỎI",
+    "c": [
+      "CÂU HỎI",
+      "CÂU KỂ",
+      "CÂU CẢM",
+      "CÂU KHIẾN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ 'kiên nhẫn' có nghĩa là gì?",
+    "a": "KHÔNG NÓNG VỘI, BỀN BỈ THỰC HIỆN",
+    "c": [
+      "KHÔNG NÓNG VỘI, BỀN BỈ THỰC HIỆN",
+      "NHANH NHẸN HOẠT BÁT",
+      "VUI VẺ HÒA ĐỒNG",
+      "KHÉO LÉO TINH TẾ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Dấu ngoặc kép ('') dùng để làm gì trong câu?",
+    "a": "ĐÁNH DẤU LỜI NÓI TRỰC TIẾP",
+    "c": [
+      "ĐÁNH DẤU LỜI NÓI TRỰC TIẾP",
+      "KẾT THÚC CÂU KỂ",
+      "LIỆT KÊ SỰ VẬT",
+      "GIẢI THÍCH THÊM"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Chọn từ thích hợp: Em rất ___ thương các thành viên trong gia đình.",
+    "a": "yêu",
+    "c": [
+      "yêu",
+      "ghét",
+      "bán",
+      "quên"
+    ],
+    "type": "fill_blank",
+    "sentence": "Em rất ___ thương các thành viên trong gia đình.",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Điền từ so sánh: Mặt hồ phẳng lặng ___ một tấm gương.",
+    "a": "như",
+    "c": [
+      "như",
+      "và",
+      "nhưng",
+      "bằng"
+    ],
+    "type": "fill_blank",
+    "sentence": "Mặt hồ phẳng lặng ___ một tấm gương.",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Điền từ phù hợp: Học sinh luôn kính trọng và ___ quý thầy cô.",
+    "a": "yêu",
+    "c": [
+      "yêu",
+      "mệt",
+      "chạy",
+      "bơi"
+    ],
+    "type": "fill_blank",
+    "sentence": "Học sinh luôn kính trọng và ___ quý thầy cô.",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Ghép các từ sau thành câu tục ngữ hoàn chỉnh:",
+    "a": "Gần mực thì đen gần đèn thì sáng",
+    "c": [
+      "Gần mực thì đen gần đèn thì sáng"
+    ],
+    "type": "typing",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Sắp xếp câu ca dao:",
+    "a": "Công cha như núi Thái Sơn",
+    "c": [
+      "Công cha như núi Thái Sơn"
+    ],
+    "type": "reorder",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3",
+    "words": [
+      "Công",
+      "cha",
+      "như",
+      "núi",
+      "Thái",
+      "Sơn"
+    ]
+  },
+  {
+    "q": "Luyện gõ câu ngắn sau:",
+    "a": "em yeu que huong",
+    "c": [
+      "em yeu que huong"
+    ],
+    "type": "typing",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Luyện gõ cụm từ:",
+    "a": "ha noi",
+    "c": [
+      "ha noi"
+    ],
+    "type": "typing",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ nào trong câu 'Mặt trăng sáng như gương' dùng để so sánh?",
+    "a": "NHƯ",
+    "c": [
+      "NHƯ",
+      "MẶT TRĂNG",
+      "GƯƠNG",
+      "SÁNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Điền từ vào thành ngữ: 'Có công mài sắt, có ngày nên ___'",
+    "a": "KIM",
+    "c": [
+      "KIM",
+      "VÀNG",
+      "BẠC",
+      "SẮT"
+    ],
+    "type": "fill_blank",
+    "sentence": "Có công mài sắt, có ngày nên ___",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ 'leo trèo' thuộc kiểu từ gì?",
+    "a": "TỪ LÁY",
+    "c": [
+      "TỪ LÁY",
+      "TỪ GHÉP",
+      "TỪ ĐƠN",
+      "THÀNH NGỮ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Câu 'Bông hoa đẹp như nhung' sử dụng biện pháp tu từ gì?",
+    "a": "SO SÁNH",
+    "c": [
+      "SO SÁNH",
+      "NHÂN HÓA",
+      "ẨN DỤ",
+      "LIỆT KÊ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ 'học hành' là từ ghép hay từ láy?",
+    "a": "TỪ GHÉP",
+    "c": [
+      "TỪ GHÉP",
+      "TỪ LÁY",
+      "TỪ ĐƠN",
+      "TỪ PHỨC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Điền từ vào thành ngữ: 'Uống nước nhớ ___'",
+    "a": "NGUỒN",
+    "c": [
+      "NGUỒN",
+      "SÔNG",
+      "GỐC",
+      "RỄ"
+    ],
+    "type": "fill_blank",
+    "sentence": "Uống nước nhớ ___",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Bộ phận in đậm trả lời cho câu hỏi nào: 'Mùa hè, hoa phượng vĩ nở đỏ rực góc sân'?",
+    "a": "Làm gì?",
+    "c": [
+      "Làm gì?",
+      "Là gì?",
+      "Như thế nào?",
+      "Ở đâu?"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ nào viết sai chính tả trong câu: 'Bé rất thích ăn bánh chưng và uống nước chà'?",
+    "a": "nước chà",
+    "c": [
+      "nước chà",
+      "bánh chưng",
+      "rất thích",
+      "ăn bánh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Từ nào cùng nghĩa với từ 'Tổ quốc'?",
+    "a": "Đất nước",
+    "c": [
+      "Đất nước",
+      "Thành phố",
+      "Làng quê",
+      "Núi rừng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu văn bản, từ vựng và ngữ pháp tiếng Việt lớp 3"
+  },
+  {
+    "q": "Ghép vế câu trong thành ngữ, tục ngữ về thiên nhiên:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu ý nghĩa các thành ngữ, tục ngữ về thiên nhiên",
+    "pairs": [
+      {
+        "left": "Cầu vồng xuất hiện",
+        "right": "báo hiệu trời mưa"
+      },
+      {
+        "left": "Sao dày",
+        "right": "mưa ít"
+      },
+      {
+        "left": "Mây đen kéo đến",
+        "right": "sắp có mưa to"
+      },
+      {
+        "left": "Trăng quầng",
+        "right": "trời sắp mưa"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp thành câu đúng ngữ pháp:",
+    "a": "Học sinh chăm chỉ ôn bài mỗi ngày",
+    "c": [
+      "Học sinh chăm chỉ ôn bài mỗi ngày"
+    ],
+    "words": [
+      "Học",
+      "sinh",
+      "chăm",
+      "chỉ",
+      "ôn",
+      "bài",
+      "mỗi",
+      "ngày"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu đúng ngữ pháp và trật tự từ"
+  },
+  {
+    "q": "Điền từ thích hợp: Cô giáo dạy chúng em ___ bảng chữ cái và tập đọc mỗi ngày.",
+    "a": "học",
+    "c": [
+      "học",
+      "quên",
+      "chơi",
+      "ngủ"
+    ],
+    "type": "fill_blank",
+    "sentence": "Cô giáo dạy chúng em ___ bảng chữ cái và tập đọc mỗi ngày.",
+    "lo": "Sử dụng đúng từ ngữ theo ngữ cảnh trong câu văn Tiếng Việt"
+  }
+]

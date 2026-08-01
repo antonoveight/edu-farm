@@ -1,0 +1,12 @@
+L3) Tại cửa hàng xăng dầu, một người đi ô tô vào mua 257 xăng, một người đi
+xe máy vào mua 3 7 xăng. Hỏi cả hai người mua bao nhiêu lít xăng?
+` ===
+4 AT v1. pb << lo. Ì
+| “ LÁ \\ ; Bọ- -
+@ Có năm túi gạo sau:
+. \
+a) Muốn lấy hai túi để được 13 kg gạo thì phải lấy ra hai túi gạo nào?
+b) Muốn lấy ba túi để được 9 kg gạo thì phải lấy ra ba túi gạo nào?
+— —....m
+_ na
+Á

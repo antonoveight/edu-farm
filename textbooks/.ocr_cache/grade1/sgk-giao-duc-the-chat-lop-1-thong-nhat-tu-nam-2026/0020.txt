@@ -1,0 +1,25 @@
+đ@ Tập hợp hàng ngang
+
++ _ Khẩu lệnh: “Thành 1 (2, 3, 4,...) hàng ngang — Tập hợp!”.
+
++ Động tác: Chỉ huy đưa tay trái sang ngang, em đầu hàng đứng sát vào tay
+trái của chỉ huy, các em khác lần lượt đứng bên trái theo thứ tự từ thấp
+đến cao.
+
+_“E... ch vn xuý
+Tập hợp 1 hàng ngang Tập hợp 4 hàng ngang
+@® Dóng hàng ngang
+
++ _ Khẩu lệnh: “Nhìn phải - Thẳng!”. + Khẩu lệnh: “Thôi.
+
++ Động tác: Em đầu hàng đứng + Động tác: Tất cả về tư thế
+nghiêm, các em khác đánh mặt đứng nghiêm.
+sang phải, tay phải chống hông,
+cách bạn bên phải một khuỷu tay.
+
+0i. M'...M.M.I N2 MYu TM [)MCM,
+
+IẤM )ì 0 0Ì Ô | J§ NHI Em Hư HH BH HH
+ bim số theo đội hình hàng ngang
+
++ _ Khẩu lệnh: "Từ 1 đến hét - Điểm só!”.

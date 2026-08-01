@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Cơ quan nào trong cơ thể người thực hiện hô hấp?",
+    "a": "PHỔI",
+    "c": [
+      "PHỔI",
+      "TIM",
+      "DẠ DÀY",
+      "GAN"
+    ]
+  },
+  {
+    "q": "Cơ quan nào trong cơ thể người bơm máu đi khắp cơ thể?",
+    "a": "TIM",
+    "c": [
+      "TIM",
+      "PHỔI",
+      "DẠ DÀY",
+      "THẬN"
+    ]
+  },
+  {
+    "q": "Nước tồn tại ở mấy thể?",
+    "a": "3 THỂ",
+    "c": [
+      "3 THỂ",
+      "2 THỂ",
+      "4 THỂ",
+      "1 THỂ"
+    ]
+  },
+  {
+    "q": "Mặt trời mọc hướng nào?",
+    "a": "HƯỚNG ĐÔNG",
+    "c": [
+      "HƯỚNG ĐÔNG",
+      "HƯỚNG TÂY",
+      "HƯỚNG NAM",
+      "HƯỚNG BẮC"
+    ]
+  },
+  {
+    "q": "Nước đá khi gặp nhiệt sẽ chuyển thành?",
+    "a": "NƯỚC LỎNG",
+    "c": [
+      "NƯỚC LỎNG",
+      "HƠI NƯỚC",
+      "BĂNG ĐÁ",
+      "TUYẾT"
+    ]
+  },
+  {
+    "q": "Con người thở vào hít khí gì?",
+    "a": "OXY",
+    "c": [
+      "OXY",
+      "CO2",
+      "NI-TƠ",
+      "HYDRO"
+    ]
+  }
+]

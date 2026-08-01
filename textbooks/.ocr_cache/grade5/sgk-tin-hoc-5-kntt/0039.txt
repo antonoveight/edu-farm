@@ -1,0 +1,21 @@
+3. THỰC HÀNH LÀM QUEN VỚI CÁC CÔNG CỤ TRONG PHẦN MỀM
+ĐỒ HOẠ
+NHIỆM VỤ Kl khởi động phần mềm đồ hoạ, làm quen với giao diện phần mềm.
+Hướng dẫn
+(Hướng dẫn sau đây sử dụng phàn mềm đò hoạ Microsoft Paint để minh hoạ.)
+ước 7. Nháy đúp chuột vào biểu tượng trên màn hình nền. Giao diện
+phần mềm đồ hoạ Microsoft Paint (Paint) tương tự như Hình 42.
+|
+Ju.< lc,
+Hình 42. Giao diện phần mềm đồ hoạ Paint
+Bước 2. Quan sát Hình 42, làm quen với giao diện làm việc của phần mềm.
+— Hộp màu nằm ở phía trên, bên phải màn hình, gồm màu: 1 (dùng cho bút
+chì, bút vẽ, công cụ tô màu, đường viền của hình,...), màu: 2 (dùng cho tẩy,
+màu của hình) và các ô mui (Hình 43). Để chọn màu cho rà: 1, em nháy
+Ị
+chuột vào “*i rồi nháy chuột chọn màu trong ô rnàu. Thực hiện tương tự để
+chọn màu 2.
+mHmHmhH_ RHHBNBN |
+1m... ớẽ..H.A
+Hình 43. Hộp màu
+39

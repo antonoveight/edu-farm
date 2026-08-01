@@ -1,0 +1,32 @@
+Em bám phím số trên điều khiển, ti vi chuyển đến kênh tương ứng. Ví dụ, khi
+em bắm phím 3, thông tin ti vi nhận được là số 3. Khi đó, bộ phận xử lí trong
+ti vi quyết định chuyên kênh. Kết quả, ti vi hiên thị chương trình trên kênh số 3,
+chăng hạn VTV3.
+Kênh ban đâu Kênh sau khi chuyển
+` ¬
+Hình 5. Điều khiển tỉ vi
+Hiện nay đã có ti vi được điều khiển bằng giọng nói. Khi đó, thông tin ti vi
+nhận được thuộc dạng âm thanh.
+Có nhiều thiết bị tiếp nhận thông tin
+để quyết định hành động.
+
+g® 1. Minh chụp ảnh cánh đồng lúa bằng điện thoại thông minh. Khi đó,
+
+thông tin được điện thoại thu nhận thuộc dạng gì? Sau khi xử lí,
+
+kết quả là gì?
+
+2. Em hãy nêu ví dụ về một hoạt
+
+động của chiếc quạt điện có
+
+điều khiển từ xa. Trong hoạt
+
+động đó thông tin tiếp nhận
+
+là gì? Chiếc quạt quyết định ¬gs
+
+hành động thế nào? Sẻ
+
+Ẵ
+Hình 6. Quạt điện

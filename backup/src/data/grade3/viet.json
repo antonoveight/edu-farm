@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Từ nào trong câu 'Mặt trăng sáng như gương' dùng để so sánh?",
+    "a": "NHƯ",
+    "c": [
+      "NHƯ",
+      "MẶT TRĂNG",
+      "GƯƠNG",
+      "SÁNG"
+    ]
+  },
+  {
+    "q": "Điền từ vào thành ngữ: 'Có công mài sắt, có ngày nên ___'",
+    "a": "KIM",
+    "c": [
+      "KIM",
+      "VÀNG",
+      "BẠC",
+      "SẮT"
+    ]
+  },
+  {
+    "q": "Từ 'leo trèo' thuộc kiểu từ gì?",
+    "a": "TỪ LÁY",
+    "c": [
+      "TỪ LÁY",
+      "TỪ GHÉP",
+      "TỪ ĐƠN",
+      "THÀNH NGỮ"
+    ]
+  },
+  {
+    "q": "Câu 'Bông hoa đẹp như nhung' sử dụng biện pháp tu từ gì?",
+    "a": "SO SÁNH",
+    "c": [
+      "SO SÁNH",
+      "NHÂN HÓA",
+      "ẨN DỤ",
+      "LIỆT KÊ"
+    ]
+  },
+  {
+    "q": "Từ 'học hành' là từ ghép hay từ láy?",
+    "a": "TỪ GHÉP",
+    "c": [
+      "TỪ GHÉP",
+      "TỪ LÁY",
+      "TỪ ĐƠN",
+      "TỪ PHỨC"
+    ]
+  },
+  {
+    "q": "Điền từ vào thành ngữ: 'Uống nước nhớ ___'",
+    "a": "NGUỒN",
+    "c": [
+      "NGUỒN",
+      "SÔNG",
+      "GỐC",
+      "RỄ"
+    ]
+  }
+]

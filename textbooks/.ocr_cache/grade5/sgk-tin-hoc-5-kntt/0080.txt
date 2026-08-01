@@ -1,0 +1,34 @@
+1. Tạo hai nhân vật mèo và trái bóng.
+2. Tạo biến Điẻ:r: để lưu điểm só.
+3. Tạo chương trình điều khiển hành động của từng nhân vật theo kịch bản
+mô tả ở Mục 1.
+Khởi động phần mềm Scratch và thực hiện các bước sau:
+Bước 1: Ngoài nhân vật '_ --_' đã có sẵn, thêm một nhân vật trái bóng -*“=~/.
+Bước 2: Tạo biến mới ®œ® để lưu điểm số của người chơi.
+Bước 3: Tạo chương trình cho nhân vật -=—' như minh hoạ ở Hình 101.
+Hành
+ẻ liên tục
+Di chuyên
+liên 3M L.v lướt trong L¡) giâylới vị tí ngẫu nhiên v
+trong sân lướt rong ĐỀ o2y 6i v6ïn2innõn ~ vã
+kháu. kế Hình 101. Chương trình điều khiển
+nhân vật trái bóng
+Bước 4: Tạo chương trình cho nhân vật như minh hoạ ở Hình 102.
+Hành động
+Di chuyển |.
+liên tục Khi bắm vào.
+theo con trỏ đitới con trỏ chuột # cm Bi mollssn
+chuột. + mờ nàn @
+liên tục
+Kiểm _ tra :
+điều kiện đitới con trỏ chuột w
+chạm vào „ Ca UP >>:
+nhân vật
+bóng. l thayđổi Điểm w  mộtlượng L1)
+Nếu chạm | 8ã, .... Đ
+vào bóng R _——
+thì lần thayđổi Điểm v mộtượng @Ề Hình 102. Chương trình điều khiển
+ni g nhân vật mèo
+điểm lên 1.
+Bước 5: Lưu tệp với tên là IeoBatBong vào thư mục của em.
+80

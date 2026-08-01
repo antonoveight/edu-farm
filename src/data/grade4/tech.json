@@ -1,0 +1,260 @@
+[
+  {
+    "q": "Hệ gõ tiếng Việt phổ biến nhất trên máy tính hiện nay có tên là gì?",
+    "a": "TELEX",
+    "c": [
+      "TELEX",
+      "VNI",
+      "VIQR",
+      "UNICODE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Trong kiểu gõ Telex, để gõ được chữ 'â' bé nhấn đúp phím nào?",
+    "a": "PHÍM A",
+    "c": [
+      "PHÍM A",
+      "PHÍM O",
+      "PHÍM E",
+      "PHÍM U"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Trong kiểu gõ Telex, phím nào dùng làm dấu sắc?",
+    "a": "PHÍM S",
+    "c": [
+      "PHÍM S",
+      "PHÍM F",
+      "PHÍM R",
+      "PHÍM X"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Trong kiểu gõ VNI, để gõ chữ 'â' ta gõ tổ hợp phím nào?",
+    "a": "A + 6",
+    "c": [
+      "A + 6",
+      "A + 2",
+      "A + 3",
+      "A + 1"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Phần mềm Paint trên Windows dùng để làm gì?",
+    "a": "VẼ VÀ CHỈNH SỬA ẢNH",
+    "c": [
+      "VẼ VÀ CHỈNH SỬA ẢNH",
+      "GÕ VĂN BẢN",
+      "LÀM TÍNH",
+      "NGHE NHẠC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để TÌM KIẾM (Find) nội dung:",
+    "a": "ctrl+f",
+    "c": [
+      "ctrl+f"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Nhấn tổ hợp phím để MỞ TỆP (Open) đã lưu:",
+    "a": "ctrl+o",
+    "c": [
+      "ctrl+o"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Tổ hợp phím tắt để SAO CHÉP (Copy) là gì?",
+    "a": "CTRL + C",
+    "c": [
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + X",
+      "CTRL + Z"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Tổ hợp phím tắt để DÁN (Paste) là gì?",
+    "a": "CTRL + V",
+    "c": [
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + S",
+      "CTRL + N"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Tổ hợp phím tắt để CẮT (Cut) là gì?",
+    "a": "CTRL + X",
+    "c": [
+      "CTRL + X",
+      "CTRL + C",
+      "CTRL + V",
+      "CTRL + Z"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Tổ hợp phím tắt để HOÀN TÁC (Undo) là gì?",
+    "a": "CTRL + Z",
+    "c": [
+      "CTRL + Z",
+      "CTRL + Y",
+      "CTRL + X",
+      "CTRL + S"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Tổ hợp phím tắt để LƯU (Save) tài liệu là gì?",
+    "a": "CTRL + S",
+    "c": [
+      "CTRL + S",
+      "CTRL + A",
+      "CTRL + F",
+      "CTRL + P"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Trình duyệt Web nào sau đây được dùng phổ biến?",
+    "a": "GOOGLE CHROME",
+    "c": [
+      "GOOGLE CHROME",
+      "MICROSOFT WORD",
+      "EXCEL",
+      "PAINT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Thư mục trong máy tính dùng để làm gì?",
+    "a": "Lưu trữ và sắp xếp các tệp tin một cách khoa học",
+    "c": [
+      "Lưu trữ và sắp xếp các tệp tin một cách khoa học",
+      "Tăng tốc độ gõ phím",
+      "Hiển thị video ca nhạc",
+      "Thay đổi hình nền màn hình"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Để chọn nhiều tệp tin liên tiếp trong thư mục, em nhấn giữ phím nào khi chọn?",
+    "a": "Phím Shift",
+    "c": [
+      "Phím Shift",
+      "Phím Ctrl",
+      "Phím Alt",
+      "Phím Tab"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Phép chia nào có số dư bằng 2?",
+    "a": "17 chia 5",
+    "c": [
+      "17 chia 5",
+      "20 chia 4",
+      "15 chia 3",
+      "18 chia 4"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính và Internet an toàn, hiệu quả lớp 4"
+  },
+  {
+    "q": "Ghép thiết bị vào/ra (I/O) đúng loại:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Phân loại thiết bị đầu vào và đầu ra của máy tính",
+    "pairs": [
+      {
+        "left": "Bàn phím",
+        "right": "Thiết bị đầu VÀO"
+      },
+      {
+        "left": "Màn hình",
+        "right": "Thiết bị đầu RA"
+      },
+      {
+        "left": "Chuột",
+        "right": "Thiết bị đầu VÀO"
+      },
+      {
+        "left": "Máy in",
+        "right": "Thiết bị đầu RA"
+      }
+    ]
+  },
+  {
+    "q": "Luyện gõ phím từ khóa tìm kiếm:",
+    "a": "khoa hoc tu nhien",
+    "c": [
+      "khoa hoc tu nhien"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím và tìm kiếm thông tin trên máy tính"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để MỞ tab mới trong trình duyệt:",
+    "a": "ctrl+t",
+    "c": [
+      "ctrl+t"
+    ],
+    "type": "shortcut",
+    "lo": "Sử dụng thành thạo phím tắt trong trình duyệt web"
+  },
+  {
+    "q": "Ghép khái niệm Internet với mô tả đúng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu khái niệm mạng Internet và các dịch vụ cơ bản",
+    "pairs": [
+      {
+        "left": "Email",
+        "right": "Thư điện tử"
+      },
+      {
+        "left": "Website",
+        "right": "Trang thông tin trực tuyến"
+      },
+      {
+        "left": "Download",
+        "right": "Tải dữ liệu về máy"
+      },
+      {
+        "left": "Upload",
+        "right": "Đưa dữ liệu lên mạng"
+      }
+    ]
+  }
+]

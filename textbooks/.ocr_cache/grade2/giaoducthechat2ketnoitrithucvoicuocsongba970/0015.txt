@@ -1,0 +1,20 @@
+Q Chuyễn đội hình hàng ngang thành đội hình vòng tròn
++ _ Chuẩn bị: Cả lớp đứng theo đội hình hàng ngang.
++ _ Khẩu lệnh: “Thành vòng tròn đi thường (chạy thường) — Bước (Chạy)!".
++ Đông tác: Bắt đầu từ tổ trưởng tỏ 1, các em lần lượt quay phải và đi thường
+(chạy thường) theo hướng ngược chiêu kim đóng hỏ, tạo thành vòng tròn.
+l e *
+j Nẹ. i đ cà À
+() 2á “ \
+'JIgI?)°
+Đội hình hàng ngang
+P Số
+Ð ứ Ê S 26) (lì) ĐO ẻ
+¬ K SP _/w ° 0g
+Ỉ | l “
+Chuyển thành đội hình vòng tròn
++ _ Khảu lệnh: “Đứng lại - Đứng!".
++ _ Động tác: Tất cả đứng lại, mặt hướng theo chiều vòng tròn.
++ _ Khẩu lệnh: "Bên trái - Quay!".
++ Động tác: Tất cả thực hiện động tác quay trái để quay mặt vào trong
+vòng tròn.

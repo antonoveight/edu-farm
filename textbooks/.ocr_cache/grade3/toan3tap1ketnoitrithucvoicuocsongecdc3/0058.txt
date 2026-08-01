@@ -1,0 +1,23 @@
+&....
+(Ồ Nêu tên các đỉnh và các cạnh của mỗi hình (theo mẫu).
+M
+D A B
+/ À CÀ
+N P G E
+Hình tam giác Hình tam giác Hình tứ giác
+MNP DEG ABCD
+Cáo cam | _MN.NE,PM
+2) tên các hình tam giác và các hình tứ giác có trong hình dưới đây:
+A B
+Z1 E
+Á) Mai đánh dáu một số điểm trên tờ giấy màu (như hình vẽ). Qua hai điểm
+trong các điểm đã đánh dấu, Mai có thẻ cắt tờ giấy theo đoạn thẳng nào
+để được:
+a) 2 hình tứ giác?
+b) 1 hình tam giác và 1 hình tứ giác?
+A M B
+cIẦ
+Fơc
+c2
+D N G
+by/

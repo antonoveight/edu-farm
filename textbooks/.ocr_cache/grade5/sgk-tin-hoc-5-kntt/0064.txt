@@ -1,0 +1,44 @@
+Ê. CÁC LỆNH RẼ NHÁNH
+@ Scratch có hai lệnh điều khiển cấu trúc rẽ nhánh thuộc nhóm lệnh
+Điều khiển như trong bảng sau:
+a) Lệnh nếu... thì... Nếu điều kiện
+"`.ằồ ô=...."¬ “đang chạm con
+: tốn vi G trỏ chuột” được
+_Ằ@- nh thoả mãn thì
+thực hiện lệnh
+Khối lệnh được thực hiện “thay đổi hiệu
+Nơi đặt khối lệnh khi điều kiện được thoả mãn ứng màu...”.
+
+b) Lệnh nu... f0... Khối lệnh được thực | Nếu điều kiện
+nếu không thì... hiện khi điều kiện |! “đang chạm con
+được thoả mãn trỏ chuột” được
+
+ñỂU  đangchạm cantỏchuôlv 2 th thoả mãn thì
+
+_ ®- ereinkuee E->) số Œ thực hiện lệnh
+
+.=- khối lệnh ¡ || [AT "thay đổi hiệu
+
+Nơi đặt bỏ các hiệu ứng dồ họa ứng màu...”,
+
+khối lệnh 2 nếu không thì
+
+Khối lệnh được thực hiện khi điề. qHẸC TiểT EDH
+
+ối lệnh được thực hiện khi điều ty 3⁄25 331) 122 1:1
+kiện không được thoả mãn bề các hiệu xi)
+đô hoạ”.
+Lưu ý:
+— Điều kiện chạm con trỏ chuột (trong nhóm lệnh
+Cảm biên) thoả mãn khi con trỏ chuột chạm vào nhân vật.
+— Lệnh (trong nhóm lệnh 'iiên tf:¡) được sử dụng
+để thay đổi màu của nhân vật.
+— Lệnh IESEE) (trong nhóm lệnh Liền t!:¡) huỷ bỏ các hiệu ứng đồ hoạ
+(trong đó có đổi màu) được sử dụng để trả nhân vật về màu ban đầu của nó.
+
+6: Trong chương trình có cấu trúc rẽ nhánh, một lệnh hoặc ĩ
+¡ khối lệnh được thực hiện hay không được thực hiện tuỳ :
+
+¡ thuộc vào điều kiện đúng hay sai. ì
+
+64

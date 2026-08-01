@@ -1,0 +1,15 @@
+© ÿrrò chơi bổ trợ khởi động v 3 ị . * b.
+Trò chơi Làm theo hiệu lệnh / Ấ | Ẳ -` `
+L3 \Á m
+Q Chuyễn đội hình hàng dọc thành đội hình vòng tròn
++ Chuẩn bị: Cả lớp đứng theo đội hình hàng dọc.
++ _ Khẩu lệnh: “Thành vòng tròn đi thường (chạy thường) - Bước (Chạy)!”.
++ _ Động tác: Bắt đầu từ tổ trưởng tổ 1, các em lần lượt đi thường (chạy
+thường) theo hướng ngược chiêu kim đồng hỏ, tạo thành vòng tròn.
+Đội hình hàng dọc
+“ã | | ..ấ : JÊ Đi êg s08!
+Chuyển thành đội hình vòng tròn
++ _ Khẩu lệnh: “Đứng lại - Đứng!”.
++ _ Động tác: Tất cả đứng lại, mặt hướng theo chiều vòng tròn.
++ Khẩu lệnh: “Bên trái — Quay!.
++ Động tác: Tất cả thực hiện động tác quay trái để quay mặt vào trong vòng tròn.

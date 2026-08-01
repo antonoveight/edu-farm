@@ -1,0 +1,24 @@
+Bắt gà
+
+Cách chơi:
+
+— Chơi theo nhóm.
+
+— Người chơi bắt đầu từ ô xuất phát. Khi đến lượt, người chơi gieo
+xúc xắc. Đếm số chấm ở mặt trên xúc xắc rồi di chuyển số ô bằng số
+chấm đó. Tìm kết quả phép tính tại ô đi đến rồi bắt một con gà ghi số
+bằng kết quả đó.
+
+—_ Trò chơi kết thúc khi bắt được 5 con gà.
+6+1 10-9 3-3 6-3 7-0 6-†1
+
+`Z NIZ
+6 đà ` & 6+3
+= “Ả.
+/¿® C63
+6+2 G „ " 4+3
+TP nNN..-:' x93 s~2
+2 4
+XUẤT
+1+3 3+5 6-0 7-3 8-8  PHÁT
+109

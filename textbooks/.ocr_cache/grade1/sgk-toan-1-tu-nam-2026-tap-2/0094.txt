@@ -1,0 +1,17 @@
+l2) Bạn Mai xếp que tính thành phép tính nhưng bị sai. Em hãy chuyển chỗ 1
+que tính để có phép tính đúng (vẫn giữ nguyên dấu + hoặc dấu -—).
+i I —L ]'
+: —— '
+| |
+Thỏ và cà rốt.
+_ .
+Đà», che
+2À _
+s> QấN LÈ =
+ác Ỷ=° @®
+X Đ
+" a
++
+Thỏ lấy được cà rốt nếu đi qua hai cửa có hai số cộng với nhau được 10.
+Hỏi có mấy cách đi để thỏ lấy được cà rốt?
+93

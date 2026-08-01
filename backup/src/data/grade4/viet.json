@@ -1,0 +1,62 @@
+[
+  {
+    "q": "Trong câu 'Bông hoa hồng đỏ rực.', từ nào là tính từ?",
+    "a": "ĐỎ RỰC",
+    "c": [
+      "ĐỎ RỰC",
+      "BÔNG",
+      "HOA HỒNG",
+      "LÀ"
+    ]
+  },
+  {
+    "q": "Trong câu 'Bé gái đang học bài.', từ nào là động từ?",
+    "a": "HỌC",
+    "c": [
+      "HỌC",
+      "BÉ GÁI",
+      "BÀI",
+      "ĐANG"
+    ]
+  },
+  {
+    "q": "'Sách vở' là từ ghép hay từ láy?",
+    "a": "TỪ GHÉP",
+    "c": [
+      "TỪ GHÉP",
+      "TỪ LÁY",
+      "TỪ ĐƠN",
+      "THÀNH NGỮ"
+    ]
+  },
+  {
+    "q": "'Lung linh' là từ ghép hay từ láy?",
+    "a": "TỪ LÁY",
+    "c": [
+      "TỪ LÁY",
+      "TỪ GHÉP",
+      "TỪ ĐƠN",
+      "TỪ PHỨC"
+    ]
+  },
+  {
+    "q": "Trong câu 'Con trâu kéo cày.', từ nào là danh từ?",
+    "a": "CON TRÂU",
+    "c": [
+      "CON TRÂU",
+      "KÉO",
+      "CÀY",
+      "CON TRÂU VÀ CÀY"
+    ]
+  },
+  {
+    "q": "'Nhà cửa' thuộc từ loại gì?",
+    "a": "DANH TỪ",
+    "c": [
+      "DANH TỪ",
+      "ĐỘNG TỪ",
+      "TÍNH TỪ",
+      "TRẠNG TỪ"
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+@ 11 Ð CÂU TRÚC LẬP
+` `... ; Sau bài này em sẽ:
+». Nêu được ví dụ cụ thể mô tả cấu trúc lặp.
+øo KHỞI ĐỘNG
+Trong môn Giáo dục thể chát 4, em đã làm quen
+với các bài tập rèn luyện kĩ năng bật, nhảy, trong đó
+em cần thực hiện lặp lại các động tác. Chẳng hạn,
+bài tập nhảy đập bóng (Hình 76) yêu cầu thực hiện
+lặp lại 20 lần động tác nhảy với tay đập bóng.
+Em hãy kể thêm một số việc khác mà em thực hiện
+lặp lại nhiều lần.
+Z ä Hình 76. Bài tập nhảy đập bóng
+Í. cÁu TRÚC LẶP ,
+HOẠT ĐỘNG sở (ấu trúc lặp
+Trong Nhiệm vụ 2 của Bài 10, em đã tạo chương trình điều khiển nhân
+vật mèo di chuyển trên sân kháu và thay đổi động tác (Hình 74). Trong
+chương trình đó, khối lệnh nào được lặp lại và lặp lại bao nhiêu lần?
+Có cách nào để chương trình ngắn gọn hơn không?
+Trong phần Khởi động,
+động tác nhảy đập
+bóng được làm đi làm “
+lại nhiều lần. Một công việc #w#@9ƒ W8
+được thực hiện nhiều lần như Re 3lần được lặp lại
+thế được gọi là công việc có h
+cầu trúc lặp. ¡ @®ö» TA VÀ
+Chương trình ở Hình 77acó S2 =» ®
+một khối lệnh được lặp li kồ tếp dicuyên §Ð) so
+ba lần. Chương trình cólệnh ˆ: tran phực kế tp
+hoặc khối lệnh được lặp lại “Z5” ai @Ề»*
+gọi là chương trình có cáu |. 2
+trúc lặp. Scratch cung cáp e-
+lệnh lặp để điều khiển cấu
+trúc lặp đó như minh hoạ ở a) Khói lệnh lặp lại 3 lần _ b) Sử dụng lệnh lặp (3 lần)
+Hình 77b. Hình 77. Chương trình điêu khiển nhân vật mèo
+56

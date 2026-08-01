@@ -1,0 +1,32 @@
+D
+[9 [ () Ø Tạilieu cam
+t
+° (Trong một hộp có 3 quả bóng gồm 1 quả màu đỏ, 1 quả màu vàng và
+1 quả màu xanh. Không nhìn vào hộp, Ré-bót lấy ra 1 quả bóng bát
+° kì, ghi lại màu của quả bóng đó rồi trả lại vào hộp. Bóng màu đỏ ghi Ð,
+¬ bồng màu xanh ghi X, bóng màu vàng ghi V.
+®
+„
+®=
+=
+*,
+mm
+l©
+E -Ì |
+= .z-
+® ˆ—' L6 —-
+£ _.S — —..
+l - = s
+Š 7 =7 ¬x (|
+lí ®‹® Lư 3NG Ỷ
+> Rô-bốt đã thực hiện 30 lần lầy bóng như trên vả ghỉ được số lần xuất hiện
++ màu của mỗi quả bóng như bảng sau:
+tí Bóngmàuđỏ ÌÐ Ð Ð ÐĐ.Đ.ĐĐĐĐĐ
+E Bóng màu xanh |X X X X.X.X|XjX X.X XjXj
+Bmonauvwg |V V.V.V|V|V.V|V. LÔ LÔ)
+Dựa vào số liệu ghi ở bảng, trả lời các câu hỏi.
+Trong 30 lần Rô-bốt lấy bóng
+.a) Mỗi loại bóng màu đỏ, màu xanh, màu vàng xuất hiện bao nhiêu lằn?
+b) Bóng màu nào xuất hiện nhiều lần nhất, bóng màu nào xuất hiện ít
+lần nhất?
+115

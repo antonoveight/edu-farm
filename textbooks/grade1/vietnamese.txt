@@ -1,0 +1,91 @@
+Q: Chữ cái đầu tiên trong bảng chữ cái tiếng Việt là gì?
+A: A
+C: A, B, C, D
+
+Q: Từ nào viết đúng chính tả tiếng Việt?
+A: nhà
+C: nhà, nà, nhàa, nha`
+
+Q: Bảng chữ cái tiếng Việt có bao nhiêu chữ cái?
+A: 29
+C: 29, 26, 24, 30
+
+Q: Từ nào chỉ tiếng kêu của con mèo?
+A: meo
+C: meo, kêu, cạp, gâu
+
+Q: Chữ cái nào không có trong bảng chữ cái tiếng Việt?
+A: W
+C: W, Ă, Â, Ơ
+
+Q: Từ nào là từ chỉ người trong gia đình?
+A: bà nội
+C: bà nội, con mèo, cây bàng, bút chì
+
+Q: Từ nào là tên con vật?
+A: con trâu
+C: con trâu, cái bàn, học sinh, màu đỏ
+
+Q: Từ nào là màu sắc?
+A: xanh lam
+C: xanh lam, học bài, con bướm, chiếc ghế
+
+Q: Bộ phận nào của cây giúp cây hút nước từ đất?
+A: rễ
+C: rễ, thân, lá, hoa
+
+Q: Con vật nào gáy 'ò ó o' vào buổi sáng?
+A: gà trống
+C: gà trống, con vịt, con mèo, con bò
+
+Q: Bé chọn từ điền vào chỗ trống:
+A: vở
+C: vở, bánh, chơi, ngủ
+
+Q: Điền từ thích hợp:
+A: chim
+C: chim, cá, bướm, vịt
+
+Q: Sắp xếp các từ thành câu đúng:
+A: Bé đi học ngoan
+C: Bé đi học ngoan
+
+Q: Sắp xếp thành câu đúng:
+A: Con chim nhỏ hót líu lo
+C: Con chim nhỏ hót líu lo
+
+Q: Bé hãy luyện gõ phím từ vựng sau:
+A: xin chao
+C: xin chao
+
+Q: Luyện gõ từ tiếng Anh:
+A: apple
+C: apple
+
+Q: Chữ nào đứng đầu trong từ 'Cá'?
+A: C
+C: C, A, O, B
+
+Q: Điền chữ thích hợp vào chỗ trống: 'quả ___áo'
+A: T
+C: T, CH, H, B
+
+Q: Từ nào chỉ loài vật?
+A: MÈO
+C: MÈO, BÀN, BÚT, HOA
+
+Q: Từ nào chỉ hoạt động?
+A: CHẠY
+C: CHẠY, NHÀ, CÁT, ĐẸP
+
+Q: Câu nào dưới đây viết đúng quy tắc viết hoa đầu câu?
+A: Bé thích trồng cây xanh.
+C: Bé thích trồng cây xanh., bé thích trồng cây xanh., Bé thích Trồng Cây xanh., bé Thích Trồng Cây Xanh.
+
+Q: Tiếng nào có chứa vần 'oanh'?
+A: Doanh
+C: Doanh, Bánh, Chanh, Hành
+
+Q: Từ nào chỉ hoạt động viết đúng chính tả?
+A: Chạy nhảy
+C: Chạy nhảy, Trạy nhảy, Chạy nhải, Trạy nhải

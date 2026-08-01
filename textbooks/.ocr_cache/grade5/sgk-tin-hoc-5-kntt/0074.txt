@@ -1,0 +1,24 @@
+— Ba phép toán so sánh: bé hơn, bằng, lớn hơn. Các phép toán này được
+dùng để tạo biểu thức điều kiện. Ví dụ minh hoạ được trình bày trong các
+bảng sau:
+đúng (true) sai (false)
+30 j đứng | sai
+80 | 28 | sa đứng ¡ sai |
+30 | 30 j đúng j sa j sa
+— Một số phép toán đặc biệt khác:
+Phép lấy số Có kết quả là một số tự nhiên
+ngẫu nhiên | Gà MA - NMÃ '2)-- | pát kì ty 1 đến 10.
+Phép chia lầy €ó kết quả là 3, là số dư trong
+dư @--.. @ phép chia 15 cho 4.
+Lưu ý: Scratch không có dấu ngoặc để quy
+định thứ tự thực hiện phép toán. Với biểu thức. 7-5=2
+có nhiều phép toán, khi chạy chương trình, :
+các phép toán được thực hiện theo thứ tự từ _Á--
+trong ra ngoài. Ví dụ minh hoạ như Hình 97. Khối bên ngoài thực hiện sau:
+2+8=10
+Hình 97. Biểu thức lồng nhau
+8: » Scratch cung cấp các phép toán để em tạo biểu thức số, Ì
+: biểu thức điều kiện. ị
+¡« Các phép toán tạo biểu thức thuộc nhóm lệnh :
+¡ _ Các phép toán. ẵ
+74

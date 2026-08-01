@@ -1,0 +1,91 @@
+Q: Trong câu 'Mặt trời đỏ rực như một quả cầu lửa', tác giả sử dụng biện pháp nghệ thuật gì?
+A: SO SÁNH
+C: SO SÁNH, NHÂN HÓA, ẨN DỤ, HOÁN DỤ
+
+Q: Trong câu 'Chị mây mặc áo trắng phất phơ dạo chơi', sự vật nào được nhân hóa?
+A: MÂY
+C: MÂY, ÁO TRẮNG, DẠO CHƠI, PHẤT PHƠ
+
+Q: Tên riêng nào sau đây viết đúng quy tắc chính tả viết hoa?
+A: Trần Quốc Toản
+C: Trần Quốc Toản, trần quốc toản, Trần quốc toản, Trần Quốc toản
+
+Q: Câu 'Bông hoa đẹp quá!' là câu gì?
+A: CÂU CẢM
+C: CÂU CẢM, CÂU HỎI, CÂU KỂ, CÂU KHIẾN
+
+Q: Câu 'Con có thể đọc truyện này không?' là câu gì?
+A: CÂU HỎI
+C: CÂU HỎI, CÂU KỂ, CÂU CẢM, CÂU KHIẾN
+
+Q: Từ 'kiên nhẫn' có nghĩa là gì?
+A: KHÔNG NÓNG VỘI, BỀN BỈ THỰC HIỆN
+C: KHÔNG NÓNG VỘI, BỀN BỈ THỰC HIỆN, NHANH NHẸN HOẠT BÁT, VUI VẺ HÒA ĐỒNG, KHÉO LÉO TINH TẾ
+
+Q: Dấu ngoặc kép ('') dùng để làm gì trong câu?
+A: ĐÁNH DẤU LỜI NÓI TRỰC TIẾP
+C: ĐÁNH DẤU LỜI NÓI TRỰC TIẾP, KẾT THÚC CÂU KỂ, LIỆT KÊ SỰ VẬT, GIẢI THÍCH THÊM
+
+Q: Chọn từ thích hợp điền vào chỗ trống:
+A: yêu
+C: yêu, ghét, bán, quên
+
+Q: Điền từ so sánh phù hợp:
+A: như
+C: như, và, nhưng, bằng
+
+Q: Điền từ phù hợp:
+A: yêu
+C: yêu, mệt, chạy, bơi
+
+Q: Ghép các từ sau thành câu tục ngữ hoàn chỉnh:
+A: Gần mực thì đen gần đèn thì sáng
+C: Gần mực thì đen gần đèn thì sáng
+
+Q: Sắp xếp câu ca dao:
+A: Công cha như núi Thái Sơn
+C: Công cha như núi Thái Sơn
+
+Q: Luyện gõ câu ngắn sau:
+A: em yeu que huong
+C: em yeu que huong
+
+Q: Luyện gõ cụm từ:
+A: ha noi
+C: ha noi
+
+Q: Từ nào trong câu 'Mặt trăng sáng như gương' dùng để so sánh?
+A: NHƯ
+C: NHƯ, MẶT TRĂNG, GƯƠNG, SÁNG
+
+Q: Điền từ vào thành ngữ: 'Có công mài sắt, có ngày nên ___'
+A: KIM
+C: KIM, VÀNG, BẠC, SẮT
+
+Q: Từ 'leo trèo' thuộc kiểu từ gì?
+A: TỪ LÁY
+C: TỪ LÁY, TỪ GHÉP, TỪ ĐƠN, THÀNH NGỮ
+
+Q: Câu 'Bông hoa đẹp như nhung' sử dụng biện pháp tu từ gì?
+A: SO SÁNH
+C: SO SÁNH, NHÂN HÓA, ẨN DỤ, LIỆT KÊ
+
+Q: Từ 'học hành' là từ ghép hay từ láy?
+A: TỪ GHÉP
+C: TỪ GHÉP, TỪ LÁY, TỪ ĐƠN, TỪ PHỨC
+
+Q: Điền từ vào thành ngữ: 'Uống nước nhớ ___'
+A: NGUỒN
+C: NGUỒN, SÔNG, GỐC, RỄ
+
+Q: Bộ phận in đậm trả lời cho câu hỏi nào: 'Mùa hè, hoa phượng vĩ nở đỏ rực góc sân'?
+A: Làm gì?
+C: Làm gì?, Là gì?, Như thế nào?, Ở đâu?
+
+Q: Từ nào viết sai chính tả trong câu: 'Bé rất thích ăn bánh chưng và uống nước chà'?
+A: nước chà
+C: nước chà, bánh chưng, rất thích, ăn bánh
+
+Q: Từ nào cùng nghĩa với từ 'Tổ quốc'?
+A: Đất nước
+C: Đất nước, Thành phố, Làng quê, Núi rừng

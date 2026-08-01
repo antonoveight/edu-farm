@@ -1,0 +1,13 @@
+Tìm các hình tam giác và các hình tứ giác oó trong hình sau:
+Ầ
+lÌ, |
+C D
+trong hình dưới đây, hãy dùng ê ke kiểm tra xem hai bán kính nào của
+hình tròn tâm O tạo thành một góc vuông.
+Ầ
+|
+sẽ TP
+3) Ghép 8 khối lập phương nhỏ được khối lập phương lớn (như hình vẽ). Người
+ta sơn màu đỏ vào tắt cả các mặt của khói lập phương lớn. Hỏi có tắt cả
+bao nhiêu mặt của các khối lập phương nhỏ được sơn màu đỏ?
+66

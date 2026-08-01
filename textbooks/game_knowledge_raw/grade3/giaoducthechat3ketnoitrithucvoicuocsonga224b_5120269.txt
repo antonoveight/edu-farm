@@ -1,0 +1,1900 @@
+Tệp gốc: grade3/giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf
+Mục tiêu: tài nguyên kiến thức thô để tạo game bài tập
+
+## 1. PHẪN 2. VẬN ĐỒNG CƠ BRN (từ trang 9)
+
+### Nội dung kiến thức thô
+- BIẾN ĐỔI ĐỘI HÌNH TỪ MỘT HÀNG DỌC
+- THÀNH HRI, E0 HÀNG DỌC Và NGWỢC LAI
+- Mục tiêu, yêu cầu cần đạt Ỉ
+- Biết và thực hiện được cách biến đổi đội hình từ một hàng dọc thành _.
+- ế hai, ba hàng dọc và ngược lại.
+- _ Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- 49: g f9 @ 9s ©
+- Đ Ð B \ ,
+- _ Chạy nâng cao đùi tại chỗ
+- Trò chơi bỏ trợ khởi động
+- Trò chơi Làm theo hiệu lệnh
+- CÓ Ế) lJ ÂU CÓ Ty
+- JVÑ ` & s“w— _—NÑ À, r
+- L1) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc và ngược lại
+- a) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc
+- _ Khẩu lệnh: “Theo 1, 2; 1, 2 ~ Điểm sót".
+- Cách thực hiện: Làn lượttừ em đầu hàng quay mặt qua trái, ra sau, hô to
+- số của mình theo thứ tự 1, 2; 1, 2;... rồi quay mặt vẻ tư thế ban đầu. Em
+- cuối hàng hô to số của mình và hô “Hết”. ng)
+- _ Khẩu lệnh: “Thành hai hàng dọc - Bước!”.
+- Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một
+- bước chéch sang trái về ngang em số 1, sau đó thu chân phải lên thành
+- 2 }5ÁC là BI) SA NÀ II
+- b) Biến đối đội hình từ hai hàng dọc thành một hàng dọc
+- _ Khẩu lệnh: “Về vị trí cũ - Bước!".
+- _ Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- bước chéch sang phải về vị trí cũ, sau đó thu chân trái xuống thành tư thé
+- Và) | „ @M"I N
+- Biến đổi đội hình từ một hàng dọc thành ba hàng dọc và ngược lại
+- a) Biến đổi đội hình từ một hàng dọc thành ba hàng dọc
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ế hai, ba hàng dọc và ngược lại.
+- _ Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- Cách thực hiện: Làn lượttừ em đầu hàng quay mặt qua trái, ra sau, hô to số của mình theo thứ tự 1, 2; 1, 2;...
+- rồi quay mặt vẻ tư thế ban đầu.
+- Em cuối hàng hô to số của mình và hô “Hết”.
+- Hết _ Khẩu lệnh: “Thành hai hàng dọc - Bước!”.
+- Cách thực hiện: Em số 1 đứng tại chỗ.
+- Em số 2 bước chân trái lên một bước chéch sang trái về ngang em số 1, sau đó thu chân phải lên thành tư thế đứng nghiêm.
+- NG(ể v7 \` x6 2 }5ÁC là BI) SA NÀ II co?
+- v ` b) Biến đối đội hình từ hai hàng dọc thành một hàng dọc _ Khẩu lệnh: “Về vị trí cũ - Bước!".
+- _ Cách thực hiện: Em số 1 đứng tại chỗ.
+- Em số 2 bước chân phải lùi một bước chéch sang phải về vị trí cũ, sau đó thu chân trái xuống thành tư thé đứng nghiêm.
+
+### Cặp nối từ/khái niệm
+- _ Khẩu lệnh => Theo 1, 2; 1, 2 ~ Điểm sót".
+- Cách thực hiện => Làn lượttừ em đầu hàng quay mặt qua trái, ra sau, hô to
+- _ Khẩu lệnh => Thành hai hàng dọc - Bước!”.
+- Cách thực hiện => Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một
+- 2 }5ÁC => BI) SA NÀ II
+- _ Khẩu lệnh => Về vị trí cũ - Bước!".
+- _ Cách thực hiện => Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- _ Khẩu lệnh => Theo 1, 2, 3; 1, 2, 3—~ Điểm sốt".
+- _ Cách thực hiện => mm s) Œœ) 3. Hết )
+- Khẩu lệnh => Thành ba hàng dọc —- Bước!".
+
+### Đoạn gõ văn bản
+- BIẾN ĐỔI ĐỘI HÌNH TỪ MỘT HÀNG DỌC THÀNH HRI, E0 HÀNG DỌC Và NGWỢC LAI Mục tiêu, yêu cầu cần đạt Ỉ Biết và thực hiện được cách biến đổi đội hình từ một hàng dọc thành _. ế hai, ba hàng dọc và ngược lại. _ Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- L1) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc và ngược lại a) Biến đổi đội hình từ một hàng dọc thành hai hàng dọc _ Khẩu lệnh: “Theo 1, 2; 1, 2 ~ Điểm sót". Cách thực hiện: Làn lượttừ em đầu hàng quay mặt qua trái, ra sau, hô to số của mình theo thứ tự 1, 2; 1, 2;... rồi quay mặt vẻ tư thế ban đầu. Em cuối hàng hô to số của mình và hô “Hết”. ng)
+- _ Khẩu lệnh: “Thành hai hàng dọc - Bước!”. Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một bước chéch sang trái về ngang em số 1, sau đó thu chân phải lên thành tư thế đứng nghiêm.
+- b) Biến đối đội hình từ hai hàng dọc thành một hàng dọc _ Khẩu lệnh: “Về vị trí cũ - Bước!". _ Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một bước chéch sang phải về vị trí cũ, sau đó thu chân trái xuống thành tư thé
+
+### Từ khóa
+c\Ù ð, Mục tiêu, yêu cầu cần đạt Ỉ, ế hai, _ Đoàn kết, nghiêm túc, tích cực trong tập luyện., khởi động, Xoay các khớp, Ấn sy Š, g f9 @ 9s ©, j”mÑ, Đ Ð B \, Ổ Ô si ke, ÂÑ“ N AC K, ÿ k1 "€4, à Ø s, lJ ÂU CÓ Ty, JVÑ ` & s“w, me. "M. &, P.0 P PB, _ Khẩu lệnh, Theo 1, 2 ~ Điểm sót".
+
+## 2. Luyện tập nhóm (từ trang 14)
+
+### Nội dung kiến thức thô
+- 5 2 ..= nan S9
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- 5 2 ..= nan S9 YE LaavY 2C vuy
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+NO 222 9a, SN AT sa?, 5 2 ..= nan S9, YE LaavY 2C vuy
+
+## 3. Luyện tập cả lớp (từ trang 14)
+
+### Nội dung kiến thức thô
+- Trò chơi rèn luyện đội hình đội ngũ
+- Trò chơi Đi qua suói
+- Hình nào dưới đây thể hiện cách biến đổi đội hình từ một hàng dọc
+- MS „ lÍ |_À xinh.
+- Đj ko dổ :Ẻ 9 Dị)
+- Q Mỗi hình dưới đây thê hiện cách biến đổi đội hình gì?
+- hoi) ttì tq " MWự
+- Em cùng các bạn tổ chức chơi trò chơi trong đó sử dụng cách biến
+- đổi đội hình từ một hàng dọc thành hai hoặc ba hàng dọc.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đj ko dổ :Ẻ 9 Dị) 2À, Q Mỗi hình dưới đây thê hiện cách biến đổi đội hình gì?
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hình nào dưới đây thể hiện cách biến đổi đội hình từ một hàng dọc thành hai hàng dọc?
+- Em cùng các bạn tổ chức chơi trò chơi trong đó sử dụng cách biến đổi đội hình từ một hàng dọc thành hai hoặc ba hàng dọc.
+
+### Từ khóa
+Trò chơi Đi qua suói, QỤ € ©, lò ke, CB XP Đích, thành hai hàng dọc?, MS „ lÍ |_À xinh., Đj ko dổ, Ẻ 9 Dị, ttì tq " MWự, 220 ÌgN S0, SrxtRTPf xì Lái
+
+## 4. BÀI 2 (từ trang 16)
+
+### Nội dung kiến thức thô
+- BIẾN ĐỔI ĐỘI HÌNH TỪ MỘT HÀNG NGhNG
+- THÀNH HÂẪI, 6n HÀNG NGñNG Và NGWỢC LAI
+- Mục tiêu, yêu cầu cần đạt
+- Ê —_Biếtvàthựchiện được cáchbiến đổi đội hình từ một
+- hàng ngang thành hai, ba hàng ngang và ngược lại. \
+- Đoàn kết, nghiêm túc, tích cực trong tập luyện. \
+- Xoay các khớp + _ Đi theo vòng tròn, vỗ tay
+- rò chơi bỏ trợ khởi động
+- Biến đổi đội hình từ một hàng ngang thành hai hàng ngang và ngược lại
+- a) Biến đối đội hình từ một hàng ngang thành hai hàng ngang
+- _ Khẩu lệnh: "Theo 1, 2; 1, 2 - Điểm sói".
+- _ Cách thực hiện: Lần lượt từ Œ) (2 (ygmư¬——_
+- em đầu hàng quay mặt qua Sẫ», xa2 (1) (2 Hết)
+- trái, hô to số của mình theo ẾN say.) cô.
+- thứ tự 1, 2; 1, 2... rồi quay Ị In CV VÊÀ
+- mặt về tư thế ban đầu. Em L ¡ TT
+- cuối hàng hô to số của mình b- ì
+- và hô “Hết”. ⁄ c
+- _ Khẩu lệnh: “Thành hai hàng ngang — Bước!".
+- _ Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- bước chếch sang phải về sau em số 1, sau đó thu chân trái xuống thành
+- lÄ M2 SẤc bo, Về VJÁY DG
+- LÀI là Ñ “sụt Iš
+- UỐ l§ - CÓ CƠ
+- b) Biến đồi đội hình từ hai hàng ngang thành một hàng ngang
+- _ Khẩu lệnh: “Về vị trí cũ - Bước!".
+- Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một
+- bước chếch sang trái vê vị trí cũ, sau đó thu chân phải lên thành tư thê
+- NƑ \Ụ \ | \
+- 9 Biến đổi đội hình từ một hàng ngang thành ba hàng ngang và ngược lại
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- _ Cách thực hiện: Lần lượt từ Œ) (2 (ygmư¬——_ em đầu hàng quay mặt qua Sẫ», xa2 (1) (2 Hết) trái, hô to số của mình theo ẾN say.) cô.
+- rồi quay Ị In CV VÊÀ mặt về tư thế ban đầu.
+- Em L ¡ TT cuối hàng hô to số của mình b- ì và hô “Hết”.
+- c hy) Ề _ Khẩu lệnh: “Thành hai hàng ngang — Bước!".
+- _ Cách thực hiện: Em số 1 đứng tại chỗ.
+- Em số 2 bước chân phải lùi một bước chếch sang phải về sau em số 1, sau đó thu chân trái xuống thành tư thế đứng nghiêm.
+- Cách thực hiện: Em số 1 đứng tại chỗ.
+- Em số 2 bước chân trái lên một bước chếch sang trái vê vị trí cũ, sau đó thu chân phải lên thành tư thê đứng nghiêm.
+- Em cuối hàng z c hô to số của mình và XuHế- ^° bế hô "Hết".
+- k _ Khẩu lệnh: “Thành ba hàng ngang —- Bước!" _ Cách thực hiện: Em số 2 đứng tại chỗ.
+- Em số 1 bước chân trái tiền một bước chéch sang trái lên trước em só 2, sau đó thu chân phải lên thành tư thế đứng nghiêm.
+
+### Cặp nối từ/khái niệm
+- _ Khẩu lệnh => Theo 1, 2; 1, 2 - Điểm sói".
+- _ Cách thực hiện => Lần lượt từ Œ) (2 (ygmư¬——_
+- _ Khẩu lệnh => Thành hai hàng ngang — Bước!".
+- _ Cách thực hiện => Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- _ Khẩu lệnh => Về vị trí cũ - Bước!".
+- Cách thực hiện => Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một
+- Khẩu lệnh => Theo 1, 2, 3; 1, 2, 3— Điểm só!".
+- Cách thực hiện => Lần 212 5¬“
+- _ Khẩu lệnh => Thành ba hàng ngang —- Bước!"
+- _ Cách thực hiện => Em số 2 đứng tại chỗ. Em số 1 bước chân trái tiền một
+
+### Đoạn gõ văn bản
+- BIẾN ĐỔI ĐỘI HÌNH TỪ MỘT HÀNG NGhNG THÀNH HÂẪI, 6n HÀNG NGñNG Và NGWỢC LAI Mục tiêu, yêu cầu cần đạt Ê —_Biếtvàthựchiện được cáchbiến đổi đội hình từ một hàng ngang thành hai, ba hàng ngang và ngược lại. \ Đoàn kết, nghiêm túc, tích cực trong tập luyện. \
+- Biến đổi đội hình từ một hàng ngang thành hai hàng ngang và ngược lại a) Biến đối đội hình từ một hàng ngang thành hai hàng ngang _ Khẩu lệnh: "Theo 1, 2; 1, 2 - Điểm sói". _ Cách thực hiện: Lần lượt từ Œ) (2 (ygmư¬——_ em đầu hàng quay mặt qua Sẫ», xa2 (1) (2 Hết) trái, hô to số của mình theo ẾN say.) cô. thứ tự 1, 2; 1, 2... rồi quay Ị In CV VÊÀ mặt về tư thế ban đầu. Em L ¡ TT cuối hàng hô to số của mình b- ì
+- _ Khẩu lệnh: “Thành hai hàng ngang — Bước!". _ Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một bước chếch sang phải về sau em số 1, sau đó thu chân trái xuống thành tư thế đứng nghiêm. lÄ M2 SẤc bo, Về VJÁY DG
+- b) Biến đồi đội hình từ hai hàng ngang thành một hàng ngang _ Khẩu lệnh: “Về vị trí cũ - Bước!". Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân trái lên một bước chếch sang trái vê vị trí cũ, sau đó thu chân phải lên thành tư thê
+
+### Từ khóa
+BÀI 2, Mục tiêu, yêu cầu cần đạt, hàng ngang thành hai, Đoàn kết, nghiêm túc, Khởi động, vỗ tay, Trò chơi Chọi gà, _ Khẩu lệnh, Theo 1, Điểm sói"., _ Cách thực hiện, Lần lượt từ Œ, ygmư¬, 2 Hết, trái, thứ tự 1, và hô “Hết”. ⁄ c, Thành hai hàng ngang, Bước!"., tư thế đứng nghiêm., lÄ M2 SẤc bo, LÀI là Ñ “sụt Iš
+
+## 5. Luyện tập nhóm (từ trang 20)
+
+### Nội dung kiến thức thô
+- LẺ (| /MỊ lát HAI
+- e® Ms. -Wšš lÑ LẺ
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- HE SH A2 A22 LẺ (| /MỊ lát HAI e® Ms.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+HE SH A2 A22, MỊ lát HAI, e® Ms., Wšš lÑ LẺ
+
+## 6. Luyện tập cả lóp (từ trang 20)
+
+### Nội dung kiến thức thô
+- Trò chơi rèn luyện đội hình đội ngũ
+- é kề lu NI S., Mở 6 K. ” `ẳ
+- L1) Hình nào dưới đây thể hiện cách biến đổi đội hình từ một hàng
+- ngang thành hai hàng ngang?
+- An A25^^^ +82 a9, “sế
+- 8 ụ __ _ c=
+- L2) Mỗi hình dưới đây thể hiện cách biến đổi đội hình gì?
+- RE. "1M l là ạì )v
+- Em cùng các bạn biến đổi đội hình từ một hàng ngang thành hai
+- hoặc ba hàng ngang trong lúc đồng diễn thể dục.
+- H đâf ' 0N T CN JƑJñ NGỤU T€ LAI
+- CÓ T AL//( sụctiêu,yêucâu cần đạt
+- Ê —_Biếtvàthựchiện được cáchbiến đổi đội hình từmột
+- vòng tròn thành hai vòng tròn và ngược lại. \
+- _Đoàn kết, nghiêm túc ích cực trong tập luyện. `
+- _ Xoay các khớp + _ Giậm chân tại chỗ, vỗ tay
+- tỳ Ầ hỳ Ỉ | ụ "n : Ỷ
+- sĩ TẾ: | lK J
+- các [ b/ ' JÙ
+- trò chơi bồ trợ khởi động
+- Trò chơi Chạy nhanh theo só Số4
+- ___- NE.--------—<«<‹Ặ( WN / NGON ẾI
+- Báén dỏi đội hình từ một vòng tròn thành hai vòng tròn
+- __ Khảu lệnh: "Bạn A làm chuẩn, theo 1, 2; 1, 2~ Điểm sói".
+- Cách thực hiện: Lần lượt từ em A quay mặt qua trái, hô to số của mình
+- THẾ cử, tự 1,2;1,2:... hộ quay mặt về tư thê ban đâu. Em cuôi cùng hô
+- o số của mình và hô “Hết”.
+- _ Khẩu lệnh: “Thành hai vòng tròn — Bước!”.
+- Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- bước chếch sang phải về sau em só 1, sau đó thu chân trái xuống thành
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Trò chơi rèn luyện đội hình đội ngũ Trò chơi Nhảy ô é kề lu NI S., Mở 6 K.
+- ẳ CB XP =0 3 } L1) Hình nào dưới đây thể hiện cách biến đổi đội hình từ một hàng ngang thành hai hàng ngang?
+- An A25^^^ +82 a9, “sế 8 ụ __ _ c= L2) Mỗi hình dưới đây thể hiện cách biến đổi đội hình gì?
+- 1M l là ạì )v Em cùng các bạn biến đổi đội hình từ một hàng ngang thành hai hoặc ba hàng ngang trong lúc đồng diễn thể dục.
+- H đâf ' 0N T CN JƑJñ NGỤU T€ LAI CÓ T AL//( sụctiêu,yêucâu cần đạt Ê —_Biếtvàthựchiện được cáchbiến đổi đội hình từmột vòng tròn thành hai vòng tròn và ngược lại.
+- _Đoàn kết, nghiêm túc ích cực trong tập luyện.
+- Hà Ào24M4ztAlf4scvenzkrsodiellodkboelsvier, Báén dỏi đội hình từ một vòng tròn thành hai vòng tròn __ Khảu lệnh: "Bạn A làm chuẩn, theo 1, 2; 1, 2~ Điểm sói".
+- Cách thực hiện: Lần lượt từ em A quay mặt qua trái, hô to số của mình THẾ cử, tự 1,2;1,2:...
+- hộ quay mặt về tư thê ban đâu.
+- Em cuôi cùng hô o số của mình và hô “Hết”.
+- 1) (2.Hết) n «& A(1) _ Khẩu lệnh: “Thành hai vòng tròn — Bước!”.
+- Cách thực hiện: Em số 1 đứng tại chỗ.
+
+### Cặp nối từ/khái niệm
+- __ Khảu lệnh => Bạn A làm chuẩn, theo 1, 2; 1, 2~ Điểm sói".
+- Cách thực hiện => Lần lượt từ em A quay mặt qua trái, hô to số của mình
+- _ Khẩu lệnh => Thành hai vòng tròn — Bước!”.
+- Cách thực hiện => Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+- _ Khẩu lệnh => Về vị trí cũ - Bước!"
+- Cách thực hiện => Em số đứng tại chỗ. Em số 2 bước chân trái lên một
+
+### Đoạn gõ văn bản
+- L1) Hình nào dưới đây thể hiện cách biến đổi đội hình từ một hàng ngang thành hai hàng ngang? An A25^^^ +82 a9, “sế
+- L2) Mỗi hình dưới đây thể hiện cách biến đổi đội hình gì? RE. "1M l là ạì )v Em cùng các bạn biến đổi đội hình từ một hàng ngang thành hai hoặc ba hàng ngang trong lúc đồng diễn thể dục. H đâf ' 0N T CN JƑJñ NGỤU T€ LAI CÓ T AL//( sụctiêu,yêucâu cần đạt Ê —_Biếtvàthựchiện được cáchbiến đổi đội hình từmột vòng tròn thành hai vòng tròn và ngược lại. \ _Đoàn kết, nghiêm túc ích cực trong tập luyện. `
+- trò chơi bồ trợ khởi động Trò chơi Chạy nhanh theo só Số4 ___- NE.--------—<«<‹Ặ( WN / NGON ẾI
+- lun... Hà Ào24M4ztAlf4scvenzkrsodiellodkboelsvier, Báén dỏi đội hình từ một vòng tròn thành hai vòng tròn __ Khảu lệnh: "Bạn A làm chuẩn, theo 1, 2; 1, 2~ Điểm sói". Cách thực hiện: Lần lượt từ em A quay mặt qua trái, hô to số của mình THẾ cử, tự 1,2;1,2:... hộ quay mặt về tư thê ban đâu. Em cuôi cùng hô o số của mình và hô “Hết”.
+
+### Từ khóa
+Trò chơi Nhảy ô, é kề lu NI S., Mở 6 K. ” `ẳ, CB XP =0, ngang thành hai hàng ngang?, An A25^^^ +82 a9, 8 ụ __ _ c=, RE. "1M l là ạì, sụctiêu, yêucâu cần đạt, _Đoàn kết, ____, khởi động, vỗ tay, đà svẰ_, lẽ vé, sĩ TẾ, lK J, ly LA mMN, các [ b, s 2G EU VẺ, bế LÁ, __ Khảu lệnh, Bạn A làm chuẩn
+
+## 7. Luyện tập nhóm (từ trang 24)
+
+### Nội dung kiến thức thô
+- lỡ ì ly + ` Ái) Í ^ l
+- L2) Trò chơi rèn luyện đội hình đội ngũ
+- li Xứ cẩn c8, ==- ==
+- m \ th | @P * ›
+- Mỗi hình dưới đây thể hiện cách biến đổi đội hình gì?
+- Em cùng các bạn biến đôi đội hình từ một vòng tròn thành hai vòng
+- tròn đề chơi trò chơi.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Em cùng các bạn biến đôi đội hình từ một vòng tròn thành hai vòng tròn đề chơi trò chơi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Mỗi hình dưới đây thể hiện cách biến đổi đội hình gì? Em cùng các bạn biến đôi đội hình từ một vòng tròn thành hai vòng tròn đề chơi trò chơi.
+
+### Từ khóa
+Í ^ l, Trò chơi Vòng fròn, li Xứ cẩn c8, S§k», tròn đề chơi trò chơi., _ tàng ắ
+
+## 8. BÀI 4 (từ trang 27)
+
+### Nội dung kiến thức thô
+- ĐỘNG TÁC ĐI ĐỀU, ĐỨNG LậI
+- Ê Mục tiêu, yêu cầu cần đạt
+- _ Biết và thực hiện được động tác đi đều, đứng lại.
+- Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- _ Xoay các khớp + _ Đi theo vòng tròn, vỗ tay theo nhịp 1 — 2
+- _©) LÑ Đà À =
+- Trò chơi bỏ trợ khởi động
+- Trò chơi Người cuối cùng
+- _ Khẩu lệnh: “Đi đều - Bước!".
+- _ Nhịp 1: Bước chân trái ra trước khoảng 20 - 30 cm, chạm đất (đúng vào
+- nhịp 1), đồng thời nâng đùi phải lên, tay phải đánh thắng ra sau, tay trái
+- Nhịp 2: Tiếp theo nhịp 1, bước chân phải ra trước chạm đất (đúng vào
+- nhịp 2), đông thời nâng đùi trái lên, tay trái đánh thẳng ra sau, tay phải
+- À CỔ ( c(Ó.. Án
+- TTCB Nhịp 1 Nhịp 2
+- Khẩu lệnh: “Đứng lại - Đứng!"
+- Động tác: Dự lệnh “Đứng lại” khi bàn chân phải chạm đất, tiếp tục thực hiện
+- nhịp 1. Động lệnh “Đứng!” vào nhịp 2 ké tiếp (bàn chân phải chạm đất),
+- thực hiện tiếp nhịp 1 rồi thu chân phải về thành tư thế đứng nghiêm.
+- T ) c<T kh (À
+- Đứng lại” Ộ “Đứng” ˆ Đứng nghiêm
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐỘNG TÁC ĐI ĐỀU, ĐỨNG LậI Ê Mục tiêu, yêu cầu cần đạt _ Biết và thực hiện được động tác đi đều, đứng lại.
+- Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- Nhịp 2: Tiếp theo nhịp 1, bước chân phải ra trước chạm đất (đúng vào nhịp 2), đông thời nâng đùi trái lên, tay trái đánh thẳng ra sau, tay phải gập trước ngực.
+- Án TTCB Nhịp 1 Nhịp 2 bông tác đứng lại Khẩu lệnh: “Đứng lại - Đứng!" Động tác: Dự lệnh “Đứng lại” khi bàn chân phải chạm đất, tiếp tục thực hiện nhịp 1.
+- Động lệnh “Đứng!” vào nhịp 2 ké tiếp (bàn chân phải chạm đất), thực hiện tiếp nhịp 1 rồi thu chân phải về thành tư thế đứng nghiêm.
+- Nc È tả tả T ) c<T kh (À Ñ\ / Đứng lại” Ộ “Đứng” ˆ Đứng nghiêm
+
+### Cặp nối từ/khái niệm
+- _ Khẩu lệnh => Đi đều - Bước!".
+- _ Nhịp 1 => Bước chân trái ra trước khoảng 20 - 30 cm, chạm đất (đúng vào
+- Nhịp 2 => Tiếp theo nhịp 1, bước chân phải ra trước chạm đất (đúng vào
+- Khẩu lệnh => Đứng lại - Đứng!"
+- Động tác => Dự lệnh “Đứng lại” khi bàn chân phải chạm đất, tiếp tục thực hiện
+
+### Đoạn gõ văn bản
+- ĐỘNG TÁC ĐI ĐỀU, ĐỨNG LậI Ê Mục tiêu, yêu cầu cần đạt _ Biết và thực hiện được động tác đi đều, đứng lại. Đoàn kết, nghiêm túc, tích cực trong tập luyện.
+- _ Nhịp 1: Bước chân trái ra trước khoảng 20 - 30 cm, chạm đất (đúng vào nhịp 1), đồng thời nâng đùi phải lên, tay phải đánh thắng ra sau, tay trái
+- Nhịp 2: Tiếp theo nhịp 1, bước chân phải ra trước chạm đất (đúng vào nhịp 2), đông thời nâng đùi trái lên, tay trái đánh thẳng ra sau, tay phải
+- Khẩu lệnh: “Đứng lại - Đứng!" Động tác: Dự lệnh “Đứng lại” khi bàn chân phải chạm đất, tiếp tục thực hiện nhịp 1. Động lệnh “Đứng!” vào nhịp 2 ké tiếp (bàn chân phải chạm đất), thực hiện tiếp nhịp 1 rồi thu chân phải về thành tư thế đứng nghiêm.
+
+### Từ khóa
+BÀI 4, ĐỘNG TÁC ĐI ĐỀU, Ê Mục tiêu, yêu cầu cần đạt, đứng lại., Đoàn kết, nghiêm túc, tích cực trong tập luyện., khỏi động, vỗ tay theo nhịp 1, LÑ Đà À =, _ lập .', lở ĐI Vài, TD 1S, Trò chơi Người cuối cùng, bông tác đi đều, Đứng nghiêm., _ Khẩu lệnh, Đi đều, Bước!"., Động tác, _ Nhịp 1, 30 cm, chạm đất
+
+## 9. Luyện tập C7 ` (từ trang 29)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- 5 cò /“S “ À3 Á
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- I Luyện tập cá nhân Luyện tập cặp đôi Ð® £` c..
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Gêo ⁄, _. I, Ð® £` c.. €@, 5 cò, S “ À3 Á
+
+## 10. Luyện tập nhóm c= (từ trang 29)
+
+### Nội dung kiến thức thô
+- Trò chơi rèn luyện đội hình đội ngũ
+- Trò chơi Chạy theo hình tam giác
+- L1) Hình nào dưới đây thể hiện đúng động tác đi đều?
+- l2) Hình nào dưới đây thể hiện đúng động tác đứng lại?
+- l3) Em cùng các bạn đi
+- đều dự thi môn diễu
+- hành thể thao ở Hội = một "2o ⁄6
+- khoẻ Phù Đồng. ` R P
+- 2 ST gài TẬP THỂ Dục
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- l2) Hình nào dưới đây thể hiện đúng động tác đứng lại?
+- l3) Em cùng các bạn đi đều dự thi môn diễu hành thể thao ở Hội = một "2o ⁄6 khoẻ Phù Đồng.
+- œ ¬.ag 2 ST gài TẬP THỂ Dục
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- L1) Hình nào dưới đây thể hiện đúng động tác đi đều? l2) Hình nào dưới đây thể hiện đúng động tác đứng lại? l3) Em cùng các bạn đi đều dự thi môn diễu hành thể thao ở Hội = một "2o ⁄6 khoẻ Phù Đồng. ` R P
+
+### Từ khóa
+_‹ © SẠC AASBipG, W2 s, Em cùng các bạn đi, đều dự thi môn diễu, ỤỜ Ðxv ?, œ ¬.ag
+
+## 11. BÀI 1 (từ trang 31)
+
+### Nội dung kiến thức thô
+- ĐỘNG TÁC VƯƠN THỞ, ĐỘNG TÁC ThY
+- Mục tiêu, yêu cầu cần đạt
+- Biết và thực hiện được động tác vươn thở, động
+- Nghiêm túc, tích cực trong tập luyện; vui vẻ,
+- hoà đồng với mọi người.
+- _Ñ- Ũ E Ð tò \ , Ô&
+- _ Chạy tại chỗ, vỗ tay
+- Trò chơi bỏ trợ khởi động
+- Trò chơi Chui qua “hằm”
+- _— ¡ NẠI li. 9.) =
+- L1) Động tác vươn thở
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+- Đứng nghiêm Chân trái bước sang VềTTCB,thởra Chân tráibước Về TTCB,
+- ngang rộng bằng vai, từ từ bằng miệng lên trước, chân thở ra từ
+- hai tay đưa ra trước, phải kiếng gót, hai từ bằng
+- bàn tay sấp, hít sâu tay đưa lên cao miệng
+- vào bằng mũi chếch chữ V, lòng
+- Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5, 7 đổi chân.
+- ˆ « = _—T 1
+- Đứng nghiêm Chân trái bước sang Hai tay đưasang Hai tayhạ xuống Về TTCB
+- ngang rộng bằng vai, ngang - lên cao dang ngang,
+- hai tay đưa ra trước chếch chữ V, bàn tay sắp, mắt
+- vỗ vào nhau lòng bàn tay nhìn thẳng
+- Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐỘNG TÁC VƯƠN THỞ, ĐỘNG TÁC ThY Mục tiêu, yêu cầu cần đạt Biết và thực hiện được động tác vươn thở, động tác tay.
+- Nghiêm túc, tích cực trong tập luyện; vui vẻ, hoà đồng với mọi người.
+- 2S Mm.:ẽ sŠ“ F L1) Động tác vươn thở ft -® sử U Á bU } Với!
+- IP8 K i MÔ _— _— — “.Zầ..
+
+### Cặp nối từ/khái niệm
+- Nhịp 5, 6, 7, 8 => Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5, 7 đổi chân.
+- ngang rộng bằng vai, ngang => lên cao dang ngang,
+- Nhịp 5, 6, 7, 8 => Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+
+### Đoạn gõ văn bản
+- ĐỘNG TÁC VƯƠN THỞ, ĐỘNG TÁC ThY Mục tiêu, yêu cầu cần đạt Biết và thực hiện được động tác vươn thở, động
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Chân trái bước sang VềTTCB,thởra Chân tráibước Về TTCB, ngang rộng bằng vai, từ từ bằng miệng lên trước, chân thở ra từ hai tay đưa ra trước, phải kiếng gót, hai từ bằng bàn tay sấp, hít sâu tay đưa lên cao miệng vào bằng mũi chếch chữ V, lòng
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Chân trái bước sang Hai tay đưasang Hai tayhạ xuống Về TTCB ngang rộng bằng vai, ngang - lên cao dang ngang, hai tay đưa ra trước chếch chữ V, bàn tay sắp, mắt vỗ vào nhau lòng bàn tay nhìn thẳng
+
+### Từ khóa
+BÀI 1, ĐỘNG TÁC VƯƠN THỞ, ĐỘNG TÁC ThY, Mục tiêu, yêu cầu cần đạt, động, tác tay., Nghiêm túc, tích cực trong tập luyện, vui vẻ, hoà đồng với mọi người., khởi động, Xoay các khớp, 92 2¬, L1 +“, 62ˆ A, đQ ~| ®%, Ũ E Ð tò \, _ Chạy tại chỗ, vỗ tay, Trò chơi Chui qua “hằm”, v«..... `, W® 3, NẠI li. 9.
+
+## 12. Luyện tập (từ trang 33)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- Trò chơi bỏ trợ khéo léo
+- Trò chơi Đua ô tô
+- Pp Ồ© €@)›®© đeodÏ } “`
+- l Í ì Í Ũ
+- Ã KỆ _—— GBXP —— Đích
+- Hình nào dưới đây thể hiện đúng nhịp 3 của động tác vươn thở?
+- Hình nào dưới đây thể hiện đúng nhịp 2 của động tác tay?
+- Em cùng các bạn thực =
+- hiện bài tập thể dục ở khu TTTIT1iirn r.Œ
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Ã KỆ _—— GBXP —— Đích Hình nào dưới đây thể hiện đúng nhịp 3 của động tác vươn thở?
+- 1 Ầ Hình nào dưới đây thể hiện đúng nhịp 2 của động tác tay?
+- Em cùng các bạn thực = hiện bài tập thể dục ở khu TTTIT1iirn r.Œ vui chơi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Ã KỆ _—— GBXP —— Đích Hình nào dưới đây thể hiện đúng nhịp 3 của động tác vươn thở?
+- Hình nào dưới đây thể hiện đúng nhịp 2 của động tác tay? Em cùng các bạn thực = hiện bài tập thể dục ở khu TTTIT1iirn r.Œ
+
+### Từ khóa
+1Ó » h5, tá» l, ám 1Ö »í, k Luyện tập nhóm, Trò chơi Đua ô tô, Pp Ồ© €@, đeodÏ } “`, l Í ì Í Ũ, th. +, Ã KỆ _, Đích, vui chơi. TQ t2
+
+## 13. BÀI 2 (từ trang 35)
+
+### Nội dung kiến thức thô
+- ĐỘNG TÁC CHÂN, ĐỘNG TÁC LƯỜN,
+- Mục tiêu, yêu cầu cần đạt Ñ:.
+- Biết và thực hiện được động tác chân, động tác
+- Vấn) lườn, động tác bụng.
+- hn : — Nghiêm túc, tự giác, tích cực trong tập luyện, có ý
+- thứcthường xuyên vận động để nâng cao sức khoẻ.
+- Xoay các khớp + _ Tay chống hông, đứng lên, ngồi xuống
+- ÿTrò chơi bổ trợ khởi động
+- Trò chơi Chạy ngược chiều theo tín hiệu
+- K` TINÌ = SN —` ,
+- FT : CN ¬ ý) x ()
+- z l8: & Ð TQ L7 VN)
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+- Đứng nghiêm Chân trái đưa Hạ chân trái chạm Về nhịp 1 Về TTCB
+- sang ngang (bàn đất khoảng cách rộng
+- chân không chạm hơn vai, khuyu gối,
+- đất), hai tay dang chân phải thăng, hai
+- ngang, bàn tay sắp tay chống hông
+- Nhịp 5, 6, 7, 8: Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+- Đứng nghiêm Chân trái bước Nghiêng lườn sang trái, Về nhp1 Về TTCB
+- sang ngang rộng đồng thời hai tay gập,
+- bằng vai, hai tay bàn tay để sau đầu,
+- dang ngang, bàn trọng tâm dồn vào chân
+- tay ngửa phải, kiễng gót chân trái
+- Nhịp 5, 6, 7, 8: Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân, nhịp 6 đổi hướng
+- Ể, \Š ) ; >„ Ấ)
+- x "mẲœ< —Ñ ^) _Ê —S “
+- Đứng nghiêm Chân trái bước Cúi người, gập Đứng thẳng,hai Về TTCB
+- sang ngang rộng thân, hai chân tay dang ngang,
+- hơn vai, haitay thẳng, haitayvới bàn tay ngửa,
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐỘNG TÁC CHÂN, ĐỘNG TÁC LƯỜN, ĐỘNG TÁC BỤNG Mục tiêu, yêu cầu cần đạt Ñ:.
+- Biết và thực hiện được động tác chân, động tác Vấn) lườn, động tác bụng.
+- hn : — Nghiêm túc, tự giác, tích cực trong tập luyện, có ý thứcthường xuyên vận động để nâng cao sức khoẻ.
+
+### Cặp nối từ/khái niệm
+- z l8 => Ð TQ L7 VN)
+- Nhịp 5, 6, 7, 8 => Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+- Nhịp 5, 6, 7, 8 => Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân, nhịp 6 đổi hướng
+
+### Đoạn gõ văn bản
+- Mục tiêu, yêu cầu cần đạt Ñ:. Biết và thực hiện được động tác chân, động tác Vấn) lườn, động tác bụng. hn : — Nghiêm túc, tự giác, tích cực trong tập luyện, có ý thứcthường xuyên vận động để nâng cao sức khoẻ.
+- Xoay các khớp + _ Tay chống hông, đứng lên, ngồi xuống ÿTrò chơi bổ trợ khởi động Trò chơi Chạy ngược chiều theo tín hiệu
+- z l8: & Ð TQ L7 VN) TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Chân trái đưa Hạ chân trái chạm Về nhịp 1 Về TTCB sang ngang (bàn đất khoảng cách rộng chân không chạm hơn vai, khuyu gối, đất), hai tay dang chân phải thăng, hai ngang, bàn tay sắp tay chống hông Nhịp 5, 6, 7, 8: Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Chân trái bước Nghiêng lườn sang trái, Về nhp1 Về TTCB sang ngang rộng đồng thời hai tay gập, bằng vai, hai tay bàn tay để sau đầu, dang ngang, bàn trọng tâm dồn vào chân tay ngửa phải, kiễng gót chân trái Nhịp 5, 6, 7, 8: Như 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân, nhịp 6 đổi hướng
+
+### Từ khóa
+BÀI 2, ĐỘNG TÁC CHÂN, ĐỘNG TÁC LƯỜN, ĐỘNG TÁC BỤNG, Mục tiêu, yêu cầu cần đạt Ñ, động tác, lườn, động tác bụng., Nghiêm túc, tự giác, tích cực trong tập luyện, có ý, Q khởi động, đứng lên, ngồi xuống, to v24 2, lỂ Z7 \ Ả, sài sˆ_ À, K` TINÌ = SN, CN ¬ ý, z l8, Ð TQ L7 VN, sang ngang
+
+## 14. Luyện tập (từ trang 37)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ly] t& Ð) _§ bŠ Luyện tập cá nhân Luyện tập cặp đôi _ Hó
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+N.. ly], t& Ð, _§ bŠ, _ Hó
+
+## 15. Luyện tập nhóm (từ trang 37)
+
+### Nội dung kiến thức thô
+- rò chơi bỏ trợ khéo léo
+- Trò chơi Chim về tỗ
+- lệ | MS. 2 ` bo
+- L1) Hình nào dưới đây thể hiện đúng nhịp 1 của động tác chân?
+- đà Mỗi hình dưới đây thể hiện đúng nhịp 2 của động tác nào?
+- Em cùng các bạn tập thể dục trong lúc giải lao để tránh mệt mỏi.
+- ˆ ï - l=' xŠ bẻ K h ồ
+- bà E N ˆ` là
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- rò chơi bỏ trợ khéo léo Trò chơi Chim về tỗ l Ũ ì lệ | MS.
+- 2 ` bo L1) Hình nào dưới đây thể hiện đúng nhịp 1 của động tác chân?
+- 2) sa Ạ = A : B đà Mỗi hình dưới đây thể hiện đúng nhịp 2 của động tác nào?
+- à l# Em cùng các bạn tập thể dục trong lúc giải lao để tránh mệt mỏi.
+- ˆ ï - l=' xŠ bẻ K h ồ bà E N ˆ` là
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Trò chơi Chim về tỗ, l Ũ ì, _„. & 2, sa Ạ =, b7 ?, à l#, mm»., bà E N ˆ` là
+
+## 16. BÀI 5 (từ trang 40)
+
+### Nội dung kiến thức thô
+- ĐỘNG TÁC PHỐI HỢP, ĐỘNG TÁC NHÀY,
+- Mục tiêu, yêu cầu cần đạt ị
+- Cà — Biết và thực hiện được động tác phối hợp, động tác
+- 2) nhảy, động tác điều hoà.
+- Nghiêm túc tích cực trong tập luyện, có ý thức
+- thường xuyên vận động để nâng cao sức khoẻ.
+- _ Xoay các khớp + _ Đứng tại chỗ cúi gập thân,
+- vặn mình sang trái, sang phải
+- In tu » | w Tứ Ị ụ `
+- Ø@ 6 : -8-- kì.
+- rò chơi bổ trợ khởi động
+- Trò chơi Sẵn sàng chờ lệnh
+- XE öở —Ñ= K- "
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+- Đứng nghiêm Chân trái bước lên một Chân trái thu về Khuyu hai Về TTCB
+- bước chếch sang trái, sát chân phải, cúi gối, lưng
+- đồng thời khuyu gồi, _ người, gập thân, hai. thẳng, hai tay
+- chân phải thắng, hai chân thắng, hai tay dang ngang,
+- tay chống hông, thân với mũi bàn chân _ bàn tay ngửa
+- Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+- l 2 ) | NI
+- TTCGB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4
+- Đứng nghiêm Bật nhảy tách chân, Bật nhảy lên Như nhịp 1 nhưng Bật nhảy lên
+- hai chânrơixuống vềTTCB haitayđưasang về TTCB
+- đứng rộng bằng vai, ngang - lên cao
+- hai tay đưa ra trước vỗ vào nhau, đầu
+- vỗ vào nhau hơi ngửa
+- Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4.
+- l ' Ñ ] )
+- Đứng nghiêm Chân trái bước Cúi người, gập Đứng thẳng, hai Về TTCB,
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Nghiêm túc tích cực trong tập luyện, có ý thức thường xuyên vận động để nâng cao sức khoẻ.
+- Q khỏi động _ Xoay các khớp + _ Đứng tại chỗ cúi gập thân, vặn mình sang trái, sang phải In tu » | w Tứ Ị ụ ` Ø@ 6 : -8-- kì.
+
+### Cặp nối từ/khái niệm
+- Ø@ 6 => 8-- kì.
+- Nhịp 5, 6, 7, 8 => Như nhịp 1, 2, 3, 4, nhưng ở nhịp 5 đổi chân.
+- Nhịp 5, 6, 7, 8 => Như nhịp 1, 2, 3, 4.
+
+### Đoạn gõ văn bản
+- Mục tiêu, yêu cầu cần đạt ị Cà — Biết và thực hiện được động tác phối hợp, động tác 2) nhảy, động tác điều hoà. Nghiêm túc tích cực trong tập luyện, có ý thức thường xuyên vận động để nâng cao sức khoẻ.
+- _ Xoay các khớp + _ Đứng tại chỗ cúi gập thân, vặn mình sang trái, sang phải In tu » | w Tứ Ị ụ `
+- TTCB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Chân trái bước lên một Chân trái thu về Khuyu hai Về TTCB bước chếch sang trái, sát chân phải, cúi gối, lưng đồng thời khuyu gồi, _ người, gập thân, hai. thẳng, hai tay chân phải thắng, hai chân thắng, hai tay dang ngang, tay chống hông, thân với mũi bàn chân _ bàn tay ngửa thẳng, trọng tâm dồn
+- TTCGB Nhịp 1 Nhịp 2 Nhịp 3 Nhịp 4 Đứng nghiêm Bật nhảy tách chân, Bật nhảy lên Như nhịp 1 nhưng Bật nhảy lên hai chânrơixuống vềTTCB haitayđưasang về TTCB đứng rộng bằng vai, ngang - lên cao hai tay đưa ra trước vỗ vào nhau, đầu vỗ vào nhau hơi ngửa Nhịp 5, 6, 7, 8: Như nhịp 1, 2, 3, 4.
+
+### Từ khóa
+BÀI 5, ĐỘNG TÁC PHỐI HỢP, ĐỘNG TÁC NHÀY, ĐỘNG TÁC ĐIÊU H0A, Mục tiêu, yêu cầu cần đạt ị, động tác, nhảy, động tác điều hoà., có ý thức, Q khỏi động, vặn mình sang trái, sang phải, Ø@ 6, ì s» HÀ, k2 \, bông tác phói hợp, ối .Š, t W=, 4 \ Ỳ, Ñ= K, bước chếch sang trái, sát chân phải, cúi gối
+
+## 17. Luyện tập (từ trang 42)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- Ỉ ị ụ : °
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- â —~ “ Luyện tập cá nhân Luyện tập cặp đôi Ị _ Ỉ ị ụ : ° Ì 5 l '_- = _> .
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+l '_, _> .
+
+## 18. Luyện tập nhóm (từ trang 42)
+
+### Nội dung kiến thức thô
+- rò chơi bỏ trợ khéo léo
+- Trò chơi Chuyển đô vật
+- Mỗi hình dưới đây thể hiện nhịp mấy của động tác phối hợp?
+- Hình nào dưới đây thể hiện đúng nhịp 3 của động tác nhảy?
+- Emcùng người thân tập các động tác thể dục buổi sáng (em đếm nhịp).
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- rò chơi bỏ trợ khéo léo Trò chơi Chuyển đô vật N Lai MÀ Mỗi hình dưới đây thể hiện nhịp mấy của động tác phối hợp?
+- iỔ Hình nào dưới đây thể hiện đúng nhịp 3 của động tác nhảy?
+- Emcùng người thân tập các động tác thể dục buổi sáng (em đếm nhịp).
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hình nào dưới đây thể hiện đúng nhịp 3 của động tác nhảy? Emcùng người thân tập các động tác thể dục buổi sáng (em đếm nhịp).
+
+### Từ khóa
+Trò chơi Chuyển đô vật, N Lai MÀ, 9.\ GIÁ, Nụ. iỔ, em đếm nhịp
+
+## 19. BÀI 1 (từ trang 44)
+
+### Nội dung kiến thức thô
+- BÀI Tập PHỐI HỢP DI CHUYỀN VWợT qun
+- CHƯỚNG NGẠI VẬT TIÊN ĐƯỮNG THẲNG
+- Mục tiêu, yêu cầu cần đạt
+- Biết và thực hiện được các bài tập di chuyển
+- vượt qua chướng ngại vật trên đường thẳng.
+- lễ phép với thầy cô, nghiêm túc, đoàn kết, tích \
+- cực trong tập luyện. `
+- Sộ, Vý v) đc Š,
+- sÑc Ø Ð W„“ 56" | ó6
+- _ Chạy theo vòng tròn k
+- Trò chơi bỗ trợ khởi động Nnưm .m,
+- Trò chơi Làm theo lời nói, \©
+- không làm theo hành động Ví ?
+- Di chuyên vượt qua chướng ngại vật nhỏ trên đường thẳng
+- TICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- lễ phép với thầy cô, nghiêm túc, đoàn kết, tích \ cực trong tập luyện.
+- Di chuyên vượt qua chướng ngại vật nhỏ trên đường thẳng TICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Đoạn gõ văn bản
+- Mục tiêu, yêu cầu cần đạt Biết và thực hiện được các bài tập di chuyển vượt qua chướng ngại vật trên đường thẳng. lễ phép với thầy cô, nghiêm túc, đoàn kết, tích \ cực trong tập luyện. `
+- Trò chơi bỗ trợ khởi động Nnưm .m, Trò chơi Làm theo lời nói, \© không làm theo hành động Ví ? Di chuyên vượt qua chướng ngại vật nhỏ trên đường thẳng TICB: Đứng chân trước chân sau, hai tay buông tự nhiên. _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Từ khóa
+BÀI 1, Mục tiêu, yêu cầu cần đạt, lễ phép với thầy cô, nghiêm túc, đoàn kết, tích \, cực trong tập luyện. `, kưởi động, _ Xoay các khớp, Vý v, đc Š, N ï w «, S mm», Ọ®*œ, Đứng chân trước chân sau, hai tay buông tự nhiên., _ Cách thực hiện, Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+## 20. chướng ngại vật nhỏ thì bước qua, hai tay phối hợp tự nhiên, mắt nhìn (từ trang 45)
+
+### Nội dung kiến thức thô
+- 5, 6S pp QOW _ _ Š bố _
+- Di chuyển vượt qua chướng ngại vật lớn trên đường thẳng
+- TICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Đoạn gõ văn bản
+- Di chuyển vượt qua chướng ngại vật lớn trên đường thẳng TICB: Đứng chân trước chân sau, hai tay buông tự nhiên. _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Từ khóa
+mắt nhìn, đường đi., xế ỗ x£, XP Đích, Đứng chân trước chân sau, hai tay buông tự nhiên., _ Cách thực hiện, Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+## 21. chướng ngại vật lớn thì vòng qua, hai tay phôi hợp tự nhiên, mắt nhìn (từ trang 45)
+
+### Nội dung kiến thức thô
+- j ~ À ¬ 6À¬ÍÖ
+- l3) Bài tập phối hợp di chuyển vượt qua chướng ngại vật trên đường thẳng
+- TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Đoạn gõ văn bản
+- l3) Bài tập phối hợp di chuyển vượt qua chướng ngại vật trên đường thẳng TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên. _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+### Từ khóa
+mắt nhìn, đường đi., j ~ À ¬ 6À¬ÍÖ, 4 NA °___Š ___, XP Đích, Đứng chân trước chân sau, hai tay buông tự nhiên., _ Cách thực hiện, Từ vạch xuất phát, di chuyển theo đường thẳng, khi gặp
+
+## 22. chướng ngại vật nhỏ thì bước qua, gặp chướng ngại vật lớn thì vòng qua, (từ trang 46)
+
+### Nội dung kiến thức thô
+- hai tay phói hợp tự nhiên, mắt nhìn đường đi.
+- __.. SẴ@8--...s `... .. Ụ
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- hai tay phói hợp tự nhiên, mắt nhìn đường đi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+mắt nhìn đường đi., __.. SẴ@8, s `... .. Ụ, XP Đích, Q Luyện tập '
+
+## 23. Luyện tập cá nhân Luyện tập cặp đôi (từ trang 46)
+
+### Nội dung kiến thức thô
+- Q Trò chơi rèn luyện kĩ năng vận động và phản xạ
+- Trò chơi Chạy tiếp sức
+- xi, Đ £ )Ñ --~_------_ TY -——_ am). ~ S0,
+- bí l số †_=— _. 8 ~8,
+- L1) Trong hai hình dưới đây, hình nào thể hiện động tác di chuyển vòng
+- L2) Em tìm các chướng ngại vật để thực hiện động tác vượt qua theo các
+- LÚ) Di chuyển vượt qua chướng ngại vật nhỏ trên đường gấp khúc
+- chân sau, hai tay buông
+- Cách thực hiện: Từ vạch
+- xuất phát, di chuyển theo SỐ
+- đường gắp khúc, khi gặp ›
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập nhóm Q Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Chạy tiếp sức xi, Đ £ )Ñ --~_------_ TY -——_ am).
+- 8 ~8, 3 CốT XP (T1 L1) Trong hai hình dưới đây, hình nào thể hiện động tác di chuyển vòng qua chướng ngại vật?
+- _ sổ) L2) Em tìm các chướng ngại vật để thực hiện động tác vượt qua theo các nội dung đã học.
+- LÚ) Di chuyển vượt qua chướng ngại vật nhỏ trên đường gấp khúc TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- Cách thực hiện: Từ vạch xuất phát, di chuyển theo SỐ đường gắp khúc, khi gặp ›
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Q Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Chạy tiếp sức xi, Đ £ )Ñ --~_------_ TY -——_ am). ~ S0,
+- L1) Trong hai hình dưới đây, hình nào thể hiện động tác di chuyển vòng qua chướng ngại vật?
+- LÚ) Di chuyển vượt qua chướng ngại vật nhỏ trên đường gấp khúc TTICB: Đứng chân trước chân sau, hai tay buông
+
+### Từ khóa
+Trò chơi Chạy tiếp sức, _ TY, _ am, PA. _“!, bí l số †_=, _. 8 ~8, 3 CốT XP, Trong hai hình dưới đây, qua chướng ngại vật?, _ sổ, nội dung đã học., Đứng chân trước, chân sau, hai tay buông, tự nhiên., Cách thực hiện, Từ vạch, xuất phát, di chuyển theo SỐ, đường gắp khúc, khi gặp ›
+
+## 24. chướng ngại vật nhỏ thì XP }> (từ trang 49)
+
+### Nội dung kiến thức thô
+- bước qua, hai tay phối
+- hợp tự nhiên, mắt nhìn 4
+- Di chuyển vượt qua chướng ngại vật lớn trên đường gấp khúc
+- chân sau, hai tay buông
+- Cách thực hiện: Từ vạch
+- xuất phát, di chuyển theo Xe
+- đường gâp khúc, khi gặp b
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- bước qua, hai tay phối hợp tự nhiên, mắt nhìn 4 đường đi.
+- Đích Di chuyển vượt qua chướng ngại vật lớn trên đường gấp khúc TTCB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- Cách thực hiện: Từ vạch xuất phát, di chuyển theo Xe đường gâp khúc, khi gặp b
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Di chuyển vượt qua chướng ngại vật lớn trên đường gấp khúc TTCB: Đứng chân trước chân sau, hai tay buông
+
+### Từ khóa
+bước qua, hai tay phối, hợp tự nhiên, mắt nhìn 4, đường đi. `”, Đích, Đứng chân trước, chân sau, hai tay buông, tự nhiên., Cách thực hiện, Từ vạch, xuất phát, di chuyển theo Xe, đường gâp khúc, khi gặp b
+
+## 25. chướng ngại vật lớn thì XP bo (từ trang 49)
+
+### Nội dung kiến thức thô
+- vòng qua, hai tay phối
+- hợp tự nhiên, mắt nhìn J la
+- đường đi. É sa =\
+- Bài tập phối hợp di chuyển vượt qua chướng ngại vật trên đường
+- TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường gắp khúc, khi
+- gặp chướng ngại vật nhỏ thì bước qua, gặp chướng ngại vật lớn thì vòng
+- qua, hai tay phối hợp tự nhiên, mắt nhìn đường đi.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- vòng qua, hai tay phối hợp tự nhiên, mắt nhìn J la đường đi.
+- É sa =\ Bài tập phối hợp di chuyển vượt qua chướng ngại vật trên đường gấp khúc TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên.
+- XP ớ ) ủ F vĩ B› HỆ” ”” Đích
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát, di chuyển theo đường gắp khúc, khi
+
+### Đoạn gõ văn bản
+- TTICB: Đứng chân trước chân sau, hai tay buông tự nhiên. _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo đường gắp khúc, khi gặp chướng ngại vật nhỏ thì bước qua, gặp chướng ngại vật lớn thì vòng qua, hai tay phối hợp tự nhiên, mắt nhìn đường đi.
+
+### Từ khóa
+vòng qua, hai tay phối, hợp tự nhiên, mắt nhìn J la, đường đi. É sa =\, gấp khúc, Đứng chân trước chân sau, hai tay buông tự nhiên., _ Cách thực hiện, Từ vạch xuất phát, mắt nhìn đường đi., F vĩ, B› HỆ” ””, Đích
+
+## 26. Luyện tập (từ trang 50)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- ế xÀ `\ % š
+- Trò chơi rèn luyện kĩ năng vận động và phản xạ
+- Trò chơi Trao đồ vật tiếp sức
+- b / N I cà W
+- cá CS, #-—~- =— xếp
+- Trong hai hình dưới đây, hình nào thể hiện động tác vượt qua chướng
+- ngại vật nhỏ trên đường gấp khúc, hình nào thê hiện động tác vượt
+- qua chướng ngại vật lớn trên đường gập khúc?
+- Em thực hiện động tác vượt qua chướng ngại vật trên đường gấp
+- khúc sau khi học bài để chống mệt mỏi.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập cá nhân Luyện tập cặp đôi m Ai ế xÀ `\ % š m.
+- Em thực hiện động tác vượt qua chướng ngại vật trên đường gấp khúc sau khi học bài để chống mệt mỏi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Trong hai hình dưới đây, hình nào thể hiện động tác vượt qua chướng ngại vật nhỏ trên đường gấp khúc, hình nào thê hiện động tác vượt qua chướng ngại vật lớn trên đường gập khúc? Em thực hiện động tác vượt qua chướng ngại vật trên đường gấp khúc sau khi học bài để chống mệt mỏi.
+
+### Từ khóa
+m Ai, ế xÀ `\ % š, m. ` `, s XU, Ji <f \, AI đế .", 1ã F, N I cà W, cá CS, Trong hai hình dưới đây, Nxyzoag, ụ >.Í 4 ”
+
+## 27. BÀI 5 (từ trang 53)
+
+### Nội dung kiến thức thô
+- BÀI TẬP PHỐI HỢP DI CHUYỂN VWƯợT qun
+- CHƯNG NGỊI VẬT TIÊN ĐỊn HÌNH
+- Mục tiêu, yêu cầu cần đạt _®a
+- Biết và thực hiện được bài tập phối hợp di chuyển
+- vượt qua chướng ngại vật trên địa hình.
+- _Lễphép với thầy cô, nghiêm túc, tích cực đoàn kết,
+- giúp đỡ bạn trong tập luyện. Ì
+- _ Xoay các khớp + Giậm chân tại chỗ, vỗ tay
+- ÿnrò chơi bỏ trợ khởi động
+- Trò chơi Trời nắng, trời mưa
+- b Di chuyển vượt qua nhiều chướng ngại vật nhỏ trên địa hình
+- TTCB: Đứng chân trước chân sau,
+- hai tay buông tự nhiên.
+- _ Cách thực hiện: Từ vạch xuất phát,
+- di chuyển theo địa hình. Khi gặp : Xxp
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- _Lễphép với thầy cô, nghiêm túc, tích cực đoàn kết, giúp đỡ bạn trong tập luyện.
+- _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo địa hình.
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát,
+
+### Đoạn gõ văn bản
+- CHƯNG NGỊI VẬT TIÊN ĐỊn HÌNH Mục tiêu, yêu cầu cần đạt _®a Biết và thực hiện được bài tập phối hợp di chuyển vượt qua chướng ngại vật trên địa hình. _Lễphép với thầy cô, nghiêm túc, tích cực đoàn kết, giúp đỡ bạn trong tập luyện. Ì
+- b Di chuyển vượt qua nhiều chướng ngại vật nhỏ trên địa hình TTCB: Đứng chân trước chân sau, hai tay buông tự nhiên. _ Cách thực hiện: Từ vạch xuất phát, di chuyển theo địa hình. Khi gặp : Xxp
+
+### Từ khóa
+BÀI 5, Mục tiêu, yêu cầu cần đạt _®a, _Lễphép với thầy cô, nghiêm túc, tích cực đoàn kết, khởi động, vỗ tay, m 9o, Trò chơi Trời nắng, trời mưa, vẻ s “, Đứng chân trước chân sau, hai tay buông tự nhiên., _ Cách thực hiện, Từ vạch xuất phát
+
+## 28. chướng ngại vật nhỏ thì bước qua, “ (từ trang 54)
+
+### Nội dung kiến thức thô
+- hai tay phối hợp tự nhiên, mắt nhìn =.
+- Q Di chuyển vượt qua nhiều chướng
+- ngại vật lớn trên địa hình A
+- TTCB: Đứng chân trước chân sau, HAN “F
+- hai tay buông tự nhiên. ⁄ Ằ HH
+- _ Cách thực hiện: Từ vạch xuất phát, Í »
+- di chuyển theo địa hình. Khi gặp Xi
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- hai tay phối hợp tự nhiên, mắt nhìn =.
+- Z7 6A Q Di chuyển vượt qua nhiều chướng ngại vật lớn trên địa hình A TTCB: Đứng chân trước chân sau, HAN “F hai tay buông tự nhiên.
+- Ằ HH _ Cách thực hiện: Từ vạch xuất phát, Í » di chuyển theo địa hình.
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Từ vạch xuất phát, Í »
+
+### Đoạn gõ văn bản
+- Q Di chuyển vượt qua nhiều chướng ngại vật lớn trên địa hình A TTCB: Đứng chân trước chân sau, HAN “F hai tay buông tự nhiên. ⁄ Ằ HH _ Cách thực hiện: Từ vạch xuất phát, Í » di chuyển theo địa hình. Khi gặp Xi
+
+### Từ khóa
+mắt nhìn =., đường đi. Z7 6A, Đứng chân trước chân sau, HAN “F, _ Cách thực hiện, Từ vạch xuất phát
+
+## 29. chướng ngại vật lớn thì vòng qua, _⁄Ãt (từ trang 54)
+
+### Nội dung kiến thức thô
+- hai tay phối hợp tự nhiên, mắt nhìn é cằm
+- hài tập phối hợp di chuyển vượt
+- qua nhiêu chướng ngại vật trên
+- TTCB: Đứng chân trước chân sau, “ : —Ừ
+- hai tay buông tự nhiên. “(
+- Cách thực hiện: Từ vạch xuất phát, Ắ
+- di chuyển theo địa hình. Khi gặp =
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- hai tay phối hợp tự nhiên, mắt nhìn é cằm đường đi.
+- La hài tập phối hợp di chuyển vượt qua nhiêu chướng ngại vật trên địa hình TTCB: Đứng chân trước chân sau, “ : —Ừ hai tay buông tự nhiên.
+- Cách thực hiện: Từ vạch xuất phát, Ắ di chuyển theo địa hình.
+
+### Cặp nối từ/khái niệm
+- Cách thực hiện => Từ vạch xuất phát, Ắ
+
+### Đoạn gõ văn bản
+- TTCB: Đứng chân trước chân sau, “ : —Ừ hai tay buông tự nhiên. “( Cách thực hiện: Từ vạch xuất phát, Ắ di chuyển theo địa hình. Khi gặp =
+
+### Từ khóa
+_⁄Ãt, mắt nhìn é cằm, đường đi. > À0, b. La, địa hình, Đứng chân trước chân sau, Cách thực hiện, Từ vạch xuất phát
+
+## 30. chướng ngại vật nhỏ thì bước qua, Gì. ` (từ trang 55)
+
+### Nội dung kiến thức thô
+- khi gặp chướng ngại vật lớn thì vòng T4
+- qua, hai tay phối hợp tự nhiên, mắt n
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- khi gặp chướng ngại vật lớn thì vòng T4 qua, hai tay phối hợp tự nhiên, mắt n nhìn đường đi.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Gì. `, mắt n, nhìn đường đi. ›, tuyên tập
+
+## 31. Luyện tập cá nhân JÊ\ „ (từ trang 55)
+
+### Nội dung kiến thức thô
+- L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ
+- Trò chơi Di chuyền tiếp sức theo cặp
+- Ì . l6. LÁ sai _..-e: `
+- Su P ự P ”
+- q2 dụ _ @@ +
+- L1) Bạn dưới đây sẽ thực hiện cách di chuyển nào để vượt qua các
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập nhóm Luyện tập cặp đôi L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Di chuyền tiếp sức theo cặp Ì .
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Di chuyền tiếp sức theo cặp Ì . l6. LÁ sai _..-e: `
+
+### Từ khóa
+Su P ự P ”, 7 “`, q2 dụ _ @@ +, Iú 08 LÀN, TỦ °
+
+## 32. chướng ngại vật như trong hình vế? (từ trang 56)
+
+### Nội dung kiến thức thô
+- F ^^ & „ ⁄ ` &
+- F2 ` Z NNM - n
+- L2) Em thực hiện di chuyển vượt qua một số chướng ngại vật (chọn đồ
+- vật an toàn để làm chướng ngại vật).
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- L2) Em thực hiện di chuyển vượt qua một số chướng ngại vật (chọn đồ vật an toàn để làm chướng ngại vật).
+
+### Từ khóa
+F2 ` Z NNM, Z' ` # ca, x⁄ `, chọn đồ
+
+## 33. BÀI 4 (từ trang 57)
+
+### Nội dung kiến thức thô
+- TƯNG - BẬT BÓNG BẰNG HRI TRY
+- __ Mục tiêu, yêu cầu cần đạt
+- _Biếtvàthựchiện được các bài tập tại chỗ tung - bắt
+- S —. Lễphép với thây cô, nghiêm túc, tích cực, đoàn kết, Ầ
+- h z 5 giúp đỡ bạn trong tập luyện. \
+- _ Xoay các khớp + _ Chạy theo vòng tròn, vỗ tay
+- Trò chơi bỏ trợ khởi động
+- Trò chơi Thi xép hàng
+- Q tai chỗ tung — bắt bóng bằng hai tay
+- _ TICB: Đứng hai chân rộng bằng vai, hai tay càm bóng trước bụng.
+- _. Cách thực hiện: Tung bóng bằng hai tay lên cao qua đầu, khi bóng rơi xuống
+- thì đưa hai tay ra trước bắt bóng lại.
+- èlai chỗ tung — bắt bóng bằng hai tay theo cặp
+- TTCB: Hai em đứng đối diện, cách nhau 2 — 4m, hai chân rộng bằng Vai,
+- một em cằm bóng bằng hai tay trước bụng.
+- _ Cách thực hiện: Em càm bóng tung bóng vẻ phía bạn. Em đón bóng đưa
+- hai tay ra bắt bóng, sau đó tung bóng lại cho bạn.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- BÀI TẬP TẠI CHÔ TƯNG - BẬT BÓNG BẰNG HRI TRY __ Mục tiêu, yêu cầu cần đạt _Biếtvàthựchiện được các bài tập tại chỗ tung - bắt bóng bằng hai tay.
+- Lễphép với thây cô, nghiêm túc, tích cực, đoàn kết, Ầ h z 5 giúp đỡ bạn trong tập luyện.
+- _ c khởi động Ï=s>=sz“ÏÍĩ _ Xoay các khớp + _ Chạy theo vòng tròn, vỗ tay 5| ._ Trò chơi bỏ trợ khởi động Trò chơi Thi xép hàng Ì Xã).
+- d6 H “2l § Q tai chỗ tung — bắt bóng bằng hai tay _ TICB: Đứng hai chân rộng bằng vai, hai tay càm bóng trước bụng.
+- Cách thực hiện: Tung bóng bằng hai tay lên cao qua đầu, khi bóng rơi xuống thì đưa hai tay ra trước bắt bóng lại.
+- _ Cách thực hiện: Em càm bóng tung bóng vẻ phía bạn.
+- Em đón bóng đưa hai tay ra bắt bóng, sau đó tung bóng lại cho bạn.
+
+### Cặp nối từ/khái niệm
+- _ TICB => Đứng hai chân rộng bằng vai, hai tay càm bóng trước bụng.
+- _. Cách thực hiện => Tung bóng bằng hai tay lên cao qua đầu, khi bóng rơi xuống
+- _ Cách thực hiện => Em càm bóng tung bóng vẻ phía bạn. Em đón bóng đưa
+
+### Đoạn gõ văn bản
+- TƯNG - BẬT BÓNG BẰNG HRI TRY __ Mục tiêu, yêu cầu cần đạt _Biếtvàthựchiện được các bài tập tại chỗ tung - bắt bóng bằng hai tay. S —. Lễphép với thây cô, nghiêm túc, tích cực, đoàn kết, Ầ h z 5 giúp đỡ bạn trong tập luyện. \
+
+### Từ khóa
+BÀI 4, BẬT BÓNG BẰNG HRI TRY, __ Mục tiêu, yêu cầu cần đạt, bóng bằng hai tay., Lễphép với thây cô, nghiêm túc, tích cực, đoàn kết, khởi động Ï=s>=sz“ÏÍĩ, vỗ tay, 5| ._, Trò chơi Thi xép hàng, H “2l §, Q tai chỗ tung, bắt bóng bằng hai tay, _ TICB, _. Cách thực hiện, khi bóng rơi xuống, èlai chỗ tung, Hai em đứng đối diện, cách nhau 2, hai chân rộng bằng Vai, _ Cách thực hiện
+
+## 34. Luyện tập (từ trang 59)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân. á.... Luyenfập cập đôi
+- L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ
+- Trò chơi Lăn bóng theo đường dích dắc
+- Mỗi hình dưới đây thể hiện động tác gì?
+- En thực hiện động tác tung — bắt bóng bằng hai tay để tăng cường
+- sự khéo léo và linh hoạt của tay.
+- 2p * TS Tên SIÊ
+- kì \ 42 : ; `
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyenfập cập đôi L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Lăn bóng theo đường dích dắc úNl.
+- Mỗi hình dưới đây thể hiện động tác gì?
+- En thực hiện động tác tung — bắt bóng bằng hai tay để tăng cường sự khéo léo và linh hoạt của tay.
+- k N 2p * TS Tên SIÊ kì \ 42 : ; ` t=c =
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- L2) Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Lăn bóng theo đường dích dắc
+- Mỗi hình dưới đây thể hiện động tác gì? En thực hiện động tác tung — bắt bóng bằng hai tay để tăng cường sự khéo léo và linh hoạt của tay.
+
+### Từ khóa
+úNl. 9A2, h==.., 2p * TS Tên SIÊ, kì \ 42, t=c =
+
+## 35. BÀI 5 (từ trang 61)
+
+### Nội dung kiến thức thô
+- TUNG - BÃT BÓNG BẰNG HRI TRY
+- Mục tiêu, yêu cầu cần đạt
+- Tếi — Biết và thực hiện được các bài tập di chuyển _: .
+- tung bắt bóng bằng hai tay.
+- lễ phép với thầy cô, nghiêm túc, tích cực đoàn ˆ
+- kết, giúp đỡ bạn trong tập luyện.
+- _ Xoay các khớp + _ Chạy nâng cao đùi tại chỗ
+- Ñ-< Ö v § S vì
+- ÿèTrò chơi bồ trợ khởi động
+- Trò chơi Mèo đuổi chuột
+- XNN/ZZ TQ YƯU CÁC XA
+- Q Di chuyền tung — bắt bóng bằng hai tay
+- _ TICB: Đứng chân trước chân sau, hai tay cầm bóng trước bụng.
+- _ Cách thực hiện: Di chuyển kết hợp với tung — bắt bóng bằng hai tay.
+- Di chuyển tung — bắt bóng bằng hai tay theo cặp
+- TICB: Hai em đứng đối diện, cách nhau 2 — 3 m, hai chân rộng bằng vai,
+- một em cằm bóng bằng hai tay trước bụng.
+- Cách thực hiện: Hai em cùng di chuyển ngang về một hướng và tung
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- BÀI TẬP DI CHUYỂN TUNG - BÃT BÓNG BẰNG HRI TRY Mục tiêu, yêu cầu cần đạt Tếi — Biết và thực hiện được các bài tập di chuyển _: .
+- lễ phép với thầy cô, nghiêm túc, tích cực đoàn ˆ kết, giúp đỡ bạn trong tập luyện.
+- _ Cách thực hiện: Di chuyển kết hợp với tung — bắt bóng bằng hai tay.
+- Cách thực hiện: Hai em cùng di chuyển ngang về một hướng và tung bắt bóng cho nhau.
+
+### Cặp nối từ/khái niệm
+- _ TICB => Đứng chân trước chân sau, hai tay cầm bóng trước bụng.
+- _ Cách thực hiện => Di chuyển kết hợp với tung — bắt bóng bằng hai tay.
+- Cách thực hiện => Hai em cùng di chuyển ngang về một hướng và tung
+
+### Đoạn gõ văn bản
+- TUNG - BÃT BÓNG BẰNG HRI TRY Mục tiêu, yêu cầu cần đạt Tếi — Biết và thực hiện được các bài tập di chuyển _: . tung bắt bóng bằng hai tay. lễ phép với thầy cô, nghiêm túc, tích cực đoàn ˆ kết, giúp đỡ bạn trong tập luyện.
+- Q Di chuyền tung — bắt bóng bằng hai tay _ TICB: Đứng chân trước chân sau, hai tay cầm bóng trước bụng. _ Cách thực hiện: Di chuyển kết hợp với tung — bắt bóng bằng hai tay. Di chuyển tung — bắt bóng bằng hai tay theo cặp TICB: Hai em đứng đối diện, cách nhau 2 — 3 m, hai chân rộng bằng vai, một em cằm bóng bằng hai tay trước bụng. Cách thực hiện: Hai em cùng di chuyển ngang về một hướng và tung bắt bóng cho nhau.
+
+### Từ khóa
+BÀI 5, BÃT BÓNG BẰNG HRI TRY, Mục tiêu, yêu cầu cần đạt, lễ phép với thầy cô, nghiêm túc, tích cực đoàn ˆ, Khởi động, Ö v § S vì, Trò chơi Mèo đuổi chuột, ZZ TQ YƯU CÁC XA, ỦY. l, afy' tụ, ˆ S ¡9, mm R, b=Š 7w, w v >, Q Di chuyền tung, bắt bóng bằng hai tay, _ TICB, Đứng chân trước chân sau, _ Cách thực hiện, bắt bóng bằng hai tay., Di chuyển tung
+
+## 36. Luyện tập (từ trang 63)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- Trò chơi rèn luyện kĩ năng vận động và phản xạ
+- Trò chơi Chạy dích dắc trao bóng tiếp sức
+- Mỗi hình dưới đây thể hiện động tác gì?
+- Em cùng bạn thực hiện di chuyển tung —- bắt bóng bằng hai tay để
+- N»› S5 TT k, 5
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Em cùng bạn thực hiện di chuyển tung —- bắt bóng bằng hai tay để tăng cường sức khoẻ.
+- 3, : ` N»› S5 TT k, 5 Nga nnnnnnnnynnnnnnnssnual mg)
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Trò chơi rèn luyện kĩ năng vận động và phản xạ Trò chơi Chạy dích dắc trao bóng tiếp sức
+- Mỗi hình dưới đây thể hiện động tác gì? Em cùng bạn thực hiện di chuyển tung —- bắt bóng bằng hai tay để tăng cường sức khoẻ.
+
+### Từ khóa
+Kt HI IHUU, tăng cường sức khoẻ., N»› S5 TT k, Nga nnnnnnnnynnnnnnnssnual
+
+## 37. PHẦN 3. THẺ THR0 TƯ CH0N (từ trang 65)
+
+### Nội dung kiến thức thô
+- BÀI TẬP BỒ TRỢ Với BÓNG
+- Mục tiêu, yêu cầu cần đạt
+- m — Biết và thực hiện được bài tập bổ trợ với bóng trong
+- Nghiêm túc, tích cực, trung thực trong tập luyện; có ý
+- thức hình thành thói quen tập luyện thể dục thể thao.
+- 2 @ °v li § 2 s & Ð
+- Ổ Ô J5. ẤW 6< là
+- Ỗ Ô Š Ó S4
+- Chạy theo vòng tròn, vỗ tay
+- èrrò chơi bỏ trợ khởi động
+- L1) Tại chỗ hai tay chuyển bóng cho nhau trên cao ngang đầu
+- _ TTCB: Đứng hai chân rộng bằng vai, hai tay cầm bóng trước bụng.
+- _ Động tác: Đưa bóng lên cao ngang đầu, chuyền bóng liên tục từ tay này
+- Tại chỗ nhổi bóng bằng hai tay liên tục
+- TTCB: Đứng hai chân rộng bằng vai, hai gói khuyu, hai tay cầm bóng
+- Động tác: Hai tay nhỏi bóng xuống mặt sân, khi bóng nảy lên ngang hông
+- Di chuyển lên trước kết hợp hai tay chuyển bóng cho nhau
+- _ TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Động tác: Di chuyển lên trước kết hợp chuyển bóng liên tục từ tay này
+- Lăn bóng qua lại theo cặp
+- TTCB: Hai em đứng đối diện cách nhau 2 — 3 m. Hai chân rộng bằng vai,
+- hai gói khuyu, một em cằm bóng bằng hai tay trước bụng.
+- _ Động tác: Em cằm bóng cúi người đặt bóng xuống mặt sân, dùng một tay
+- lăn bóng cho bạn. Khi bóng đên, em đồi diện dùng hai tay giữ bóng lại, rôi
+- chuyên bóng sang một tay và lăn ngược lại cho bạn. Cứ như vậy, hai em
+- lăn bóng qua lại cho nhau.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- củU ð 1 BÀI 1 BÀI TẬP BỒ TRỢ Với BÓNG Mục tiêu, yêu cầu cần đạt m — Biết và thực hiện được bài tập bổ trợ với bóng trong bóng rổ.
+- Nghiêm túc, tích cực, trung thực trong tập luyện; có ý thức hình thành thói quen tập luyện thể dục thể thao.
+- Xoay các khớp 2 2 ®, c) ssd `"vsZ—⁄ .7ÈV s 2 @ °v li § 2 s & Ð L4 \N: 4Ñ Ổ Ô J5.
+- ẤW 6< là Ỗ Ô Š Ó S4 Chạy theo vòng tròn, vỗ tay tz—.-_— % _ 1®, T(-⁄ ' m«i Mi l`?
+- _ Động tác: Đưa bóng lên cao ngang đầu, chuyền bóng liên tục từ tay này sang tay kia.
+- Tại chỗ nhổi bóng bằng hai tay liên tục TTCB: Đứng hai chân rộng bằng vai, hai gói khuyu, hai tay cầm bóng trước bụng.
+- Động tác: Hai tay nhỏi bóng xuống mặt sân, khi bóng nảy lên ngang hông tiếp tục nhỏi xuống.
+- A JN uy j Di chuyển lên trước kết hợp hai tay chuyển bóng cho nhau _ TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Động tác: Di chuyển lên trước kết hợp chuyển bóng liên tục từ tay này sang tay kia.
+- Lăn bóng qua lại theo cặp TTCB: Hai em đứng đối diện cách nhau 2 — 3 m.
+- Hai chân rộng bằng vai, hai gói khuyu, một em cằm bóng bằng hai tay trước bụng.
+- _ Động tác: Em cằm bóng cúi người đặt bóng xuống mặt sân, dùng một tay lăn bóng cho bạn.
+
+### Cặp nối từ/khái niệm
+- _ TTCB => Đứng hai chân rộng bằng vai, hai tay cầm bóng trước bụng.
+- _ Động tác => Đưa bóng lên cao ngang đầu, chuyền bóng liên tục từ tay này
+- Động tác => Hai tay nhỏi bóng xuống mặt sân, khi bóng nảy lên ngang hông
+- _ TTCB => Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Động tác => Di chuyển lên trước kết hợp chuyển bóng liên tục từ tay này
+- _ Động tác => Em cằm bóng cúi người đặt bóng xuống mặt sân, dùng một tay
+
+### Đoạn gõ văn bản
+- Mục tiêu, yêu cầu cần đạt m — Biết và thực hiện được bài tập bổ trợ với bóng trong
+- Nghiêm túc, tích cực, trung thực trong tập luyện; có ý thức hình thành thói quen tập luyện thể dục thể thao.
+- L1) Tại chỗ hai tay chuyển bóng cho nhau trên cao ngang đầu _ TTCB: Đứng hai chân rộng bằng vai, hai tay cầm bóng trước bụng. _ Động tác: Đưa bóng lên cao ngang đầu, chuyền bóng liên tục từ tay này
+- Tại chỗ nhổi bóng bằng hai tay liên tục TTCB: Đứng hai chân rộng bằng vai, hai gói khuyu, hai tay cầm bóng
+
+### Từ khóa
+củU ð, 1 BÀI 1, Mục tiêu, yêu cầu cần đạt, bóng rổ., Nghiêm túc, tích cực, trung thực trong tập luyện, có ý, kuới động “6 ., Xoay các khớp, 2 2 ®, ssd `"vsZ, 7ÈV s, L4 \N, Ỗ Ô Š Ó S4, Chạy theo vòng tròn, vỗ tay, m«i Mi, l`? À _, Trò chơi Thỏ nhảy, Ñ _..ơ, XP Đích, _ TTCB
+
+## 38. Luyện tập cá nhân Luyện tập cặp đôi (từ trang 68)
+
+### Nội dung kiến thức thô
+- Trò chơi vận động bổ trợ môn Bóng rỗ
+- Trò chơi Lăn bóng qua vật cản tiếp sức
+- vi vài bọ ¬ ,.-À- Sẽ
+- Hình dưới đây mô tả bạn đang thực hiện động tác gì?
+- Em vận dụng bài tập bổ trợ với bóng để làm tăng sức mạnh và sự
+- la. .._V Ý_ Mục tiêu, yêu cầu cần đạt
+- Bế và thực hiện được dụng tí tấn báng theo
+- 2£ hướng thẳng, dẫn bóng đổi hướng.
+- Nghiêm túc tích cực, trung thực trong tập luyện
+- hình thành thói quen tập luyện thể dục thể thao. \
+- Xoay các khớp + _ Chạy tại chỗ
+- rrò chơi bồ trợ khởi động
+- Trò chơi Di chuyên theo hiệu lệnh
+- Dẫn bóng theo hướng thẳng
+- TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Động tác: Đưa bóng về một tay, dẫn bóng di chuyền theo hướng thẳng.
+- _ TTCB: Đứng chân trước chân sau, hai tay càm bóng trước bụng.
+- _ Động tác: Đưa bóng về một tay, dẫn bóng lên trước, khi gặp vật cản thì dẫn
+- bóng đổi hướng đến vật cản ké tiếp. Tiếp tục thực hiện như thé đến hét.
+- Trò chơi Dẫn bóng qua vật cản tiếp sức
+- lo tai Vy —. =
+- W # » ' Ai
+- Em hãy thực hiện động tác dẫn bóng theo hướng thẳng.
+- Em vận dụng động tác dẫn bóng để phát triển sự linh hoạt của tay.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- bà, ỳ % Em vận dụng bài tập bổ trợ với bóng để làm tăng sức mạnh và sự linh hoạt của tay.
+- _V Ý_ Mục tiêu, yêu cầu cần đạt Bế và thực hiện được dụng tí tấn báng theo 2£ hướng thẳng, dẫn bóng đổi hướng.
+- Nghiêm túc tích cực, trung thực trong tập luyện hình thành thói quen tập luyện thể dục thể thao.
+- _ Động tác: Đưa bóng về một tay, dẫn bóng di chuyền theo hướng thẳng.
+- Dẫn bóng đổi hướng _ TTCB: Đứng chân trước chân sau, hai tay càm bóng trước bụng.
+- _ Động tác: Đưa bóng về một tay, dẫn bóng lên trước, khi gặp vật cản thì dẫn bóng đổi hướng đến vật cản ké tiếp.
+- Tiếp tục thực hiện như thé đến hét.
+- CC „è” X `" Trò chơi vận động bỗ trợ môn Bóng rỗ Trò chơi Dẫn bóng qua vật cản tiếp sức lo tai Vy —.
+- hinh dưới đây mô tả bạn đang thực hiện động tác gì?
+- W # » ' Ai Em hãy thực hiện động tác dẫn bóng theo hướng thẳng.
+- Em vận dụng động tác dẫn bóng để phát triển sự linh hoạt của tay.
+
+### Cặp nối từ/khái niệm
+- _ Động tác => Đưa bóng về một tay, dẫn bóng di chuyền theo hướng thẳng.
+- _ TTCB => Đứng chân trước chân sau, hai tay càm bóng trước bụng.
+- _ Động tác => Đưa bóng về một tay, dẫn bóng lên trước, khi gặp vật cản thì dẫn
+
+### Đoạn gõ văn bản
+- Trò chơi vận động bổ trợ môn Bóng rỗ Trò chơi Lăn bóng qua vật cản tiếp sức vi vài bọ ¬ ,.-À- Sẽ
+- Em vận dụng bài tập bổ trợ với bóng để làm tăng sức mạnh và sự linh hoạt của tay.
+- la. .._V Ý_ Mục tiêu, yêu cầu cần đạt Bế và thực hiện được dụng tí tấn báng theo 2£ hướng thẳng, dẫn bóng đổi hướng. Nghiêm túc tích cực, trung thực trong tập luyện hình thành thói quen tập luyện thể dục thể thao. \
+- Xoay các khớp + _ Chạy tại chỗ rrò chơi bồ trợ khởi động Trò chơi Di chuyên theo hiệu lệnh
+
+### Từ khóa
+vi vài bọ ¬, C_ xế g, CB xp Đích, ý 25, linh hoạt của tay., pdq Là CD ta, la. .._V Ý_ Mục tiêu, yêu cầu cần đạt, 2£ hướng thẳng, dẫn bóng đổi hướng., Nghiêm túc tích cực, trung thực trong tập luyện, kưới dộng TờnNH x, Trái, 4⁄2 °U “\g, Dẫn bóng theo hướng thẳng, Đứng chân trước chân sau, _ Động tác, Đưa bóng về một tay, Dẫn bóng đổi hướng, _ TTCB, dẫn bóng lên trước, Lý `» è“À. {, CC „è” X `"
+
+## 39. BÀI 5 (từ trang 74)
+
+### Nội dung kiến thức thô
+- BẰNG HữI TRY TRƯỚC NGỰC
+- Mục tiêu, yêu cầu cần đạt
+- Ê — Biết và thực hiện được động tác chuyển bóng bằng
+- hai tay trước ngực trong bóng rổ.
+- _ Nghiêm túc, tích cực, trung thực trong tập luyện
+- hình thành thói quen tập luyện thể dục thể thao.
+- _ Xoay các khớp + _ Giậm chân tại chỗ, vỗ tay
+- Trò chơi bồ trợ khởi động
+- Trò chơi Hoàng Anh —- Hoàng Yến
+- Động tác chuyền bóng bằng hai tay trước ngực
+- TICB: Đứng chân trước chân sau, hai gối khuyu, hai tay cầm bóng
+- _ Động tác: Hai tay đưa bóng từ dưới lên, khi đến ngang ngực thì chuyển
+- 1 - N ` ^
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐỘNG TÁC CHUIYÊN BÓNG BẰNG HữI TRY TRƯỚC NGỰC Mục tiêu, yêu cầu cần đạt Ê — Biết và thực hiện được động tác chuyển bóng bằng hai tay trước ngực trong bóng rổ.
+- _ Nghiêm túc, tích cực, trung thực trong tập luyện hình thành thói quen tập luyện thể dục thể thao.
+- lở Đích Đích ý Động tác chuyền bóng bằng hai tay trước ngực TICB: Đứng chân trước chân sau, hai gối khuyu, hai tay cầm bóng trước bụng.
+- _ Động tác: Hai tay đưa bóng từ dưới lên, khi đến ngang ngực thì chuyển bóng đi.
+
+### Cặp nối từ/khái niệm
+- _ Động tác => Hai tay đưa bóng từ dưới lên, khi đến ngang ngực thì chuyển
+
+### Đoạn gõ văn bản
+- ĐỘNG TÁC CHUIYÊN BÓNG BẰNG HữI TRY TRƯỚC NGỰC Mục tiêu, yêu cầu cần đạt Ê — Biết và thực hiện được động tác chuyển bóng bằng hai tay trước ngực trong bóng rổ. _ Nghiêm túc, tích cực, trung thực trong tập luyện hình thành thói quen tập luyện thể dục thể thao.
+- Động tác chuyền bóng bằng hai tay trước ngực TICB: Đứng chân trước chân sau, hai gối khuyu, hai tay cầm bóng
+
+### Từ khóa
+BÀI 5, ĐỘNG TÁC CHUIYÊN BÓNG, BẰNG HữI TRY TRƯỚC NGỰC, Mục tiêu, yêu cầu cần đạt, _ Nghiêm túc, tích cực, trung thực trong tập luyện, P_ ", Khởi động, vỗ tay, SN °à Ai Kó, Trò chơi Hoàng Anh, Hoàng Yến, Ẫ _ < 2, v „\ =? V, lở Đích, Đích ý, Đứng chân trước chân sau, hai gối khuyu, hai tay cầm bóng, trước bụng., _ Động tác, bóng đi.
+
+## 40. Luyện tập cá nhân Luyện tập cặp đôi (từ trang 75)
+
+### Nội dung kiến thức thô
+- Trò chơi vận động bổ trợ môn Bóng rổ
+- Trò chơi Chuyên bóng 20
+- ð ¡ NỈ cự l đc '
+- Hình dưới đây mô tả bạn đang thực hiện động tác gì?
+- Emhäy thực hiện động tác chuyền bóng bằng hai tay trước ngực.
+- Emiềận dụng động tác chuyền bóng bằng hai tay trước ngực để phối
+- hợp với các bạn trong đội của mình khi tập luyện bóng rô.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập nhóm Trò chơi vận động bổ trợ môn Bóng rổ Trò chơi Chuyên bóng 20 Z7 k.
+- HO CÀ ð ¡ NỈ cự l đc ' È N2 Quá cá 1À “)v2 Lệ Ề b gi Hình dưới đây mô tả bạn đang thực hiện động tác gì?
+- Ẩ ố ` ^ Emhäy thực hiện động tác chuyền bóng bằng hai tay trước ngực.
+- Emiềận dụng động tác chuyền bóng bằng hai tay trước ngực để phối hợp với các bạn trong đội của mình khi tập luyện bóng rô.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Emhäy thực hiện động tác chuyền bóng bằng hai tay trước ngực. Emiềận dụng động tác chuyền bóng bằng hai tay trước ngực để phối hợp với các bạn trong đội của mình khi tập luyện bóng rô.
+
+### Từ khóa
+Trò chơi Chuyên bóng 20, Z7 k. HO CÀ, È N2 Quá, cá 1À “, Lệ Ề b gi, Ẩ ố ` ^
+
+## 41. BÀI 4 (từ trang 77)
+
+### Nội dung kiến thức thô
+- BÀI TẬP PHỐI HỢP DẪN BÓNG - NÉM RỒ
+- BẰNG HI TRY TRƯỚC NGỰC
+- Mục tiêu, yêu cầu cần đạt ị
+- _.. —_Biếtvàthựchiện đượcbài tập phối hợp dẫn bóng
+- ném rổ bằng hai tay trước ngực.
+- _ Nghiêm túc, tích cực trung thực trong tập luyện.
+- Hình thành thói quen tập luyện thể dục thể thao. \
+- Khởi động ¬ À.... `
+- Xoay các khớp + _ Đứng tại chỗ cúi gập thân, vặn mình
+- rò chơi bổ trợ khởi động
+- Trò chơi Tìm người chỉ huy
+- 7 { O ⁄\ Ỉ bà L
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- BÀI TẬP PHỐI HỢP DẪN BÓNG - NÉM RỒ BẰNG HI TRY TRƯỚC NGỰC Mục tiêu, yêu cầu cần đạt ị _..
+- _Biếtvàthựchiện đượcbài tập phối hợp dẫn bóng ném rổ bằng hai tay trước ngực.
+- _ Nghiêm túc, tích cực trung thực trong tập luyện.
+- Hình thành thói quen tập luyện thể dục thể thao.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- BẰNG HI TRY TRƯỚC NGỰC Mục tiêu, yêu cầu cần đạt ị _.. —_Biếtvàthựchiện đượcbài tập phối hợp dẫn bóng ném rổ bằng hai tay trước ngực. _ Nghiêm túc, tích cực trung thực trong tập luyện. Hình thành thói quen tập luyện thể dục thể thao. \ Khởi động ¬ À.... ` Xoay các khớp + _ Đứng tại chỗ cúi gập thân, vặn mình sang trái, sang phải
+
+### Từ khóa
+BÀI 4, BẰNG HI TRY TRƯỚC NGỰC, Mục tiêu, yêu cầu cần đạt ị, _ Nghiêm túc, Khởi động ¬ À.... `, vặn mình, sang trái, sang phải, Sở ⁄ J, NgRIỊE
+
+## 42. Bài tập phối hợp dẫn bóng — ném rổ bằng hai tay trước ngực (từ trang 78)
+
+### Nội dung kiến thức thô
+- TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Cách thực hiện: Đưa bóng về một tay, dẫn bóng đén gân rỏ, dừng lại bắt
+- bóng. Sau đó, chùng gói, duỗi chân, đồng thời dùng sức hai tay ném bóng
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng.
+- _ Cách thực hiện: Đưa bóng về một tay, dẫn bóng đén gân rỏ, dừng lại bắt bóng.
+- Sau đó, chùng gói, duỗi chân, đồng thời dùng sức hai tay ném bóng vào rổ.
+
+### Cặp nối từ/khái niệm
+- _ Cách thực hiện => Đưa bóng về một tay, dẫn bóng đén gân rỏ, dừng lại bắt
+
+### Đoạn gõ văn bản
+- TTCB: Đứng chân trước chân sau, hai tay cằm bóng trước bụng. _ Cách thực hiện: Đưa bóng về một tay, dẫn bóng đén gân rỏ, dừng lại bắt bóng. Sau đó, chùng gói, duỗi chân, đồng thời dùng sức hai tay ném bóng
+
+### Từ khóa
+Đứng chân trước chân sau, _ Cách thực hiện, Đưa bóng về một tay, dẫn bóng đén gân rỏ, dừng lại bắt, bóng. Sau đó, chùng gói, duỗi chân, vào rổ.
+
+## 43. Luyện tập L (từ trang 78)
+
+### Nội dung kiến thức thô
+- Luyện tập cá nhân Luyện tập cặp đôi
+- ÿnò chơi vận động bỏ trợ môn Bóng rổ
+- Trò chơi Bóng chuyên 4
+- phế. š DU 7 ĐA
+- Em hãy thực hiện bài tập phối hợp dẫn bóng — ném rổ bằng hai tay
+- Em vận dụng bài tập phối hợp dẫn bóng — ném rổ bằng hai tay trước
+- ngực để nâng cao khả năng phối hợp vận động trong tập luyện bóng rỏ.
+- 2 (Các em chỉ tập bơi khi có người lớn đi cùng)
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập cá nhân Luyện tập cặp đôi Luyện tập nhóm ÿnò chơi vận động bỏ trợ môn Bóng rổ Trò chơi Bóng chuyên 4 sÂn —.
+- š DU 7 ĐA Là” mui ý l5) Zuyn Em hãy thực hiện bài tập phối hợp dẫn bóng — ném rổ bằng hai tay trước ngực.
+- Em vận dụng bài tập phối hợp dẫn bóng — ném rổ bằng hai tay trước ngực để nâng cao khả năng phối hợp vận động trong tập luyện bóng rỏ.
+- ỳ mm==mwuẮ.em œ\Ù ð MÔN BƠI 2 (Các em chỉ tập bơi khi có người lớn đi cùng)
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Em vận dụng bài tập phối hợp dẫn bóng — ném rổ bằng hai tay trước ngực để nâng cao khả năng phối hợp vận động trong tập luyện bóng rỏ.
+
+### Từ khóa
+Trò chơi Bóng chuyên 4, phế. š DU 7 ĐA, mui ý l5, Zuyn, ném rổ bằng hai tay, trước ngực., ỳ mm==mwuẮ.em, œ\Ù ð MÔN BƠI
+
+## 44. BÀI 1 (từ trang 80)
+
+### Nội dung kiến thức thô
+- ĐẠP ĐÁY BỀ (HỒI B0I NHÔ ĐẦU KẾT HỢP
+- Mục tiêu, yêu cầu cần đạt
+- sử — Biết và thực hiện được động tác đạp đáy bể (hồ) bơi nhô đầu
+- kết hợp thở trong nước.
+- Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành
+- thói quen vận động, tập luyện thể dục thể thao hằng ngày.
+- _— = _—> —Š| .——= `4
+- _ Đi theo vòng tròn, vỗ tay “
+- ÿrrò chơi bỏ trợ khởi động
+- Trò chơi Di chuyển tiếp sức theo cặp
+- rế “2Í ` by L
+- Đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước
+- TTCB: Đứng thẳng, hai tay buông tự nhiên.
+- Động tác: Hit một hơi thật sâu, ngồi xuống chìm đầu trong nước rồi thở ra
+- từ từ (bằng miệng hoặc mũi). Khi thở ra gàn hét thì đạp chân vào đáy bẻ
+- hô), bật nhảy nhô đầu lên khỏi mặt nước, hít hơi vào.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành thói quen vận động, tập luyện thể dục thể thao hằng ngày.
+- NI, ___*ð› Đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước TTCB: Đứng thẳng, hai tay buông tự nhiên.
+- Động tác: Hit một hơi thật sâu, ngồi xuống chìm đầu trong nước rồi thở ra từ từ (bằng miệng hoặc mũi).
+- Khi thở ra gàn hét thì đạp chân vào đáy bẻ hô), bật nhảy nhô đầu lên khỏi mặt nước, hít hơi vào.
+
+### Cặp nối từ/khái niệm
+- Động tác => Hit một hơi thật sâu, ngồi xuống chìm đầu trong nước rồi thở ra
+
+### Đoạn gõ văn bản
+- Mục tiêu, yêu cầu cần đạt sử — Biết và thực hiện được động tác đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước. Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành thói quen vận động, tập luyện thể dục thể thao hằng ngày.
+- Đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước TTCB: Đứng thẳng, hai tay buông tự nhiên. Động tác: Hit một hơi thật sâu, ngồi xuống chìm đầu trong nước rồi thở ra từ từ (bằng miệng hoặc mũi). Khi thở ra gàn hét thì đạp chân vào đáy bẻ hô), bật nhảy nhô đầu lên khỏi mặt nước, hít hơi vào.
+
+### Từ khóa
+BÀI 1, THỞ TRONG NHƯỚC, Mục tiêu, yêu cầu cần đạt, bơi nhô đầu, kết hợp thở trong nước., Nghiêm túc, tích cực trong tập luyện, có ý thức hình thành, thói quen vận động, _.ẦẳẲÔẳĂẮ, Q khỏi động, Xoay các khớp, Š| ., _ Đi theo vòng tròn, vỗ tay “, VN j | ì, G sa Ủ, tà gÑ, rế “2Í ` by L, 5m `., up S=¬`, Ê'=... NI, ___*ð›
+
+## 45. Luyện tập (từ trang 82)
+
+### Nội dung kiến thức thô
+- h “e) x Ạ KX M X
+- èrrò chơi vận động bỏ trợ môn Bơi
+- Hình nào dưới đây thể hiện động tác đạp đáy bể (hồ) bơi nhô đầu
+- kết hợp thở trong nước?
+- Em thực hiện động tác đạp đáy bể (hồ) bơi nhô đầu kết hợp thở
+- trong nước khi đi bơi cùng người thân.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Du XC< XS đua Ò là > Em thực hiện động tác đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước khi đi bơi cùng người thân.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hình nào dưới đây thể hiện động tác đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước?
+- Em thực hiện động tác đạp đáy bể (hồ) bơi nhô đầu kết hợp thở trong nước khi đi bơi cùng người thân.
+
+### Từ khóa
+he ⁄4 2, h “e, x Ạ KX M X, Trò chơi Cá lặn, bơi nhô đầu, kết hợp thở trong nước?, Du XC< XS, đua Ò, là >
+
+## 46. BÀI 2 (từ trang 84)
+
+### Nội dung kiến thức thô
+- Mục tiêu, yêu cầu cần đạt l
+- _ Biết và thực hiện được động tác khua tay trong nước. Š
+- et — Nghiêmtúc tích cựctrong tập luyện, có ý thức hình thànhthói _.
+- quen vận động, tập luyện thể dục thể thao hằng ngày. \
+- KH: — ————Đ—- —— GGGnNmmmPP
+- Xoay các khớp + _ Chạy theo vòng tròn, vỗ tay
+- Trò chơi bỏ trợ khởi động sử
+- Trò chơi Di chuyển ngang
+- Đúng tại chỗ khua tay trong nước
+- TTCB: Hai chân đứng rộng bằng vai, người hơi cúi, hai tay đưa ra trước
+- ngang mặt nước, bàn tay sâp, các ngón tay khép.
+- _ Động tác: Hai tay đưa sang hai bên rộng hơn vai, lòng bàn tay hơi chéch ra
+- ngoài. Sau đó thu hai bàn tay vẻ trước ngực, lòng bàn tay hướng vào nhau.
+- Ex =m=.. 'L => ⁄/ ) = —n
+- Di chuyển khua tay trong nước
+- _ Động tác: Di chuyển lên trước két hợp khua tay trong nước.
+- E : := ~ — II = ==
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- K£HUI TRY TRONG NƯỚC Mục tiêu, yêu cầu cần đạt l _ Biết và thực hiện được động tác khua tay trong nước.
+- Š et — Nghiêmtúc tích cựctrong tập luyện, có ý thức hình thànhthói _.
+- quen vận động, tập luyện thể dục thể thao hằng ngày.
+- _ Động tác: Hai tay đưa sang hai bên rộng hơn vai, lòng bàn tay hơi chéch ra ngoài.
+- Sau đó thu hai bàn tay vẻ trước ngực, lòng bàn tay hướng vào nhau.
+- _ Động tác: Di chuyển lên trước két hợp khua tay trong nước.
+- E : := ~ — II = ==
+
+### Cặp nối từ/khái niệm
+- _ Động tác => Hai tay đưa sang hai bên rộng hơn vai, lòng bàn tay hơi chéch ra
+- _ Động tác => Di chuyển lên trước két hợp khua tay trong nước.
+
+### Đoạn gõ văn bản
+- K£HUI TRY TRONG NƯỚC Mục tiêu, yêu cầu cần đạt l _ Biết và thực hiện được động tác khua tay trong nước. Š et — Nghiêmtúc tích cựctrong tập luyện, có ý thức hình thànhthói _. quen vận động, tập luyện thể dục thể thao hằng ngày. \ KH: — ————Đ—- —— GGGnNmmmPP
+- Đúng tại chỗ khua tay trong nước TTCB: Hai chân đứng rộng bằng vai, người hơi cúi, hai tay đưa ra trước ngang mặt nước, bàn tay sâp, các ngón tay khép. _ Động tác: Hai tay đưa sang hai bên rộng hơn vai, lòng bàn tay hơi chéch ra ngoài. Sau đó thu hai bàn tay vẻ trước ngực, lòng bàn tay hướng vào nhau. Ex =m=.. 'L => ⁄/ ) = —n
+- Di chuyển khua tay trong nước TTCB: Hai chân đứng rộng bằng vai, người hơi cúi, hai tay đưa ra trước ngang mặt nước, bàn tay sáp, các ngón tay khép. _ Động tác: Di chuyển lên trước két hợp khua tay trong nước. E : := ~ — II = ==
+
+### Từ khóa
+BÀI 2, K£HUI TRY TRONG NƯỚC, Mục tiêu, yêu cầu cần đạt l, Nghiêmtúc tích cựctrong tập luyện, quen vận động, GGGnNmmmPP, khởi động, vỗ tay, C nhào L, Trò chơi Di chuyển ngang, CB XP Đích, người hơi cúi, hai tay đưa ra trước, ngang mặt nước, bàn tay sâp, các ngón tay khép., _ Động tác, Ex =m=.. 'L => ⁄, ẺẼẺ ` xó, II = ==
+
+## 47. Luyện tập S4 2 (từ trang 86)
+
+### Nội dung kiến thức thô
+- Kỹ 5— = đ— ¡1
+- Luyện tập cá nhân Luyện tập cặp đôi
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Kỹ 5— = đ— ¡1 IifBiE8)ið¡¡ ÁE==-dl \Ì hs) Luyện tập cá nhân Luyện tập cặp đôi Â§ AC
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Kỹ 5, IifBiE8, ið¡¡, ÁE==, dl \Ì hs, Â§ AC
+
+## 48. Luyện tập nhóm (từ trang 86)
+
+### Nội dung kiến thức thô
+- rò chơi vận động bổ trợ môn Bơi
+- Trò chơi Xoay vòng đổi hướng
+- Ác ñ H >9 vv ọ
+- Hình nào dưới đây thể hiện động tác đứng tại chỗ khua tay trong nước?
+- L2) Em thực hiện động tác di chuyên khua tay trong nước khi đi bơi cùng
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- L2) Em thực hiện động tác di chuyên khua tay trong nước khi đi bơi cùng người thân.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hình nào dưới đây thể hiện động tác đứng tại chỗ khua tay trong nước? L2) Em thực hiện động tác di chuyên khua tay trong nước khi đi bơi cùng
+
+### Từ khóa
+255% s, JUẾN lệ, người thân. &, lo CC Ỗ "mẦ=
+
+## 49. BÀI 5 (từ trang 88)
+
+### Nội dung kiến thức thô
+- Mục tiêu, yêu cầu cần đạt
+- _ —_ Biết và thực hiện được động tác đập chân trong nước. Lš
+- Nghiêm túc, tích cực trong tập luyện, có ý thức hình thành _.
+- thói quen vận động, tập luyện thể dục thể thao hằng ngày. \
+- _ Xoay các khớp + _ Chạy tại chỗ, vỗ tay
+- Trò chơi bỏ trợ khởi động
+- Trò chơi Kéo cưa lừa xẻ
+- _,c=—-———-- ` ẻ€®Ð. c` 5 — ` à t——.”
+- Ngồi trên thành bẻ (hô) bơi tập đập chân trong nước
+- TTCB: Ngồi trên thành bể (hồ) bơi, hai tay chống ra sau, người hơi
+- ngửa, nâng bàn chân ngang bằng với mặt nước, duỗi thắng chân và mũi
+- _ Động tác: Hai chân luân phiên nâng lên, hạ xuống đập vào nước.
+- A` VY : ` `
+- Nẵn sắp trên thành bể (hô) bơi tập đập chân trong nước
+- TTCB: Nằm sắp trên thành bẻ (hỏ) bơi; thân người và bụng nằm ở trên
+- đùi và chân ở dưới nước; duỗi thắng chân.
+- Đạp thành bể (hộ) bơi tập đập chân di chuyển trong nước
+- _ TTCB: Đứng gần thành bẻ (hỏ) bơi, hai tay đưa
+- Động tác: Hít một hơi thật sâu, nín thở ngồi chìm =
+- đầu trong nước, người đỏ vẻ trước, hai chân co ä
+- lên đạp mạnh vào thành bẻ (hò) bơi, lướt ra rồi F
+- thực hiện đập chân, khi gần hét hơi thì đứng lên.
+- R®--. — _._—__ _.&.— CS v.ỒỎỒ Š
+- Ề =“=ẽ== TS ~. _=.ƒ6 mm TT. -..=
+- Q Lưyện tập đ °
+- PE A8... 1: = _ 40m» &@
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐẬP CHÂN TRONG NƯỚC Mục tiêu, yêu cầu cần đạt _ —_ Biết và thực hiện được động tác đập chân trong nước.
+- Lš Nghiêm túc, tích cực trong tập luyện, có ý thức hình thành _.
+- thói quen vận động, tập luyện thể dục thể thao hằng ngày.
+- ____ khởi động _ Xoay các khớp + _ Chạy tại chỗ, vỗ tay là tại ` && Trò chơi bỏ trợ khởi động Trò chơi Kéo cưa lừa xẻ _,c=—-———-- ` ẻ€®Ð.
+- _ Động tác: Hai chân luân phiên nâng lên, hạ xuống đập vào nước.
+- Š ¬ Z _ Đạp thành bể (hộ) bơi tập đập chân di chuyển trong nước _ TTCB: Đứng gần thành bẻ (hỏ) bơi, hai tay đưa ra trước.
+- 1: = _ 40m» &@ s'``.'' 9910-13: s9s==:: "=
+
+### Cặp nối từ/khái niệm
+- _ Động tác => Hai chân luân phiên nâng lên, hạ xuống đập vào nước.
+- _ TTCB => Đứng gần thành bẻ (hỏ) bơi, hai tay đưa
+- Động tác => Hít một hơi thật sâu, nín thở ngồi chìm =
+- PE A8 => _ 40m» &@
+- s'``.'' 9910-13 => s9s==:: "=
+
+### Đoạn gõ văn bản
+- ĐẬP CHÂN TRONG NƯỚC Mục tiêu, yêu cầu cần đạt _ —_ Biết và thực hiện được động tác đập chân trong nước. Lš Nghiêm túc, tích cực trong tập luyện, có ý thức hình thành _. thói quen vận động, tập luyện thể dục thể thao hằng ngày. \
+- Trò chơi bỏ trợ khởi động Trò chơi Kéo cưa lừa xẻ _,c=—-———-- ` ẻ€®Ð. c` 5 — ` à t——.”
+- Ngồi trên thành bẻ (hô) bơi tập đập chân trong nước TTCB: Ngồi trên thành bể (hồ) bơi, hai tay chống ra sau, người hơi ngửa, nâng bàn chân ngang bằng với mặt nước, duỗi thắng chân và mũi
+- Nẵn sắp trên thành bể (hô) bơi tập đập chân trong nước TTCB: Nằm sắp trên thành bẻ (hỏ) bơi; thân người và bụng nằm ở trên đùi và chân ở dưới nước; duỗi thắng chân. _ Động tác: Hai chân luân phiên nâng lên, hạ xuống đập vào nước.
+
+### Từ khóa
+BÀI 5, ĐẬP CHÂN TRONG NƯỚC, Mục tiêu, yêu cầu cần đạt, Nghiêm túc, tích cực trong tập luyện, thói quen vận động, M. ____, khởi động, vỗ tay, là tại ` &&, ẻ€®Ð. c` 5, Ngồi trên thành bẻ, hai tay chống ra sau, người hơi, ngửa, duỗi thắng chân và mũi, bàn chân., _ Động tác, hạ xuống đập vào nước., A` VY, Nẵn sắp trên thành bể, Nằm sắp trên thành bẻ, duỗi thắng chân.
+
+## 50. Luyện tập cá nhân Luyện tập cặp đôi (từ trang 90)
+
+### Nội dung kiến thức thô
+- chà m š —Ă=....... ) >
+- C TÀI ¬- ` -d Tà
+- ÿrrò chơi vận động bổ trợ môn Bơi
+- Trò chơi Thám hiểm đại dương
+- seÉ656Á —? (m——..—————o.......- ——. 5
+- Sa | TEGSƯẼƯG—NHGH === KS= =
+- xe. e9 ⁄. Sụ E
+- Hinh nào dưới đây thẻ hiện động tác nằm sắp trên thành bể (hô) bơi
+- y ` se nt5TNE ` lnp
+- S» 7X <5, Úị sư n t †
+- ø ” - 2 ) Á
+- En thực hiện động tác đạp thành bể (hồ) bơi đập chân di chuyển
+- trong nước khi đi bơi cùng người thân.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- C TÀI ¬- ` -d Tà Luyện tập nhóm ÿrrò chơi vận động bổ trợ môn Bơi Trò chơi Thám hiểm đại dương raw seÉ656Á —?
+- 5 Sa | TEGSƯẼƯG—NHGH === KS= = Bi uy :P xe.
+- Sụ E NO Cực TÁC, h _a/ ờ Hinh nào dưới đây thẻ hiện động tác nằm sắp trên thành bể (hô) bơi đập chân trong nước?
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Hinh nào dưới đây thẻ hiện động tác nằm sắp trên thành bể (hô) bơi đập chân trong nước? y ` se nt5TNE ` lnp S» 7X <5, Úị sư n t †
+- En thực hiện động tác đạp thành bể (hồ) bơi đập chân di chuyển trong nước khi đi bơi cùng người thân.
+
+### Từ khóa
+chà m š, Ă=......., C TÀI ¬, d Tà, seÉ656Á, o......., Sa | TEGSƯẼƯG, NHGH === KS= =, Bi uy, xe. e9 ⁄. Sụ E, NO Cực TÁC, đập chân trong nước?, S» 7X <5, Úị sư n t †, bơi đập chân di chuyển
+
+## 51. BÀI 4 (từ trang 92)
+
+### Nội dung kiến thức thô
+- ĐẬP CHÂN, KH TRY DI CHIYÊN TRONG NƯỚC
+- Mục tiêu, yêu cầu cần đạt
+- Biết và thực hiện được động tác đập chân, khua tay di chuyển Ko.
+- _ Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành _
+- thói quen vận động, tập luyện thể dục thể thao hằng ngày. \
+- _ Xoay các khớp + Đitheo vòng tròn, vỗ tay theo nhịp 1—2
+- Trò chơi bồ trợ khởi động
+- Trò chơi Đi chân vịt
+- GGGE£GG2/0 A0252) 2 5ửP lÀ . 5" + ốổ. ẤÑ
+- lÌ Ấ E6... CÁ ~_ N1
+- L1) Đứng gập thân khua tay trong nước
+- _ TTCB: Đứng thẳng, hai chân rộng bằng vai, hai tay đưa ra trước, bàn tay sáp.
+- _ Động tác: Hít một hơi thật sâu, gập thân chìm mặt vào trong nước, sau đó
+- khua tay, khi gần hét hơi thì đứng lên.
+- li >»IJ «ae SIs sả
+- Đập chân, khua tay di chuyển trong nước
+- _ TTCB: Đứng thẳng, hai tay đưa ra trước, bàn tay sắp.
+- Động tác: Hít một hơi thật sâu rồi đạp thành bẻ (hò) bơi thực hiện lướt
+- nước, sau đó đập chân, khua tay đẻ cơ thể di chuyển trong nước, khi gần
+- hết hơi thì đứng lên.
+- PHHẾN LẠIHTIHI|HAL ~ . ®%
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- ĐẬP CHÂN, KH TRY DI CHIYÊN TRONG NƯỚC Mục tiêu, yêu cầu cần đạt Biết và thực hiện được động tác đập chân, khua tay di chuyển Ko.
+- Ỉ _ Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành _ thói quen vận động, tập luyện thể dục thể thao hằng ngày.
+- khởi động _ Xoay các khớp + Đitheo vòng tròn, vỗ tay theo nhịp 1—2 Trò chơi bồ trợ khởi động Trò chơi Đi chân vịt GGGE£GG2/0 A0252) 2 5ửP lÀ .
+- CÁ ~_ N1 L1) Đứng gập thân khua tay trong nước _ TTCB: Đứng thẳng, hai chân rộng bằng vai, hai tay đưa ra trước, bàn tay sáp.
+- _ Động tác: Hít một hơi thật sâu, gập thân chìm mặt vào trong nước, sau đó khua tay, khi gần hét hơi thì đứng lên.
+- li >»IJ «ae SIs sả Đập chân, khua tay di chuyển trong nước _ TTCB: Đứng thẳng, hai tay đưa ra trước, bàn tay sắp.
+
+### Cặp nối từ/khái niệm
+- GGGE£GG2/0 A0252) 2 5ửP => 5" + ốổ. ẤÑ
+- _ TTCB => Đứng thẳng, hai chân rộng bằng vai, hai tay đưa ra trước, bàn tay sáp.
+- _ Động tác => Hít một hơi thật sâu, gập thân chìm mặt vào trong nước, sau đó
+- _ TTCB => Đứng thẳng, hai tay đưa ra trước, bàn tay sắp.
+- Động tác => Hít một hơi thật sâu rồi đạp thành bẻ (hò) bơi thực hiện lướt
+
+### Đoạn gõ văn bản
+- ĐẬP CHÂN, KH TRY DI CHIYÊN TRONG NƯỚC Mục tiêu, yêu cầu cần đạt Biết và thực hiện được động tác đập chân, khua tay di chuyển Ko.
+- _ Nghiêm túc, tích cực trong tập luyện; có ý thức hình thành _ thói quen vận động, tập luyện thể dục thể thao hằng ngày. \
+- _ Xoay các khớp + Đitheo vòng tròn, vỗ tay theo nhịp 1—2 Trò chơi bồ trợ khởi động Trò chơi Đi chân vịt GGGE£GG2/0 A0252) 2 5ửP lÀ . 5" + ốổ. ẤÑ
+
+### Từ khóa
+BÀI 4, Mục tiêu, yêu cầu cần đạt, khua tay di chuyển Ko., trong nước. Ỉ, _ Nghiêm túc, tích cực trong tập luyện, thói quen vận động, khởi động, vỗ tay theo nhịp 1, Trò chơi Đi chân vịt, GGGE£GG2, 0 A0252, NGÔ b1, _ TTCB, Đứng thẳng, hai chân rộng bằng vai, hai tay đưa ra trước, bàn tay sáp., _ Động tác, Hít một hơi thật sâu, sau đó, khua tay, li >»IJ «ae SIs sả
+
+## 52. Luyện tập cá nhân Luyện tập cặp đôi (từ trang 93)
+
+### Nội dung kiến thức thô
+- èTrò chơi vận động bỏ trợ môn Bơi
+- Trò chơi Đội nào nhanh hơn
+- Q Hinh nào dưới đây thể hiện động tác đập chân, khua tay di chuyển
+- L2) Em thực hiện động tác đập chân, khua tay di chuyển trong nước khi
+- đi bơi cùng người thân.
+- BANG GIAI THÍCH THUẬT NGỮ
+- Thuật ngữ | Giải thích thuật ngữ |rrang
+- Ỷ : Các bài tập được thực hiện kết hợp cùng nhau
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Luyện tập nhóm èTrò chơi vận động bỏ trợ môn Bơi Trò chơi Đội nào nhanh hơn S3Ex Q Hinh nào dưới đây thể hiện động tác đập chân, khua tay di chuyển trong nước?
+- Z——— >> -_— Ñ ứ ÖÒÖÉN- ——_ L2) Em thực hiện động tác đập chân, khua tay di chuyển trong nước khi đi bơi cùng người thân.
+- BANG GIAI THÍCH THUẬT NGỮ Thuật ngữ | Giải thích thuật ngữ |rrang Ỷ : Các bài tập được thực hiện kết hợp cùng nhau
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- L2) Em thực hiện động tác đập chân, khua tay di chuyển trong nước khi đi bơi cùng người thân. BANG GIAI THÍCH THUẬT NGỮ Thuật ngữ | Giải thích thuật ngữ |rrang Ỷ : Các bài tập được thực hiện kết hợp cùng nhau
+
+### Từ khóa
+S3Ex, khua tay di chuyển, trong nước?, đi bơi cùng người thân., BANG GIAI THÍCH THUẬT NGỮ
+
+## 53. Bài tập phối hợp đề đạt được mục đích chung. Sẽ (từ trang 95)
+
+### Nội dung kiến thức thô
+- Bắt bóng Dùng tay đón và giữ bóng từ phía trước đến. 56
+- h # : ñ 4
+- S2 be HÓnH Dùng tay đưa hoặc đầy bóng cho người khác. 75
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Bắt bóng Dùng tay đón và giữ bóng từ phía trước đến.
+- 56 h # : ñ 4 S2 be HÓnH Dùng tay đưa hoặc đầy bóng cho người khác.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+trong bóng rổ
+
+## 54. Chướng ngại vật Vật thể nhân tạo hay tự nhiên để càn bước tiến, 47 (từ trang 95)
+
+### Nội dung kiến thức thô
+- DẪn bóng Dùng tay điều khiển bóng này trên mặt sân 69
+- trong bóng rổ) °” SINEU . ử
+- Dời vị trí của cơ thể (bằng cách đi, chạy hoặc
+- Taa Cách đi theo nhịp thống nhất, khi bắt đầu đi
+- BE chân trái bước trước. =
+- T= Báo cáo vị trí đứng của mình theo thứ tự trong
+- Nướ: đội hình, đội ngũ. =
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- DẪn bóng Dùng tay điều khiển bóng này trên mặt sân 69 trong bóng rổ) °” SINEU .
+- ử Dời vị trí của cơ thể (bằng cách đi, chạy hoặc P'cHuyên bật nhày,....
+- SS Taa Cách đi theo nhịp thống nhất, khi bắt đầu đi BE chân trái bước trước.
+- T= Báo cáo vị trí đứng của mình theo thứ tự trong Nướ: đội hình, đội ngũ.
+
+### Cặp nối từ/khái niệm
+- Chưa phát hiện cặp rõ ràng.
+
+### Đoạn gõ văn bản
+- DẪn bóng Dùng tay điều khiển bóng này trên mặt sân 69 trong bóng rổ) °” SINEU . ử Dời vị trí của cơ thể (bằng cách đi, chạy hoặc P'cHuyên bật nhày,.... SS Taa Cách đi theo nhịp thống nhất, khi bắt đầu đi BE chân trái bước trước. = T= Báo cáo vị trí đứng của mình theo thứ tự trong Nướ: đội hình, đội ngũ. =
+
+### Từ khóa
+gây trở ngại., trong bóng rổ, SINEU . ử, bằng cách đi, chạy hoặc, P'cHuyên bật nhày, khi bắt đầu đi, đội hình, đội ngũ. =
+
+## 55. Phần Nội dung Trang (từ trang 96)
+
+### Nội dung kiến thức thô
+- Chỏ đề 1: Đội hình đội ngữ 8
+- Bài 1. Biến đổi đội hình từ một hàng dọc thành hai, ba hàng dọc 8
+- I—==:i b2 êm bú đội hình từ một hàng ngang thành hai, ba hàng ngang 4
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Chỏ đề 1: Đội hình đội ngữ 8 Bài 1.
+- Biến đổi đội hình từ một hàng dọc thành hai, ba hàng dọc 8 Và ngược lại I—==:i b2 êm bú đội hình từ một hàng ngang thành hai, ba hàng ngang 4
+
+### Cặp nối từ/khái niệm
+- Chỏ đề 1 => Đội hình đội ngữ 8
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Phần Nội dung Trang, Chỏ đề 1, Đội hình đội ngữ 8, ba hàng dọc 8, Và ngược lại, ba hàng ngang 4
+
+## 56. Bài 3. Biến đổi đội hình từ một vòng tròn thành hai vòng tròn và ngược lại 21 (từ trang 96)
+
+### Nội dung kiến thức thô
+- Bài 4. Động tác đi đầu, đứng lại 26
+- Chỏ đề 2: Bài tập thể dục 30
+- Bài 1. Động tác vươn thở, động tác tay. 30
+- Bài 2. Động tác chân, động tác lườn, động tác bụng 34
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Động tác đi đầu, đứng lại 26 Chỏ đề 2: Bài tập thể dục 30 Bài 1.
+- Động tác chân, động tác lườn, động tác bụng 34
+
+### Cặp nối từ/khái niệm
+- Chỏ đề 2 => Bài tập thể dục 30
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+đứng lại 26, Chỏ đề 2, động tác tay. 30, Bài 2. Động tác chân, động tác lườn, động tác bụng 34
+
+## 57. Bài 3. Động tác phối hợp, động tác nhảy, động tác điều hoà 39 (từ trang 96)
+
+### Nội dung kiến thức thô
+- Chỏ đề 3: Tư thế và kĩ năng vận động cơ bản 43
+- Bài 1. Bài lập phối hẹp di chuyển vượt qua chướng ngại vật trên đường thẳng |_ 43
+- li TIAN tập phối hẹp di chuyển vượt qua chướng ngợi vệt trên đường 47
+- Bài 3. Bài tập phối hẹp di chuyển vượt qua chướng ngại vệt trên địa hình |_ 52
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Chỏ đề 3: Tư thế và kĩ năng vận động cơ bản 43 Bài 1.
+- Bài lập phối hẹp di chuyển vượt qua chướng ngại vật trên đường thẳng |_ 43 li TIAN tập phối hẹp di chuyển vượt qua chướng ngợi vệt trên đường 47 Bài 3.
+- Bài tập phối hẹp di chuyển vượt qua chướng ngại vệt trên địa hình |_ 52
+
+### Cặp nối từ/khái niệm
+- Chỏ đề 3 => Tư thế và kĩ năng vận động cơ bản 43
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+động tác nhảy, động tác điều hoà 39, Chỏ đề 3
+
+## 58. Bài 4. Bài tập tại chỗ tung ~ bắt bóng bằng hai tay S6 (từ trang 96)
+
+### Nội dung kiến thức thô
+- Bài 5. Bài tập di chuyển tung — bắt bóng bằng hai tay 60
+- Chủ đề 1: Môn Bóng rổ 64
+- Bài 1. Bài tập bổ trợ với bóng 64
+- Bài 2. Động tác dẫn bóng theo hướng thẳng, dẫn bóng đổi hướng 69
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Bài tập di chuyển tung — bắt bóng bằng hai tay 60 Chủ đề 1: Môn Bóng rổ 64 Bài 1.
+- Bài tập bổ trợ với bóng 64 Bài 2.
+- Động tác dẫn bóng theo hướng thẳng, dẫn bóng đổi hướng 69
+
+### Cặp nối từ/khái niệm
+- Chủ đề 1 => Môn Bóng rổ 64
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Chủ đề 1, Môn Bóng rổ 64, dẫn bóng đổi hướng 69
+
+## 59. Bài 3. Động tác chuyên bóng bằng hai tay trước ngực 73 (từ trang 96)
+
+### Nội dung kiến thức thô
+- Bài 4. Bài tập phối hẹp dẫn bóng - ném rổ bằng hai tay trước ngực 78
+- Chỏ đề 2: Môn Bơi f)
+- Bài 1. Đạp đáy bể (hồ) bơi nhô đàu kết hợp thở trong nước 79
+- Bài 2. Khua tay trong nước 83
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Bài tập phối hẹp dẫn bóng - ném rổ bằng hai tay trước ngực 78 Chỏ đề 2: Môn Bơi f) Bài 1.
+- Đạp đáy bể (hồ) bơi nhô đàu kết hợp thở trong nước 79 Bài 2.
+
+### Cặp nối từ/khái niệm
+- Bài 4. Bài tập phối hẹp dẫn bóng => ném rổ bằng hai tay trước ngực 78
+- Chỏ đề 2 => Môn Bơi f)
+
+### Đoạn gõ văn bản
+- Chưa phát hiện đoạn phù hợp.
+
+### Từ khóa
+Chỏ đề 2, Môn Bơi f, Bài 1. Đạp đáy bể
+
+## 60. Bài 3. Đập chân trong nước 87 (từ trang 96)
+
+### Nội dung kiến thức thô
+- _ Bài 4. Đập chân, khua tay di chuyển trong nước 91
+- các tác giá có tác phẩm, tư liệu được sử dụng, trích dẫn.
+- Chịu trách nhiệm xuất bản
+- Chủ tịch Hội đồng Thành viên NGUY ÉN ĐỨC THÁI
+- Tổng Giám đốc HOÀNG LÊ BÁCH
+- Chịu trách nhiệm nội dung
+- Tổng biên tập PHẠM VĨNH THÁI
+- Biên tập nội dung: PHAN THỊ THANH BÌNH - LÊ THỊ HỒNG VÂN
+- Biên tập mĩ thuật: NGUY ẼN BÍCH LA
+- Thiết kế sách: NGUYÊN ĐÌNH HƯƠNG
+- Trình bày bìa: NGUYỄN BÍCH LA
+- Minh hoạ: NGUYÊN MAI HƯƠNG
+- Sửa bản in: TẠ THỊ HƯỜNG
+- Chế bản: CÔNG TY CỎ PHÀN MĨ THUẬT VÀ TRUYỀN THÔNG
+- Xuất bản phẩm đã đăng kí quyên tác giả. Tất cả các phần của nội dung cuốn sách
+- này đêu không được sao chép, lưu trữ, chuyên thê dưới bât kì hình thức nào khi
+- GIÁO DỤC THỂ CHẤT 3
+- In... bản, (QĐ ...) khổ 19 x 26,5 cm.
+- Số QĐXB: .../(QĐ-GD-HN ngày ... tháng ... năm...
+- In xong và nộp lưu chiễu tháng ... năm 20...
+- Ẳ &. c sà g Kộn
+- by ĐẠO ĐỨC ÂMNHẠC 3 | | MĨTHUẬT 3 | | côNGNGHỆ 3,
+- Tế ƒ n tứ Ä | Ni
+- SE :ì: Í-:, l jJƑG
+- x | l ¿ Vi lì -Ä
+- BỘ SÁCH GIÁO KHOA LỚP 3 — KẾT NỐI TRI THỨC VỚI CUỘC SỐNG
+- 1. Tiếng Việt 3, tập một 8. Mĩ thuật 3
+- 2. Tiếng Việt 3, tập hai 9. Công nghệ 3
+- 3. Toán 3, tập một 10. Tin học 3
+- 4. Toán 3, tập hai 11. Hoạt động trải nghiệm 3
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Đập chân, khua tay di chuyển trong nước 91 S..ENNEWWWWENNEE.m=.__.._.
+- các tác giá có tác phẩm, tư liệu được sử dụng, trích dẫn.
+- Tất cả các phần của nội dung cuốn sách này đêu không được sao chép, lưu trữ, chuyên thê dưới bât kì hình thức nào khi GIÁO DỤC THỂ CHẤT 3 Mã số: G1HH3E004H22 In...
+- bản, (QĐ ...) khổ 19 x 26,5 cm.
+- In xong và nộp lưu chiễu tháng ...
+- Mã số ISBN: 978-604-0-30701-9 E) z OÁN 3 OAÁN Š _tÌ-: là g Ẳ &.
+- Tiếng Anh 3 - Global Success - SHS, tập một 7.
+- và nhập mỗ số tại biểu tượng chìa khoá, Ú Knh 786040 Ì 307019 Giá: 15.000 đ
+
+### Cặp nối từ/khái niệm
+- Biên tập nội dung => PHAN THỊ THANH BÌNH - LÊ THỊ HỒNG VÂN
+- Biên tập mĩ thuật => NGUY ẼN BÍCH LA
+- Thiết kế sách => NGUYÊN ĐÌNH HƯƠNG
+- Trình bày bìa => NGUYỄN BÍCH LA
+- Minh hoạ => NGUYÊN MAI HƯƠNG
+- Sửa bản in => TẠ THỊ HƯỜNG
+- Chế bản => CÔNG TY CỎ PHÀN MĨ THUẬT VÀ TRUYỀN THÔNG
+- Mã số => G1HH3E004H22
+- SE :ì => Í-:, l jJƑG
+- 6. Đạo đức 3 13. Tiếng Anh 3 => Global Success - SHS, tập một
+
+### Đoạn gõ văn bản
+- Số ĐKXB: 146-2022/CXBIPH/2-48/GD. Số QĐXB: .../(QĐ-GD-HN ngày ... tháng ... năm... In xong và nộp lưu chiễu tháng ... năm 20... Mã số ISBN: 978-604-0-30701-9
+
+### Từ khóa
+_ Bài 4. Đập chân, S..ENNEWWWWENNEE.m=.__.._., tư liệu được sử dụng, trích dẫn., trong cuốn sách này., Chịu trách nhiệm xuất bản, Chịu trách nhiệm nội dung, Biên tập nội dung, PHAN THỊ THANH BÌNH, LÊ THỊ HỒNG VÂN, Biên tập mĩ thuật, NGUY ẼN BÍCH LA, Thiết kế sách, NGUYÊN ĐÌNH HƯƠNG, Trình bày bìa, NGUYỄN BÍCH LA, Minh hoạ, NGUYÊN MAI HƯƠNG, Sửa bản in, TẠ THỊ HƯỜNG, Chế bản, lưu trữ, GIÁO DỤC THỂ CHẤT 3, Mã số

@@ -1,0 +1,26 @@
+g® Đoạn chương trình nào sau đây có cấu trúc rẽ nhánh?
+Khi bắm vào.
+Khi bắm vào.
+trang phục kề tiếp.
+khi bắm phim phím trắng lặp lại ®
+di chuyển @® bước
+nếu đangchạm con trỏ chuột ? thì trang phục kế tiếp
+.. PK. saes Ð
+Nghe 2°, di chuyển ® bước đợi o5) giây
+di chuyển @® bước `
+A. B, e.
+3. THỰC HÀNH SỬ DỤNG CẤU TRÚC RẼ NHÁNH
+NHIỆM VỤ Hãy viết chương trình Mèo đổi màu như ý tưởng được mô tả trong
+Hoạt động 1: Nhân vật mèo thực hiện lặp liên tục "n:éu chạm con trỏ chuột thì
+đổi màu".
+Hướng dẫn
+Bước 1: Ghép các lệnh và điều kiện sau thành chương trình thực hiện ý
+tưởng đã nêu.
+Lặp để nhân vật thực hiện liên tục Khi bắm vào
+khối lệnh bên trong
+liên tục
+Tại mỗi bước lặp: nếu  đangchạm con trỏchuột  ? thì
+Nếu nhân vật chạm con trỏ chuột LÌ
+thì thay đổi màu một lượng bằng 3 thay đổi hiệuứng màu w mộtlượng ®
++
+65

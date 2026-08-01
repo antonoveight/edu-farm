@@ -1,0 +1,12 @@
+ Báén dỏi đội hình từ một vòng tròn thành hai vòng tròn
++__ Khảu lệnh: "Bạn A làm chuẩn, theo 1, 2; 1, 2~ Điểm sói".
+« Cách thực hiện: Lần lượt từ em A quay mặt qua trái, hô to số của mình
+THẾ cử, tự 1,2;1,2:... hộ quay mặt về tư thê ban đâu. Em cuôi cùng hô
+†o số của mình và hô “Hết”.
+1) (2.Hết)
+n «& A(1)
+®<- œ@
+« _ Khẩu lệnh: “Thành hai vòng tròn — Bước!”.
++ Cách thực hiện: Em số 1 đứng tại chỗ. Em số 2 bước chân phải lùi một
+bước chếch sang phải về sau em só 1, sau đó thu chân trái xuống thành
+tư thế đứng nghiêm.

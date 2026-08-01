@@ -1,0 +1,32 @@
+7 BÀI `)
+MT Từ KịcH BẢN ĐỀN CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+" Hợp tác được theo nhóm để viết kịch bản và tạo chương trình
+thể hiện kịch bản.
+" Chạy thử được chương trình.
+øo KHỞI ĐỘNG
+H0ẠT ĐỘNG +* Ý tưởng chương trình trò chơi “Mèo bắt bóng”
+Nhóm bạn An, Minh và Khoa muốn tạo chương | sx œœ
+trình trò chơi “Mèo bắt bóng” (Hình 100),
+trong đó có một con mèo và một trái bóng.
+Bóng liên tục di chuyển trong sân kháu. Mèo
+di chuyển theo con trỏ chuột, con trỏ chuột di é®)
+chuyển đến đâu mèo di chuyển theo đến đó. =
+Người chơi dùng chuột để điều khiển mèo di
+chuyển sao cho mèo chạm được vào bóng.
+Mỗi lần mèo chạm vào bóng thì điểm số của Hình 100. Trò chơi
+người chơi được tăng thêm 1. Mèo bắt bóng
+Em hãy thảo luận với bạn để trả lời các câu hỏi sau:
+1. Chương trình gồm những nhân vật nào?
+2. Các nhân vật hành động như thế nào?
+Í_ VIẾT KỊCH BẢN
+Trong các bài học trước, ý tưởng của mỗi chương trình Scratch đều
+@ đã được mô tả cụ thể theo cách chia nhỏ công việc để dễ hiểu và dễ
+thực hiện. Việc mô tả như vậy chính là viết kịch bản chương trình.
+Kịch bản chương trình nên được viết để trả lời các câu hỏi sau:
+1. Chương trình có nhân vật nào?
+2. Chương trình diễn ra trong bối cảnh (sân kháu) nào?
+3. Hành động của các nhân vật là gì?
+Dựa trên ý tưởng được nêu ở hoạt động Khởi động, kịch bản chương trình
+“Mèo bắt bóng” được mô tả như sau:
+78

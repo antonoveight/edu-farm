@@ -1,0 +1,17 @@
+@ Người ta đóng số lên các khung xe đạp. Các khung xe đạp đã được đóng
+số từ 1 đến 99 997. Hỏi ba khung xe tiếp theo sẽ được đóng số nào?
+(Ô Chon cách đọc thích hợp với số.
+L2) a) Số 2
+10 000 e—s 15 000 s—+ 20.000 s—2 ' Í?): — «—s 35 000
+b) Trong các só trên, só nào là só tròn chục nghìn?
+Chọn câu trả lời đúng.
+Bạn An đó Mai tìm một số từ bốn số cho trước 64 301, 80 458, 82 361,
+83 405, biệt rằng:
+— Hàng chục nghìn của số cần tìm là 8.
+— Nếu làm tròn số cần tìm đến hàng chục thì chữ số hàng chục của số
+làm tròn là 6.
+— Nếu làm tròn số cần tìm đến hàng trăm thì chữ số hàng trăm của số
+làm tròn là 4.
+Số cần tìm là:
+A. 64 301 B. 80 458 C. 82 361 D. 83 405
+60

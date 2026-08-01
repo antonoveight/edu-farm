@@ -1,0 +1,63 @@
+Q: Hệ gõ tiếng Việt phổ biến nhất trên máy tính hiện nay có tên là gì?
+A: TELEX
+C: TELEX, VNI, VIQR, UNICODE
+
+Q: Trong kiểu gõ Telex, để gõ được chữ 'â' bé nhấn đúp phím nào?
+A: PHÍM A
+C: PHÍM A, PHÍM O, PHÍM E, PHÍM U
+
+Q: Trong kiểu gõ Telex, phím nào dùng làm dấu sắc?
+A: PHÍM S
+C: PHÍM S, PHÍM F, PHÍM R, PHÍM X
+
+Q: Trong kiểu gõ VNI, để gõ chữ 'â' ta gõ tổ hợp phím nào?
+A: A + 6
+C: A + 6, A + 2, A + 3, A + 1
+
+Q: Phần mềm Paint trên Windows dùng để làm gì?
+A: VẼ VÀ CHỈNH SỬA ẢNH
+C: VẼ VÀ CHỈNH SỬA ẢNH, GÕ VĂN BẢN, LÀM TÍNH, NGHE NHẠC
+
+Q: Nhấn tổ hợp phím để TÌM KIẾM (Find) nội dung:
+A: ctrl+f
+C: ctrl+f
+
+Q: Nhấn tổ hợp phím để MỞ TỆP (Open) đã lưu:
+A: ctrl+o
+C: ctrl+o
+
+Q: Tổ hợp phím tắt để SAO CHÉP (Copy) là gì?
+A: CTRL + C
+C: CTRL + C, CTRL + V, CTRL + X, CTRL + Z
+
+Q: Tổ hợp phím tắt để DÁN (Paste) là gì?
+A: CTRL + V
+C: CTRL + C, CTRL + V, CTRL + S, CTRL + N
+
+Q: Tổ hợp phím tắt để CẮT (Cut) là gì?
+A: CTRL + X
+C: CTRL + X, CTRL + C, CTRL + V, CTRL + Z
+
+Q: Tổ hợp phím tắt để HOÀN TÁC (Undo) là gì?
+A: CTRL + Z
+C: CTRL + Z, CTRL + Y, CTRL + X, CTRL + S
+
+Q: Tổ hợp phím tắt để LƯU (Save) tài liệu là gì?
+A: CTRL + S
+C: CTRL + S, CTRL + A, CTRL + F, CTRL + P
+
+Q: Trình duyệt Web nào sau đây được dùng phổ biến?
+A: GOOGLE CHROME
+C: GOOGLE CHROME, MICROSOFT WORD, EXCEL, PAINT
+
+Q: Thư mục trong máy tính dùng để làm gì?
+A: Lưu trữ và sắp xếp các tệp tin một cách khoa học
+C: Lưu trữ và sắp xếp các tệp tin một cách khoa học, Tăng tốc độ gõ phím, Hiển thị video ca nhạc, Thay đổi hình nền màn hình
+
+Q: Để chọn nhiều tệp tin liên tiếp trong thư mục, em nhấn giữ phím nào khi chọn?
+A: Phím Shift
+C: Phím Shift, Phím Ctrl, Phím Alt, Phím Tab
+
+Q: Phép chia nào có số dư bằng 2?
+A: 17 chia 5
+C: 17 chia 5, 20 chia 4, 15 chia 3, 18 chia 4

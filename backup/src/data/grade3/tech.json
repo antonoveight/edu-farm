@@ -1,0 +1,55 @@
+[
+  {
+    "q": "Phím nào giúp gõ được chữ HOA khi giữ cùng lúc?",
+    "a": "SHIFT",
+    "c": [
+      "SHIFT",
+      "ENTER",
+      "SPACE",
+      "BACKSPACE"
+    ]
+  },
+  {
+    "q": "Ngón tay cái dùng để nhấn phím nào?",
+    "a": "PHÍM SPACE BAR",
+    "c": [
+      "PHÍM SPACE BAR",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM CAPS LOCK"
+    ]
+  },
+  {
+    "q": "Bộ phận nào của máy tính hiển thị hình ảnh?",
+    "a": "MÀN HÌNH",
+    "c": [
+      "MÀN HÌNH",
+      "CHUỘT",
+      "BÀN PHÍM",
+      "LOA"
+    ]
+  },
+  {
+    "q": "Tư thế ngồi học máy tính đúng cần đảm bảo điều gì?",
+    "a": "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
+    "c": [
+      "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
+      "LƯNG THẲNG",
+      "MẮT CÁCH MÀN HÌNH 50-70CM",
+      "NGỒI KHOM LƯNG",
+      "MẮT SÁT MÀN HÌNH",
+      "NẰM KHI GÕ PHÍM",
+      "NGỒI NGHIÊNG SANG PHẢI"
+    ]
+  },
+  {
+    "q": "Phím nào dài nhất trên bàn phím?",
+    "a": "PHÍM SPACE BAR",
+    "c": [
+      "PHÍM SPACE BAR",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM BACKSPACE"
+    ]
+  }
+]

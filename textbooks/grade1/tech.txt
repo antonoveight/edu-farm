@@ -1,0 +1,79 @@
+Q: Khi ngồi học máy tính, lưng của bé phải giữ như thế nào?
+A: THẲNG
+C: THẲNG, KHÒM, NGHIÊNG, NẰM CHƠI
+
+Q: Mắt bé nên cách màn hình máy tính khoảng bao nhiêu cm?
+A: 50 ĐẾN 80 CM
+C: 50 ĐẾN 80 CM, 10 CM, 200 CM, 5 CM
+
+Q: Chuột máy tính dùng để làm gì?
+A: ĐIỀU KHIỂN CON TRỎ
+C: ĐIỀU KHIỂN CON TRỎ, ĐÁNH CHỮ, IN GIẤY, PHÁT NHẠC
+
+Q: Bộ phận nào của máy tính hiển thị hình ảnh và văn bản?
+A: MÀN HÌNH
+C: MÀN HÌNH, BÀN PHÍM, CHUỘT, LOA
+
+Q: Khi dùng chuột, ngón trỏ đặt lên nút nào của chuột?
+A: NÚT TRÁI
+C: NÚT TRÁI, NÚT PHẢI, CON LĂN, DƯỚI ĐẾ CHUỘT
+
+Q: Bàn phím máy tính dùng để làm gì?
+A: GÕ CHỮ VÀ SỐ
+C: GÕ CHỮ VÀ SỐ, PHÁT ÂM NHẠC, HIỂN THỊ ẢNH, IN TÀI LIỆU
+
+Q: Bộ phận nào của máy tính phát ra âm thanh?
+A: LOA
+C: LOA, MÀN HÌNH, BÀN PHÍM, CHUỘT
+
+Q: Phím nào dài nhất trên bàn phím máy tính?
+A: PHÍM CÁCH (SPACE)
+C: PHÍM CÁCH (SPACE), PHÍM ENTER, PHÍM SHIFT, PHÍM CTRL
+
+Q: Để bật/tắt máy tính ta nhấn nút nào?
+A: NÚT NGUỒN (POWER)
+C: NÚT NGUỒN (POWER), PHÍM ENTER, PHÍM ESC, PHÍM DELETE
+
+Q: Phím nào dùng để xóa chữ vừa gõ?
+A: BACKSPACE
+C: BACKSPACE, ENTER, SHIFT, SPACE
+
+Q: Bé hãy nhấn tổ hợp phím để LƯU (Save) tài liệu nhé:
+A: ctrl+s
+C: ctrl+s
+
+Q: Bé hãy nhấn tổ hợp phím để HOÀN TÁC (Undo) hành động vừa làm sai:
+A: ctrl+z
+C: ctrl+z
+
+Q: Luyện gõ các chữ cái hàng cơ sở F và J:
+A: asdfjkl;
+C: asdfjkl;
+
+Q: Luyện gõ từ đơn giản:
+A: abc
+C: abc
+
+Q: Luyện gõ các ký tự hàng cơ sở:
+A: dfjk
+C: dfjk
+
+Q: Khi ngồi học máy tính, lưng phải như thế nào?
+A: THẲNG
+C: THẲNG, KHÒM, NGHIÊNG, NẰM CHƠI
+
+Q: Màn hình máy tính hiển thị cái gì?
+A: HÌNH ẢNH VÀ CHỮ
+C: HÌNH ẢNH VÀ CHỮ, TIẾNG NÓI, BÀN PHÍM, PIN
+
+Q: Trong dãy số từ 1 đến 10, số nào lớn nhất?
+A: 10
+C: 10, 1, 5, 9
+
+Q: Thiết bị nào của máy tính dùng để gõ chữ và số?
+A: Bàn phím
+C: Bàn phím, Chuột, Màn hình, Thân máy
+
+Q: Khi muốn di chuyển con trỏ trên màn hình máy tính, em cần sử dụng thiết bị nào?
+A: Chuột máy tính
+C: Chuột máy tính, Bàn phím, Loa, Máy in

@@ -1,0 +1,24 @@
+đGIÍ Tm _. K Z
+à. 1 5 ” SƯ DỤNG BIÊU THỨC
+ng TRONG CHƯƠNG TRÌNH
+Sau bài này em sẽ:
+» Sử dụng được biểu thức trong một số chương trình đơn giản.
+» Chạy thử được chương trình.
+o KHỞI ĐỘNG
+HOẠT ĐỘNG + Biểu thức
+Giả sử biến œ@œ@ được dùng để lưu độ dài cạnh của hình vuông. Scratch
+có các phép toán cộng, trừ, nhân, chia như trong môn Toán. Theo em biểu
+thức nào sau đây tính chu vi hình vuông trong Scratch?
+^, “
+Í_ BIÊU THỨC TRONG SCRATCH
+@ Nếu biểu thức trong môn Toán gồm các số, chữ, phép toán và dáu
+HS 8 biểu thức trong Scratch gồm các số, biến và phép toán.
+Nhóm lệnh “:*” trong Scratch có các lệnh tạo biểu thức với một số phép toán
+như sau:
+— Bốn phép toán số học: cộng, trừ, nhân, chia. Ví dụ minh hoạ được trình
+bày trong bảng sau:
+_ Biến | Biutứ
+©O ŒP c1 CD ŒP GP.
+(165) 20 j 10 20 | T5 9 -
+6/3) 9| 12 | 12 | 18, 2 _
+73

@@ -1,0 +1,18 @@
+&......
+(Ồ Chọn phép tính thích hợp.
+kì xà»
+Mỗi lọ có 5 bông hoa. Hỏi 3 lọ như vậy có
+tất cả bao nhiêu bông hoa?
+Cắm 15 bông hoa vào các lọ, mỗi lọ 5 bông.
+Hỏi cắm được máy lọ hoa như vậy?
+Có 15 bông hoa chia đều vào 3 lọ. Hỏi mỗi lọ
+có bao nhiêu bông hoa?
+ÂÖ Với mỗi phép nhân, viết hai phép chia (theo mẫu).
+a)2x4=8 b)2x7=14 Mẫu: 2x4=8
+c)5x8=40 d)5x3= 15 8:2=4
+8:4=2
+Q5:
+a) b)
+HHDDBD
+HHHDMMWM BÍHBẦHRH
+16

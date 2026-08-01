@@ -1,0 +1,36 @@
+ước 4: Đọc thông tin. Em cần ghi lại những thông re
+tin chính của cuộc thi như: đối tượng, nội dung, z ` +~>
+hình thức, thời gian, địa điểm, giải thưởng,... —ÉH.J. l2
+Š
+8ước 5: Đễ có thông tin cho bài trình chiếu, em có Copy mape
+thể chọn lọc và sao chép về máy tính các thông DuERESBE
+tin chính và hình ảnh, biểu tượng của cuộc thi. Ví dụ ÑN( ;;ˆ-“.ˆ”
+muốn sao chép biểu tượng cuộc thi, em nháy nút | ° À ".
+phải chuột vào hình ảnh biểu tượng, chọn Save \/ 2 -
+image as... (Hình 9). Cửa sổ Save As hiện ra, Hình 9.ưu tệp vềmáy tính
+em chọn thư mục lưu tệp, nhập tên tệp là Logo rồi nhán nút Save để hoàn thành.
+8ước 6: Với các thông tin dạng văn bản, em chọn đoạn văn bản muốn sao
+chép (tương tự cách chọn trong phần mềm soạn thảo văn bản), nhắn giữ
+phím Ctrl và gõ phím C để sao chép, mở tệp văn bản trên máy tính, nhán giữ
+phím Ctrl và gõ phím V để dán vào tệp văn bản. Lưu lại tệp văn bản với tên
+ThongtinCuocthi.
+NHIỆM VỤ 2| Sử dụng USB để chia sẻ tệp.
+Hướng dẫn
+Em có thể sao chép tệp vào USB rồi chuyển cho người cần. Cách thực hiện
+như sau:
+Bước 1: Kết nối USB vào máy tính.
+- Cắm USB vào cổng USB trên thân máy tính. Chú ý quan sát để cắm
+đúng chiều, nhẹ tay (Hình 10, Hình 11). Em có thể nhờ người lớn trợ giúp.
+Hình 10. Cổng USB trên máy tính Hình 11. USB đã được cắm vào cổng
+
+— Khi cắm USB, máy tính sẽ coi Œ = b4 ST L^N s. s4
+USB như một ổ đĩa tương tự như si TT. ¬
+minh hoạ ở Hình 12. Việc sao TT : —
+chép tệp trong USB tương tự như | _ #"s tt |
+việc sao chép tệp trong máy tính =— kS¿§ẽ
+mà em đã biết. sˆNeeo,
+
+= " [E=
+
+Hình 12. Cửa sổ hiển thị nội dung ổ đĩa USB
+12

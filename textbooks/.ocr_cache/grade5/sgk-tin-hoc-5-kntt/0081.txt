@@ -1,0 +1,29 @@
+NHIỆM VỤ 2| Chạy thử chương trình tạo được ở Nhiệm vụ 1.
+Chạy chương trình và thực hiện các công việc sau:
+1. Quan sát kết quả.
+2. So sánh kết quả chạy chương trình với kịch bản xem đã đúng chưa.
+3. Chương trình có điều gì chưa đạt yêu cầu không? Nếu có thì tìm cách cải
+tiến hoặc sửa lỗi chương trình.
+Hướng dẫn
+Bước 1: Nháy nút lệnh ?# để chạy chương trình, di chuyển liên tục con trỏ
+chuột đuồi theo bóng và quan sát kết quả để tháy điểm số tăng lên khi mèo
+chạm bóng.
+Bước 2: Nháy nút để ©® dừng chương trình.
+Bước 3: Chạy lại chương trình nhiều lần để đảm bảo thực hiện đủ các yêu
+cầu của nhiệm vụ.
+W: Sau khi tạo chương trình, em cần chạy thử, quan sát kết ï
+
+: quả và chỉnh sửa để chương trình thực hiện đúng yêu cầu. :
+LỆ CC -
+4Œ... TẬP
+1. Kịch bản chương trình được viết để trả lời những câu hỏi nào sau đây?
+A. Chương trình có những nhân vật nào?
+B. Sân kháu là gì?
+©. Hành động của các nhân vật là gì?
+D. Làm thế nào để chạy chương trình?
+2. Em hãy cho biết tại sao cần phải chạy thử chương trình.
+Em hãy tạo chương trình thực hiện kịch bản “Mèo bắt bóng”, trong đó chương
+trình cho nhân vật mèo như Hình 103. Hãy chạy thử chương trình để thực
+hiện các công việc như yêu cầu trong Nhiệm vụ 2.
+
+81

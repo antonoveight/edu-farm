@@ -1,0 +1,527 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu-Farm v2.2 - Nông Trại Tri Thức Toàn Diện</title>
+    <script>
+        window.errors = [];
+        window.onerror = function(msg, url, line, col, error) {
+            window.errors.push({
+                message: msg,
+                url: url,
+                line: line,
+                col: col,
+                stack: error ? error.stack : ''
+            });
+            console.error("Caught error in iframe:", msg, "at", url, ":", line);
+            return false;
+        };
+    </script>
+    <!-- Google Fonts & Font Awesome Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&family=Urbanist:wght@500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Import Tailwind CSS Framework để hiển thị giao diện tối ưu -->
+    <script>
+        tailwind = {
+            config: {
+                theme: {
+                    extend: {
+                        fontFamily: {
+                            sans: ['Nunito', 'sans-serif'],
+                            game: ['Nunito', 'sans-serif'],
+                        }
+                    }
+                }
+            }
+        }
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        body, input, button, select, textarea, p, h1, h2, h3, h4, h5, h6, span, div, a {
+            font-family: 'Nunito', sans-serif;
+        }
+        .fa, .fas, .far, .fal, .fab, .fa-solid, .fa-regular, .fa-brands, [class*="fa-"] {
+            font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands" !important;
+        }
+    </style>
+    
+    <link rel="stylesheet" href="./css/style.css?v=2.2.6">
+    
+    <!-- NGĂN CHẶN NHẤP NHÁY MÀN HÌNH CHÀO (FOUC) KHI CHẠY TRONG IFRAME -->
+    <script>
+        if (window.location.search.includes('grade=') && window.location.search.includes('world=')) {
+            document.documentElement.style.setProperty('--fouc-welcome', 'none');
+            document.documentElement.style.setProperty('--fouc-game', 'flex');
+        } else {
+            document.documentElement.style.setProperty('--fouc-welcome', 'flex');
+            document.documentElement.style.setProperty('--fouc-game', 'none');
+        }
+    </script>
+    <style>
+        #screen-welcome { display: var(--fouc-welcome) !important; }
+        #screen-game { display: var(--fouc-game) !important; }
+    </style>
+</head>
+<body class="theme-eco">
+    <div id="debug-cheat" style="position:fixed;top:0;right:0;z-index:9999;background:red;color:white;padding:10px;cursor:pointer;" onclick="cheatGold()">CHEAT GOLD</div>
+
+<!-- === DEBUG ERROR OVERLAY (tạm thời để chẩn đoán) === -->
+<div id="debug-error-overlay" style="display:none; position:fixed; top:0; left:0; right:0; z-index:99999; background:#7f1d1d; color:#fca5a5; font-family:monospace; font-size:13px; padding:12px 48px 12px 16px; max-height:200px; overflow-y:auto; border-bottom:2px solid #ef4444;">
+    <b>⛔ LỖI JAVASCRIPT:</b><br>
+    <span id="debug-error-msg"></span>
+    <button onclick="this.parentElement.style.display='none'" style="position:absolute;top:8px;right:8px;background:rgba(255,255,255,0.15);border:1px solid rgba(255,255,255,0.3);color:white;font-size:14px;font-weight:bold;padding:2px 10px;border-radius:6px;cursor:pointer;" title="Đóng">✕</button>
+</div>
+<script>
+window.addEventListener('error', function(e) {
+    const el = document.getElementById('debug-error-overlay');
+    const msg = document.getElementById('debug-error-msg');
+    if (el && msg) {
+        el.style.display = 'block';
+        msg.innerHTML += (e.message || String(e)) + ' <small>(' + (e.filename || '').split('/').pop() + ':' + e.lineno + ')</small><br>';
+    }
+});
+window.addEventListener('unhandledrejection', function(e) {
+    const el = document.getElementById('debug-error-overlay');
+    const msg = document.getElementById('debug-error-msg');
+    if (el && msg) {
+        el.style.display = 'block';
+        msg.innerHTML += 'Promise rejection: ' + (e.reason && e.reason.message || String(e.reason)) + '<br>';
+    }
+});
+</script>
+
+
+
+    <div id="game-container">
+        
+        <!-- ================= MÀN HÌNH CHỌN LỚP & THẾ GIỚI ================= -->
+        <div id="screen-welcome" class="screen">
+            <div class="logo-area">
+                <h1 class="logo-title">EDU-FARM</h1>
+                <p class="logo-tagline">Nông Trại Tri Thức Trực Quan v2.2</p>
+            </div>
+
+            <div class="setup-grid">
+                <!-- Chọn Khối Lớp -->
+                <div class="setup-card">
+                    <h3><i class="fa-solid fa-graduation-cap" style="color: #10b981;"></i> Chọn Khối Lớp</h3>
+                    <div class="btn-grid">
+                        <button class="btn-select btn-grade" data-grade="1" onclick="selectGrade(1)">Lớp 1</button>
+                        <button class="btn-select btn-grade" data-grade="2" onclick="selectGrade(2)">Lớp 2</button>
+                        <button class="btn-select btn-grade" data-grade="3" onclick="selectGrade(3)">Lớp 3</button>
+                        <button class="btn-select btn-grade" data-grade="4" onclick="selectGrade(4)">Lớp 4</button>
+                        <button class="btn-select btn-grade col-span-2" data-grade="5" onclick="selectGrade(5)">Lớp 5</button>
+                    </div>
+                </div>
+
+                <!-- Chọn Thế Giới -->
+                <div class="setup-card">
+                    <h3><i class="fa-solid fa-earth-asia" style="color: #38bdf8;"></i> Chọn Thế Giới</h3>
+                    <div class="btn-grid">
+                        <button class="btn-select btn-world btn-world-eco" data-world="eco" onclick="selectWorld('eco')">
+                            <i class="fa-solid fa-seedling"></i> Đảo Sinh Thái
+                        </button>
+                        <button class="btn-select btn-world btn-world-cyber" data-world="cyber" onclick="selectWorld('cyber')">
+                            <i class="fa-solid fa-microchip"></i> Trạm Công Nghệ
+                        </button>
+                        <button class="btn-select btn-world btn-world-magic" data-world="magic" onclick="selectWorld('magic')">
+                            <i class="fa-solid fa-wand-magic-sparkles"></i> Khu Rừng Phép Thuật
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <button id="btn-play" class="btn-start" disabled onclick="startGame()">VÀO NÔNG TRẠI</button>
+            <a href="whitebook.html" target="_blank" style="margin-top: 18px; color: #38bdf8; font-size: 13px; font-weight: 800; cursor: pointer; text-align: center; display: inline-flex; align-items: center; gap: 6px; text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='#a855f7'" onmouseout="this.style.color='#38bdf8'">
+                <i class="fa-solid fa-book"></i> SÁCH HƯỚNG DẪN & TÍNH NĂNG (WHITEBOOK)
+            </a>
+        </div>
+
+
+        <!-- ================= MÀN HÌNH CHƠI GAME CHÍNH ================= -->
+        <div id="screen-game" class="screen screen-hidden">
+            <!-- Header thông tin game -->
+            <div class="game-header">
+                <div class="header-left">
+                    <button class="btn-home" onclick="showExitConfirmModal()"><i class="fa-solid fa-house"></i></button>
+                    <div class="current-config">
+                        <h2 id="display-world-name">Eco Island</h2>
+                        <span id="display-grade-name">Lớp 2</span>
+                    </div>
+                    <!-- Nút Bật/Tắt Trợ lý Hướng dẫn -->
+                    <button id="btn-toggle-guide" class="ml-4 flex items-center gap-2 bg-slate-800/80 border border-slate-700 hover:border-emerald-500/50 px-3 py-1.5 rounded-full transition-all cursor-pointer" onclick="toggleGuideMode()">
+                        <span id="toggle-guide-dot" class="w-2.5 h-2.5 rounded-full bg-emerald-500 animate-pulse"></span>
+                        <span id="toggle-guide-text" class="text-xs font-bold tracking-wide text-slate-200">Trợ Lý: BẬT</span>
+                    </button>
+                </div>
+
+                <div class="header-stats">
+                    <div class="stat-badge weather-badge" id="display-weather" title="Sự kiện thời tiết hiện tại">
+                        <i class="fa-solid fa-sun"></i> &nbsp;<span id="weather-text">Nắng ấm</span>
+                    </div>
+                    <div class="stat-badge coins">
+                        <i class="fa-solid fa-coins"></i>
+                        <span id="stat-coins">100</span>
+                    </div>
+                    <div class="stat-badge level">
+                        <i class="fa-solid fa-star"></i>
+                        <span id="stat-level">LV 1</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Thanh lựa chọn Tab cho các hoạt động của Edu-Farm v2.2 -->
+            <div class="tab-menu-bar">
+                <button class="btn-tab active" id="tab-farm" onclick="switchTab('farm')">
+                    <i class="fa-solid fa-leaf"></i> Nông Trại
+                </button>
+                <button class="btn-tab" id="tab-market" onclick="switchTab('market')">
+                    <i class="fa-solid fa-store"></i> Chợ & Cửa Hàng
+                </button>
+                <button class="btn-tab" id="tab-pet" onclick="switchTab('pet')">
+                    <i class="fa-solid fa-egg"></i> Ấp Thú Cưng
+                </button>
+                <button class="btn-tab" id="tab-arena" onclick="switchTab('arena')">
+                    <i class="fa-solid fa-shield-halved"></i> Đấu Trường Boss
+                </button>
+            
+                <button class="btn-tab" id="tab-daily" onclick="switchTab('daily')">
+                    <i class="fa-solid fa-list-check"></i> Nhiệm Vụ Hàng Ngày
+                </button>
+                                <button class="btn-tab" id="tab-town" onclick="switchTab('town')">
+                    <i class="fa-solid fa-city"></i> Thị Trấn
+                </button>
+                <button class="btn-tab" id="tab-map" onclick="switchTab('map')">
+                    <i class="fa-solid fa-map-location-dot"></i> Bản Đồ Học Tập
+                </button>
+            </div>
+
+            <!-- Không gian làm việc của nông trại -->
+            <div class="game-workspace">
+                <!-- WORKSPACE TRÁI - KHU VỰC THAY ĐỔI ĐỘNG THEO TAB -->
+                <div class="workspace-left-container font-sans" id="workspace-left">
+                    
+                    <!-- TAB NÔNG TRẠI (MẶC ĐỊNH) -->
+                    <div id="tab-farm-content" class="farm-area">
+                        <!-- Lớp hiển thị các đồ trang trí mua được từ shop -->
+                        <div class="decoration-layer" id="decoration-layer-container">
+                            <!-- Đồ trang trí được vẽ ở đây -->
+                        </div>
+                        <div class="farm-grid" id="grid-container">
+                            <!-- Sẽ tự động tạo 6 ô đất thông qua JavaScript -->
+                        </div>
+                    </div>
+
+                    <div id="tab-market-content" class="market-grid hidden">
+                        <!-- Biểu đồ cột động và Bán Nông Sản -->
+                        <div class="market-chart-container">
+                            <h3 class="text-lg font-bold text-emerald-400 flex items-center gap-2">
+                                <i class="fa-solid fa-chart-simple animate-pulse"></i> Sàn Nông Sản Ảo Biến Động (Mỗi 45s)
+                            </h3>
+                            <p class="text-xs opacity-60">Hãy quan sát kỹ biểu đồ giá bên dưới để lựa chọn thời điểm bán nông sản trong kho đạt giá hời nhất!</p>
+                            
+                            <div class="chart-bars-wrapper" id="market-chart-bars">
+                                <!-- Trực quan hóa giá bằng cột SVG động -->
+                            </div>
+
+                            <div id="market-items" class="mt-6 w-full"></div>
+                    </div>
+                        </div>
+
+                    <div id="tab-pet-content" class="hidden flex-col w-full">
+                        <!-- Trình Ấp Trứng -->
+                        <div class="pet-incubator">
+                            <div class="egg-wrapper">
+                                <svg viewBox="0 0 100 120" class="egg-svg" id="egg-svg-render">
+                                    <!-- Trứng lấp lánh sẽ vẽ ở đây -->
+                                </svg>
+                            </div>
+                            <div class="flex-grow flex flex-col gap-2">
+                                <h3 class="text-lg font-bold text-indigo-400">Ấp Trứng Thú Cưng Cổ Đại</h3>
+                                <p class="text-xs opacity-75">Tích lũy tri thức bằng cách gõ đúng các chuỗi câu đố liên tục để ấp nở quả trứng diệu kỳ này!</p>
+                                <div class="w-full bg-white/10 h-3 rounded-full overflow-hidden mt-1">
+                                    <div class="bg-indigo-500 h-full" style="width: 0%" id="egg-hatch-progress"></div>
+                                </div>
+                                <span class="text-xs font-bold opacity-60" id="egg-progress-text">Năng lượng: 0/5 (Giải đúng 5 câu liên tiếp)</span>
+                            </div>
+                        </div>
+
+                        <!-- Danh sách Thú cưng của Bé -->
+                        <div class="market-chart-container">
+                            <h3 class="text-md font-bold text-indigo-300 mb-3"><i class="fa-solid fa-paw"></i> Các Bạn Trợ Thủ Đã Sở Hữu</h3>
+                            <div class="pets-list-grid" id="pets-unlocked-grid">
+                                <!-- Thú cưng tự động vẽ ở đây -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="tab-arena-content" class="hidden flex-col w-full items-center justify-center">
+                        
+<div class="arena-intro-card w-full max-w-lg relative">
+    <div class="absolute top-2 right-2">
+        <button onclick="openBossConfig()" class="text-xs bg-slate-800 hover:bg-slate-700 text-slate-300 px-3 py-1.5 rounded-lg border border-slate-700 transition-colors">
+            <i class="fa-solid fa-gear"></i> Cài đặt (Phụ huynh)
+        </button>
+    </div>
+    <div class="boss-icon-lg"><i class="fa-solid fa-ghost"></i></div>
+    <h2 class="text-2xl font-black text-rose-500 uppercase tracking-widest mt-2">Sâu Róm Tuần Khổng Lồ</h2>
+    <p class="text-sm opacity-80 leading-relaxed max-w-md mx-auto mb-2">
+        Chú sâu khổng lồ đang đe dọa nuốt chửng toàn bộ mùa màng của trang trại! Hãy khởi động thử thách giải toán nhanh (60s) để đẩy lùi thế lực bóng tối!
+    </p>
+    <div id="boss-time-status" class="text-sm font-bold text-slate-400 mb-2">Đang tải lịch...</div>
+    <button id="btn-boss-start" class="btn-start !bg-rose-500 hover:!bg-rose-600 !text-white w-full max-w-xs mt-2" onclick="startBossBattle()">
+        KHỞI TRANH ĐẤU TRƯỜNG <i class="fa-solid fa-bolt ml-1"></i>
+    </button>
+</div>
+
+                    </div>
+
+                    <!-- Không gian Nhiệm Vụ Hàng Ngày -->
+                    <div id="tab-daily-content" class="hidden flex-col w-full h-full overflow-y-auto p-6 bg-slate-900/40 rounded-xl relative">
+                        <div class="max-w-4xl w-full mx-auto">
+                            <div class="flex items-center justify-between mb-6 bg-slate-800/80 p-4 rounded-xl border border-slate-700">
+                                <h2 class="text-2xl font-black text-amber-400 tracking-wider"><i class="fa-solid fa-list-check"></i> Nhiệm Vụ Hôm Nay</h2>
+                                <span class="dq-reset-badge text-lg px-4 py-2" id="dq-reset-timer">--:--</span>
+                            </div>
+                            <div id="daily-quest-list" class="grid grid-cols-1 md:grid-cols-2 gap-4"></div>
+                        </div>
+                    </div>
+
+                    <!-- TAB BẢN ĐỒ HỌC TẬP -->
+                    
+                    <!-- TAB THỊ TRẤN -->
+                    <div id="tab-town-content" class="hidden flex-col w-full h-full overflow-y-auto p-6 bg-slate-900/40 rounded-xl relative town-area">
+                        <div class="town-header">
+                            <h2 class="text-2xl font-black text-amber-400 mb-2 drop-shadow-md"><i class="fa-solid fa-city"></i> Thị Trấn Của Bé</h2>
+                            <p class="text-sm opacity-80 text-amber-100 mb-6 max-w-2xl">Dùng Vàng thu thập được từ học tập để xây dựng các công trình. Mỗi công trình mang lại một lợi ích đặc biệt (Buff)!</p>
+                        </div>
+                        <div id="town-buildings-grid" class="town-buildings-grid">
+                            <!-- JS sẽ render các công trình vào đây -->
+                        </div>
+                    </div>
+
+                    <div id="tab-map-content" class="hidden flex-col w-full h-full overflow-y-auto p-6 bg-slate-900/40 rounded-xl relative map-area">
+                        <div class="max-w-4xl w-full mx-auto">
+                            <div class="flex items-center justify-between mb-6 bg-slate-800/80 p-4 rounded-xl border border-slate-700">
+                                <div>
+                                    <h2 class="text-2xl font-black text-sky-400 tracking-wider"><i class="fa-solid fa-route"></i> Hành Trình Khám Phá</h2>
+                                    <p class="text-sm text-sky-200 mt-1">Vượt qua từng chặng để làm chủ kiến thức và nhận hạt giống hiếm!</p>
+                                </div>
+                            </div>
+                            
+                            <div class="map-path-container relative" id="map-path-container">
+                                <!-- Các chặng (nodes) sẽ được vẽ bằng JS -->
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Thanh sidebar công cụ và bài tập -->
+                <div class="sidebar" id="right-sidebar">
+                    <!-- Kho hạt giống và bình nước -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-title">Kho của bé</div>
+                        <div class="inventory-grid" id="inv-grid-container">
+                            <!-- Sẽ tự sinh thông qua JS -->
+                        </div>
+                    </div>
+
+                    <!-- Danh sách các bài luyện tập -->
+                                        
+
+<div class="sidebar-section">
+                        <div class="sidebar-title">Nhiệm vụ tri thức</div>
+                        <div class="task-list" id="task-list-container">
+                            <!-- Sẽ tự sinh thông qua JS -->
+                        </div>
+                    </div>
+
+                    <!-- Quản trị hệ thống lưu dữ liệu -->
+                    <div class="sidebar-section" style="margin-top: auto;">
+                        <button class="btn-select" style="background: rgba(239, 68, 68, 0.15); border-color: rgba(239, 68, 68, 0.3); color: #f87171;" onclick="showResetConfirmModal()">
+                            <i class="fa-solid fa-trash-can"></i> Xóa Lưu Trữ Chế Độ
+                        </button>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- HỘP THOẠI TRỢ LÝ TRỰC QUAN ĐỒNG HÀNH (Không nền) -->
+            <div id="assistant-box" class="fixed z-50 flex flex-col items-center pointer-events-none" style="width: 200px; left: 20px; top: 510px; bottom: auto; right: auto; transition: top 0.7s cubic-bezier(0.25, 1, 0.5, 1), left 0.7s cubic-bezier(0.25, 1, 0.5, 1);">
+                <!-- Bong bóng thoại trên đầu -->
+                <div id="assistant-bubble" class="bg-slate-950/90 border border-emerald-500 rounded-2xl px-3 py-2 shadow-2xl mb-2 text-center pointer-events-auto cursor-pointer max-w-[200px] relative transition-all duration-300" onclick="onAssistantClicked()">
+                    <span id="assistant-name" class="block text-[10px] font-black uppercase tracking-wider text-emerald-400 mb-0.5">Cô Tiên Xanh</span>
+                    <p id="assistant-speech" class="text-[11px] leading-snug font-bold text-slate-100">Đang tải...</p>
+                    <!-- Mũi tên nhỏ của bong bóng thoại -->
+                    <div class="absolute bottom-[-6px] left-1/2 transform -translate-x-1/2 w-0 h-0 border-l-[6px] border-l-transparent border-r-[6px] border-r-transparent border-t-[6px] border-t-emerald-500"></div>
+                </div>
+                <!-- Nhân vật trợ lý (Không nền) -->
+                <div id="assistant-avatar-container" class="text-5xl select-none filter drop-shadow-[0_8px_16px_rgba(0,0,0,0.5)] animate-float pointer-events-auto cursor-pointer" onclick="onAssistantClicked()">
+                    <span id="assistant-avatar">🧚‍♀️</span>
+                </div>
+            </div>
+
+            <!-- Con trỏ chỉ vị trí click chuột -->
+            <div id="guide-pointer" class="hidden">👇</div>
+        </div>
+
+
+        <!-- ================= THƯ VIỆN MODAL Hộp Thoại ================= -->
+        
+        <!-- Modal Làm Nhiệm vụ -->
+        <div class="modal-overlay" id="modal-task">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="task-modal-title">Thử Thách Tri Thức</h3>
+                    <!-- Boss HUD moved to arena -->
+                    <button class="modal-close" id="modal-task-close" onclick="closeTaskModal()"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+                
+                <!-- NPC Banner: hiển thị câu chuyện bối cảnh trước câu hỏi -->
+                <div id="quest-npc-banner" style="display:none; margin-bottom: 12px; padding: 10px 16px; background: linear-gradient(135deg, rgba(30,41,59,0.95), rgba(15,23,42,0.95)); border: 1px solid rgba(99,179,237,0.35); border-radius: 16px; display: flex; align-items: flex-start; gap: 12px;">
+                    <div id="npc-icon-wrap" style="font-size: 2rem; line-height: 1; flex-shrink: 0; filter: drop-shadow(0 0 8px rgba(99,179,237,0.5));"></div>
+                    <div style="flex: 1; min-width: 0;">
+                        <div id="npc-name-label" style="font-size: 11px; font-weight: 700; letter-spacing: 1px; color: #60a5fa; text-transform: uppercase; margin-bottom: 3px;"></div>
+                        <div id="npc-story-text" style="font-size: 13px; color: #cbd5e1; line-height: 1.5;"></div>
+                        <div id="npc-task-text" style="font-size: 12px; color: #94a3b8; margin-top: 4px; font-style: italic;"></div>
+                    </div>
+                </div>
+
+                <div class="quest-hearts" id="quest-hearts-container">
+                    <!-- Trạng thái 5 trái tim sống còn -->
+                </div>
+
+                <!-- Boss Arena -->
+                <div id="boss-arena-container" style="display:none; position: relative; background: radial-gradient(circle at center, rgba(30,41,59,0.8) 0%, rgba(15,23,42,1) 100%); border: 2px solid rgba(225, 29, 72, 0.5); border-radius: 16px; padding: 20px; text-align: center; margin-bottom: 16px; box-shadow: inset 0 0 40px rgba(225, 29, 72, 0.1);">
+                    <!-- Timer -->
+                    <div style="position: absolute; top: 12px; right: 16px; font-weight: bold; color: #f43f5e; font-size: 14px; background: rgba(225,29,72,0.1); padding: 4px 12px; border-radius: 20px; border: 1px solid rgba(225,29,72,0.3);" id="boss-timer">
+                        <i class="fa-solid fa-stopwatch"></i> 60s
+                    </div>
+                    <!-- Stage -->
+                    <div style="position: absolute; top: 12px; left: 16px; font-weight: bold; color: #fbbf24; font-size: 14px;">
+                        Đợt <span id="boss-stage-text">1</span>
+                    </div>
+
+                    <!-- Boss Sprite -->
+                    <div class="boss-sprite-large" id="boss-sprite-icon" style="font-size: 5rem; color: #f43f5e; text-shadow: 0 0 20px rgba(225,29,72,0.6); margin: 10px 0; transition: transform 0.3s; position: relative; display: inline-block;">
+                        <i class="fa-solid fa-bug"></i>
+                    </div>
+
+                    <!-- Tên Boss -->
+                    <div id="boss-name-text" style="font-size: 16px; font-weight: 800; text-transform: uppercase; letter-spacing: 2px; color: #fecdd3; margin-bottom: 8px;">
+                        Sâu Róm Đột Biến
+                    </div>
+
+                    <!-- Thanh máu lớn -->
+                    <div style="max-width: 400px; margin: 0 auto;">
+                        <div class="flex justify-between text-[11px] font-bold text-rose-300 mb-1">
+                            <span>HP</span>
+                            <span id="boss-hp-text">100/100</span>
+                        </div>
+                        <div style="height: 14px; background: rgba(0,0,0,0.5); border-radius: 10px; overflow: hidden; border: 1px solid rgba(225,29,72,0.4); position: relative;">
+                            <div id="boss-hp-bar-fill" style="height: 100%; width: 100%; background: linear-gradient(90deg, #e11d48, #f43f5e); transition: width 0.3s ease, background 0.3s ease; box-shadow: inset 0 0 10px rgba(255,255,255,0.2);"></div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Layout 2 cột -->
+                <div class="quest-layout">
+
+                    <!-- Cột CHÍNH: Câu hỏi + Trả lời -->
+                    <div class="quest-main">
+                        <div class="quest-container">
+                            <div class="quest-prompt" id="quest-type-label">HÃY GIẢI PHÉP TÍNH</div>
+                            <div class="quest-question" id="quest-text">5 + 3 = ?</div>
+                            <div id="quest-lo-badge" style="display:none; margin: 4px auto 10px; max-width: 480px; padding: 5px 14px; background: rgba(99,179,237,0.15); border: 1px solid rgba(99,179,237,0.4); border-radius: 20px; font-size: 12px; color: #90cdf4; text-align: center; font-style: italic;">
+                                🎯 <span id="quest-lo-text"></span>
+                            </div>
+
+                            <div id="quest-answer-panel">
+                                <!-- Khung phản hồi tương ứng theo dạng bài tập -->
+                            </div>
+                        </div>
+
+                        <!-- NPC Success (bên dưới khung câu hỏi) -->
+                        <div id="quest-npc-success" style="display:none; margin-top: 10px; padding: 10px 16px; background: linear-gradient(135deg, rgba(16,185,129,0.2), rgba(5,150,105,0.15)); border: 1px solid rgba(16,185,129,0.5); border-radius: 14px; text-align: center; animation: fadeInUp 0.3s ease;">
+                            <div id="npc-success-icon" style="font-size: 1.8rem; margin-bottom: 4px;"></div>
+                            <div id="npc-success-text" style="font-size: 14px; color: #6ee7b7; font-weight: 600;"></div>
+                        </div>
+                    </div>
+
+                    <!-- Cột PHỤ: Gợi ý + Giải thích -->
+                    <div class="quest-sidebar">
+                        <!-- Gợi ý (Hiển thị khi trả lời sai) -->
+                        <div id="quest-hint-container" style="display:none; padding: 12px 14px; background: rgba(246, 173, 85, 0.12); border: 1px solid rgba(246, 173, 85, 0.4); border-radius: 12px; font-size: 13px; color: #fbd38d; text-align: left; animation: fadeInUp 0.3s ease;">
+                            <div style="font-weight:bold; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+                                <i class="fa-solid fa-lightbulb" style="color: #ecc94b;"></i> Gợi ý <span id="hint-level-text">1</span>/3:
+                            </div>
+                            <div id="hint-text" style="line-height: 1.5;"></div>
+                        </div>
+
+                        <!-- Giải thích (Hiển thị sau khi hoàn thành) -->
+                        <div id="quest-explanation-container" style="display:none; padding: 12px 14px; background: rgba(99, 179, 237, 0.12); border: 1px solid rgba(99, 179, 237, 0.4); border-radius: 12px; font-size: 13px; color: #90cdf4; text-align: left; animation: fadeInUp 0.4s ease;">
+                            <div style="font-weight:bold; margin-bottom: 6px; display: flex; align-items: center; gap: 6px;">
+                                <i class="fa-solid fa-book-open"></i> Giải thích:
+                            </div>
+                            <div id="explanation-text" style="line-height: 1.5; margin-bottom: 12px;"></div>
+                            <div style="text-align: center;">
+                                <button class="btn-submit" style="background: #3182ce; padding: 8px 20px; font-size: 13px; width: auto;" onclick="continueAfterExplanation()">TIẾP TỤC <i class="fa-solid fa-arrow-right ml-1"></i></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div id="quest-footer-note" style="font-size: 12px; text-align: center; opacity: 0.5; font-style: italic;">
+                    * Lưu ý: Gõ sai quá 5 lần sẽ khiến cây bị chết héo!
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Xác Nhận Thoát về Menu -->
+        <div class="modal-overlay" id="modal-confirm-exit">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" style="color: #f59e0b;"><i class="fa-solid fa-triangle-exclamation"></i> Về Trang Chủ</h3>
+                </div>
+                <div style="font-size: 15px; line-height: 1.6; opacity: 0.9;">
+                    Bé có muốn quay lại Trang Chủ để lựa chọn khối lớp và thế giới khác không? Tiến trình hiện tại đã được tự động lưu lại an toàn!
+                </div>
+                <div class="confirm-actions">
+                    <button class="btn-confirm-no" onclick="closeExitConfirmModal()">Ở LẠI</button>
+                    <button class="btn-confirm-yes" style="background: #f59e0b;" onclick="exitToWelcome()">ĐỒNG Ý</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Xác Nhận Reset Dữ Liệu -->
+        <div class="modal-overlay" id="modal-confirm-reset">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" style="color: #ef4444;"><i class="fa-solid fa-radiation"></i> Xóa Dữ Liệu Chế Độ</h3>
+                </div>
+                <div style="font-size: 15px; line-height: 1.6; opacity: 0.9;">
+                    Bé có chắc chắn muốn xóa toàn bộ tiến trình của **Khối Lớp và Thế Giới này** không? Nông trại sẽ trở lại trạng thái ban đầu và không thể phục hồi!
+                </div>
+                <div class="confirm-actions">
+                    <button class="btn-confirm-no" onclick="closeResetConfirmModal()">KHÔNG</button>
+                    <button class="btn-confirm-yes" onclick="resetModeData()">XÓA NGAY</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Cấu hình Địa chỉ API Backend (Để trống "" nghĩa là chạy nội bộ qua API Next.js hiện tại) -->
+    <script>
+        window.GAME_API_BASE = "";
+    </script>
+
+    <!-- Hệ thống Game Engine điều phối chính -->
+    <script src="./js/quest_context.js"></script>
+    <script type="module" src="./js/main.js?v=4.0.0"></script>
+</body>
+</html>

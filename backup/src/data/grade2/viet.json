@@ -1,0 +1,82 @@
+[
+  {
+    "q": "Từ nào viết đúng chính tả: 'chăm chỉ' hay 'trăm trỉ'?",
+    "a": "CHĂM CHỈ",
+    "c": [
+      "CHĂM CHỈ",
+      "TRĂM TRỈ",
+      "CHĂM TRỈ",
+      "TRĂM CHỈ"
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng: 'sáng tạo' hay 'xáng tạo'?",
+    "a": "SÁNG TẠO",
+    "c": [
+      "SÁNG TẠO",
+      "XÁNG TẠO",
+      "XÁNG TẠU",
+      "SÁNG TẠU"
+    ]
+  },
+  {
+    "q": "Từ trái nghĩa với 'vui' là từ nào?",
+    "a": "BUỒN",
+    "c": [
+      "BUỒN",
+      "VUI VẺ",
+      "HẠNH PHÚC",
+      "PHẤN KHỞI"
+    ]
+  },
+  {
+    "q": "Từ trái nghĩa với 'to' là từ nào?",
+    "a": "NHỎ",
+    "c": [
+      "NHỎ",
+      "DÀI",
+      "CAO",
+      "RỘNG"
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả: 'giếng nước' hay 'diếng nước'?",
+    "a": "GIẾNG NƯỚC",
+    "c": [
+      "GIẾNG NƯỚC",
+      "DIẾNG NƯỚC",
+      "ZIẾNG NƯỚC",
+      "JIẾNG NƯỚC"
+    ]
+  },
+  {
+    "q": "Điền vào chỗ trống: 'con ...' (loài vật có cánh, biết bay, cho trứng)",
+    "a": "GÀ",
+    "c": [
+      "GÀ",
+      "MÈO",
+      "CÁ",
+      "CHÓ"
+    ]
+  },
+  {
+    "q": "Từ trái nghĩa với 'nhanh' là?",
+    "a": "CHẬM",
+    "c": [
+      "CHẬM",
+      "NHANH NHẸN",
+      "TỐC ĐỘ",
+      "VỘI VÃ"
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng: 'loài người' hay 'loài ngừời'?",
+    "a": "LOÀI NGƯỜI",
+    "c": [
+      "LOÀI NGƯỜI",
+      "LOÀI NGỪỜI",
+      "LOẠI NGƯỜI",
+      "LOẠI NGỪỜI"
+    ]
+  }
+]

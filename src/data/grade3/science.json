@@ -1,0 +1,265 @@
+[
+  {
+    "q": "Cơ quan nào điều khiển mọi hoạt động, suy nghĩ của con người?",
+    "a": "NÃO BỘ",
+    "c": [
+      "NÃO BỘ",
+      "TIM VÀ MẠCH MÁU",
+      "PHỔI VÀ ĐƯỜNG THỞ",
+      "DẠ DÀY"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Trái Đất quay xung quanh thiên thể nào trong hệ Mặt Trời?",
+    "a": "MẶT TRỜI",
+    "c": [
+      "MẶT TRỜI",
+      "MẶT TRĂNG",
+      "SAO HỎA",
+      "SAO KIM"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Quá trình lá cây tự hấp thụ ánh sáng mặt trời để tạo ra chất dinh dưỡng gọi là gì?",
+    "a": "QUANG HỢP",
+    "c": [
+      "QUANG HỢP",
+      "HÔ HẤP",
+      "THOÁT NƯỚC",
+      "HÚT NƯỚC VÀ MUỐI KHOÁNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Cơ quan bài tiết nước tiểu bao gồm những bộ phận nào?",
+    "a": "THẬN, ỐNG DẪN NƯỚC TIỂU, BÓNG ĐÁI, ỐNG ĐÁI",
+    "c": [
+      "THẬN, ỐNG DẪN NƯỚC TIỂU, BÓNG ĐÁI, ỐNG ĐÁI",
+      "DẠ DÀY VÀ RUỘT NON",
+      "PHỔI VÀ KHÍ QUẢN",
+      "TIM VÀ MẠCH MÁU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Một ngày (1 ngày) có bao nhiêu giờ?",
+    "a": "24 GIỜ",
+    "c": [
+      "24 GIỜ",
+      "12 GIỜ",
+      "48 GIỜ",
+      "60 GIỜ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Mùa nào trong năm thường có tuyết rơi ở các nước ôn đới?",
+    "a": "MÙA ĐÔNG",
+    "c": [
+      "MÙA ĐÔNG",
+      "MÙA HẠ",
+      "MÙA XUÂN",
+      "MÙA THU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Điền từ thích hợp: Không xả ___ thải trực tiếp xuống sông hồ.",
+    "a": "rác",
+    "c": [
+      "rác",
+      "cây",
+      "nước sạch",
+      "hạt giống"
+    ],
+    "type": "fill_blank",
+    "sentence": "Không xả ___ thải trực tiếp xuống sông hồ.",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Điền từ thích hợp: Quả chín thường chuyển sang màu ___ tươi.",
+    "a": "cam",
+    "c": [
+      "cam",
+      "xanh",
+      "trắng",
+      "đen"
+    ],
+    "type": "fill_blank",
+    "sentence": "Quả chín thường chuyển sang màu ___ tươi.",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Cơ quan nào trong cơ thể người thực hiện hô hấp?",
+    "a": "PHỔI",
+    "c": [
+      "PHỔI",
+      "TIM",
+      "DẠ DÀY",
+      "GAN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Cơ quan nào trong cơ thể người bơm máu đi khắp cơ thể?",
+    "a": "TIM",
+    "c": [
+      "TIM",
+      "PHỔI",
+      "DẠ DÀY",
+      "THẬN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Nước tồn tại ở mấy thể?",
+    "a": "3 THỂ",
+    "c": [
+      "3 THỂ",
+      "2 THỂ",
+      "4 THỂ",
+      "1 THỂ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Mặt trời mọc hướng nào?",
+    "a": "HƯỚNG ĐÔNG",
+    "c": [
+      "HƯỚNG ĐÔNG",
+      "HƯỚNG TÂY",
+      "HƯỚNG NAM",
+      "HƯỚNG BẮC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Nước đá khi gặp nhiệt sẽ chuyển thành?",
+    "a": "NƯỚC LỎNG",
+    "c": [
+      "NƯỚC LỎNG",
+      "HƠI NƯỚC",
+      "BĂNG ĐÁ",
+      "TUYẾT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Con người thở vào hít khí gì?",
+    "a": "OXY",
+    "c": [
+      "OXY",
+      "CO2",
+      "NI-TƠ",
+      "HYDRO"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Gia đình họ hàng bên nội gồm những ai?",
+    "a": "Cô, chú, bác bên bố",
+    "c": [
+      "Cô, chú, bác bên bố",
+      "Cậu, dì bên mẹ",
+      "Bác bên mẹ",
+      "Dì dượng bên mẹ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Để tìm hiểu về truyền thống lịch sử của trường học, em có thể thu thập thông tin qua đâu?",
+    "a": "Phòng truyền thống và cựu học sinh",
+    "c": [
+      "Phòng truyền thống và cựu học sinh",
+      "Sân bóng đá",
+      "Nhà xe",
+      "Cổng trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Đâu là biện pháp bảo vệ nguồn nước sạch xung quanh nơi em sống?",
+    "a": "Không vứt rác, xác động vật xuống sông, hồ",
+    "c": [
+      "Không vứt rác, xác động vật xuống sông, hồ",
+      "Đổ nước thải sinh hoạt ra ngõ",
+      "Sử dụng nhiều túi nilon",
+      "Vứt pin cũ ra vườn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Bộ phận nào của cây có chức năng hút nước và chất dinh dưỡng từ đất?",
+    "a": "Rễ cây",
+    "c": [
+      "Rễ cây",
+      "Thân cây",
+      "Lá cây",
+      "Hoa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
+  },
+  {
+    "q": "Ghép loài vật với môi trường sống phù hợp:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Phân loại sinh vật theo môi trường sống trong tự nhiên",
+    "pairs": [
+      {
+        "left": "Cá voi",
+        "right": "Đại dương"
+      },
+      {
+        "left": "Đại bàng",
+        "right": "Bầu trời và vách núi"
+      },
+      {
+        "left": "Sư tử",
+        "right": "Đồng cỏ"
+      },
+      {
+        "left": "Ếch",
+        "right": "Ao hồ và đồng ruộng"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp vòng đời của bướm theo đúng thứ tự:",
+    "a": "Trứng Sâu bướm Nhộng Bướm trưởng thành",
+    "c": [
+      "Trứng Sâu bướm Nhộng Bướm trưởng thành"
+    ],
+    "words": [
+      "Trứng",
+      "Sâu",
+      "bướm",
+      "Nhộng",
+      "Bướm",
+      "trưởng",
+      "thành"
+    ],
+    "type": "reorder",
+    "lo": "Hiểu vòng đời của côn trùng và quá trình biến thái"
+  }
+]

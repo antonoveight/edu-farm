@@ -1,0 +1,27 @@
+Ví dụ, chương trình ở Hình 93 sử dụng biến Tuỏi và giá trị của biến được
+nhập vào từ bàn phím.
+Tuổi EU
+Khi bắm vào Tuổi của bạn An là 10.
+C)
+đặt Tuổi thành trảiời 4%
+nói _ kếthợp Tuổi
+a) Chương trình b) Kết quả chạy chương trình
+Hình 93. Chương trình thông báo tuổi
+g: « Em có thể tạo biến để sử dụng khi tạo chương trình.
+¡ e Trong Scratch, các lệnh về biến thuộc nhóm lệnh ‡
+¡ _ Các biến số, ỉ
+g® Sau khi thực hiện khối lệnh ở Hình 94 thì giá mi la+ nám ŒS
+trị của biến a là bao nhiêu? F"
+thayđổi a w một lượng
+A.2. B.4.
+Hình 94. Khối lệnh thay
+e.5. D.6. đổi giá trị biến ‹
+3. THỰC HÀNH SỬ DỤNG BIẾN
+NHIỆM VỤ 1| Tạo chương trình sử dụng biến @® của Scratch.
+Tạo chương trình “Xin chào bạn...” có nhân vật mèo và thực hiện yêu cầu
+được mô tả trong phần Khởi động.
+Hướng dẫn
+8ước 7: Tạo lệnh yêu cầu người
+sử dụng nhập tên từ bàn phím như
+Hình 95. Hình 95. Lệnh nhập tên người sử dụng
+70

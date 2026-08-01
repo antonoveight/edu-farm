@@ -1,0 +1,463 @@
+Tệp gốc: grade2/toan-2-tap-2-ket-noi-tri-thuc-voi-cuoc-song57e50_5120269.pdf
+Mục tiêu: tài nguyên kiến thức thô để tạo game bài tập
+
+## 1. Phần kiến thức chung (từ trang 1)
+
+### Nội dung kiến thức thô
+- BỊ tôi HING Si,A 4 VI. K~.Zl 2x4=8
+- Hai thừa số là 4 và 5. c7”_
+- L4 | 3 | 5 | 5
+- 3G Gò €3 €9 ›
+- a) Mỗi hàng có 5 quả bóng. b) Mỗi cột có 3 quả bóng.
+- Hỏi 3 hàng có tất cả bao nhiêu Hỏi 5 cột có tất cả bao nhiêu
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- xã luyện) bếp Tim tích, biết k_e=Uipbtenoiecni Mẫu: 2‹4=2+2+2+2=8 BỊ tôi HING Si,A 4 VI.
+- K~.Zl 2x4=8 Hai thừa số là 4 và 5.
+- c7”_ L4 | 3 | 5 | 5 TV ⁄@` 4 ra C3 «..
+- 3G Gò €3 €9 › 4 ⁄4 / TY a) Mỗi hàng có 5 quả bóng.
+- Hỏi 3 hàng có tất cả bao nhiêu Hỏi 5 cột có tất cả bao nhiêu quả bóng?
+
+### Cặp nối từ/khái niệm
+- k_e=Uipbtenoiecni Mẫu => 2‹4=2+2+2+2=8
+- Hai thừa số => 4 và 5. c7”_
+
+### Đoạn gõ văn bản
+- k_e=Uipbtenoiecni Mẫu: 2‹4=2+2+2+2=8 BỊ tôi HING Si,A 4 VI. K~.Zl 2x4=8 Hai thừa số là 4 và 5. c7”_
+- a) Mỗi hàng có 5 quả bóng. b) Mỗi cột có 3 quả bóng. Hỏi 3 hàng có tất cả bao nhiêu Hỏi 5 cột có tất cả bao nhiêu quả bóng? quả bóng?
+
+### Từ khóa
+Phần kiến thức chung, xã luyện, Tim tích, biết, k_e=Uipbtenoiecni Mẫu, 2‹4=2+2+2+2=8, BỊ tôi HING Si, A 4 VI. K~.Zl 2x4=8, TV ⁄@` 4 ra, C3 «.. so, 3G Gò €3 €9 ›, 4 ⁄4, quả bóng? quả bóng?
+
+## 2. Bài giải Bài giải (từ trang 9)
+
+### Nội dung kiến thức thô
+- Số quả bóng ở cả 3 hàng là: Số quả bóng ở cả 5 cột là
+- 2) x 3 = (2) (quả) (2Ìx5= 2 (quả)
+- Đáp só: ?) quả bóng. Đáp số: '?) quả bóng.
+- Nhận xét: 5 x 3 = 3 x 5.
+- a) 2 x 4Í?) 4 x2
+- 4) đÐ & $ % b) 2x 492) 7
+- a) một lần là hai,
+- Ì) ta có hai nhân T
+- 2„ 12 một bằng hai. =
+- 3 [ Hai nhân hai hà
+- 2„+ 2+ 2 =6 `
+- Thêm 2 vào kết quả của 2 x 2 ta được kết quả của 2 x 3.
+- b) Hoàn thành bảng nhân 2.
+- 2 "| =2 Hai nhân mười
+- 2x2 =4 băng hai mươi.
+- Ồ Tính nhảm. Cả /
+- l2ER/2 Gj (7 2 ⁄
+- Ø&8› [maøs] 2 | : |2 | : |2
+- _Thừasố| 3 | 5 | 7 | 4 | s | 3
+- O9? 2[ 77 TT 7[Z[ZTzT2Tz]
+- là ki lik ki RE NKNE
+- ÂÔ Đém thêm 2 rồi X =
+- nêu số còn thiếu. : "...... ^
+- Hai, bón, sáu,.... "tự Ẵê S%ọ
+- mười tám, hai mươi. /- “ÃT........
+- Từ các thừa số và tích dưới đây, em hãy lập các phép nhân thích hợp.
+- Một con cua có 2 cái càng.
+- a) 5 con cua có bao nhiêu :..b) 7 con cua có bao nhiêu
+- cái càng? ì cái càng?
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Số quả bóng ở cả 3 hàng là: Số quả bóng ở cả 5 cột là 2) x 3 = (2) (quả) (2Ìx5= 2 (quả) Đáp só: ?) quả bóng.
+- Nhận xét: 5 x 3 = 3 x 5.
+- 2 x 2 =4 Thuần, C969) C3 bằng sáu.
+- pe 2„+ 2+ 2 =6 ` 2x3 =6 "T Nhận xét: .
+- Thêm 2 vào kết quả của 2 x 2 ta được kết quả của 2 x 3.
+- Bảng nhân 2 2 "| =2 Hai nhân mười 2x2 =4 băng hai mươi.
+- 2x3 =6 2x5 =[?) À7 2x6 =(?) L 2x7 =[2) 2x8 =[2) 2x9 ={[?) 2x10=20 Ồ Tính nhảm.
+- 2[ 77 TT 7[Z[ZTzT2Tz] là ki lik ki RE NKNE ÂÔ Đém thêm 2 rồi X = nêu số còn thiếu.
+- Từ các thừa số và tích dưới đây, em hãy lập các phép nhân thích hợp.
+- a) 5 con cua có bao nhiêu :..b) 7 con cua có bao nhiêu cái càng?
+
+### Cặp nối từ/khái niệm
+- Số quả bóng ở cả 3 hàng là => Số quả bóng ở cả 5 cột là
+- Đáp só => quả bóng. Đáp số: '?) quả bóng.
+- Nhận xét => 5 x 3 = 3 x 5.
+- Nhận xét => 2„2=4;2x3=6.
+
+### Đoạn gõ văn bản
+- Số quả bóng ở cả 3 hàng là: Số quả bóng ở cả 5 cột là 2) x 3 = (2) (quả) (2Ìx5= 2 (quả) Đáp só: ?) quả bóng. Đáp số: '?) quả bóng. Nhận xét: 5 x 3 = 3 x 5.
+- a) một lần là hai, Ì) ta có hai nhân T 2„ 12 một bằng hai. = 3 [ Hai nhân hai hà 2P.u200-. bằng bón. ⁄
+- Nhận xét: . 2„2=4;2x3=6. Thêm 2 vào kết quả của 2 x 2 ta được kết quả của 2 x 3. b) Hoàn thành bảng nhân 2.
+- Ø&8› [maøs] 2 | : |2 | : |2 _Thừasố| 3 | 5 | 7 | 4 | s | 3 JĂãĩ SEN ESESEBHIERER O9? 2[ 77 TT 7[Z[ZTzT2Tz] là ki lik ki RE NKNE ÂÔ Đém thêm 2 rồi X = nêu số còn thiếu. : "...... ^ Hai, bón, sáu,.... "tự Ẵê S%ọ mười tám, hai mươi. /- “ÃT........ Từ các thừa số và tích dưới đây, em hãy lập các phép nhân thích hợp. Một con cua có 2 cái càng. a) 5 con cua có bao nhiêu :..b) 7 con cua có bao nhiêu cái càng? ì cái càng?
+
+### Từ khóa
+Bài giải Bài giải, x 3 =, 2Ìx5= 2, Đáp só, quả bóng. Đáp số, quả bóng., Nhận xét, 2 x 4Í?, 4 x2, đÐ & $ % b, 2x 492, e4x2, ài 39 j, Hai được lấy, một lần là hai, ta có hai nhân T, 2P.u200, bằng bón. ⁄, 2 x 2 =4, Thuần, C969, bằng sáu. pe, 2„+ 2+ 2 =6 `, 2x3 =6 "T
+
+## 3. Bài giải : Bài giải (từ trang 12)
+
+### Nội dung kiến thức thô
+- Số càng của 5 con cua là: ị Số càng của 7 con cua là
+- 2 x (2) = (2?) (cái càng) ị x i2) = í2) (cái càng)
+- Đáp số: “2` cái càng. H Đáp số: “2` cái càng.
+- N to“ @ (5 / Q
+- F Năm được lấy một lần
+- a) là năm, ta có năm nhân
+- 5) 5) Năm nhân hai
+- G2) (9) Ệe) Gómmsian) @
+- 3) É5)) KÐ) bằng mười lăm. Í5. ›Ð
+- 5 + 5 + 5 = 15 ễ
+- Nhận xét: + 5x 2= 10;5x 3= 15.
+- _ Thêm 5 vào kết quả của 5 x 2 ta được kết quả của 5 x 3.
+- b) Hoàn thành bảng nhân 5.
+- 5x2 =10 bằng năm mươi.
+- L7 | r1 | 3 |5 |} ï | s |9
+- im cánh hoa cho ong đậu.
+- Thwasốj 5 J5 J5 [ § [ s J5 [5 J5”
+- Thừasố| 3 | s | 7 | 9 | 2 | 4 | 6 |8
+- 1m J5|? |? |? |? |?]|?]|?]
+- Â Đám thêm 5 rồi nêu số còn thiếu.
+- mười lăm,..., bôn mươi lăm, `8 b
+- 9 4 qœ đ® \ cŠ
+- e.© @ c=n( ) 1% 2 ——~© ° 8® TyợNR 9 ® 2 G: ® ° °
+- a) Toa tàu nào ghi phép tính có kết quả lớn nhát?
+- b) Toa tàu nào ghi phép tính có kết quả bé nhát?
+- ác Hoà làm ống hút bằng tre thay ống nhựa. Mỗi đoạn tre làm được
+- 5 ống hút. Hỏi với 5 đoạn tre như vậy, bác Hoà làm được bao nhiêu
+- a) Có 6 quả cam chia đều vào 3 đĩa. Hỏi mỗi đĩa có mắy quả cam?
+- Cho vào mỗi đĩa 1 quả cam, còn lại 3 quả cam.
+- Cho thêm vào mỗi đĩa 1 quả cam thì vừa hết cam.
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Số càng của 5 con cua là: ị Số càng của 7 con cua là 2 x (2) = (2?) (cái càng) ị x i2) = í2) (cái càng) Đáp số: “2` cái càng.
+- N to“ @ (5 / Q Ï = ài 40 j F Năm được lấy một lần a) là năm, ta có năm nhân một bằng năm.
+- 3 5à don g 5) 5) Năm nhân hai 5 mm 0Ô » 55.
+- o * G2) (9) Ệe) Gómmsian) @ 3) É5)) KÐ) bằng mười lăm.
+- Ð 5 + 5 + 5 = 15 ễ Nhận xét: + 5x 2= 10;5x 3= 15.
+- _ Thêm 5 vào kết quả của 5 x 2 ta được kết quả của 5 x 3.
+- Bảng nhân 5 Nhuidn 5x2 =10 bằng năm mươi.
+- 5x3 =15 5x5 =(2) 5x6 =(?Ì W 5x7 =[2) B»:8 =2) 5x9 =(2) 5x 10=50 q2 ¬ L7 | r1 | 3 |5 |} ï | s |9 im cánh hoa cho ong đậu.
+- x =5 ) Â Đám thêm 5 rồi nêu số còn thiếu.
+- Năm, mười, mười lăm,..., bôn mươi lăm, `8 b năm mươi.
+- b) Toa tàu nào ghi phép tính có kết quả bé nhát?
+- ác Hoà làm ống hút bằng tre thay ống nhựa.
+
+### Cặp nối từ/khái niệm
+- Số càng của 5 con cua là => ị Số càng của 7 con cua là
+- Đáp số => 2` cái càng. H Đáp số: “2` cái càng.
+- Nhận xét => 5x 2= 10;5x 3= 15.
+- Ta có phép chia => chia tìm được mỗi phần >Š s 7
+
+### Đoạn gõ văn bản
+- Số càng của 5 con cua là: ị Số càng của 7 con cua là 2 x (2) = (2?) (cái càng) ị x i2) = í2) (cái càng) Đáp số: “2` cái càng. H Đáp số: “2` cái càng.
+- Nhận xét: + 5x 2= 10;5x 3= 15. _ Thêm 5 vào kết quả của 5 x 2 ta được kết quả của 5 x 3. b) Hoàn thành bảng nhân 5.
+- Thwasốj 5 J5 J5 [ § [ s J5 [5 J5” Thừasố| 3 | s | 7 | 9 | 2 | 4 | 6 |8 1m J5|? |? |? |? |?]|?]|?]
+- e.© @ c=n( ) 1% 2 ——~© ° 8® TyợNR 9 ® 2 G: ® ° ° a) Toa tàu nào ghi phép tính có kết quả lớn nhát? b) Toa tàu nào ghi phép tính có kết quả bé nhát? ác Hoà làm ống hút bằng tre thay ống nhựa. Mỗi đoạn tre làm được 5 ống hút. Hỏi với 5 đoạn tre như vậy, bác Hoà làm được bao nhiêu
+
+### Từ khóa
+Bài giải, cái càng, ị x i2, Đáp số, 2` cái càng., N to“ @, ài 40 j, là năm, ta có năm nhân, một bằng năm. [3, 5à don g, Năm nhân hai, 5 mm 0Ô », 55. ›»‹o *, Gómmsian, bằng mười lăm. Í5. ›Ð, Nhận xét, 5x 2= 10, 5x 3= 15., Hoàn thành bảng nhân 5., Bảng nhân 5, Nhuidn, 5x2 =10 bằng năm mươi., 5x3 =15
+
+## 4. Đọc là: Sáu chia ba bằng hai. =3... “X1 (từ trang 16)
+
+### Nội dung kiến thức thô
+- Dấu : là dấu chia. Ẳ ị
+- b) Có 6 quả cam chia vào các đĩa, mỗi đĩa 2 quả. Hỏi được máy đĩa cam
+- Lần một cho 2 quả cam vào 1 đĩa. Chia 6 quả cam
+- Lần hai cho tiếp 2 quả cam vào 1 đĩa. tý * SHr+ *' làm
+- À cố Ị ` uả, ta có phép chia tìm
+- Lần ba cho tiêp 2 quả cam vào 1 đĩa dư: 3 niền .. vậy.
+- 6 quả cam chia vào các đĩa, mỗi đĩa 1
+- 2 quả, được 3 đĩa cam như vậy. A SA
+- Ta có phép chia: "¬ _ NHA
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- Ẳ ị b) Có 6 quả cam chia vào các đĩa, mỗi đĩa 2 quả.
+- Lần một cho 2 quả cam vào 1 đĩa.
+- Chia 6 quả cam Lần hai cho tiếp 2 quả cam vào 1 đĩa.
+- tý * SHr+ *' làm À cố Ị ` uả, ta có phép chia tìm Lần ba cho tiêp 2 quả cam vào 1 đĩa dư: 3 niền ..
+- 6 quả cam chia vào các đĩa, mỗi đĩa 1 2 quả, được 3 đĩa cam như vậy.
+- A SA Ta có phép chia: "¬ _ NHA
+
+### Cặp nối từ/khái niệm
+- Dấu => dấu chia. Ẳ ị
+- Lần ba cho tiêp 2 quả cam vào 1 đĩa dư => 3 niền .. vậy.
+- Ta có phép chia => _ NHA
+
+### Đoạn gõ văn bản
+- Dấu : là dấu chia. Ẳ ị b) Có 6 quả cam chia vào các đĩa, mỗi đĩa 2 quả. Hỏi được máy đĩa cam
+- Lần một cho 2 quả cam vào 1 đĩa. Chia 6 quả cam Lần hai cho tiếp 2 quả cam vào 1 đĩa. tý * SHr+ *' làm À cố Ị ` uả, ta có phép chia tìm Lần ba cho tiêp 2 quả cam vào 1 đĩa dư: 3 niền .. vậy.
+- 6 quả cam chia vào các đĩa, mỗi đĩa 1 2 quả, được 3 đĩa cam như vậy. A SA Ta có phép chia: "¬ _ NHA
+
+### Từ khóa
+Đọc là, là dấu chia. Ẳ ị, như vậy?, À cố Ị ` uả, ta có phép chia tìm, 3 niền .. vậy., thì vừa hệt cam., mỗi đĩa 1, 2 quả, Ta có phép chia, _ NHA
+
+## 5. Đọc là: Sáu chia hai bằng ba. ì— —/ (từ trang 16)
+
+### Nội dung kiến thức thô
+- Ồ Chọn phép tính thích hợp.
+- Mỗi lọ có 5 bông hoa. Hỏi 3 lọ như vậy có
+- tất cả bao nhiêu bông hoa?
+- Cắm 15 bông hoa vào các lọ, mỗi lọ 5 bông.
+- Hỏi cắm được máy lọ hoa như vậy?
+- Có 15 bông hoa chia đều vào 3 lọ. Hỏi mỗi lọ
+- có bao nhiêu bông hoa?
+- ÂÖ Với mỗi phép nhân, viết hai phép chia (theo mẫu).
+- a) 2cm x5 b) 2kg x 3 c)21x4
+- Sóc nâu nhặt được 20 hạt dẻ và chia đều cho các bạn.
+- a) Chia đều cho 5 bạn.
+- Mỗi bạn được 2` hạt dẻ.
+- b) Chia đều cho 4 bạn. c) Chia đều cho 2 bạn.
+- Mỗi bạn được .2' hạt dẻ. Mỗi bạn được /?' hạt dẻ.
+- Á) Chia 20 kg gao vào các túi, mỗi Lá)
+- túi 5 kg. Hỏi được bao nhiêu túi TuuïG: Š AC.
+- gạo như vậy? /\ À
+- co Chia đều 10 bông hoa
+- vào 2 lọ. Hỏi mỗi lọ có
+- Mỗi lọ có 5 bông hoa. m
+- Phép chia 12:2=6 20:5=4 16:2=8 15:5=3
+- SmáHịi À201|Qi1H|J 2 | 7
+- a) Chọn phép tính thích hợp.
+- Chia đều 8 chiếc bánh ®cr¿ 10 chiếc bánh vào các
+- vào 2 hộp. Hỏi mỗi hộp có hộp, mỗi hộp 2 chiếc. Hỏi
+- mắấy chiếc bánh? được máy hộp bánh như vậy?
+- 3 Chia đều 6 que tính thành 2 nhóm. Hỏi mỗi nhóm có máy que tính?
+- Phép nhân . Phép chia . Số bị chia _ Sốcha | Thương
+- 16:2:8| 16] 2 | s _
+- 18:sz2| 18 | 5s | 2
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- c) Nhận xét s0 c2 @®) 2x3=6 < Ồ Chọn phép tính thích hợp.
+- kì xà» Mỗi lọ có 5 bông hoa.
+- Hỏi 3 lọ như vậy có tất cả bao nhiêu bông hoa?
+- Cắm 15 bông hoa vào các lọ, mỗi lọ 5 bông.
+- Hỏi cắm được máy lọ hoa như vậy?
+- Có 15 bông hoa chia đều vào 3 lọ.
+- Hỏi mỗi lọ có bao nhiêu bông hoa?
+- ÂÖ Với mỗi phép nhân, viết hai phép chia (theo mẫu).
+- a)2x4=8 b)2x7=14 Mẫu: 2x4=8 c)5x8=40 d)5x3= 15 8:2=4 8:4=2 a) b) HHHDMMWM BÍHBẦHRH Ö Tính (theo mẫu).
+- a) 2cm x5 b) 2kg x 3 c)21x4 10cm:5 6kg:3 87:4 Mẫu: 2cmx5= 10cm 10 cm:5=2cm O£ › Sóc nâu nhặt được 20 hạt dẻ và chia đều cho các bạn.
+- dự) tý) Mỗi bạn được 2` hạt dẻ.
+- 1 THRAG Mỗi bạn được .2' hạt dẻ.
+
+### Cặp nối từ/khái niệm
+- Mẫu => 2cmx5= 10cm
+- a) Số bị chia => 10, số chia là 2.
+- b) Số bị chía => 8, số chia là 2.
+- e) Số bị chia => 10, số chia là 5.
+- Mẫu => 8x3=8+8+8=24
+- Ấ(Ồ Hình nào => khói trự? Hình nào là khối cầu?
+- 27 1S Mình => khói câu.
+- le mm Kim tự tháp _ ấn => H3 22580 p2.
+- khối trú => đà z 2
+- W sử => n = miêng sô-cô-la
+
+### Đoạn gõ văn bản
+- Mỗi lọ có 5 bông hoa. Hỏi 3 lọ như vậy có tất cả bao nhiêu bông hoa? Cắm 15 bông hoa vào các lọ, mỗi lọ 5 bông. Hỏi cắm được máy lọ hoa như vậy? Có 15 bông hoa chia đều vào 3 lọ. Hỏi mỗi lọ có bao nhiêu bông hoa? ÂÖ Với mỗi phép nhân, viết hai phép chia (theo mẫu). a)2x4=8 b)2x7=14 Mẫu: 2x4=8 c)5x8=40 d)5x3= 15 8:2=4
+- Mỗi bạn được .2' hạt dẻ. Mỗi bạn được /?' hạt dẻ. Á) Chia 20 kg gao vào các túi, mỗi Lá) túi 5 kg. Hỏi được bao nhiêu túi TuuïG: Š AC.
+- SmáHịi À201|Qi1H|J 2 | 7 a) Chọn phép tính thích hợp. Chia đều 8 chiếc bánh ®cr¿ 10 chiếc bánh vào các vào 2 hộp. Hỏi mỗi hộp có hộp, mỗi hộp 2 chiếc. Hỏi mắấy chiếc bánh? được máy hộp bánh như vậy? 3 Chia đều 6 que tính thành 2 nhóm. Hỏi mỗi nhóm có máy que tính?
+- im thương trong phép chia, biết: E) a) Số bị chia là 10, số chia là 2. b) Số bị chía là 8, số chia là 2. e) Số bị chia là 10, số chia là 5. a) Từ ba thẻ số bên, em lập được hai
+
+### Từ khóa
+Đọc là, Nhận xét, s0 c2 @®, 2x3=6 <, kì xà», mỗi lọ 5 bông., có bao nhiêu bông hoa?, ÂÖ Với mỗi phép nhân, viết hai phép chia, theo mẫu, 2x4=8 b, 2x7=14 Mẫu, 2x4=8, 5x8=40 d, 5x3= 15 8, HHHDMMWM BÍHBẦHRH, Ö Tính, 2cm x5 b, 2kg x 3 c, 21x4, 10cm, 5 6kg, 2cmx5= 10cm, 10 cm
+
+## 6. viết, đọc só, biết số đó gồm: é Bây trăn ` (từ trang 52)
+
+### Nội dung kiến thức thô
+- a) 7 trăm, 4 chục và 9 đơn vị. Œ>›) `”
+- b)_1 trăm, 1 chục và 4 đơn vị. m
+- c) 5 trăm, 6 chục và 0 đơn vị. Á}`
+- d) 8 trăm, 0 chục và 3 đơn vị. "
+- ÊÖ Võ chú ong đến từ tổ nào?
+- Mỗi thanh gỗ được sơn bởi màu ở thùng ghi cách đọc só trên thanh gỗ.
+- Hỏi mỗi thanh gỗ được sơn màu nào?
+- Á FÍh (TIẾN (ph lh )
+- Ca) Số liền trước của 300 là số nào? Số liễn trước của
+- b) Số liên trước của 999 là số nào? Tai
+- c) Só liền sau của 999 là số nào? _„(Ð)„^
+- L1) Tìm đường đưa chú chuột đến chỗ miếng pho mát, bằng cách đi theo các
+- chỉ dẫn được cho trong mỗi ô mà chuột đi qua.
+- SỐ _[ S6wšm | Sôzme | S6anM
+- fa03®3đf2 Gim đrn GI @
+- Chuẩn bị: 1 xúc xắc, 5 quân cờ.
+- 5 - Chơi theo nhóm.
+- Khi đến lượt, người chơi gieo xúc xắc và đọc số chắm ở mặt trên.
+- Tìm số thích hợp với mặt xúc xắc đó ở trong bảng (ví dụ số thích
+- hợp với mặt (>) là 356). Đặt một quân cờ vào con chim cánh cụt ghi
+- _ Trò chơi kết thúc khi đặt được hết 5 quân cờ.
+- đc (+) 3 trăm, 5 chục, 6 đơn vị
+- L2 (, °} _3 trăm, 5 chục, 0 đơn vị
+- 559) (.=) _3 trăm, 0 chục, 6 đơn vị [s)
+- È2) 5 trăm, 5 chục, 6 đơn vị ,
+- sa) (s:) _6trăm, 3 chục, 3 đơn vị
+- 6 trăm, 6 chục, 6 đơn vị °
+- Số 345 gồm Số 408 gồm
+- 3 trăm, 4 chục và 5 đơn vị. 4 trăm, 0 chục và 8 đơn vị.
+- Ta viết: 345 = 300 + 40 + 5 Ta viết: 408 = 400 + 8
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- È bốn mươi chín a) 7 trăm, 4 chục và 9 đơn vị.
+- Œ>›) `” b)_1 trăm, 1 chục và 4 đơn vị.
+- m c) 5 trăm, 6 chục và 0 đơn vị.
+- Á}` d) 8 trăm, 0 chục và 3 đơn vị.
+- luuện Q4 › a) b) #ãP đi đã d) SP ÊÖ Võ chú ong đến từ tổ nào?
+- _ =S® Mỗi thanh gỗ được sơn bởi màu ở thùng ghi cách đọc só trên thanh gỗ.
+- Hỏi mỗi thanh gỗ được sơn màu nào?
+- Á FÍh (TIẾN (ph lh ) QC, eagee) mm...
+- Ca) Số liền trước của 300 là số nào?
+- Số liễn trước của l 300 là số...
+- b) Số liên trước của 999 là số nào?
+- Tai c) Só liền sau của 999 là số nào?
+
+### Cặp nối từ/khái niệm
+- Ca) Số liền trước của 300 => số nào? Số liễn trước của
+- b) Số liên trước của 999 => số nào? Tai
+- c) Só liền sau của 999 => số nào? _„(Ð)„^
+- Chuẩn bị => 1 xúc xắc, 5 quân cờ.
+- hợp với mặt (>) => 356). Đặt một quân cờ vào con chim cánh cụt ghi
+- Ta viết => 345 = 300 + 40 + 5 Ta viết: 408 = 400 + 8
+- Ta viết => 670 = 600 + 70
+- Mẫu => 123 = 100 + 20 + 3 Q2 5
+- e Đà điều => 213 cm; e Hươu cao cỏ: 579 cm
+- e Voi => 396 cm; e Gấu nâu: 274 cm.
+
+### Đoạn gõ văn bản
+- a) 7 trăm, 4 chục và 9 đơn vị. Œ>›) `” b)_1 trăm, 1 chục và 4 đơn vị. m c) 5 trăm, 6 chục và 0 đơn vị. Á}` d) 8 trăm, 0 chục và 3 đơn vị. "
+- Mỗi thanh gỗ được sơn bởi màu ở thùng ghi cách đọc só trên thanh gỗ. Hỏi mỗi thanh gỗ được sơn màu nào? Á FÍh (TIẾN (ph lh )
+- b) Số liên trước của 999 là số nào? Tai c) Só liền sau của 999 là số nào? _„(Ð)„^ L1) Tìm đường đưa chú chuột đến chỗ miếng pho mát, bằng cách đi theo các chỉ dẫn được cho trong mỗi ô mà chuột đi qua. SỐ _[ S6wšm | Sôzme | S6anM
+- 5 - Chơi theo nhóm. Khi đến lượt, người chơi gieo xúc xắc và đọc số chắm ở mặt trên. Tìm số thích hợp với mặt xúc xắc đó ở trong bảng (ví dụ số thích hợp với mặt (>) là 356). Đặt một quân cờ vào con chim cánh cụt ghi
+
+### Từ khóa
+viết, đọc só, biết số đó gồm, é Bây trăn `, È bốn mươi chín, 7 trăm, _1 trăm, 5 trăm, 8 trăm, luuện, Q4 ›, đi đã, _ =S®, Á FÍh, ph lh, eagee, mm..., l 300 là số..., bằng cách đi theo các, ằĂẮ_ẼPỹ HN NNN, VY s, fa03®3đf2 Gim đrn GI @, Chuẩn bị, 1 xúc xắc
+
+## 7. viết 1. (từ trang 93)
+
+### Nội dung kiến thức thô
+- _ S6UU | 135 | 180 | 3B | 60.
+- Tìm địa chỉ cho mỗi bức thư.
+- Đàu năm, một công ty có 205 người đang làm việc. Đén cuối năm, công ty
+- có 12 người nghỉ việc. Hỏi cuối năm, công ty đó còn lại bao nhiêu người
+- Trong tám bản đồ, Rô-bót đi qua các phép tính có kết quả theo thứ tự như sau
+- 292 => 537 =>- 200 => 50 —=> 1 000
+- Tìm đường Rô-bót đã đi. Rô-bốt có đến được kho báu không?
+- Mẫu: 800 + 200 = 1 000
+- 1 000 - 200 = 800
+- 1 000 - 800 = 200
+- a) 300 + 700 b) 400 + 600
+- 1 000 - 700 1 000 —- 600
+- đổ + 263 2 1/3 [:}
+- s2] 171 Tự 90 c3
+- Kết thúc Đại hội Thẻ thao Đông Nam Á_ Z£Ï Ỹ
+- lần thứ 30, Đoàn Thẻ thao Việt Nam giành do @, 3 Ï
+- được 288 huy chương gôm Vàng, Bạc và tr À- c2
+- Đồng. Trong đó có 190 huy chương Bạc và IN9..-/P)A-—: _ ,
+- Đồng. Hỏi Đoàn Thẻ thao Việt Nam giành \ Ca ra 6s +
+- được bao nhiêu huy chương Vàng?
+- s ghi ở sau mỗi chiếc
+- áo là kết quả của một 526 - 400
+- phép tính. Biết rằng áo
+- màu đỏ ghi số lớn nhát,
+- áo màu vàng ghi số bé
+- nhất. Tìm số ghi ở sau
+- Em hãy giúp Rô-bót tìm phép tính sai trong bức tranh rồi sửa lại cho
+- 762 ~ 70 = 692
+- 529 ~ I30 = 499
+- 430 ~ 80 = 380x© - Đ
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- _ S6UU | 135 | 180 | 3B | 60.
+- 2À ⁄\ 900 —700 # $$ Đàu năm, một công ty có 205 người đang làm việc.
+- Đén cuối năm, công ty có 12 người nghỉ việc.
+- Hỏi cuối năm, công ty đó còn lại bao nhiêu người đang làm việc?
+- Trong tám bản đồ, Rô-bót đi qua các phép tính có kết quả theo thứ tự như sau 292 => 537 =>- 200 => 50 —=> 1 000 Tìm đường Rô-bót đã đi.
+- Trong đó có 190 huy chương Bạc và IN9..-/P)A-—: _ , Đồng.
+- Hỏi Đoàn Thẻ thao Việt Nam giành \ Ca ra 6s + được bao nhiêu huy chương Vàng?
+- s ghi ở sau mỗi chiếc áo là kết quả của một 526 - 400 phép tính.
+- Biết rằng áo màu đỏ ghi số lớn nhát, áo màu vàng ghi số bé nhất.
+- Tìm số ghi ở sau mỗi chiếc áo.
+- Em hãy giúp Rô-bót tìm phép tính sai trong bức tranh rồi sửa lại cho đúng nhé!
+- Hãy giúp Mai tìm lại kết quả của các phép tính trên bảng.
+
+### Cặp nối từ/khái niệm
+- Mẫu => 800 + 200 = 1 000
+- 521—- 140 145 => 38 1 000 - 600 231+ 427
+- 267 1/31 328 + 56 698 => 47 721— 350
+- 590 ` => 143 | 882 Bề 730
+- _— tễ 3) 2355 => cyNg hạ Sổ TH Jsj ,/ )
+- JnniEnn EI => L )gg) [J2
+- Thành Công => 689 Hoà Bình: 820 Ề TÊN hớ
+- Đoàn Kết => 853 Chiến Thắng: 695
+- Mẫu => 346 = 300 + 40 + 6
+- 75—5 ` => Pw )\ ¿ D
+
+### Đoạn gõ văn bản
+- Đàu năm, một công ty có 205 người đang làm việc. Đén cuối năm, công ty có 12 người nghỉ việc. Hỏi cuối năm, công ty đó còn lại bao nhiêu người
+- Trong tám bản đồ, Rô-bót đi qua các phép tính có kết quả theo thứ tự như sau 292 => 537 =>- 200 => 50 —=> 1 000 Tìm đường Rô-bót đã đi. Rô-bốt có đến được kho báu không?
+- Q Trong bức tranh, Việt vô ý xoá mát kết quả của các phép tính. Hãy giúp Mai tìm lại kết quả của các phép tính trên bảng. 346 _— 673 — 484 _ lái
+- 34 5 6?) 3(2)7 1{2)1 ké: quả của mỗi phép tính tương ứng với một chữ cái như sau 521—- 140 145 - 38 1 000 - 600 231+ 427
+
+### Từ khóa
+viết 1., 2À ⁄\, 700 # $$, Đàu năm, công ty, đang làm việc?, Trong tám bản đồ, 292 => 537 =>, 200 => 50, Tìm đường Rô, bót đã đi. Rô, 1392100 .. Kho „, Ô£ˆU Ca., Ồ Tính theo mẫu, 200 = 800, 800 = 200, 300 + 700 b, 400 + 600, đổ + 263 2 1, s2] 171 Tự 90 c3, lần thứ 30, Bạc và tr À, phép tính. Biết rằng áo, mỗi chiếc áo.
+
+## 8. Bãi cạn Cà Mau. (từ trang 119)
+
+### Nội dung kiến thức thô
+- a) Cao Bằng và Vinh, nơi nào xa Hà Nội hơn?
+- b) Quãng đường Hà Nội - Đà Nẵng (qua Vinh) dài bao nhiêu ki-lô-mét?
+- c) Quãng đường Đà Nẵng - Thành phó Hồ Chí Minh dài hơn quãng
+- đường Thành phó Hỏ Chí Minh - Cần Thơ bao nhiêu ki-lô-mét2
+- a) 536 + 8 67 + 829 432 + 284
+- b) 253 — 7 561 — 42 795 ~ 638
+- a) ~3{§à -—272 + 85
+- ị| a) 216 + 65~ 81 K
+- Hường ứng phong trào phủ xanh đôi trọc, trường Lê Lợi trồng được
+- 264 cây, trường Nguyễn Trãi trồng được 229 cây. Hỏi cả hai trường
+- trồng được bao nhiêu cây?
+- Ồ Chọn câu trả lời đúng.
+- a) Hiệu của 783 và 745 là
+- b) Tổng của 564 và 82 là
+- A. 646 B. 546 C. 482
+- c) Kết quả tính 347 + 30 — 96 là
+- a) bSi 510) ©) -45 +6 | 2
+- Â Giải bài toán theo tóm tắt sau
+- l8. Mai cao : 119 cm
+- dD EM lào Mi cao :98 cm
+- X\ 5 Nó Mai cao hơn Mi :... em?
+- I | r1 U ÔN
+- C) Tìm chữ số thích hợp.
+- a) 328 bì 751 9548
+- Tìm hiệu của số lớn nhất có ba chữ só khác nhau và số bé nhát có ba
+- Tim phép nhân thích họp.
+- v« tích thành tổng rồi tính (theo mẫu).
+- 0 Ƒ —N sec, ¿2 ˆ.— HS
+- Mỗi chùm có 5 quả dừa. Hỏi 4 chùm dừa như vậy có bao nhiêu quả?
+- 5) Liên hoan tết Trung thu, cô giáo mua về cho lớp 15 hộp bánh. Cô chia
+
+### Câu/ý có thể tạo trắc nghiệm hoặc điền khuyết
+- a) Cao Bằng và Vinh, nơi nào xa Hà Nội hơn?
+- b) Quãng đường Hà Nội - Đà Nẵng (qua Vinh) dài bao nhiêu ki-lô-mét?
+- a) 536 + 8 67 + 829 432 + 284 b) 253 — 7 561 — 42 795 ~ 638 a) ~3{§à -—272 + 85 672 X— ———> b) + 400 ~25 iờ——Cy—, Tính.
+- ị| a) 216 + 65~ 81 K TC Đ749-882+80 CC Hường ứng phong trào phủ xanh đôi trọc, trường Lê Lợi trồng được 264 cây, trường Nguyễn Trãi trồng được 229 cây.
+- Hỏi cả hai trường trồng được bao nhiêu cây?
+- Z » neo Ồ Chọn câu trả lời đúng.
+- a) Hiệu của 783 và 745 là A.38 B.83 c.48 b) Tổng của 564 và 82 là A.
+- 482 c) Kết quả tính 347 + 30 — 96 là A.377 B.218 C.
+- 281 120 N a) bSi 510) ©) -45 +6 | 2 340 ⁄ L⁄ S œ*“ Â Giải bài toán theo tóm tắt sau Tóm tắt l8.
+- Mai cao : 119 cm dD EM lào Mi cao :98 cm tớ 2 ⁄ X\ 5 Nó Mai cao hơn Mi :...
+- L( Ụ j HỰ ấu l2 I | r1 U ÔN it T1.
+- n4€1 j C) Tìm chữ số thích hợp.
+
+### Cặp nối từ/khái niệm
+- b) Quãng đường Hà Nội => Đà Nẵng (qua Vinh) dài bao nhiêu ki-lô-mét?
+- c) Quãng đường Đà Nẵng => Thành phó Hồ Chí Minh dài hơn quãng
+- đường Thành phó Hỏ Chí Minh => Cần Thơ bao nhiêu ki-lô-mét2
+- b) 9x2 Mẫu => 3x4=3+3+3+3=12
+- Hình nào => khói trự? Hình nào là khối cầu?
+- cày càu => đường gắp khúc ABCD dài 160 m. Đoạn càu là đường gắp
+- 53/-351 10 kg => 2 60 m—20m
+- 53/—18i 10 kg => 5 60 m—40 m
+- b) Hôm nay => thứ Tư ngày 15 tháng 3. Hỏi thứ Tư tuần sau, sinh nhật
+- bạn Núi => ngày nào?
+
+### Đoạn gõ văn bản
+- a) Cao Bằng và Vinh, nơi nào xa Hà Nội hơn? b) Quãng đường Hà Nội - Đà Nẵng (qua Vinh) dài bao nhiêu ki-lô-mét? c) Quãng đường Đà Nẵng - Thành phó Hồ Chí Minh dài hơn quãng đường Thành phó Hỏ Chí Minh - Cần Thơ bao nhiêu ki-lô-mét2
+- Đặt tính rồi tính. a) 536 + 8 67 + 829 432 + 284 b) 253 — 7 561 — 42 795 ~ 638 a) ~3{§à -—272 + 85
+- Hường ứng phong trào phủ xanh đôi trọc, trường Lê Lợi trồng được 264 cây, trường Nguyễn Trãi trồng được 229 cây. Hỏi cả hai trường trồng được bao nhiêu cây?
+- b) Tổng của 564 và 82 là A. 646 B. 546 C. 482 c) Kết quả tính 347 + 30 — 96 là A.377 B.218 C. 281
+
+### Từ khóa
+Bãi cạn Cà Mau., Cao Bằng và Vinh, Quãng đường Hà Nội, Đà Nẵng, qua Vinh, dài bao nhiêu ki, mét?, Quãng đường Đà Nẵng, Cần Thơ bao nhiêu ki, mét2, luyện bộp, 085 2 cac, 58 so, Đặt tính rồi tính., 42 795 ~ 638, 3{§à, 272 + 85, 672 X, 400 ~25, Tính., ị| a, 216 + 65~ 81 K, TC Đ749, 882+80 CC

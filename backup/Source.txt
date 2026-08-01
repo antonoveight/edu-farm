@@ -1,0 +1,2893 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Edu-Farm v2.2 - Nông Trại Tri Thức Toàn Diện</title>
+    <!-- Google Fonts & Font Awesome Icons -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;900&family=Urbanist:wght@500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    
+    <!-- Import Tailwind CSS Framework để hiển thị giao diện tối ưu -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --panel-bg: rgba(30, 41, 59, 0.7);
+            --primary-color: #10b981;
+            --primary-glow: rgba(16, 185, 129, 0.4);
+            --text-color: #f1f5f9;
+            --accent-color: #f59e0b;
+            --font-main: 'Urbanist', sans-serif;
+            --font-game: 'Nunito', sans-serif;
+        }
+
+        .theme-eco {
+            --bg-color: #062f1d;
+            --panel-bg: rgba(15, 46, 32, 0.85);
+            --primary-color: #10b981;
+            --primary-glow: rgba(16, 185, 129, 0.4);
+            --text-color: #ecfdf5;
+            --accent-color: #fbbf24;
+        }
+
+        .theme-cyber {
+            --bg-color: #0c1a30;
+            --panel-bg: rgba(13, 31, 61, 0.85);
+            --primary-color: #06b6d4;
+            --primary-glow: rgba(6, 182, 212, 0.4);
+            --text-color: #ecfeff;
+            --accent-color: #a855f7;
+        }
+
+        .theme-magic {
+            --bg-color: #1e112c;
+            --panel-bg: rgba(43, 21, 61, 0.85);
+            --primary-color: #d946ef;
+            --primary-glow: rgba(217, 70, 239, 0.4);
+            --text-color: #fdf4ff;
+            --accent-color: #f43f5e;
+        }
+
+        /* THIẾT LẬP CHUNG */
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            user-select: none;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            font-family: var(--font-main);
+            height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            transition: background-color 0.8s ease;
+        }
+
+        #game-container {
+            width: 1024px;
+            height: 640px;
+            background: linear-gradient(135deg, rgba(255,255,255,0.03) 0%, rgba(255,255,255,0.01) 100%);
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-radius: 32px;
+            box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5);
+            position: relative;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* MÀN HÌNH CHỜ / LỰA CHỌN */
+        .screen {
+            position: absolute;
+            inset: 0;
+            display: flex;
+            flex-direction: column;
+            padding: 30px;
+            transition: opacity 0.5s ease, transform 0.5s ease;
+            z-index: 10;
+        }
+
+        .screen-hidden {
+            opacity: 0;
+            pointer-events: none;
+            transform: scale(0.95);
+            z-index: 1;
+        }
+
+        #screen-welcome {
+            justify-content: space-between;
+            align-items: center;
+            background: radial-gradient(circle at center, rgba(30, 41, 59, 0.8) 0%, rgba(15, 23, 42, 0.95) 100%);
+        }
+
+        .logo-area {
+            text-align: center;
+            margin-top: 20px;
+        }
+
+        .logo-title {
+            font-family: var(--font-game);
+            font-weight: 900;
+            font-size: 56px;
+            letter-spacing: -1px;
+            background: linear-gradient(to right, #22c55e, #10b981, #06b6d4);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            filter: drop-shadow(0 4px 12px rgba(16,185,129,0.3));
+        }
+
+        .logo-tagline {
+            font-size: 16px;
+            opacity: 0.8;
+            margin-top: 5px;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+        }
+
+        .setup-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 30px;
+            width: 100%;
+            max-width: 850px;
+            margin: 20px 0;
+        }
+
+        .setup-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 24px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 15px;
+            box-shadow: inset 0 4px 10px rgba(255,255,255,0.02);
+        }
+
+        .setup-card h3 {
+            font-family: var(--font-game);
+            font-size: 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            border-bottom: 1px solid rgba(255,255,255,0.1);
+            padding-bottom: 10px;
+        }
+
+        .btn-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .btn-select {
+            background: rgba(255,255,255,0.05);
+            border: 1.5px solid rgba(255,255,255,0.1);
+            color: var(--text-color);
+            padding: 12px;
+            border-radius: 16px;
+            font-family: var(--font-main);
+            font-weight: 700;
+            font-size: 15px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+        }
+
+        .btn-select:hover {
+            background: rgba(255,255,255,0.1);
+            transform: translateY(-2px);
+        }
+
+        .btn-select.active {
+            background: var(--primary-color);
+            border-color: var(--primary-color);
+            color: #000;
+            box-shadow: 0 0 20px var(--primary-glow);
+        }
+
+        .btn-world-eco.active { background-color: #10b981; color: #fff; border-color: #10b981; box-shadow: 0 0 20px rgba(16,185,129,0.5); }
+        .btn-world-cyber.active { background-color: #06b6d4; color: #fff; border-color: #06b6d4; box-shadow: 0 0 20px rgba(6,182,212,0.5); }
+        .btn-world-magic.active { background-color: #d946ef; color: #fff; border-color: #d946ef; box-shadow: 0 0 20px rgba(217,70,239,0.5); }
+
+        .btn-start {
+            background: #fff;
+            color: #000;
+            font-family: var(--font-game);
+            font-weight: 900;
+            font-size: 18px;
+            padding: 16px 60px;
+            border-radius: 50px;
+            border: none;
+            cursor: pointer;
+            box-shadow: 0 10px 25px rgba(255,255,255,0.1);
+            transition: all 0.3s ease;
+            letter-spacing: 1px;
+            margin-bottom: 20px;
+        }
+
+        .btn-start:disabled {
+            opacity: 0.3;
+            cursor: not-allowed;
+            transform: none !important;
+            box-shadow: none !important;
+        }
+
+        .btn-start:hover:not(:disabled) {
+            transform: scale(1.05);
+            box-shadow: 0 10px 30px var(--primary-glow);
+            background: var(--primary-color);
+            color: #fff;
+        }
+
+        /* GIAO DIỆN CHƠI GAME CHÍNH */
+        #screen-game {
+            background: linear-gradient(180deg, rgba(15,23,42,0.2) 0%, rgba(15,23,42,0.8) 100%);
+            display: grid;
+            grid-template-rows: auto 1fr;
+            padding: 0;
+        }
+
+        .game-header {
+            background: rgba(0, 0, 0, 0.4);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(10px);
+            padding: 15px 30px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+
+        .header-left {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .btn-home {
+            background: rgba(255, 255, 255, 0.05);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            width: 42px;
+            height: 42px;
+            border-radius: 12px;
+            color: var(--text-color);
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 18px;
+            transition: all 0.2s;
+        }
+
+        .btn-home:hover {
+            background: rgba(255, 255, 255, 0.1);
+            transform: scale(1.05);
+        }
+
+        .current-config {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .current-config h2 {
+            font-family: var(--font-game);
+            font-size: 20px;
+            font-weight: 900;
+        }
+
+        .current-config span {
+            font-size: 12px;
+            opacity: 0.6;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .header-stats {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .stat-badge {
+            background: rgba(0, 0, 0, 0.3);
+            border: 1.5px solid rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            padding: 8px 18px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-family: var(--font-game);
+            font-weight: 900;
+            font-size: 16px;
+        }
+
+        .stat-badge.coins i { color: #facc15; text-shadow: 0 0 10px rgba(250,204,21,0.4); }
+        .stat-badge.level i { color: #38bdf8; text-shadow: 0 0 10px rgba(56,189,248,0.4); }
+        .stat-badge.weather-badge { color: #a5f3fc; }
+
+        /* KHU VỰC CHÍNH */
+        .game-workspace {
+            display: grid;
+            grid-template-columns: 1fr 300px;
+            height: 100%;
+            overflow: hidden;
+        }
+
+        /* MENU CHUYỂN TAB ĐA CHỨC NĂNG */
+        .tab-menu-bar {
+            display: flex;
+            gap: 10px;
+            padding: 10px 30px;
+            background: rgba(0,0,0,0.2);
+            border-bottom: 1.5px solid rgba(255,255,255,0.05);
+        }
+
+        .btn-tab {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.05);
+            padding: 8px 16px;
+            border-radius: 12px;
+            font-weight: 700;
+            font-size: 14px;
+            color: var(--text-color);
+            cursor: pointer;
+            transition: all 0.2s;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-tab:hover {
+            background: rgba(255, 255, 255, 0.08);
+        }
+
+        .btn-tab.active {
+            background: var(--primary-color);
+            color: #000;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 15px var(--primary-glow);
+        }
+
+        /* WORKSPACE TRÁI */
+        .workspace-left-container {
+            display: flex;
+            flex-direction: column;
+            overflow-y: auto;
+            padding: 20px;
+            position: relative;
+        }
+
+        /* NÔNG TRẠI (BÊN TRÁI) */
+        .farm-area {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            position: relative;
+            width: 100%;
+        }
+
+        .farm-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            width: 100%;
+            max-width: 620px;
+            position: relative;
+            z-index: 2;
+        }
+
+        /* Ô ĐẤT */
+        .plot-wrapper {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .plot-card {
+            width: 100%;
+            aspect-ratio: 1.25;
+            background: rgba(255,255,255,0.02);
+            border: 2px dashed rgba(255, 255, 255, 0.1);
+            border-radius: 24px;
+            position: relative;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            overflow: visible;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .plot-card:hover {
+            border-color: var(--primary-color);
+            background: rgba(255, 255, 255, 0.04);
+            transform: translateY(-4px);
+        }
+
+        .plot-card.locked {
+            border-style: solid;
+            background: rgba(15, 23, 42, 0.6);
+            border-color: rgba(255, 255, 255, 0.05);
+        }
+
+        .plot-card.locked:hover {
+            border-color: #ef4444;
+        }
+
+        /* Biểu tượng trạng thái nằm trên ô đất */
+        .plot-status-overlay {
+            position: absolute;
+            top: -12px;
+            display: flex;
+            gap: 6px;
+            z-index: 5;
+        }
+
+        .status-bubble {
+            width: 32px;
+            height: 32px;
+            background: rgba(15, 23, 42, 0.9);
+            border: 2px solid #38bdf8;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 14px;
+            box-shadow: 0 4px 10px rgba(0,0,0,0.4);
+        }
+
+        .status-bubble.water {
+            border-color: #38bdf8;
+            color: #38bdf8;
+            animation: bounce 1.5s infinite alternate;
+        }
+
+        .status-bubble.pest {
+            border-color: #ef4444;
+            color: #ef4444;
+            animation: shake 0.5s infinite;
+        }
+
+        .status-bubble.harvest {
+            border-color: #facc15;
+            color: #facc15;
+            font-size: 16px;
+            animation: pulsescale 1s infinite alternate;
+        }
+
+        /* SVG Cây trồng */
+        .plot-svg {
+            width: 85%;
+            height: 85%;
+            transition: transform 0.3s;
+        }
+
+        /* Tầng thông số hiển thị bên ngoài ô đất */
+        .plot-info-panel {
+            width: 90%;
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+        }
+
+        .plot-bar-outer {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .plot-bar-inner {
+            height: 100%;
+            background: linear-gradient(to right, var(--primary-color), #34d399);
+            width: 0%;
+            border-radius: 10px;
+            transition: width 0.4s ease;
+        }
+
+        .plot-label {
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            font-weight: 700;
+            opacity: 0.8;
+            text-transform: uppercase;
+        }
+
+        /* ĐỒ TRANG TRÍ HIỂN THỊ TRỰC QUAN */
+        .decoration-layer {
+            position: absolute;
+            inset: 0;
+            pointer-events: none;
+            z-index: 1;
+        }
+
+        .sidebar {
+            background: var(--panel-bg);
+            border-left: 1.5px solid rgba(255, 255, 255, 0.08);
+            backdrop-filter: blur(15px);
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            overflow-y: auto;
+        }
+
+        .sidebar-section {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .sidebar-title {
+            font-family: var(--font-game);
+            font-size: 13px;
+            font-weight: 900;
+            letter-spacing: 1.5px;
+            opacity: 0.5;
+            text-transform: uppercase;
+            border-bottom: 1.5px solid rgba(255,255,255,0.06);
+            padding-bottom: 6px;
+        }
+
+        /* TAB CHỢ & CỬA HÀNG (EDU-MARKET) */
+        .market-grid {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 20px;
+            width: 100%;
+        }
+
+        .market-chart-container {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 20px;
+            padding: 20px;
+        }
+
+        .chart-bars-wrapper {
+            display: flex;
+            justify-content: space-around;
+            align-items: flex-end;
+            height: 120px;
+            border-bottom: 2px solid rgba(255,255,255,0.1);
+            margin-top: 15px;
+            padding-bottom: 10px;
+        }
+
+        .chart-bar-item {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 60px;
+        }
+
+        .chart-bar-pillar {
+            width: 24px;
+            background: linear-gradient(to top, var(--primary-color), #34d399);
+            border-radius: 6px;
+            transition: height 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+        }
+
+        .chart-bar-pillar::after {
+            content: attr(data-val);
+            position: absolute;
+            top: -22px;
+            left: 50%;
+            transform: translateX(-50%);
+            font-size: 11px;
+            font-weight: bold;
+        }
+
+        .shop-items-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+
+        .shop-item-card {
+            background: rgba(255,255,255,0.03);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 15px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .shop-item-card:hover {
+            border-color: var(--primary-color);
+            background: rgba(255,255,255,0.06);
+        }
+
+        /* TAB THÚ CƯNG (PET COMPANIONS) */
+        .pet-incubator {
+            background: rgba(15, 23, 42, 0.6);
+            border: 1.5px solid rgba(255,255,255,0.08);
+            border-radius: 24px;
+            padding: 20px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+        }
+
+        .egg-wrapper {
+            position: relative;
+            width: 90px;
+            height: 110px;
+        }
+
+        .egg-svg {
+            width: 100%;
+            height: 100%;
+            animation: bounce 2s infinite alternate;
+        }
+
+        .pets-list-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+        }
+
+        .pet-item-card {
+            background: rgba(255,255,255,0.03);
+            border: 1.5px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 15px;
+            text-align: center;
+            cursor: pointer;
+            transition: all 0.2s;
+            position: relative;
+        }
+
+        .pet-item-card.locked {
+            opacity: 0.5;
+        }
+
+        .pet-item-card.active {
+            border-color: var(--primary-color);
+            background: rgba(16, 185, 129, 0.15);
+        }
+
+        .pet-active-badge {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            font-size: 11px;
+            background: var(--primary-color);
+            color: #000;
+            padding: 2px 6px;
+            border-radius: 8px;
+            font-weight: 900;
+        }
+
+        /* TAB ĐẤU TRƯỜNG BOSS (BOSS ARENA) */
+        .arena-intro-card {
+            background: linear-gradient(135deg, rgba(244, 63, 94, 0.15) 0%, rgba(14, 116, 144, 0.15) 100%);
+            border: 2px solid rgba(244, 63, 94, 0.4);
+            border-radius: 24px;
+            padding: 30px;
+            text-align: center;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+
+        .boss-icon-lg {
+            font-size: 64px;
+            color: #f43f5e;
+            text-shadow: 0 0 20px rgba(244, 63, 94, 0.4);
+            animation: shake 1s infinite alternate;
+        }
+
+        /* Giao Diện Đấu Trường Boss (Rapid-fire Modal) */
+        .boss-battle-overlay {
+            position: absolute;
+            inset: 0;
+            background: #090d16;
+            z-index: 90;
+            display: flex;
+            flex-direction: column;
+            padding: 30px;
+        }
+
+        .boss-hp-bar-outer {
+            width: 100%;
+            height: 16px;
+            background: rgba(255,255,255,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            border: 1px solid rgba(255,255,255,0.2);
+            position: relative;
+        }
+
+        .boss-hp-bar-inner {
+            height: 100%;
+            background: linear-gradient(to right, #ef4444, #f43f5e);
+            width: 100%;
+            transition: width 0.3s ease;
+        }
+
+        .boss-avatar-floating {
+            font-size: 48px;
+            animation: bounce 1s infinite alternate;
+        }
+
+        .inventory-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+        }
+
+        .inv-card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1.5px solid rgba(255, 255, 255, 0.08);
+            border-radius: 16px;
+            padding: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            text-align: center;
+        }
+
+        .inv-card:hover {
+            border-color: var(--primary-color);
+            background: rgba(255, 255, 255, 0.06);
+            transform: translateY(-2px);
+        }
+
+        .inv-card.active {
+            border-color: var(--primary-color);
+            background: rgba(16, 185, 129, 0.15);
+            box-shadow: 0 0 15px rgba(16,185,129,0.15);
+        }
+
+        .inv-icon {
+            font-size: 24px;
+            margin-bottom: 6px;
+        }
+
+        .inv-qty {
+            position: absolute;
+            top: 8px;
+            right: 10px;
+            background: #1e293b;
+            color: #fff;
+            font-size: 11px;
+            font-weight: 900;
+            padding: 2px 7px;
+            border-radius: 10px;
+            border: 1px solid rgba(255,255,255,0.1);
+        }
+
+        .inv-name {
+            font-size: 12px;
+            font-weight: 700;
+            opacity: 0.9;
+        }
+
+        /* Danh Sách Bài Tập Kiếm Đồ */
+        .task-list {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .task-btn {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.06);
+            border-radius: 16px;
+            padding: 12px 15px;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            text-align: left;
+            color: var(--text-color);
+            transition: all 0.2s;
+        }
+
+        .task-btn:hover {
+            border-color: var(--primary-color);
+            background: rgba(255,255,255,0.08);
+            transform: translateX(4px);
+        }
+
+        .task-meta h4 {
+            font-size: 14px;
+            font-weight: 700;
+        }
+
+        .task-meta span {
+            font-size: 11px;
+            opacity: 0.6;
+        }
+
+        .task-reward {
+            background: rgba(16, 185, 129, 0.15);
+            color: var(--primary-color);
+            border: 1px dashed var(--primary-color);
+            font-size: 11px;
+            font-weight: 900;
+            padding: 4px 8px;
+            border-radius: 8px;
+        }
+
+        /* FALLBACKS FOR UTILITIES */
+        .hidden {
+            display: none !important;
+        }
+
+        /* HỘP THOẠI MODAL */
+        .modal-overlay {
+            position: absolute;
+            inset: 0;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(8px);
+            z-index: 100;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.3s ease;
+        }
+
+        .modal-overlay.active {
+            opacity: 1;
+            pointer-events: auto;
+        }
+
+        .modal-card {
+            background: #1e293b;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            border-radius: 32px;
+            width: 100%;
+            max-width: 520px;
+            padding: 30px;
+            position: relative;
+            transform: scale(0.9);
+            transition: transform 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+            box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+
+        .modal-overlay.active .modal-card {
+            transform: scale(1);
+        }
+
+        .modal-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .modal-title {
+            font-family: var(--font-game);
+            font-size: 24px;
+            font-weight: 900;
+            color: var(--primary-color);
+        }
+
+        .modal-close {
+            background: none;
+            border: none;
+            color: var(--text-color);
+            font-size: 20px;
+            cursor: pointer;
+            opacity: 0.5;
+            transition: opacity 0.2s;
+        }
+
+        .modal-close:hover {
+            opacity: 1;
+        }
+
+        .quest-container {
+            background: #0f172a;
+            border-radius: 20px;
+            padding: 25px;
+            border: 1px solid rgba(255,255,255,0.05);
+            text-align: center;
+        }
+
+        .quest-prompt {
+            font-size: 16px;
+            opacity: 0.7;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+            font-weight: 700;
+        }
+
+        .quest-question {
+            font-family: var(--font-game);
+            font-size: 24px;
+            font-weight: 900;
+            color: #fff;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+
+        /* Phân loại các dạng bài tập */
+        .math-input-wrapper {
+            display: flex;
+            gap: 10px;
+        }
+
+        .math-input {
+            flex-grow: 1;
+            background: #1e293b;
+            border: 2px solid rgba(255, 255, 255, 0.1);
+            color: #fff;
+            border-radius: 14px;
+            padding: 12px;
+            font-size: 20px;
+            font-weight: 700;
+            text-align: center;
+            outline: none;
+            transition: all 0.2s;
+        }
+
+        .math-input:focus {
+            border-color: var(--primary-color);
+            box-shadow: 0 0 10px var(--primary-glow);
+        }
+
+        .btn-submit {
+            background: var(--primary-color);
+            border: none;
+            color: #000;
+            font-family: var(--font-game);
+            font-weight: 900;
+            font-size: 16px;
+            padding: 12px 25px;
+            border-radius: 14px;
+            cursor: pointer;
+            transition: all 0.2s;
+        }
+
+        .btn-submit:hover {
+            transform: scale(1.03);
+            opacity: 0.9;
+        }
+
+        /* Luyện gõ */
+        .typing-target-box {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1.5px solid rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            padding: 12px;
+            font-family: monospace;
+            font-size: 18px;
+            letter-spacing: 1px;
+            margin-bottom: 12px;
+            color: rgba(255,255,255,0.4);
+        }
+
+        .typed-correct { color: #10b981; font-weight: bold; }
+        .typed-incorrect { color: #f43f5e; font-weight: bold; text-decoration: underline; }
+
+        /* Keyboard ảo phục vụ lớp 2 */
+        .virtual-keyboard {
+            display: grid;
+            grid-template-columns: repeat(10, 1fr);
+            gap: 5px;
+            margin-top: 15px;
+        }
+
+        .kb-key {
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.1);
+            color: #fff;
+            padding: 8px 0;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 700;
+            text-align: center;
+            text-transform: uppercase;
+        }
+
+        .kb-key.highlight {
+            background: var(--primary-color);
+            color: #000;
+            transform: scale(1.1);
+            box-shadow: 0 0 10px var(--primary-glow);
+        }
+
+        /* Lựa chọn nhiều đáp án */
+        .multiple-choices {
+            display: grid;
+            grid-template-columns: 1fr;
+            gap: 10px;
+        }
+
+        .choice-btn {
+            background: rgba(255,255,255,0.04);
+            border: 1.5px solid rgba(255,255,255,0.08);
+            color: #fff;
+            border-radius: 12px;
+            padding: 12px 20px;
+            font-size: 14px;
+            font-weight: 700;
+            cursor: pointer;
+            text-align: left;
+            transition: all 0.2s;
+        }
+
+        .choice-btn:hover {
+            border-color: var(--primary-color);
+            background: rgba(255,255,255,0.08);
+        }
+
+        /* Trạng thái sinh mệnh bài tập */
+        .quest-hearts {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 8px;
+            font-size: 20px;
+            color: #ef4444;
+        }
+
+        /* Khung Xác Nhận Custom */
+        .confirm-actions {
+            display: flex;
+            justify-content: flex-end;
+            gap: 15px;
+        }
+
+        .btn-confirm-yes {
+            background: #ef4444;
+            color: #fff;
+            border: none;
+            border-radius: 14px;
+            padding: 12px 25px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        .btn-confirm-no {
+            background: rgba(255,255,255,0.1);
+            color: #fff;
+            border: none;
+            border-radius: 14px;
+            padding: 12px 25px;
+            font-weight: 700;
+            cursor: pointer;
+        }
+
+        /* ANIMATIONS */
+        @keyframes bounce {
+            0% { transform: translateY(0); }
+            100% { transform: translateY(-8px); }
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: rotate(0deg); }
+            20% { transform: rotate(-8deg); }
+            40% { transform: rotate(8deg); }
+            60% { transform: rotate(-5deg); }
+            80% { transform: rotate(5deg); }
+        }
+
+        @keyframes pulsescale {
+            0% { transform: scale(1); filter: drop-shadow(0 0 2px var(--accent-color)); }
+            100% { transform: scale(1.15); filter: drop-shadow(0 0 10px var(--accent-color)); }
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(5px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Scrollbar mượt mà cho sidebar */
+        .sidebar::-webkit-scrollbar {
+            width: 6px;
+        }
+        .sidebar::-webkit-scrollbar-track {
+            background: transparent;
+        }
+        .sidebar::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body class="theme-eco">
+
+    <div id="game-container">
+        
+        <!-- ================= MÀN HÌNH CHỌN LỚP & THẾ GIỚI ================= -->
+        <div id="screen-welcome" class="screen">
+            <div class="logo-area">
+                <h1 class="logo-title">EDU-FARM</h1>
+                <p class="logo-tagline">Nông Trại Tri Thức Trực Quan v2.2</p>
+            </div>
+
+            <div class="setup-grid">
+                <!-- Chọn Khối Lớp -->
+                <div class="setup-card">
+                    <h3><i class="fa-solid fa-graduation-cap" style="color: #10b981;"></i> Chọn Khối Lớp</h3>
+                    <div class="btn-grid">
+                        <button class="btn-select btn-grade" data-grade="2" onclick="selectGrade(2)">Lớp 2</button>
+                        <button class="btn-select btn-grade" data-grade="3" onclick="selectGrade(3)">Lớp 3</button>
+                        <button class="btn-select btn-grade" data-grade="4" onclick="selectGrade(4)">Lớp 4</button>
+                        <button class="btn-select btn-grade" data-grade="5" onclick="selectGrade(5)">Lớp 5</button>
+                    </div>
+                </div>
+
+                <!-- Chọn Thế Giới -->
+                <div class="setup-card">
+                    <h3><i class="fa-solid fa-earth-asia" style="color: #38bdf8;"></i> Chọn Thế Giới</h3>
+                    <div class="btn-grid">
+                        <button class="btn-select btn-world btn-world-eco" data-world="eco" onclick="selectWorld('eco')">
+                            <i class="fa-solid fa-seedling"></i> Eco Island
+                        </button>
+                        <button class="btn-select btn-world btn-world-cyber" data-world="cyber" onclick="selectWorld('cyber')">
+                            <i class="fa-solid fa-microchip"></i> Cyber Station
+                        </button>
+                        <button class="btn-select btn-world btn-world-magic" data-world="magic" onclick="selectWorld('magic')">
+                            <i class="fa-solid fa-wand-magic-sparkles"></i> Magic Forest
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <button id="btn-play" class="btn-start" disabled onclick="startGame()">VÀO NÔNG TRẠI</button>
+        </div>
+
+
+        <!-- ================= MÀN HÌNH CHƠI GAME CHÍNH ================= -->
+        <div id="screen-game" class="screen screen-hidden">
+            <!-- Header thông tin game -->
+            <div class="game-header">
+                <div class="header-left">
+                    <button class="btn-home" onclick="showExitConfirmModal()"><i class="fa-solid fa-house"></i></button>
+                    <div class="current-config">
+                        <h2 id="display-world-name">Eco Island</h2>
+                        <span id="display-grade-name">Lớp 2</span>
+                    </div>
+                </div>
+
+                <div class="header-stats">
+                    <div class="stat-badge weather-badge" id="display-weather" title="Sự kiện thời tiết hiện tại">
+                        <i class="fa-solid fa-sun"></i> &nbsp;<span id="weather-text">Nắng ấm</span>
+                    </div>
+                    <div class="stat-badge coins">
+                        <i class="fa-solid fa-coins"></i>
+                        <span id="stat-coins">100</span>
+                    </div>
+                    <div class="stat-badge level">
+                        <i class="fa-solid fa-star"></i>
+                        <span id="stat-level">LV 1</span>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Thanh lựa chọn Tab cho các hoạt động của Edu-Farm v2.2 -->
+            <div class="tab-menu-bar">
+                <button class="btn-tab active" id="tab-farm" onclick="switchTab('farm')">
+                    <i class="fa-solid fa-leaf"></i> Nông Trại
+                </button>
+                <button class="btn-tab" id="tab-market" onclick="switchTab('market')">
+                    <i class="fa-solid fa-store"></i> Chợ & Cửa Hàng
+                </button>
+                <button class="btn-tab" id="tab-pet" onclick="switchTab('pet')">
+                    <i class="fa-solid fa-egg"></i> Ấp Thú Cưng
+                </button>
+                <button class="btn-tab" id="tab-arena" onclick="switchTab('arena')">
+                    <i class="fa-solid fa-shield-halved"></i> Đấu Trường Boss
+                </button>
+            </div>
+
+            <!-- Không gian làm việc của nông trại -->
+            <div class="game-workspace">
+                <!-- WORKSPACE TRÁI - KHU VỰC THAY ĐỔI ĐỘNG THEO TAB -->
+                <div class="workspace-left-container" id="workspace-left">
+                    
+                    <!-- TAB NÔNG TRẠI (MẶC ĐỊNH) -->
+                    <div id="tab-farm-content" class="farm-area">
+                        <!-- Lớp hiển thị các đồ trang trí mua được từ shop -->
+                        <div class="decoration-layer" id="decoration-layer-container">
+                            <!-- Đồ trang trí được vẽ ở đây -->
+                        </div>
+                        <div class="farm-grid" id="grid-container">
+                            <!-- Sẽ tự động tạo 6 ô đất thông qua JavaScript -->
+                        </div>
+                    </div>
+
+                    <div id="tab-market-content" class="market-grid hidden">
+                        <!-- Biểu đồ cột động và Bán Nông Sản -->
+                        <div class="market-chart-container">
+                            <h3 class="text-lg font-bold text-emerald-400 flex items-center gap-2">
+                                <i class="fa-solid fa-chart-simple animate-pulse"></i> Sàn Nông Sản Ảo Biến Động (Mỗi 45s)
+                            </h3>
+                            <p class="text-xs opacity-60">Hãy quan sát kỹ biểu đồ giá bên dưới để lựa chọn thời điểm bán nông sản trong kho đạt giá hời nhất!</p>
+                            
+                            <div class="chart-bars-wrapper" id="market-chart-bars">
+                                <!-- Trực quan hóa giá bằng cột SVG động -->
+                            </div>
+
+                            <!-- Thống kê kho nông sản & Nút Bán -->
+                            <div class="grid grid-cols-3 gap-4 mt-6">
+                                <div class="bg-white/5 border border-white/10 rounded-xl p-3 flex flex-col justify-between items-center text-center">
+                                    <span class="text-xs opacity-70" id="crop-label-s1">Nông Sản 1</span>
+                                    <span class="text-2xl font-black text-emerald-400" id="crop-qty-s1">0</span>
+                                    <button class="btn-select py-1 px-3 mt-2 text-xs w-full bg-emerald-500 text-black border-none font-bold" onclick="sellCrop('s1')">Bán</button>
+                                </div>
+                                <div class="bg-white/5 border border-white/10 rounded-xl p-3 flex flex-col justify-between items-center text-center">
+                                    <span class="text-xs opacity-70" id="crop-label-s2">Nông Sản 2</span>
+                                    <span class="text-2xl font-black text-emerald-400" id="crop-qty-s2">0</span>
+                                    <button class="btn-select py-1 px-3 mt-2 text-xs w-full bg-emerald-500 text-black border-none font-bold" onclick="sellCrop('s2')">Bán</button>
+                                </div>
+                                <div class="bg-white/5 border border-white/10 rounded-xl p-3 flex flex-col justify-between items-center text-center">
+                                    <span class="text-xs opacity-70" id="crop-label-s3">Nông Sản 3</span>
+                                    <span class="text-2xl font-black text-emerald-400" id="crop-qty-s3">0</span>
+                                    <button class="btn-select py-1 px-3 mt-2 text-xs w-full bg-emerald-500 text-black border-none font-bold" onclick="sellCrop('s3')">Bán</button>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Cửa Hàng Trang Trí Nông Trại -->
+                        <div class="market-chart-container mt-4">
+                            <h3 class="text-lg font-bold text-emerald-400 mb-2"><i class="fa-solid fa-palette"></i> Thiết Kế Trang Trí</h3>
+                            <div class="shop-items-grid">
+                                <div class="shop-item-card" onclick="buyDecoration('decor_fence', 60)">
+                                    <span class="text-2xl">🪵</span>
+                                    <span class="text-xs font-bold">Hàng Rào Gỗ</span>
+                                    <span class="text-xs text-yellow-400 font-bold">60🪙</span>
+                                </div>
+                                <div class="shop-item-card" onclick="buyDecoration('decor_scarecrow', 120)">
+                                    <span class="text-2xl">🌾</span>
+                                    <span class="text-xs font-bold">Bù Nhìn Rơm</span>
+                                    <span class="text-xs text-yellow-400 font-bold">120🪙</span>
+                                </div>
+                                <div class="shop-item-card" onclick="buyDecoration('decor_fountain', 250)">
+                                    <span class="text-2xl">⛲</span>
+                                    <span class="text-xs font-bold">Đài Nước Thần</span>
+                                    <span class="text-xs text-yellow-400 font-bold">250🪙</span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="tab-pet-content" class="hidden flex-col w-full">
+                        <!-- Trình Ấp Trứng -->
+                        <div class="pet-incubator">
+                            <div class="egg-wrapper">
+                                <svg viewBox="0 0 100 120" class="egg-svg" id="egg-svg-render">
+                                    <!-- Trứng lấp lánh sẽ vẽ ở đây -->
+                                </svg>
+                            </div>
+                            <div class="flex-grow flex flex-col gap-2">
+                                <h3 class="text-lg font-bold text-indigo-400">Ấp Trứng Thú Cưng Cổ Đại</h3>
+                                <p class="text-xs opacity-75">Tích lũy tri thức bằng cách gõ đúng các chuỗi câu đố liên tục để ấp nở quả trứng diệu kỳ này!</p>
+                                <div class="w-full bg-white/10 h-3 rounded-full overflow-hidden mt-1">
+                                    <div class="bg-indigo-500 h-full" style="width: 0%" id="egg-hatch-progress"></div>
+                                </div>
+                                <span class="text-xs font-bold opacity-60" id="egg-progress-text">Năng lượng: 0/5 (Giải đúng 5 câu liên tiếp)</span>
+                            </div>
+                        </div>
+
+                        <!-- Danh sách Thú cưng của Bé -->
+                        <div class="market-chart-container">
+                            <h3 class="text-md font-bold text-indigo-300 mb-3"><i class="fa-solid fa-paw"></i> Các Bạn Trợ Thủ Đã Sở Hữu</h3>
+                            <div class="pets-list-grid" id="pets-unlocked-grid">
+                                <!-- Thú cưng tự động vẽ ở đây -->
+                            </div>
+                        </div>
+                    </div>
+
+                    <div id="tab-arena-content" class="hidden flex-col w-full items-center justify-center">
+                        <div class="arena-intro-card w-full max-w-lg">
+                            <div class="boss-icon-lg"><i class="fa-solid fa-ghost"></i></div>
+                            <h2 class="text-2xl font-black text-rose-500 uppercase tracking-widest mt-2">Sâu Róm Tuần Khổng Lồ</h2>
+                            <p class="text-sm opacity-80 leading-relaxed max-w-md mx-auto">
+                                Chú sâu khổng lồ đang đe dọa nuốt chửng toàn bộ mùa màng của trang trại! Hãy khởi động thử thách giải toán nhanh (60s) để đẩy lùi thế lực bóng tối!
+                            </p>
+                            <button class="btn-start !bg-rose-500 hover:!bg-rose-600 !text-white w-full max-w-xs mt-4" onclick="startBossBattle()">
+                                KHỞI TRANH ĐẤU TRƯỜNG <i class="fa-solid fa-bolt ml-1"></i>
+                            </button>
+                        </div>
+                    </div>
+
+                </div>
+
+                <!-- Thanh sidebar công cụ và bài tập -->
+                <div class="sidebar">
+                    <!-- Kho hạt giống và bình nước -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-title">Kho của bé</div>
+                        <div class="inventory-grid" id="inv-grid-container">
+                            <!-- Sẽ tự sinh thông qua JS -->
+                        </div>
+                    </div>
+
+                    <!-- Danh sách các bài luyện tập -->
+                    <div class="sidebar-section">
+                        <div class="sidebar-title">Nhiệm vụ tri thức</div>
+                        <div class="task-list" id="task-list-container">
+                            <!-- Sẽ tự sinh thông qua JS -->
+                        </div>
+                    </div>
+
+                    <!-- Quản trị hệ thống lưu dữ liệu -->
+                    <div class="sidebar-section" style="margin-top: auto;">
+                        <button class="btn-select" style="background: rgba(239, 68, 68, 0.15); border-color: rgba(239, 68, 68, 0.3); color: #f87171;" onclick="showResetConfirmModal()">
+                            <i class="fa-solid fa-trash-can"></i> Xóa Lưu Trữ Chế Độ
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ================= THƯ VIỆN MODAL Hộp Thoại ================= -->
+        
+        <!-- Modal Làm Nhiệm vụ -->
+        <div class="modal-overlay" id="modal-task">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" id="task-modal-title">Thử Thách Tri Thức</h3>
+                    <button class="modal-close" onclick="closeTaskModal()"><i class="fa-solid fa-xmark"></i></button>
+                </div>
+                
+                <div class="quest-hearts" id="quest-hearts-container">
+                    <!-- Trạng thái 5 trái tim sống còn -->
+                </div>
+
+                <div class="quest-container">
+                    <div class="quest-prompt" id="quest-type-label">HÃY GIẢI PHÉP TÍNH</div>
+                    <div class="quest-question" id="quest-text">5 + 3 = ?</div>
+                    
+                    <div id="quest-answer-panel">
+                        <!-- Khung phản hồi tương ứng theo dạng bài tập -->
+                    </div>
+                </div>
+
+                <div style="font-size: 13px; text-align: center; opacity: 0.6; font-style: italic;">
+                    * Lưu ý: Gõ sai quá 5 lần sẽ khiến cây bị chết héo!
+                </div>
+            </div>
+        </div>
+
+        <div class="boss-battle-overlay hidden" id="overlay-boss-battle">
+            <div class="flex justify-between items-center w-full mb-4">
+                <span class="text-rose-500 font-bold tracking-widest"><i class="fa-solid fa-skull"></i> ĐẤU TRƯỜNG BOSS TUẦN</span>
+                <div class="bg-rose-500/10 border border-rose-500/30 px-3 py-1 rounded-full text-rose-400 text-xs font-bold" id="boss-timer">
+                    Thời gian: 60s
+                </div>
+            </div>
+
+            <div class="flex flex-col items-center justify-center flex-grow gap-6 w-full max-w-xl mx-auto text-center">
+                <div class="boss-avatar-floating text-rose-500"><i class="fa-solid fa-bug"></i></div>
+                <div class="w-full">
+                    <div class="flex justify-between text-xs font-bold text-rose-400 mb-1">
+                        <span>Boss HP: <span id="boss-hp-text">100/100</span></span>
+                        <span>Đợt tấn công thứ <span id="boss-stage-text">1</span></span>
+                    </div>
+                    <div class="boss-hp-bar-outer">
+                        <div class="boss-hp-bar-inner" id="boss-hp-bar-fill"></div>
+                    </div>
+                </div>
+
+                <div class="quest-container w-full">
+                    <div class="quest-prompt text-rose-400">CHỚP THỜI CƠ - SÉT TẤN CÔNG</div>
+                    <div class="quest-question text-xl font-bold" id="boss-quest-text">Săn boss...</div>
+                    <div class="math-input-wrapper mt-4">
+                        <input type="number" id="boss-math-input" class="math-input !border-rose-500/50" placeholder="Đáp số" onkeydown="handleBossMathKeyDown(event)">
+                        <button class="btn-submit !bg-rose-500 text-white" onclick="verifyBossAnswer()">TẤN CÔNG</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Xác Nhận Thoát về Menu -->
+        <div class="modal-overlay" id="modal-confirm-exit">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" style="color: #f59e0b;"><i class="fa-solid fa-triangle-exclamation"></i> Về Trang Chủ</h3>
+                </div>
+                <div style="font-size: 15px; line-height: 1.6; opacity: 0.9;">
+                    Bé có muốn quay lại Trang Chủ để lựa chọn khối lớp và thế giới khác không? Tiến trình hiện tại đã được tự động lưu lại an toàn!
+                </div>
+                <div class="confirm-actions">
+                    <button class="btn-confirm-no" onclick="closeExitConfirmModal()">Ở LẠI</button>
+                    <button class="btn-confirm-yes" style="background: #f59e0b;" onclick="exitToWelcome()">ĐỒNG Ý</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Xác Nhận Reset Dữ Liệu -->
+        <div class="modal-overlay" id="modal-confirm-reset">
+            <div class="modal-card">
+                <div class="modal-header">
+                    <h3 class="modal-title" style="color: #ef4444;"><i class="fa-solid fa-radiation"></i> Xóa Dữ Liệu Chế Độ</h3>
+                </div>
+                <div style="font-size: 15px; line-height: 1.6; opacity: 0.9;">
+                    Bé có chắc chắn muốn xóa toàn bộ tiến trình của **Khối Lớp và Thế Giới này** không? Nông trại sẽ trở lại trạng thái ban đầu và không thể phục hồi!
+                </div>
+                <div class="confirm-actions">
+                    <button class="btn-confirm-no" onclick="closeResetConfirmModal()">KHÔNG</button>
+                    <button class="btn-confirm-yes" onclick="resetModeData()">XÓA NGAY</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Hệ thống Game Engine điều phối chính -->
+    <script>
+        const gameAssets = {
+            eco: {
+                name: "Eco Island",
+                styleClass: "theme-eco",
+                seeds: {
+                    s1: { id: "s1", name: "Cải Ngọt", emoji: "🥬", color: "#10b981", reward: 20 },
+                    s2: { id: "s2", name: "Cà Tomato", emoji: "🍅", color: "#f43f5e", reward: 55 },
+                    s3: { id: "s3", name: "Dưa Hấu", emoji: "🍉", color: "#22c55e", reward: 120 }
+                }
+            },
+            cyber: {
+                name: "Cyber Station",
+                styleClass: "theme-cyber",
+                seeds: {
+                    s1: { id: "s1", name: "Pin Mini", emoji: "🔋", color: "#06b6d4", reward: 20 },
+                    s2: { id: "s2", name: "Led Module", emoji: "💡", color: "#38bdf8", reward: 55 },
+                    s3: { id: "s3", name: "Chip AI", emoji: "🌌", color: "#a855f7", reward: 120 }
+                }
+            },
+            magic: {
+                name: "Magic Forest",
+                styleClass: "theme-magic",
+                seeds: {
+                    s1: { id: "s1", name: "Hoa Tiên", emoji: "🌸", color: "#f43f5e", reward: 20 },
+                    s2: { id: "s2", name: "Nấm Sáng", emoji: "🍄", color: "#fbbf24", reward: 55 },
+                    s3: { id: "s3", name: "Tim Thần", emoji: "🔮", color: "#d946ef", reward: 120 }
+                }
+            }
+        };
+
+        /* TRẠNG THÁI TOÀN CỤC */
+        let selectedGrade = null;
+        let selectedWorld = null;
+        let selectedTool = null; // s1, s2, s3, hoặc water
+        let activeTab = "farm";
+
+        // Đối tượng lưu giữ dữ liệu của phiên chơi hiện hành (được nâng cấp các biến của Edu-Farm v2.2)
+        let gameState = {
+            coins: 100,
+            level: 1,
+            xp: 0,
+            inventory: {
+                s1: 3,
+                s2: 1,
+                s3: 0,
+                water: 5,
+                // Các nông sản đã thu hoạch (lưu vào kho để chờ bán)
+                harvested_s1: 0,
+                harvested_s2: 0,
+                harvested_s3: 0,
+                // Đồ trang trí đã mua
+                decorations: []
+            },
+            plots: [
+                { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                { status: "locked", cost: 100 },
+                { status: "locked", cost: 250 },
+                { status: "locked", cost: 500 }
+            ],
+            // Tiến trình ấp trứng thú cưng
+            eggProgress: 0,
+            unlockedPets: [], // list of pet ids
+            activePet: null,
+            weather: "sunny" // sunny, rainy, acid_storm
+        };
+
+        const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        function playChime(freq, type = 'sine', duration = 0.1) {
+            try {
+                if (audioCtx.state === 'suspended') audioCtx.resume();
+                const osc = audioCtx.createOscillator();
+                const gain = audioCtx.createGain();
+                osc.type = type;
+                osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
+                gain.gain.setValueAtTime(0.08, audioCtx.currentTime);
+                gain.gain.exponentialRampToValueAtTime(0.00001, audioCtx.currentTime + duration);
+                osc.connect(gain);
+                gain.connect(audioCtx.destination);
+                osc.start();
+                osc.stop(audioCtx.currentTime + duration);
+            } catch (e) {}
+        }
+
+        /* 1. ĐIỀU PHỐI MÀN HÌNH KHỞI ĐẦU */
+        function selectGrade(g) {
+            selectedGrade = g;
+            document.querySelectorAll(".btn-grade").forEach(b => b.classList.remove("active"));
+            document.querySelector(`.btn-grade[data-grade="${g}"]`).classList.add("active");
+            playChime(440);
+            validateWelcomeScreen();
+        }
+
+        function selectWorld(w) {
+            selectedWorld = w;
+            document.querySelectorAll(".btn-world").forEach(b => b.classList.remove("active"));
+            document.querySelector(`.btn-world[data-world="${w}"]`).classList.add("active");
+            playChime(554);
+            validateWelcomeScreen();
+        }
+
+        function validateWelcomeScreen() {
+            const btnPlay = document.getElementById("btn-play");
+            if (selectedGrade && selectedWorld) {
+                btnPlay.removeAttribute("disabled");
+            } else {
+                btnPlay.setAttribute("disabled", "true");
+            }
+        }
+
+        /* 2. CHUYỂN CẢNH & KHỞI CHẠY GAME */
+        function startGame() {
+            if (!selectedGrade || !selectedWorld) return;
+
+            // Đổi Theme Class Body
+            document.body.className = gameAssets[selectedWorld].styleClass;
+
+            // Thiết lập tên hiển thị
+            document.getElementById("display-world-name").innerText = gameAssets[selectedWorld].name;
+            document.getElementById("display-grade-name").innerText = `Học sinh Lớp ${selectedGrade}`;
+
+            // Nạp dữ liệu lưu trữ
+            loadDataForMode();
+
+            // Chuyển màn hình
+            document.getElementById("screen-welcome").classList.add("screen-hidden");
+            document.getElementById("screen-game").classList.remove("screen-hidden");
+            playChime(659, 'triangle', 0.3);
+
+            // Cập nhật giao diện
+            selectedTool = null;
+            activeTab = 'farm';
+            switchTab('farm');
+            updateHeaderStats();
+            renderPlots();
+            renderInventory();
+            renderTasks();
+            updateWeatherUI();
+            drawDecorations();
+            renderHatchingEgg();
+            renderPetsList();
+        }
+
+        // Tạo khóa lưu trữ tương ứng với từng tổ hợp (Lớp + Chế độ)
+        function getStorageKey() {
+            return `edufarm_v2_G${selectedGrade}_W${selectedWorld}`;
+        }
+
+        function saveDataForMode() {
+            if (selectedGrade && selectedWorld) {
+                localStorage.setItem(getStorageKey(), JSON.stringify(gameState));
+            }
+        }
+
+        function loadDataForMode() {
+            const saved = localStorage.getItem(getStorageKey());
+            if (saved) {
+                try {
+                    gameState = JSON.parse(saved);
+                    // Đảm bảo tương thích với các khóa nâng cấp của Edu-Farm v2.2
+                    if (gameState.inventory.harvested_s1 === undefined) gameState.inventory.harvested_s1 = 0;
+                    if (gameState.inventory.harvested_s2 === undefined) gameState.inventory.harvested_s2 = 0;
+                    if (gameState.inventory.harvested_s3 === undefined) gameState.inventory.harvested_s3 = 0;
+                    if (gameState.inventory.decorations === undefined) gameState.inventory.decorations = [];
+                    if (gameState.eggProgress === undefined) gameState.eggProgress = 0;
+                    if (gameState.unlockedPets === undefined) gameState.unlockedPets = [];
+                    if (gameState.weather === undefined) gameState.weather = "sunny";
+                } catch (e) {
+                    resetGameStateToDefault();
+                }
+            } else {
+                resetGameStateToDefault();
+            }
+        }
+
+        function resetGameStateToDefault() {
+            gameState = {
+                coins: 100,
+                level: 1,
+                xp: 0,
+                inventory: { 
+                    s1: 3, 
+                    s2: 1, 
+                    s3: 0, 
+                    water: 5,
+                    harvested_s1: 0,
+                    harvested_s2: 0,
+                    harvested_s3: 0,
+                    decorations: []
+                },
+                plots: [
+                    { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                    { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                    { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
+                    { status: "locked", cost: 100 },
+                    { status: "locked", cost: 250 },
+                    { status: "locked", cost: 500 }
+                ],
+                eggProgress: 0,
+                unlockedPets: [],
+                activePet: null,
+                weather: "sunny"
+            };
+        }
+
+        function switchTab(tabId) {
+            activeTab = tabId;
+            document.querySelectorAll(".btn-tab").forEach(b => b.classList.remove("active"));
+            document.getElementById(`tab-${tabId}`).classList.add("active");
+
+            // Ẩn toàn bộ vùng left workspace
+            document.getElementById("tab-farm-content").classList.add("hidden");
+            document.getElementById("tab-market-content").classList.add("hidden");
+            document.getElementById("tab-pet-content").classList.add("hidden");
+            document.getElementById("tab-arena-content").classList.add("hidden");
+
+            // Hiển thị vùng được chọn
+            document.getElementById(`tab-${tabId}-content`).classList.remove("hidden");
+            playChime(500);
+
+            if (tabId === "market") {
+                updateMarketUI();
+            } else if (tabId === "pet") {
+                renderHatchingEgg();
+                renderPetsList();
+            }
+        }
+
+        function renderPlots() {
+            const container = document.getElementById("grid-container");
+            container.innerHTML = "";
+
+            gameState.plots.forEach((plot, index) => {
+                const wrapper = document.createElement("div");
+                wrapper.className = "plot-wrapper";
+
+                // Thẻ ô đất
+                const card = document.createElement("div");
+                card.className = `plot-card ${plot.status === 'locked' ? 'locked' : ''}`;
+                card.onclick = () => handlePlotInteraction(index);
+
+                // Overlay Biểu Tượng Thông Báo Nổi
+                let overlayContent = "";
+                if (plot.status === "planted") {
+                    if (plot.prog >= 100) {
+                        overlayContent += `<div class="status-bubble harvest"><i class="fa-solid fa-star"></i></div>`;
+                    } else {
+                        if (!plot.water) {
+                            overlayContent += `<div class="status-bubble water"><i class="fa-solid fa-droplet"></i></div>`;
+                        }
+                        if (plot.pest) {
+                            overlayContent += `<div class="status-bubble pest"><i class="fa-solid fa-bug"></i></div>`;
+                        }
+                    }
+                }
+                
+                let overlay = document.createElement("div");
+                overlay.className = "plot-status-overlay";
+                overlay.innerHTML = overlayContent;
+                card.appendChild(overlay);
+
+                // Vẽ Cây Trồng hoặc Trạng Thái Đất sử dụng SVG
+                const svgNode = document.createElementNS("http://www.w3.org/2000/svg", "svg");
+                svgNode.setAttribute("viewBox", "0 0 140 105");
+                svgNode.setAttribute("class", "plot-svg");
+                svgNode.innerHTML = buildPlotSVG(plot);
+                card.appendChild(svgNode);
+
+                wrapper.appendChild(card);
+
+                // Thanh Trạng Thái Phía Dưới
+                const infoPanel = document.createElement("div");
+                infoPanel.className = "plot-info-panel";
+
+                let progressWidth = 0;
+                let textLabel = "Đất Trống";
+
+                if (plot.status === "locked") {
+                    textLabel = `Mở: ${plot.cost}🪙`;
+                } else if (plot.status === "planted") {
+                    progressWidth = plot.prog;
+                    const seedInfo = gameAssets[selectedWorld].seeds[plot.seed];
+                    const seedName = seedInfo ? seedInfo.name : "Mầm";
+                    
+                    if (plot.prog >= 100) {
+                        textLabel = `${seedName} Chín! 🎉`;
+                    } else if (plot.pest) {
+                        textLabel = "CÓ SÂU PHÁ BẢO! 🐛";
+                    } else if (!plot.water) {
+                        textLabel = "KHÔ CẰN! 🏜️";
+                    } else {
+                        // Tính đếm ngược dựa theo tốc độ thời tiết
+                        let speed = 2;
+                        if (gameState.weather === "rainy") speed = 3;
+                        const remainingSecs = Math.ceil((100 - plot.prog) / speed);
+                        textLabel = `${seedName} (${remainingSecs}s)`;
+                    }
+                } else if (plot.status === "withered") {
+                    textLabel = "CÂY CHẾT HÉO 🥀";
+                }
+
+                infoPanel.innerHTML = `
+                    <div class="plot-bar-outer">
+                        <div class="plot-bar-inner" style="width: ${progressWidth}%"></div>
+                    </div>
+                    <div class="plot-label">
+                        <span>${textLabel}</span>
+                        <span>${plot.status === 'planted' ? plot.prog + '%' : ''}</span>
+                    </div>
+                `;
+
+                wrapper.appendChild(infoPanel);
+                container.appendChild(wrapper);
+            });
+        }
+
+        // Thiết kế SVG động theo tình trạng phát triển
+        function buildPlotSVG(plot) {
+            let svgStr = "";
+            const soilColor = plot.water ? "#451a03" : "#78350f";
+            
+            // Đế đất 3D
+            svgStr += `<ellipse cx="70" cy="80" rx="60" ry="20" fill="${soilColor}" stroke="rgba(255,255,255,0.05)" stroke-width="2"/>`;
+
+            if (plot.status === "locked") {
+                svgStr += `
+                    <circle cx="70" cy="55" r="18" fill="rgba(15, 23, 42, 0.9)" stroke="#ef4444" stroke-width="2"/>
+                    <path d="M64 52 V46 A6 6 0 0 1 76 46 V52" fill="none" stroke="#ef4444" stroke-width="2.5" stroke-linecap="round"/>
+                    <rect x="61" y="52" width="18" height="13" rx="3" fill="#ef4444"/>
+                    <circle cx="70" cy="58" r="2" fill="#000"/>
+                `;
+            } else if (plot.status === "withered") {
+                svgStr += `
+                    <path d="M70 80 Q65 60 55 50" fill="none" stroke="#64748b" stroke-width="3" stroke-linecap="round"/>
+                    <path d="M55 50 Q48 52 45 48" fill="none" stroke="#64748b" stroke-width="2"/>
+                    <path d="M62 65 Q50 67 48 62" fill="none" stroke="#64748b" stroke-width="2"/>
+                `;
+            } else if (plot.status === "planted") {
+                const prog = plot.prog;
+
+                if (prog < 35) {
+                    svgStr += `
+                        <path d="M70 80 Q70 65 70 58" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round"/>
+                        <path d="M70 58 Q78 52 82 55" fill="none" stroke="#4ade80" stroke-width="3" stroke-linecap="round"/>
+                        <path d="M70 58 Q62 52 58 55" fill="none" stroke="#4ade80" stroke-width="3" stroke-linecap="round"/>
+                    `;
+                } else if (prog < 75) {
+                    svgStr += `
+                        <path d="M70 80 Q68 55 72 40" fill="none" stroke="#22c55e" stroke-width="5" stroke-linecap="round"/>
+                        <path d="M70 60 Q85 50 90 53" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round"/>
+                        <path d="M69 50 Q50 42 45 45" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round"/>
+                        <path d="M90 53 C95 45 85 40 85 45 Z" fill="#4ade80"/>
+                        <path d="M45 45 C40 37 50 32 50 37 Z" fill="#4ade80"/>
+                    `;
+                } else {
+                    svgStr += `
+                        <path d="M70 80 Q68 50 70 30" fill="none" stroke="#15803d" stroke-width="6" stroke-linecap="round"/>
+                        <circle cx="70" cy="30" r="22" fill="#166534" opacity="0.9"/>
+                        <circle cx="55" cy="35" r="15" fill="#15803d" opacity="0.85"/>
+                        <circle cx="85" cy="35" r="15" fill="#15803d" opacity="0.85"/>
+                        <circle cx="70" cy="22" r="18" fill="#22c55e" opacity="0.9"/>
+                    `;
+
+                    if (selectedWorld === "eco") {
+                        if (plot.seed === "s1") {
+                            svgStr += `
+                                <circle cx="60" cy="28" r="4" fill="#fbbf24"/>
+                                <circle cx="80" cy="28" r="4" fill="#fbbf24"/>
+                                <circle cx="70" cy="38" r="5" fill="#fbbf24"/>
+                            `;
+                        } else if (plot.seed === "s2") {
+                            svgStr += `
+                                <circle cx="58" cy="35" r="7" fill="#f43f5e"/>
+                                <circle cx="82" cy="35" r="7" fill="#f43f5e"/>
+                                <circle cx="72" cy="45" r="8" fill="#f43f5e"/>
+                            `;
+                        } else {
+                            svgStr += `
+                                <ellipse cx="70" cy="40" r="14" ry="11" fill="#10b981"/>
+                                <path d="M60 40 Q70 32 80 40" fill="none" stroke="#047857" stroke-width="2"/>
+                                <path d="M58 43 Q70 35 82 43" fill="none" stroke="#047857" stroke-width="2"/>
+                            `;
+                        }
+                    } else if (selectedWorld === "cyber") {
+                        if (plot.seed === "s1") {
+                            svgStr += `<rect x="64" y="25" width="12" height="18" rx="2" fill="#06b6d4" stroke="#fff" stroke-width="1"/>`;
+                        } else if (plot.seed === "s2") {
+                            svgStr += `
+                                <circle cx="70" cy="32" r="8" fill="#a855f7" opacity="0.8"/>
+                                <path d="M67 40 L73 40" stroke="#fff" stroke-width="2"/>
+                            `;
+                        } else {
+                            svgStr += `
+                                <rect x="58" y="25" width="24" height="24" rx="4" fill="#1e1b4b" stroke="#06b6d4" stroke-width="2"/>
+                                <circle cx="70" cy="37" r="5" fill="#06b6d4"/>
+                            `;
+                        }
+                    } else if (selectedWorld === "magic") {
+                        if (plot.seed === "s1") {
+                            svgStr += `
+                                <circle cx="70" cy="32" r="10" fill="#f43f5e" opacity="0.6"/>
+                                <circle cx="70" cy="32" r="4" fill="#fbbf24"/>
+                            `;
+                        } else if (plot.seed === "s2") {
+                            svgStr += `
+                                <path d="M65 44 C65 30 75 30 75 44" fill="#fbbf24"/>
+                                <rect x="68" y="44" width="4" height="10" fill="#fff"/>
+                            `;
+                        } else {
+                            svgStr += `
+                                <path d="M70 45 L62 37 C58 32 66 26 70 33 C74 26 82 32 78 37 Z" fill="#d946ef"/>
+                            `;
+                        }
+                    }
+                }
+
+                if (plot.pest) {
+                    svgStr += `
+                        <path d="M52 50 Q56 46 60 50 Q64 54 68 50" fill="none" stroke="#22c55e" stroke-width="4" stroke-linecap="round"/>
+                        <circle cx="49" cy="50" r="3.5" fill="#16a34a"/>
+                        <circle cx="48" cy="49" r="0.8" fill="#fff"/>
+                    `;
+                }
+            }
+
+            return svgStr;
+        }
+
+        function handlePlotInteraction(index) {
+            const plot = gameState.plots[index];
+
+            // 1. Ô đất đang bị khóa
+            if (plot.status === "locked") {
+                if (gameState.coins >= plot.cost) {
+                    triggerTaskFlow("unlock", index);
+                } else {
+                    playChime(150, 'sawtooth', 0.15);
+                    alertBox(`Bé cần có đủ ${plot.cost}🪙 xu vàng để thực hiện thử thách mở đất này.`);
+                }
+                return;
+            }
+
+            // 2. Cây đã chết héo
+            if (plot.status === "withered") {
+                plot.status = "empty";
+                plot.seed = null;
+                plot.prog = 0;
+                plot.pest = false;
+                plot.errorCount = 0;
+                playChime(350, 'sine', 0.2);
+                saveDataForMode();
+                renderPlots();
+                return;
+            }
+
+            // 3. Có côn trùng sâu hại hoành hành
+            if (plot.status === "planted" && plot.pest) {
+                triggerTaskFlow("pest", index);
+                return;
+            }
+
+            // 4. Thu hoạch nông sản khi chín (Thay đổi Edu-Farm v2.2: Gửi vào kho nông sản)
+            if (plot.status === "planted" && plot.prog >= 100) {
+                collectCropToInventory(index);
+                return;
+            }
+
+            // 5. Chăm sóc tưới nước cằn cỗi
+            if (plot.status === "planted" && !plot.water) {
+                if (selectedTool === "water" && gameState.inventory.water > 0) {
+                    plot.water = true;
+                    gameState.inventory.water--;
+                    playChime(880, 'sine', 0.15);
+                    saveDataForMode();
+                    renderPlots();
+                    renderInventory();
+                } else {
+                    playChime(220, 'square', 0.25);
+                    alertBox("Ô đất đã cạn nước! Bé hãy chọn Bình Nước trong túi đồ để tưới ẩm ngay.");
+                }
+                return;
+            }
+
+            // 6. Gieo hạt giống mới vào đất
+            if (plot.status === "empty") {
+                if (selectedTool && selectedTool.startsWith("s")) {
+                    if (gameState.inventory[selectedTool] > 0) {
+                        gameState.inventory[selectedTool]--;
+                        plot.status = "planted";
+                        plot.seed = selectedTool;
+                        plot.prog = 0;
+                        plot.water = true;
+                        plot.pest = false;
+                        plot.errorCount = 0;
+                        playChime(440, 'triangle', 0.2);
+                        saveDataForMode();
+                        renderPlots();
+                        renderInventory();
+                    }
+                } else {
+                    alertBox("Bé hãy chọn 1 loại hạt giống từ túi đồ bên phải để gieo hạt nhé!");
+                }
+            }
+        }
+
+        // Thu hoạch nông sản và cộng vào Kho nông sản ảo
+        function collectCropToInventory(index) {
+            const plot = gameState.plots[index];
+            const seedType = plot.seed;
+            if (!seedType) return;
+
+            // Thêm vào kho nông sản thu hoạch ảo
+            if (seedType === "s1") gameState.inventory.harvested_s1++;
+            else if (seedType === "s2") gameState.inventory.harvested_s2++;
+            else if (seedType === "s3") gameState.inventory.harvested_s3++;
+            
+            // Tăng XP và lên cấp độ
+            gameState.xp += 15;
+            if (gameState.xp >= gameState.level * 80) {
+                gameState.xp = 0;
+                gameState.level++;
+                playChime(1200, 'sine', 0.4);
+                alertBox(`Chúc mừng bé thăng lên Cấp ${gameState.level}! 🎉`);
+            } else {
+                playChime(987, 'sine', 0.25);
+            }
+
+            // Hoàn nguyên trạng thái đất trống
+            plot.status = "empty";
+            plot.seed = null;
+            plot.prog = 0;
+            plot.errorCount = 0;
+            
+            saveDataForMode();
+            updateHeaderStats();
+            renderPlots();
+            alertBox("Thu hoạch thành công! Nông sản đã được lưu vào Kho để bé bán đấu giá tại Chợ!");
+        }
+
+        function renderInventory() {
+            const container = document.getElementById("inv-grid-container");
+            container.innerHTML = "";
+
+            const items = [
+                { id: "s1", name: gameAssets[selectedWorld].seeds.s1.name, emoji: gameAssets[selectedWorld].seeds.s1.emoji, desc: "Hạt giống Dễ" },
+                { id: "s2", name: gameAssets[selectedWorld].seeds.s2.name, emoji: gameAssets[selectedWorld].seeds.s2.emoji, desc: "Hạt giống Vừa" },
+                { id: "s3", name: gameAssets[selectedWorld].seeds.s3.name, emoji: gameAssets[selectedWorld].seeds.s3.emoji, desc: "Hạt giống Khó" },
+                { id: "water", name: "Bình Nước", emoji: "💧", desc: "Giữ ẩm đất" }
+            ];
+
+            items.forEach(it => {
+                const card = document.createElement("div");
+                card.className = `inv-card ${selectedTool === it.id ? 'active' : ''}`;
+                card.onclick = () => selectTool(it.id);
+
+                card.innerHTML = `
+                    <div class="inv-qty">${gameState.inventory[it.id] || 0}</div>
+                    <div class="inv-icon">${it.emoji}</div>
+                    <div class="inv-name">${it.name}</div>
+                    <div style="font-size: 10px; opacity: 0.5;">${it.desc}</div>
+                `;
+
+                container.appendChild(card);
+            });
+        }
+
+        function selectTool(id) {
+            if (selectedTool === id) {
+                selectedTool = null;
+            } else {
+                selectedTool = id;
+            }
+            playChime(600);
+            renderInventory();
+        }
+
+        function renderTasks() {
+            const container = document.getElementById("task-list-container");
+            container.innerHTML = "";
+
+            const tasks = [
+                { id: "s1", name: `Lấy ${gameAssets[selectedWorld].seeds.s1.name}`, reward: "+1 Hạt", level: "DỄ" },
+                { id: "s2", name: `Lấy ${gameAssets[selectedWorld].seeds.s2.name}`, reward: "+1 Hạt", level: "VỪA" },
+                { id: "s3", name: `Lấy ${gameAssets[selectedWorld].seeds.s3.name}`, reward: "+1 Hạt", level: "KHÓ" },
+                { id: "water", name: "Lấy Nước tưới", reward: "+3 Bình Nước", level: "DỄ" }
+            ];
+
+            tasks.forEach(t => {
+                const btn = document.createElement("button");
+                btn.className = "task-btn";
+                btn.onclick = () => triggerTaskFlow("farm", t.id);
+
+                btn.innerHTML = `
+                    <div class="task-meta">
+                        <h4>${t.name}</h4>
+                        <span>Độ khó: ${t.level}</span>
+                    </div>
+                    <div class="task-reward">${t.reward}</div>
+                `;
+
+                container.appendChild(btn);
+            });
+        }
+
+        function updateHeaderStats() {
+            document.getElementById("stat-coins").innerText = gameState.coins;
+            document.getElementById("stat-level").innerText = `LV ${gameState.level}`;
+        }
+
+        let currentMarketPrices = { s1: 15, s2: 40, s3: 90 };
+
+        function updateMarketUI() {
+            // Hiển thị số lượng nông sản lưu trong kho
+            document.getElementById("crop-label-s1").innerText = gameAssets[selectedWorld].seeds.s1.name;
+            document.getElementById("crop-label-s2").innerText = gameAssets[selectedWorld].seeds.s2.name;
+            document.getElementById("crop-label-s3").innerText = gameAssets[selectedWorld].seeds.s3.name;
+
+            document.getElementById("crop-qty-s1").innerText = gameState.inventory.harvested_s1 || 0;
+            document.getElementById("crop-qty-s2").innerText = gameState.inventory.harvested_s2 || 0;
+            document.getElementById("crop-qty-s3").innerText = gameState.inventory.harvested_s3 || 0;
+
+            // Vẽ biểu đồ cột động
+            const chartContainer = document.getElementById("market-chart-bars");
+            chartContainer.innerHTML = "";
+
+            const crops = [
+                { id: "s1", name: gameAssets[selectedWorld].seeds.s1.name, price: currentMarketPrices.s1, maxPrice: 30 },
+                { id: "s2", name: gameAssets[selectedWorld].seeds.s2.name, price: currentMarketPrices.s2, maxPrice: 80 },
+                { id: "s3", name: gameAssets[selectedWorld].seeds.s3.name, price: currentMarketPrices.s3, maxPrice: 180 }
+            ];
+
+            crops.forEach(crop => {
+                const heightPercentage = Math.min(100, Math.max(20, (crop.price / crop.maxPrice) * 100));
+                
+                const barItem = document.createElement("div");
+                barItem.className = "chart-bar-item";
+                barItem.innerHTML = `
+                    <div class="chart-bar-pillar" data-val="${crop.price}🪙" style="height: ${heightPercentage}px;"></div>
+                    <span class="text-[11px] font-bold mt-2 truncate max-w-[70px]">${crop.name}</span>
+                `;
+                chartContainer.appendChild(barItem);
+            });
+        }
+
+        function sellCrop(seedId) {
+            const harvestedKey = `harvested_${seedId}`;
+            const stock = gameState.inventory[harvestedKey] || 0;
+
+            if (stock > 0) {
+                const sellValue = stock * currentMarketPrices[seedId];
+                gameState.coins += sellValue;
+                gameState.inventory[harvestedKey] = 0; // Đưa về 0 sau khi bán hết
+
+                playChime(1000, 'sine', 0.3);
+                saveDataForMode();
+                updateHeaderStats();
+                updateMarketUI();
+                alertBox(`Chúc mừng bé đã bán hết nông sản và thu về ${sellValue}🪙 xu vàng!`);
+            } else {
+                playChime(150, 'sawtooth', 0.15);
+                alertBox("Nông sản này hiện không còn trong kho của bé để bán.");
+            }
+        }
+
+        // Sự kiện biến động giá sau mỗi 45 giây
+        function triggerMarketFluctuation() {
+            currentMarketPrices.s1 = Math.floor(Math.random() * 20) + 10;   // 10 -> 30
+            currentMarketPrices.s2 = Math.floor(Math.random() * 50) + 30;   // 30 -> 80
+            currentMarketPrices.s3 = Math.floor(Math.random() * 100) + 80;  // 80 -> 180
+
+            if (activeTab === "market") {
+                updateMarketUI();
+            }
+        }
+
+        function buyDecoration(decorId, price) {
+            if (gameState.coins >= price) {
+                if (gameState.inventory.decorations.includes(decorId)) {
+                    alertBox("Bé đã mua đồ trang trí này rồi!");
+                    return;
+                }
+                gameState.coins -= price;
+                gameState.inventory.decorations.push(decorId);
+                
+                playChime(800, 'triangle', 0.35);
+                saveDataForMode();
+                updateHeaderStats();
+                drawDecorations();
+                alertBox("Mua đồ trang trí thành công! Đã được bài trí tự động trên nông trại.");
+            } else {
+                playChime(150, 'sawtooth', 0.15);
+                alertBox(`Bé cần có đủ ${price}🪙 xu vàng để mua vật phẩm này.`);
+            }
+        }
+
+        function drawDecorations() {
+            const container = document.getElementById("decoration-layer-container");
+            container.innerHTML = "";
+
+            if (gameState.inventory.decorations.includes("decor_fence")) {
+                // Hàng rào gỗ bao quanh grid trang trại
+                container.innerHTML += `
+                    <div style="position: absolute; top: 10px; bottom: 10px; left: 10px; right: 10px; border: 4px ridge #d97706; border-radius: 30px; opacity: 0.3;"></div>
+                `;
+            }
+            if (gameState.inventory.decorations.includes("decor_scarecrow")) {
+                // Bù nhìn rơm ở góc trái
+                container.innerHTML += `
+                    <div style="position: absolute; bottom: 20px; left: 20px; font-size: 40px; pointer-events: none;">🌾</div>
+                `;
+            }
+            if (gameState.inventory.decorations.includes("decor_fountain")) {
+                // Đài nước ở góc phải
+                container.innerHTML += `
+                    <div style="position: absolute; top: 20px; right: 20px; font-size: 40px; pointer-events: none; animation: bounce 1.5s infinite alternate;">⛲</div>
+                `;
+            }
+        }
+
+        function updateWeatherUI() {
+            const badge = document.getElementById("display-weather");
+            const text = document.getElementById("weather-text");
+
+            if (gameState.weather === "sunny") {
+                badge.innerHTML = `<i class="fa-solid fa-sun text-yellow-400"></i> &nbsp;<span id="weather-text">Nắng ấm</span>`;
+                badge.style.color = "#facc15";
+            } else if (gameState.weather === "rainy") {
+                badge.innerHTML = `<i class="fa-solid fa-cloud-showers-water text-sky-400 animate-bounce"></i> &nbsp;<span id="weather-text">Mưa Rào</span>`;
+                badge.style.color = "#38bdf8";
+            } else if (gameState.weather === "acid_storm") {
+                badge.innerHTML = `<i class="fa-solid fa-biohazard text-red-500 animate-pulse"></i> &nbsp;<span id="weather-text">Mưa Axit!</span>`;
+                badge.style.color = "#f87171";
+            }
+        }
+
+        // Tự động thay đổi thời tiết ngẫu nhiên sau mỗi 60 giây
+        function rotateWeather() {
+            const rand = Math.random();
+            if (rand < 0.6) {
+                gameState.weather = "sunny";
+            } else if (rand < 0.85) {
+                gameState.weather = "rainy";
+                // Mưa rào: tự động làm ẩm toàn bộ ô đất đang trồng
+                gameState.plots.forEach(p => {
+                    if (p.status === "planted") p.water = true;
+                });
+                renderPlots();
+                alertBox("Trời đổ cơn mưa rào! Toàn bộ thửa ruộng đã được làm ẩm mát mẻ. Cây trồng tăng tốc 1.5x!");
+            } else {
+                gameState.weather = "acid_storm";
+                // Thiên tai mưa axit nguy hiểm
+                alertBox("CẢNH BÁO: Đám mây axit tràn qua trang trại! Bé hãy kích hoạt ngay LÁ CHẮN bảo vệ bằng cách giải bài tập!");
+                triggerTaskFlow("disaster", "environment");
+            }
+            updateWeatherUI();
+            saveDataForMode();
+        }
+
+        const petsDatabase = {
+            p1: { id: "p1", name: "Rùa Eco", emoji: "🐢", skill: "Tự động tưới nước ngẫu nhiên", desc: "Eco Guardian" },
+            p2: { id: "p2", name: "Robo Poodle", emoji: "🐩", skill: "Tăng 15% xu khi thu hoạch", desc: "Cyber Companion" },
+            p3: { id: "p3", name: "Mèo Tiên", emoji: "🐱", skill: "Miễn trừ 50% bão axit", desc: "Magic Sprite" }
+        };
+
+        function renderHatchingEgg() {
+            const svg = document.getElementById("egg-svg-render");
+            // Biểu diễn trứng lấp lánh nở động theo eggProgress
+            const progress = gameState.eggProgress || 0;
+            const percentage = (progress / 5) * 100;
+
+            document.getElementById("egg-hatch-progress").style.width = `${percentage}%`;
+            document.getElementById("egg-progress-text").innerText = `Năng lượng: ${progress}/5 (Giải đúng ${5 - progress} câu nữa để nở)`;
+
+            // Vẽ trứng SVG
+            let eggColor = "#a855f7";
+            if (progress >= 3) eggColor = "#f43f5e";
+
+            svg.innerHTML = `
+                <defs>
+                    <radialGradient id="eggGrad" cx="50%" cy="40%" r="50%">
+                        <stop offset="0%" stop-color="#fdf4ff"/>
+                        <stop offset="70%" stop-color="${eggColor}"/>
+                        <stop offset="100%" stop-color="#1e1b4b"/>
+                    </radialGradient>
+                </defs>
+                <ellipse cx="50" cy="65" rx="35" ry="45" fill="url(#eggGrad)" stroke="rgba(255,255,255,0.2)" stroke-width="2"/>
+                ${progress > 0 ? `<path d="M 30,65 L 50,55 L 70,65 L 50,75 Z" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="3"/>` : ""}
+                ${progress >= 3 ? `<path d="M 15,65 Q 50,75 85,65 M 15,55 Q 50,45 85,55" fill="none" stroke="#fff" stroke-width="2"/>` : ""}
+                <text x="50" y="115" fill="#a78bfa" font-size="11" font-weight="900" text-anchor="middle">ẤP NỞ: ${percentage.toFixed(0)}%</text>
+            `;
+        }
+
+        function renderPetsList() {
+            const grid = document.getElementById("pets-unlocked-grid");
+            grid.innerHTML = "";
+
+            Object.values(petsDatabase).forEach(pet => {
+                const isUnlocked = gameState.unlockedPets.includes(pet.id);
+                const isActive = gameState.activePet === pet.id;
+
+                const card = document.createElement("div");
+                card.className = `pet-item-card ${isActive ? 'active' : ''} ${!isUnlocked ? 'locked' : ''}`;
+                if (isUnlocked) {
+                    card.onclick = () => activatePet(pet.id);
+                }
+
+                card.innerHTML = `
+                    ${isActive ? `<span class="pet-active-badge">ĐỒNG HÀNH</span>` : ""}
+                    <div class="text-4xl mb-2">${pet.emoji}</div>
+                    <div class="text-xs font-black">${pet.name}</div>
+                    <div class="text-[10px] opacity-60 mt-1">${pet.skill}</div>
+                `;
+
+                grid.appendChild(card);
+            });
+        }
+
+        function activatePet(petId) {
+            if (gameState.activePet === petId) {
+                gameState.activePet = null;
+            } else {
+                gameState.activePet = petId;
+            }
+            playChime(900, 'triangle', 0.2);
+            saveDataForMode();
+            renderPetsList();
+        }
+
+        // Tăng tiến độ ấp trứng khi giải đúng bài tập
+        function progressEgg() {
+            if (gameState.eggProgress === undefined) gameState.eggProgress = 0;
+            if (gameState.unlockedPets === undefined) gameState.unlockedPets = [];
+
+            gameState.eggProgress++;
+            if (gameState.eggProgress >= 5) {
+                gameState.eggProgress = 0;
+                
+                // Mở khóa ngẫu nhiên một bé thú mới chưa sở hữu
+                const allIds = Object.keys(petsDatabase);
+                const lockedIds = allIds.filter(id => !gameState.unlockedPets.includes(id));
+
+                if (lockedIds.length > 0) {
+                    const unlockedId = lockedIds[Math.floor(Math.random() * lockedIds.length)];
+                    gameState.unlockedPets.push(unlockedId);
+                    playChime(1500, 'sine', 0.5);
+                    alertBox(`TRỨNG ĐÃ NỞ! Bé đã nhận được Trợ thủ cực kỳ đáng yêu: **${petsDatabase[unlockedId].name}**! 🎉`);
+                } else {
+                    gameState.coins += 100;
+                    alertBox("Trứng đã nở! Vì bé đã có đủ tất cả thú cưng nên nhận thưởng thêm 100🪙 xu vàng!");
+                }
+            }
+            saveDataForMode();
+            if (activeTab === "pet") {
+                renderHatchingEgg();
+                renderPetsList();
+            }
+        }
+
+        let bossState = {
+            active: false,
+            hp: 100,
+            timer: 60,
+            stage: 1,
+            correctAnswer: null,
+            timerInterval: null
+        };
+
+        function startBossBattle() {
+            playSoundChimeForBoss();
+            bossState.active = true;
+            bossState.hp = 100;
+            bossState.timer = 60;
+            bossState.stage = 1;
+
+            document.getElementById("overlay-boss-battle").classList.remove("hidden");
+            generateBossQuest();
+
+            bossState.timerInterval = setInterval(() => {
+                bossState.timer--;
+                document.getElementById("boss-timer").innerText = `Thời gian: ${bossState.timer}s`;
+
+                if (bossState.timer <= 0) {
+                    endBossBattle(false);
+                }
+            }, 1000);
+        }
+
+        function playSoundChimeForBoss() {
+            playChime(150, 'sawtooth', 0.5);
+            setTimeout(() => playChime(250, 'sawtooth', 0.5), 150);
+        }
+
+        function generateBossQuest() {
+            const num1 = Math.floor(Math.random() * 9) + 2; // 2 -> 10
+            const num2 = Math.floor(Math.random() * 8) + 2; // 2 -> 9
+            
+            bossState.correctAnswer = num1 * num2;
+            document.getElementById("boss-quest-text").innerText = `Tấn công boss bằng sức mạnh phép nhân: ${num1} x ${num2} = ?`;
+            document.getElementById("boss-hp-text").innerText = `${bossState.hp}/100`;
+            document.getElementById("boss-stage-text").innerText = bossState.stage;
+            document.getElementById("boss-hp-bar-fill").style.width = `${bossState.hp}%`;
+            document.getElementById("boss-math-input").value = "";
+            document.getElementById("boss-math-input").focus();
+        }
+
+        function handleBossMathKeyDown(e) {
+            if (e.key === "Enter") {
+                verifyBossAnswer();
+            }
+        }
+
+        function verifyBossAnswer() {
+            const input = document.getElementById("boss-math-input");
+            if (!input) return;
+
+            const val = parseInt(input.value);
+            if (val === bossState.correctAnswer) {
+                playChime(900, 'triangle', 0.25);
+                // Trả lời đúng -> Tấn công boss
+                bossState.hp -= 20;
+                bossState.stage++;
+                if (bossState.hp <= 0) {
+                    endBossBattle(true);
+                } else {
+                    generateBossQuest();
+                }
+            } else {
+                // Trả lời sai -> Phạt trừ thời gian
+                playChime(120, 'sawtooth', 0.4);
+                bossState.timer = Math.max(0, bossState.timer - 5);
+                input.value = "";
+                input.focus();
+            }
+        }
+
+        function endBossBattle(isVictory) {
+            clearInterval(bossState.timerInterval);
+            document.getElementById("overlay-boss-battle").classList.add("hidden");
+            bossState.active = false;
+
+            if (isVictory) {
+                // Thưởng chiến thắng boss tuần
+                gameState.coins += 150;
+                gameState.inventory.water += 5;
+                addXPArena(100);
+                saveDataForMode();
+                updateHeaderStats();
+                renderInventory();
+                alertBox("Bé đã đánh bại Sâu Róm Khổng Lồ và bảo vệ thành công điền trang! Thưởng nóng: +150🪙 xu vàng & 5 bình nước! 🏆");
+            } else {
+                alertBox("Thử thách bạo liệt đã hết giờ! Bé hãy ôn luyện kỹ phép nhân rồi thử thách lại lần sau nhé!");
+            }
+        }
+
+        function addXPArena(amt) {
+            gameState.xp += amt;
+            if (gameState.xp >= gameState.level * 80) {
+                gameState.xp = 0;
+                gameState.level++;
+            }
+        }
+
+        function triggerTaskFlow(type, targetId) {
+            // Khởi tạo nhiệm vụ tri thức
+            activeTask = {
+                type: type,      // "farm", "pest", "unlock", "disaster"
+                targetId: targetId, // s1, s2, s3, water hoặc chỉ mục của ô đất
+                errors: 0,
+                correctAnswer: null,
+                questionText: ""
+            };
+
+            generateCurriculumQuestion();
+
+            document.getElementById("task-modal-title").innerText = 
+                type === "pest" ? "Tiêu Diệt Sâu Phá Hoại 🐛" :
+                type === "unlock" ? "Mở Khóa Đất Mới 🌾" : 
+                type === "disaster" ? "LÁ CHẮN BÃO AXIT 🛡️" : "Nhập Tri Thức Đổi Vật Phẩm 📚";
+            
+            document.getElementById("modal-task").classList.add("active");
+            renderQuestHearts();
+        }
+
+        function closeTaskModal() {
+            document.getElementById("modal-task").classList.remove("active");
+            activeTask = null;
+        }
+
+        function generateCurriculumQuestion() {
+            const grade = parseInt(selectedGrade);
+            const panel = document.getElementById("quest-answer-panel");
+            const qText = document.getElementById("quest-text");
+            const qTypeLabel = document.getElementById("quest-type-label");
+
+            panel.innerHTML = "";
+
+            if (grade === 2) {
+                const randType = Math.random() < 0.5 ? "math" : "typing";
+
+                if (randType === "math") {
+                    qTypeLabel.innerText = "Toán Học Lớp 2 - Cộng Trừ";
+                    const num1 = Math.floor(Math.random() * 40) + 10;
+                    const num2 = Math.floor(Math.random() * 20) + 5;
+                    const isPlus = Math.random() < 0.5;
+
+                    activeTask.correctAnswer = isPlus ? (num1 + num2) : (num1 - num2);
+                    activeTask.questionText = `${num1} ${isPlus ? '+' : '-'} ${num2} = ?`;
+                    qText.innerText = activeTask.questionText;
+
+                    panel.innerHTML = `
+                        <div class="math-input-wrapper">
+                            <input type="number" id="math-input" class="math-input" placeholder="Nhập đáp số" autofocus onkeydown="handleMathKeyDown(event)">
+                            <button class="btn-submit" onclick="verifyQuestAnswer()">NỘP</button>
+                        </div>
+                    `;
+                } else {
+                    qTypeLabel.innerText = "Luyện Gõ Mười Ngón Lớp 2 - Hàng Phím Cơ Sở";
+                    const typingWords = ["asdf", "jkl;", "fjfjf", "kdkdk", "asdfg", "hjkl;"];
+                    const chosenStr = typingWords[Math.floor(Math.random() * typingWords.length)];
+
+                    activeTask.correctAnswer = chosenStr;
+                    activeTask.questionText = chosenStr;
+
+                    qText.innerHTML = `Gõ đúng chuỗi: <span style="font-family: monospace; color: #a855f7;">${chosenStr}</span>`;
+
+                    panel.innerHTML = `
+                        <div class="typing-target-box" id="typing-feedback-box">${chosenStr}</div>
+                        <input type="text" id="typing-input" class="math-input" placeholder="Bắt đầu gõ ở đây..." oninput="handleTypingInput(event)" autofocus style="font-family: monospace;">
+                        <div class="virtual-keyboard" id="kb-layout"></div>
+                    `;
+                    renderVirtualKeyboard(chosenStr);
+                }
+            } 
+
+            else if (grade === 3) {
+                const randType = Math.random() < 0.5 ? "math" : "tech";
+
+                if (randType === "math") {
+                    qTypeLabel.innerText = "Toán Học Lớp 3 - Nhân Chia Bảng";
+                    const num1 = Math.floor(Math.random() * 8) + 2;
+                    const num2 = Math.floor(Math.random() * 9) + 1;
+                    const isMul = Math.random() < 0.5;
+
+                    activeTask.correctAnswer = isMul ? (num1 * num2) : num1;
+                    activeTask.questionText = isMul ? `${num1} x ${num2} = ?` : `${num1 * num2} : ${num1} = ?`;
+                    qText.innerText = activeTask.questionText;
+
+                    panel.innerHTML = `
+                        <div class="math-input-wrapper">
+                            <input type="number" id="math-input" class="math-input" placeholder="Nhập đáp số" autofocus onkeydown="handleMathKeyDown(event)">
+                            <button class="btn-submit" onclick="verifyQuestAnswer()">NỘP</button>
+                        </div>
+                    `;
+                } else {
+                    qTypeLabel.innerText = "Kiến thức Tin Học Lớp 3";
+                    const qBank = [
+                        { q: "Phím nào giúp gõ được chữ HOA khi giữ cùng lúc?", a: "SHIFT", c: ["SHIFT", "ENTER", "SPACE", "BACKSPACE"] },
+                        { q: "Ngón tay cái dùng để nhấn phím nào?", a: "SPACE BAR", c: ["SPACE BAR", "ENTER", "SHIFT", "CAPS LOCK"] },
+                        { q: "Bộ phận nào của máy tính hiển thị hình ảnh?", a: "MÀN HÌNH", c: ["MÀN HÌNH", "CHUỘT", "BÀN PHÍM", "LOA"] }
+                    ];
+                    const selectedQ = qBank[Math.floor(Math.random() * qBank.length)];
+                    activeTask.correctAnswer = selectedQ.a;
+                    activeTask.questionText = selectedQ.q;
+                    qText.innerText = selectedQ.q;
+
+                    let choicesHtml = `<div class="multiple-choices">`;
+                    selectedQ.c.forEach(choice => {
+                        choicesHtml += `<button class="choice-btn" onclick="verifyChoiceAnswer('${choice}')">${choice}</button>`;
+                    });
+                    choicesHtml += `</div>`;
+                    panel.innerHTML = choicesHtml;
+                }
+            }
+
+            else if (grade === 4) {
+                const randType = Math.random() < 0.5 ? "math" : "tech";
+
+                if (randType === "math") {
+                    qTypeLabel.innerText = "Toán Học Lớp 4 - Tính Nhanh";
+                    const num1 = Math.floor(Math.random() * 200) + 100;
+                    const num2 = Math.floor(Math.random() * 150) + 50;
+                    const isPlus = Math.random() < 0.5;
+
+                    activeTask.correctAnswer = isPlus ? (num1 + num2) : (num1 - num2);
+                    activeTask.questionText = `${num1} ${isPlus ? '+' : '-'} ${num2} = ?`;
+                    qText.innerText = activeTask.questionText;
+
+                    panel.innerHTML = `
+                        <div class="math-input-wrapper">
+                            <input type="number" id="math-input" class="math-input" placeholder="Nhập đáp số" autofocus onkeydown="handleMathKeyDown(event)">
+                            <button class="btn-submit" onclick="verifyQuestAnswer()">NỘP</button>
+                        </div>
+                    `;
+                } else {
+                    qTypeLabel.innerText = "Kiến thức Tin Học Lớp 4";
+                    const qBank = [
+                        { q: "Tổ hợp phím tắt để thực hiện SAO CHÉP (Copy) là gì?", a: "CTRL + C", c: ["CTRL + C", "CTRL + V", "CTRL + X", "CTRL + Z"] },
+                        { q: "Tổ hợp phím tắt để thực hiện DÁN (Paste) là gì?", a: "CTRL + V", c: ["CTRL + C", "CTRL + V", "CTRL + S", "CTRL + N"] },
+                        { q: "Trình duyệt Web nào dưới đây được sử dụng phổ biến?", a: "GOOGLE CHROME", c: ["GOOGLE CHROME", "MICROSOFT WORD", "EXCEL", "PAINT"] }
+                    ];
+                    const selectedQ = qBank[Math.floor(Math.random() * qBank.length)];
+                    activeTask.correctAnswer = selectedQ.a;
+                    activeTask.questionText = selectedQ.q;
+                    qText.innerText = selectedQ.q;
+
+                    let choicesHtml = `<div class="multiple-choices">`;
+                    selectedQ.c.forEach(choice => {
+                        choicesHtml += `<button class="choice-btn" onclick="verifyChoiceAnswer('${choice}')">${choice}</button>`;
+                    });
+                    choicesHtml += `</div>`;
+                    panel.innerHTML = choicesHtml;
+                }
+            }
+
+            else if (grade === 5) {
+                const randType = Math.random() < 0.5 ? "math" : "tech";
+
+                if (randType === "math") {
+                    qTypeLabel.innerText = "Toán Học Lớp 5 - Tỷ Số Phần Trăm";
+                    const baseVals = [50, 100, 200, 300, 500];
+                    const baseNum = baseVals[Math.floor(Math.random() * baseVals.length)];
+                    const percent = Math.random() < 0.5 ? 10 : 20;
+
+                    activeTask.correctAnswer = (baseNum * percent) / 100;
+                    activeTask.questionText = `${percent}% của ${baseNum} là bao nhiêu?`;
+                    qText.innerText = activeTask.questionText;
+
+                    panel.innerHTML = `
+                        <div class="math-input-wrapper">
+                            <input type="number" id="math-input" class="math-input" placeholder="Nhập đáp số" autofocus onkeydown="handleMathKeyDown(event)">
+                            <button class="btn-submit" onclick="verifyQuestAnswer()">NỘP</button>
+                        </div>
+                    `;
+                } else {
+                    qTypeLabel.innerText = "Công Nghệ & An Toàn Mạng Lớp 5";
+                    const qBank = [
+                        { q: "Bé nên làm gì khi nhận thấy mật khẩu tài khoản bị lộ?", a: "ĐỔI MẬT KHẨU NGAY", c: ["ĐỔI MẬT KHẨU NGAY", "KHÔNG LÀM GÌ CẢ", "CHIA SẺ CHO BẠN BÈ", "TẮT MÁY TÍNH THÔI"] },
+                        { q: "Môi trường lập trình kéo thả Scratch giúp bé điều gì?", a: "SÁNG TẠO GAME VÀ HOẠT HÌNH", c: ["SÁNG TẠO GAME VÀ HOẠT HÌNH", "GÕ VĂN BẢN HÀNH CHÍNH", "TÍNH TOÁN KẾ TOÁN", "GỬI THƯ ĐIỆN TỬ GMAIL"] },
+                        { q: "Mạng máy tính Toàn cầu kết nối hàng triệu thiết bị gọi là?", a: "INTERNET", c: ["INTERNET", "BLUETOOTH", "WIFI NỘI BỘ", "LAN"] }
+                    ];
+                    const selectedQ = qBank[Math.floor(Math.random() * qBank.length)];
+                    activeTask.correctAnswer = selectedQ.a;
+                    activeTask.questionText = selectedQ.q;
+                    qText.innerText = selectedQ.q;
+
+                    let choicesHtml = `<div class="multiple-choices">`;
+                    selectedQ.c.forEach(choice => {
+                        choicesHtml += `<button class="choice-btn" onclick="verifyChoiceAnswer('${choice}')">${choice}</button>`;
+                    });
+                    choicesHtml += `</div>`;
+                    panel.innerHTML = choicesHtml;
+                }
+            }
+        }
+
+        function handleMathKeyDown(e) {
+            if (e.key === "Enter") {
+                verifyQuestAnswer();
+            }
+        }
+
+        function renderVirtualKeyboard(targetStr) {
+            const container = document.getElementById("kb-layout");
+            container.innerHTML = "";
+            const sampleKeys = ["a", "s", "d", "f", "g", "h", "j", "k", "l", ";"];
+            
+            sampleKeys.forEach(k => {
+                const keyNode = document.createElement("div");
+                keyNode.className = "kb-key";
+                keyNode.id = `vkey-${k}`;
+                keyNode.innerText = k;
+                container.appendChild(keyNode);
+            });
+
+            if (targetStr.length > 0) {
+                const firstChar = targetStr.charAt(0);
+                const firstKeyNode = document.getElementById(`vkey-${firstChar}`);
+                if (firstKeyNode) firstKeyNode.classList.add("highlight");
+            }
+        }
+
+        function handleTypingInput(e) {
+            const typedVal = e.target.value.toLowerCase();
+            const target = activeTask.correctAnswer;
+            const box = document.getElementById("typing-feedback-box");
+
+            let formattedText = "";
+            let allCorrect = true;
+
+            for (let i = 0; i < target.length; i++) {
+                if (i < typedVal.length) {
+                    if (typedVal.charAt(i) === target.charAt(i)) {
+                        formattedText += `<span class="typed-correct">${target.charAt(i)}</span>`;
+                    } else {
+                        formattedText += `<span class="typed-incorrect">${target.charAt(i)}</span>`;
+                        allCorrect = false;
+                    }
+                } else {
+                    formattedText += `<span>${target.charAt(i)}</span>`;
+                }
+            }
+
+            box.innerHTML = formattedText;
+
+            document.querySelectorAll(".kb-key").forEach(k => k.classList.remove("highlight"));
+            if (typedVal.length < target.length) {
+                const nextChar = target.charAt(typedVal.length);
+                const nextKeyNode = document.getElementById(`vkey-${nextChar}`);
+                if (nextKeyNode) nextKeyNode.classList.add("highlight");
+            }
+
+            if (typedVal.length === target.length) {
+                if (allCorrect) {
+                    verifyChoiceAnswer(target);
+                } else {
+                    handleQuestError();
+                    e.target.value = "";
+                    box.innerHTML = target;
+                    renderVirtualKeyboard(target);
+                }
+            }
+        }
+
+        function verifyQuestAnswer() {
+            const mathInput = document.getElementById("math-input");
+            if (!mathInput) return;
+
+            const userVal = parseInt(mathInput.value);
+            if (userVal === activeTask.correctAnswer) {
+                verifyChoiceAnswer(userVal);
+            } else {
+                handleQuestError();
+                mathInput.value = "";
+                mathInput.focus();
+            }
+        }
+
+        function verifyChoiceAnswer(answerValue) {
+            if (String(answerValue).toUpperCase() === String(activeTask.correctAnswer).toUpperCase()) {
+                playChime(784, 'triangle', 0.2);
+                
+                if (activeTask.type === "farm") {
+                    if (activeTask.targetId === "water") {
+                        gameState.inventory.water += 3;
+                    } else {
+                        gameState.inventory[activeTask.targetId] += 1;
+                    }
+                } else if (activeTask.type === "pest") {
+                    const p = gameState.plots[activeTask.targetId];
+                    p.pest = false;
+                    p.errorCount = 0;
+                } else if (activeTask.type === "unlock") {
+                    const p = gameState.plots[activeTask.targetId];
+                    p.status = "empty";
+                    gameState.coins -= p.cost;
+                } else if (activeTask.type === "disaster") {
+                    // Giải cứu thành công bão axit
+                    gameState.weather = "sunny";
+                    updateWeatherUI();
+                    alertBox("LÁ CHẮN BẢO VỆ ĐÃ KÍCH HOẠT! Trang trại đã bình an vô sự đi qua thiên tai.");
+                }
+
+                // Tiến trình ấp thú cưng
+                progressEgg();
+
+                saveDataForMode();
+                updateHeaderStats();
+                renderPlots();
+                renderInventory();
+                closeTaskModal();
+            } else {
+                handleQuestError();
+            }
+        }
+
+        function handleQuestError() {
+            activeTask.errors++;
+            playChime(150, 'sawtooth', 0.3);
+            renderQuestHearts();
+
+            if (activeTask.errors >= 5) {
+                if (activeTask.type === "pest") {
+                    const plot = gameState.plots[activeTask.targetId];
+                    plot.status = "withered";
+                    plot.seed = null;
+                    plot.prog = 0;
+                    plot.pest = false;
+                    plot.errorCount = 0;
+                } else if (activeTask.type === "disaster") {
+                    // Thất bại bão axit -> Tất cả cây đang phát triển bị giảm tiến độ hoặc chết
+                    gameState.plots.forEach(p => {
+                        if (p.status === "planted" && p.prog < 100) {
+                            p.status = "withered";
+                            p.seed = null;
+                            p.prog = 0;
+                        }
+                    });
+                    gameState.weather = "sunny";
+                    updateWeatherUI();
+                    alertBox("Thảm họa axit tràn qua! Do không thể dựng lá chắn kịp thời, toàn bộ cây non đã bị chết héo.");
+                }
+                
+                alertBox("Bé đã gõ sai quá 5 lần. Thử thách này tạm thời thất bại!");
+                saveDataForMode();
+                renderPlots();
+                closeTaskModal();
+            }
+        }
+
+        function startRealtimeGameLoop() {
+            // Thay đổi thời tiết sau mỗi 60s
+            setInterval(() => {
+                if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+                // Thú cưng Magic Cat (p3) làm giảm 50% tỷ lệ dính bão axit
+                if (gameState.weather === "sunny" || gameState.weather === "rainy") {
+                    if (gameState.activePet === "p3" && Math.random() < 0.5) {
+                        // Bỏ qua thiên tai
+                    } else {
+                        rotateWeather();
+                    }
+                }
+            }, 60000);
+
+            // Biến động giá thị trường sau mỗi 45s
+            setInterval(() => {
+                if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+                triggerMarketFluctuation();
+            }, 45000);
+
+            // Kỹ năng của Thú cưng Rùa Eco (p1): Tự động tưới ẩm đất mỗi 30s
+            setInterval(() => {
+                if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+                if (gameState.activePet === "p1") {
+                    const dryPlots = gameState.plots.filter(p => p.status === "planted" && !p.water);
+                    if (dryPlots.length > 0) {
+                        dryPlots[0].water = true;
+                        renderPlots();
+                        playChime(800, 'sine', 0.2);
+                        alertBox("Bạn Rùa Eco đã âm thầm bò tới giúp tưới ẩm một thửa ruộng của bé!");
+                    }
+                }
+            }, 30000);
+
+            // Đồng bộ tăng trưởng nông sản mỗi giây
+            setInterval(() => {
+                if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+
+                let hasChanged = false;
+
+                gameState.plots.forEach((p) => {
+                    if (p.status === "planted" && p.prog < 100) {
+                        // Tốc độ phát triển: Mưa rào tăng 1.5x, Bão axit dừng hẳn
+                        let speed = 2;
+                        if (gameState.weather === "rainy") speed = 3;
+                        if (gameState.weather === "acid_storm") speed = 0;
+
+                        if (p.water && !p.pest && speed > 0) {
+                            p.prog = Math.min(100, p.prog + speed);
+                            hasChanged = true;
+                        }
+
+                        // Súc tác mất nước ngẫu nhiên
+                        if (Math.random() < 0.03) {
+                            p.water = false;
+                            hasChanged = true;
+                        }
+
+                        // Súc tác côn trùng phá hoại
+                        if (Math.random() < 0.008) {
+                            p.pest = true;
+                            hasChanged = true;
+                        }
+                    }
+                });
+
+                if (hasChanged) {
+                    saveDataForMode();
+                    renderPlots();
+                }
+            }, 1000);
+        }
+
+        function showExitConfirmModal() {
+            document.getElementById("modal-confirm-exit").classList.add("active");
+        }
+
+        function closeExitConfirmModal() {
+            document.getElementById("modal-confirm-exit").classList.remove("active");
+        }
+
+        function exitToWelcome() {
+            closeExitConfirmModal();
+            document.getElementById("screen-game").classList.add("screen-hidden");
+            document.getElementById("screen-welcome").classList.remove("screen-hidden");
+            selectedGrade = null;
+            selectedWorld = null;
+            document.querySelectorAll(".btn-grade, .btn-world").forEach(b => b.classList.remove("active"));
+            validateWelcomeScreen();
+        }
+
+        function showResetConfirmModal() {
+            document.getElementById("modal-confirm-reset").classList.add("active");
+        }
+
+        function closeResetConfirmModal() {
+            document.getElementById("modal-confirm-reset").classList.remove("active");
+        }
+
+        function resetModeData() {
+            resetGameStateToDefault();
+            saveDataForMode();
+            closeResetConfirmModal();
+            updateHeaderStats();
+            renderPlots();
+            renderInventory();
+            playChime(300, 'sine', 0.4);
+            if (activeTab === "market") updateMarketUI();
+            else if (activeTab === "pet") { renderHatchingEgg(); renderPetsList(); }
+        }
+
+        function alertBox(text) {
+            const overlay = document.createElement("div");
+            overlay.className = "modal-overlay active";
+            overlay.style.zIndex = "200";
+
+            overlay.innerHTML = `
+                <div class="modal-card" style="max-width: 400px; text-align: center;">
+                    <div class="modal-header">
+                        <h3 class="modal-title" style="color: #10b981;">Edu-Farm</h3>
+                    </div>
+                    <div style="font-size: 15px; font-weight: 700; margin: 15px 0;">${text}</div>
+                    <button class="btn-confirm-yes" style="background: var(--primary-color); width: 100%;" onclick="this.closest('.modal-overlay').remove()">BÉ ĐÃ HIỂU</button>
+                </div>
+            `;
+            document.getElementById("game-container").appendChild(overlay);
+        }
+
+        window.onload = function() {
+            startRealtimeGameLoop();
+        };
+    </script>
+</body>
+</html>

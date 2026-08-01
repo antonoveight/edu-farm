@@ -1,0 +1,348 @@
+[
+  {
+    "q": "Trong câu 'Cây bàng xòe tán lá rộng lớn', từ nào đóng vai trò là Chủ ngữ?",
+    "a": "CÂY BÀNG",
+    "c": [
+      "CÂY BÀNG",
+      "XÒE TÁN LÁ",
+      "RỘNG LỚN",
+      "LÁ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Từ nào sau đây là Danh từ chỉ người?",
+    "a": "giáo viên",
+    "c": [
+      "giáo viên",
+      "bút chì",
+      "học tập",
+      "đẹp đẽ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Từ nào sau đây là Động từ?",
+    "a": "suy nghĩ",
+    "c": [
+      "suy nghĩ",
+      "học sinh",
+      "tròn xoe",
+      "bút mực"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Thành phần trạng ngữ trong câu 'Sáng nay, em đi học sớm.' chỉ ý gì?",
+    "a": "THỜI GIAN",
+    "c": [
+      "THỜI GIAN",
+      "NƠI CHỐN",
+      "MỤC ĐÍCH",
+      "NGUYÊN NHÂN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Từ nào sau đây là Tính từ?",
+    "a": "xinh đẹp",
+    "c": [
+      "xinh đẹp",
+      "con mèo",
+      "chạy nhảy",
+      "ngôi trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Câu ghép là câu như thế nào?",
+    "a": "CÂU CÓ HAI VẾ TRỞ LÊN",
+    "c": [
+      "CÂU CÓ HAI VẾ TRỞ LÊN",
+      "CÂU CHỈ CÓ MỘT VẾ",
+      "CÂU ĐẶT DẤU HỎI",
+      "CÂU RẤT DÀI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Trợ từ 'đã' trong câu 'Bé đã học xong bài.' cho biết hành động ở thời điểm nào?",
+    "a": "ĐÃ XẢY RA TRONG QUÁ KHỨ",
+    "c": [
+      "ĐÃ XẢY RA TRONG QUÁ KHỨ",
+      "ĐANG XẢY RA",
+      "SẼ XẢY RA",
+      "CHƯA XẢY RA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Chọn quan hệ từ thích hợp:",
+    "a": "nhưng",
+    "c": [
+      "nhưng",
+      "và",
+      "hoặc",
+      "vì"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Điền quan hệ từ: Vì trời mưa to ___ chúng em phải ở trong nhà.",
+    "a": "nên",
+    "c": [
+      "nên",
+      "nhưng",
+      "hoặc",
+      "bởi"
+    ],
+    "type": "fill_blank",
+    "sentence": "Vì trời mưa to ___ chúng em phải ở trong nhà.",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Chọn từ thích hợp:",
+    "a": "sa mạc",
+    "c": [
+      "sa mạc",
+      "đại dương",
+      "sông ngòi",
+      "rừng rậm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Điền từ thích hợp: Mọi sinh vật đều cần ___ để hít thở và duy trì sự sống.",
+    "a": "không khí",
+    "c": [
+      "không khí",
+      "nước biển",
+      "ánh sáng",
+      "đất cát"
+    ],
+    "type": "fill_blank",
+    "sentence": "Mọi sinh vật đều cần ___ để hít thở và duy trì sự sống.",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Sắp xếp lại câu tục ngữ sau:",
+    "a": "Lá lành đùm lá rách",
+    "c": [
+      "Lá lành đùm lá rách"
+    ],
+    "type": "reorder",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4",
+    "words": [
+      "Lá",
+      "lành",
+      "đùm",
+      "lá",
+      "rách"
+    ]
+  },
+  {
+    "q": "Sắp xếp thành câu hoàn chỉnh:",
+    "a": "Có công mài sắt có ngày nên kim",
+    "c": [
+      "Có công mài sắt có ngày nên kim"
+    ],
+    "type": "reorder",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4",
+    "words": [
+      "Có",
+      "công",
+      "mài",
+      "sắt",
+      "có",
+      "ngày",
+      "nên",
+      "kim"
+    ]
+  },
+  {
+    "q": "Luyện gõ cụm từ sau tiếng Việt không dấu:",
+    "a": "la lanh dum la rach",
+    "c": [
+      "la lanh dum la rach"
+    ],
+    "type": "typing",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Trong câu 'Bông hoa hồng đỏ rực.', từ nào là tính từ?",
+    "a": "ĐỎ RỰC",
+    "c": [
+      "ĐỎ RỰC",
+      "BÔNG",
+      "HOA HỒNG",
+      "LÀ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Trong câu 'Bé gái đang học bài.', từ nào là động từ?",
+    "a": "HỌC",
+    "c": [
+      "HỌC",
+      "BÉ GÁI",
+      "BÀI",
+      "ĐANG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "'Sách vở' là từ ghép hay từ láy?",
+    "a": "TỪ GHÉP",
+    "c": [
+      "TỪ GHÉP",
+      "TỪ LÁY",
+      "TỪ ĐƠN",
+      "THÀNH NGỮ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "'Lung linh' là từ ghép hay từ láy?",
+    "a": "TỪ LÁY",
+    "c": [
+      "TỪ LÁY",
+      "TỪ GHÉP",
+      "TỪ ĐƠN",
+      "TỪ PHỨC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Trong câu 'Con trâu kéo cày.', từ nào là danh từ?",
+    "a": "CON TRÂU",
+    "c": [
+      "CON TRÂU",
+      "KÉO",
+      "CÀY",
+      "CON TRÂU VÀ CÀY"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "'Nhà cửa' thuộc từ loại gì?",
+    "a": "DANH TỪ",
+    "c": [
+      "DANH TỪ",
+      "ĐỘNG TỪ",
+      "TÍNH TỪ",
+      "TRẠNG TỪ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Dấu gạch ngang (-) đặt ở đầu dòng trong đoạn đối thoại có tác dụng gì?",
+    "a": "Đánh dấu lời nói trực tiếp của nhân vật",
+    "c": [
+      "Đánh dấu lời nói trực tiếp của nhân vật",
+      "Đánh dấu phần chú thích",
+      "Nối các từ trong câu ghép",
+      "Kết thúc một câu kể"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Thành ngữ nào nói về lòng tự trọng và trung thực?",
+    "a": "Đói cho sạch, rách cho thơm",
+    "c": [
+      "Đói cho sạch, rách cho thơm",
+      "Uống nước nhớ nguồn",
+      "Kề vai sát cánh",
+      "Lên thác xuống ghềnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Trong câu: 'Ánh trăng sáng vằng vặc chiếu xuống dòng sông', từ nào là chủ ngữ?",
+    "a": "Ánh trăng",
+    "c": [
+      "Ánh trăng",
+      "Sáng vằng vặc",
+      "Chiếu xuống",
+      "Dòng sông"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+  },
+  {
+    "q": "Ghép từ Hán-Việt với nghĩa tiếng Việt tương ứng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Hiểu nghĩa từ Hán-Việt thường gặp trong văn bản lớp 4",
+    "pairs": [
+      {
+        "left": "Sơn hà",
+        "right": "Núi sông, đất nước"
+      },
+      {
+        "left": "Quốc gia",
+        "right": "Đất nước"
+      },
+      {
+        "left": "Hải đảo",
+        "right": "Vùng đất giữa biển"
+      },
+      {
+        "left": "Tinh thần",
+        "right": "Ý chí, tư tưởng"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp các từ thành câu ghép đúng ngữ pháp:",
+    "a": "Vì trời mưa to nên đường phố ngập nước",
+    "c": [
+      "Vì trời mưa to nên đường phố ngập nước"
+    ],
+    "words": [
+      "Vì",
+      "trời",
+      "mưa",
+      "to",
+      "nên",
+      "đường",
+      "phố",
+      "ngập",
+      "nước"
+    ],
+    "type": "reorder",
+    "lo": "Sử dụng đúng quan hệ từ trong câu ghép Tiếng Việt"
+  },
+  {
+    "q": "Điền quan hệ từ phù hợp: Bé học rất chăm chỉ ___ bé luôn đứng đầu lớp.",
+    "a": "nên",
+    "c": [
+      "nên",
+      "nhưng",
+      "hoặc",
+      "vì"
+    ],
+    "type": "fill_blank",
+    "sentence": "Bé học rất chăm chỉ ___ bé luôn đứng đầu lớp.",
+    "lo": "Sử dụng đúng quan hệ từ trong câu ghép Tiếng Việt"
+  }
+]

@@ -1,0 +1,443 @@
+[
+  {
+    "q": "Quy tắc chính tả đúng khi đi với âm 'e, ê, i' là gì?",
+    "a": "K",
+    "c": [
+      "K",
+      "C",
+      "Q",
+      "P"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào sau đây là từ chỉ hoạt động?",
+    "a": "chạy bộ",
+    "c": [
+      "chạy bộ",
+      "học sinh",
+      "màu đỏ",
+      "bàn gỗ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào sau đây là từ chỉ sự vật?",
+    "a": "ngôi trường",
+    "c": [
+      "ngôi trường",
+      "xanh biếc",
+      "học bài",
+      "thơm tho"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào sau đây là từ chỉ đặc điểm?",
+    "a": "chăm chỉ",
+    "c": [
+      "chăm chỉ",
+      "quét nhà",
+      "con mèo",
+      "viết bài"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Trong câu 'Bé quét dọn phòng sạch sẽ', từ nào chỉ hoạt động?",
+    "a": "quét dọn",
+    "c": [
+      "quét dọn",
+      "Bé",
+      "sạch sẽ",
+      "phòng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Chữ 'gh' đứng trước âm nào sau đây?",
+    "a": "e, ê, i",
+    "c": [
+      "e, ê, i",
+      "a, ă, â",
+      "o, ô, ơ",
+      "u, ư, uy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Tiếng 'nghề' viết đúng chính tả với âm đầu nào?",
+    "a": "ngh",
+    "c": [
+      "ngh",
+      "ng",
+      "n",
+      "nh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ 'cao' và từ 'thấp' có quan hệ thế nào?",
+    "a": "Từ trái nghĩa",
+    "c": [
+      "Từ trái nghĩa",
+      "Từ đồng nghĩa",
+      "Từ đồng âm",
+      "Từ láy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào sau đây là từ láy?",
+    "a": "lung linh",
+    "c": [
+      "lung linh",
+      "ngôi nhà",
+      "học bài",
+      "trời xanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Dấu phẩy (,) dùng để làm gì trong câu?",
+    "a": "Ngăn cách các bộ phận của câu",
+    "c": [
+      "Ngăn cách các bộ phận của câu",
+      "Kết thúc câu hỏi",
+      "Kết thúc câu kể",
+      "Bày tỏ tình cảm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Bé chọn từ thích hợp: Chim chao ___ trên bầu trời rộng lớn.",
+    "a": "lượn",
+    "c": [
+      "lượn",
+      "chạy",
+      "bò",
+      "ngủ"
+    ],
+    "type": "fill_blank",
+    "sentence": "Chim chao ___ trên bầu trời rộng lớn.",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Điền từ chỉ đặc điểm: Nụ hoa hồng nở đỏ ___ trong vườn.",
+    "a": "thắm",
+    "c": [
+      "thắm",
+      "nhạt",
+      "đen",
+      "vàng"
+    ],
+    "type": "fill_blank",
+    "sentence": "Nụ hoa hồng nở đỏ ___ trong vườn.",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Chọn từ chỉ hoạt động phù hợp:",
+    "a": "rửa",
+    "c": [
+      "rửa",
+      "ăn",
+      "ngủ",
+      "chạy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Chọn từ trái nghĩa thích hợp: Người tốt không làm việc ___.",
+    "a": "xấu",
+    "c": [
+      "xấu",
+      "đẹp",
+      "cao",
+      "to"
+    ],
+    "type": "fill_blank",
+    "sentence": "Người tốt không làm việc ___.",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Sắp xếp lại câu thành ngữ sau:",
+    "a": "Ăn quả nhớ kẻ trồng cây",
+    "c": [
+      "Ăn quả nhớ kẻ trồng cây"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2",
+    "words": [
+      "Ăn",
+      "quả",
+      "nhớ",
+      "kẻ",
+      "trồng",
+      "cây"
+    ]
+  },
+  {
+    "q": "Sắp xếp thành câu hoàn chỉnh:",
+    "a": "Học sinh cần chăm chỉ học bài",
+    "c": [
+      "Học sinh cần chăm chỉ học bài"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2",
+    "words": [
+      "Học",
+      "sinh",
+      "cần",
+      "chăm",
+      "chỉ",
+      "học",
+      "bài"
+    ]
+  },
+  {
+    "q": "Luyện gõ từ ghép sau:",
+    "a": "truong hoc",
+    "c": [
+      "truong hoc"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Luyện gõ từ tiếng Anh:",
+    "a": "mother",
+    "c": [
+      "mother"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào viết đúng chính tả: 'chăm chỉ' hay 'trăm trỉ'?",
+    "a": "CHĂM CHỈ",
+    "c": [
+      "CHĂM CHỈ",
+      "TRĂM TRỈ",
+      "CHĂM TRỈ",
+      "TRĂM CHỈ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào viết đúng: 'sáng tạo' hay 'xáng tạo'?",
+    "a": "SÁNG TẠO",
+    "c": [
+      "SÁNG TẠO",
+      "XÁNG TẠO",
+      "XÁNG TẠU",
+      "SÁNG TẠU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ trái nghĩa với 'vui' là từ nào?",
+    "a": "BUỒN",
+    "c": [
+      "BUỒN",
+      "VUI VẺ",
+      "HẠNH PHÚC",
+      "PHẤN KHỞI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ trái nghĩa với 'to' là từ nào?",
+    "a": "NHỎ",
+    "c": [
+      "NHỎ",
+      "DÀI",
+      "CAO",
+      "RỘNG"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào viết đúng chính tả: 'giếng nước' hay 'diếng nước'?",
+    "a": "GIẾNG NƯỚC",
+    "c": [
+      "GIẾNG NƯỚC",
+      "DIẾNG NƯỚC",
+      "ZIẾNG NƯỚC",
+      "JIẾNG NƯỚC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Điền từ thích hợp: Con ___ là loài vật có cánh, biết bay và cho trứng.",
+    "a": "GÀ",
+    "c": [
+      "GÀ",
+      "MÈO",
+      "CÁ",
+      "CHÓ"
+    ],
+    "type": "fill_blank",
+    "sentence": "Con ___ là loài vật có cánh, biết bay và cho trứng.",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ trái nghĩa với 'nhanh' là?",
+    "a": "CHẬM",
+    "c": [
+      "CHẬM",
+      "NHANH NHẸN",
+      "TỐC ĐỘ",
+      "VỘI VÃ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào viết đúng: 'loài người' hay 'loài ngừời'?",
+    "a": "LOÀI NGƯỜI",
+    "c": [
+      "LOÀI NGƯỜI",
+      "LOÀI NGỪỜI",
+      "LOẠI NGƯỜI",
+      "LOẠI NGỪỜI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Từ nào là từ chỉ người trong câu: 'Bác sĩ đang khám bệnh cho bệnh nhân'?",
+    "a": "Bác sĩ, bệnh nhân",
+    "c": [
+      "Bác sĩ, bệnh nhân",
+      "Khám bệnh",
+      "Cho",
+      "Đang"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Cặp từ nào dưới đây là cặp từ trái nghĩa?",
+    "a": "Chăm chỉ - Lười biếng",
+    "c": [
+      "Chăm chỉ - Lười biếng",
+      "Siêng năng - Cần cù",
+      "Hiền lành - Tốt bụng",
+      "Thông minh - Sáng dạ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Câu nào dưới đây là câu nêu hoạt động?",
+    "a": "Đàn chim đang bay về tổ.",
+    "c": [
+      "Đàn chim đang bay về tổ.",
+      "Bầu trời xanh bao la.",
+      "Hoa hồng rất thơm.",
+      "Em là học sinh lớp 2."
+    ],
+    "type": "multiple_choice",
+    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+  },
+  {
+    "q": "Ghép từ với nghĩa phù hợp (từ đồng nghĩa):",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết và phân biệt từ đồng nghĩa trong Tiếng Việt",
+    "pairs": [
+      {
+        "left": "Vui",
+        "right": "Mừng"
+      },
+      {
+        "left": "Buồn",
+        "right": "Đau khổ"
+      },
+      {
+        "left": "Đẹp",
+        "right": "Xinh"
+      },
+      {
+        "left": "To",
+        "right": "Lớn"
+      }
+    ]
+  },
+  {
+    "q": "Sắp xếp các từ thành câu hoàn chỉnh:",
+    "a": "Chúng em học bài chăm chỉ",
+    "c": [
+      "Chúng em học bài chăm chỉ"
+    ],
+    "words": [
+      "Chúng",
+      "em",
+      "học",
+      "bài",
+      "chăm",
+      "chỉ"
+    ],
+    "type": "reorder",
+    "lo": "Rèn luyện kỹ năng đặt câu đúng ngữ pháp"
+  },
+  {
+    "q": "Điền từ thích hợp: Trời ___ ướt hết sân trường, học sinh phải ở trong lớp.",
+    "a": "mưa",
+    "c": [
+      "mưa",
+      "nắng",
+      "gió",
+      "bão"
+    ],
+    "type": "fill_blank",
+    "sentence": "Trời ___ ướt hết sân trường, học sinh phải ở trong lớp.",
+    "lo": "Rèn luyện sử dụng từ ngữ đúng ngữ cảnh câu văn"
+  },
+  {
+    "q": "Ghép vế đầu và vế sau của câu tục ngữ:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết và hiểu ý nghĩa các câu tục ngữ về học tập và thiên nhiên",
+    "pairs": [
+      {
+        "left": "Học ăn",
+        "right": "học nói"
+      },
+      {
+        "left": "Đi một ngày đàng",
+        "right": "học một sàng khôn"
+      },
+      {
+        "left": "Thương người",
+        "right": "như thể thương thân"
+      },
+      {
+        "left": "Cần cù",
+        "right": "bù thông minh"
+      }
+    ]
+  }
+]

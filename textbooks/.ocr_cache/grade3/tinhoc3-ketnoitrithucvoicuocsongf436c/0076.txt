@@ -1,0 +1,23 @@
+BẢNG GIẢI THÍCH THUẬT NGỮ
+Bài trình chiều | Được tạo ra bởi phần mềm trình chiều để giúp 50
+em trình bày ý tưởng một cách thuận tiện với
+mọi người.
+Biểu tượng Là hình ảnh nhỏ đại diện cho một phần mềm, một | 21
+tệp, một thư mục....
+Bộ phận của máy tính có chức năng xử li thông tin.
+Con trỏ chuột | Là hình ảnh nhỏ trên màn hình máy tính, thay đổi 20
+vị trí theo sự di chuyển của chuột máy tính.
+Khởi động Sau khi em nhắn nút công tắc trên thân máy, máy |_ 21
+máy tính tính được bật và thực hiện một dãy các hành
+động để sẵn sàng cho em sử dụng.
+Khởi động Sau khi em nháy đúp chuột vào biểu tượng phần 22
+phần mềm mềm trên màn hình nền, máy tính mở phần mềm
+để sẵn sàng cho em sử dụng.
+Màn hình nền: | Nơi các biểu tượng được sắp xếp trên màn hình 21
+máy tính.
+Mật khẩu Là một dãy gồm các chữ, só, kí hiệu,... bí mật A7
+mà em cần ghi nhớ để đăng nhập vào máy tính
+hoặc phần mềm khi cần thiết.
+Máy tính Bao gồm máy tinh để bàn, máy tinh xách tay, 45
+thông dụng máy tính bảng, điện thoại thông minh...
+IT- Thiết bị nhớ __ | Là vật lưu trữ thông tin như thẻ nhớ, USB,...

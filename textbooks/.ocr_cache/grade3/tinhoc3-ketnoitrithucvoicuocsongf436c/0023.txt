@@ -1,0 +1,32 @@
+NHIỆM VỤ l3| Thực hiện các thao tác với chuột trên màn hình nền:
+di chuyển chuột, nháy chuột để chọn biểu tượng, kéo thả chuột đẻ di chuyển
+một biểu tượng đến vị trí khác, nháy đúp chuột để khởi động phần mềm,
+nháy chuột đê thoát khỏi phân mêm.
+HƯỚNG DẪN
+s _ Di chuyển chuột máy tính trên mặt bàn, quan sát sự di chuyền của con trỏ
+chuột trên màn hình nên.
+e  Nháy chuột vào một biểu tượng trên màn hình nền, quan sát sự thay đổi
+của biểu tượng trên màn hình nền (Hình 26.a).
+e _ Nháy nút phải chuột vào một biểu tượng trên màn hình nền, quan sát sự
+thay đổi trên màn hình nên (Hình 26.b).
+|... Open
+)ị| | Xóm
+LAN ›-‹:p‹-› hoc Ảo Man
+rỊ 4 Copy Tofelder..
+* r⁄ 'Move To folder...
+Nức TY. me ›
+Cut
+Cepy
+là /) 'Create shortcut.
+Delete
+=".Ồ—D
+a) Nháy chuột b) Nháy nút phải chuột
+Hình 26. Nháy chuột, nháy nút phải chuột vào biểu tượng
+e _ Nháy chuột vào một biểu tượng trên _ s Ñ L-
+màn hình nền, kéo thả chuột để di " ..ố. ` -
+chuyền biểu tượng đó đến vị trí khác m
+bBbBBRfRB |
+P suyNu »*
+Š &?
+Hình 27. Kéo thả chuột để
+——> di chuyển biểu tượng

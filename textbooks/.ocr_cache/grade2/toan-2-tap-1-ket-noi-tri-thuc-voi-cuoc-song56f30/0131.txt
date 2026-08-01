@@ -1,0 +1,43 @@
+€C) Tìm ba điểm thẳng hàng có trong hình dưới đây.
+M R N
+/
+lại b
+
+€ vẽ (heo mẫu).
+E22 ---.-...L..L...:.....(4⁄....--‹
+KH --.....-.........-4.............-.-'1
+IBRRRRRE==---—====nnnnEnnnnnnr-—-—--¬— -angHHHNNB
+E1... aãs. Bế... .G.ẽk.k.-.
+[Li†TI!I!IS...... l: :. ga a... 6 | A1111 14lLÌ|
+FHLE-EIM....... | '£.ẽố.ố. . ga.
+FLHL+-EIHH....._.. .'' sa. ẽốẽẼ 0x... 1 Ự LẺ ỦẺ|
+EL..LL-.................Ề ......__.._-._-
+[LiTITI1II1I..L...........éố6 4ˆ. .((1L 111414 LÌỊ|
+⁄/E| HEEE HE _-: --¬
+FLHEERE 6A... ... j5. sa all TỰ 77h
+LE—— —_— _-. 3... -.......
+L[T11Il 1k... E.......' l6 |6 l5 5. L  11lL1LL1LỊ|
+Frr/TTISSTE.4..'E. ..(Ô,ôô| á... (TÔ | 1IUL'LÌỈ
+LLLITI1I%SZA.LE....(.j“,|J!0Ì06  . À2 (l1 111 |L|LÌÁỤỊ
+LE-L-L.-.4.._......._7). A2... (aa..ẼỀẺ......-
+FIBRRRHRNNF ›- 5 5N 5 5 5 55 5 5 BHHB- ---: - --- :IRRRRRHHRHRHNN|
+IBIRRRHRNHE /EHb^ÐREESSSSSSRRKRSSSS (5Sà»—ASNEHEHEHRHRHERRRR
+LLLLTLLIZTLTITIN.LLL+LL+LTLTTTTTITZLLTLTLITIT TS. L1LLTT]
+KG ni sis sa - -.. b.. .......... a...a-
+FEETTTRHZ+1TTITLITITIXN.LLITỷ1LL1Ị121111111111111{1+L1ỊỊ
+IBRRRRNN'2ERSSESEPhBPb ~5sFrRnEnrnF iEnnnn=rxnnnnnninnn
+LLLLIHZ L+LE- bị || LÍ NG|L| C12 1121111 11111111LỊ]Ị
+IBNNN'/EBHNE1S 5NI31N11:1E0Ei6 S8 511/1 (8B N5 511151 1ã ãnäãnäHnBRHBHNHHN
+K2  =----.....-—- ---‹--LO...........
+IBRRRRRRRRRFFP~ERR¬EYE-EEWRN=E=ä+YTS-6ENRRRRRRRRBRB
+LLLELTLTTTTIT3117114111111010TI1À 11LPLR1L-1111111LLLÌLIỊ
+LLLLLLLLLLII(  LLÌÀ(( (FC IkLQ li II ILLLL)
+
+>2 luyện bộp
+ai Vẽ đoạn thẳng AB dài 5 cm.
+b) Vẽ đoạn thẳng CD dài 7 cm.
+ a) Tính độ dài đoạn thẳng BC.
+đà
+A 6cm B ? em S
+13 cm
+130

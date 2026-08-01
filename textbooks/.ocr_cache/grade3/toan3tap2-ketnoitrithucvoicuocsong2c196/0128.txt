@@ -1,0 +1,62 @@
+P= H + SG ^ ˆ
+MỘT: SỐ THUẠT NGỮ DUNG TRONG SẠCH
+Thuật ngữ Trang
+
+B
+
+bảng số liệu 104
+
+€
+
+chu vi hình chữ nhật 25
+
+chu vi hình tam giác 21
+
+chu vi hình tứ giác 21
+
+chu vi hình vuông 2ó
+
+D
+
+diện tích 26
+
+diện tích hình chữ nhật sO
+
+diện tích hình vuông 542
+
+G
+
+ghi chép số liệu 105
+
+N
+
+năm 79
+
+P
+
+phân loại số liệu 105
+
+số có bốn chữ số 4
+
+số có năm chữ số 56
+
+số La Mã 12
+
+số liệu 105
+
+T
+
+tháng 79
+
+thu thập số liệu 105
+
+tiền Việt Nam 85
+
+x
+
+xăng-ti-mét vuông 28
+
+xem đồng hồ 77
+
+xem lịch 8
+127

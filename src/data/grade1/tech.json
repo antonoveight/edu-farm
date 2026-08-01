@@ -1,0 +1,317 @@
+[
+  {
+    "q": "Khi ngồi học máy tính, lưng của bé phải giữ như thế nào?",
+    "a": "THẲNG",
+    "c": [
+      "THẲNG",
+      "KHÒM",
+      "NGHIÊNG",
+      "NẰM CHƠI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tư thế ngồi đúng khi sử dụng máy tính"
+  },
+  {
+    "q": "Mắt bé nên cách màn hình máy tính khoảng bao nhiêu cm?",
+    "a": "50 ĐẾN 80 CM",
+    "c": [
+      "50 ĐẾN 80 CM",
+      "10 CM",
+      "200 CM",
+      "5 CM"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bảo vệ thị lực khi sử dụng màn hình máy tính"
+  },
+  {
+    "q": "Chuột máy tính dùng để làm gì?",
+    "a": "ĐIỀU KHIỂN CON TRỎ",
+    "c": [
+      "ĐIỀU KHIỂN CON TRỎ",
+      "ĐÁNH CHỮ",
+      "IN GIẤY",
+      "PHÁT NHẠC"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết chức năng của chuột máy tính"
+  },
+  {
+    "q": "Bộ phận nào của máy tính hiển thị hình ảnh và văn bản?",
+    "a": "MÀN HÌNH",
+    "c": [
+      "MÀN HÌNH",
+      "BÀN PHÍM",
+      "CHUỘT",
+      "LOA"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết các thiết bị cơ bản của máy tính"
+  },
+  {
+    "q": "Khi dùng chuột, ngón trỏ đặt lên nút nào của chuột?",
+    "a": "NÚT TRÁI",
+    "c": [
+      "NÚT TRÁI",
+      "NÚT PHẢI",
+      "CON LĂN",
+      "DƯỚI ĐẾ CHUỘT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng đúng chuột máy tính"
+  },
+  {
+    "q": "Bàn phím máy tính dùng để làm gì?",
+    "a": "GÕ CHỮ VÀ SỐ",
+    "c": [
+      "GÕ CHỮ VÀ SỐ",
+      "PHÁT ÂM NHẠC",
+      "HIỂN THỊ ẢNH",
+      "IN TÀI LIỆU"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết chức năng bàn phím máy tính"
+  },
+  {
+    "q": "Bộ phận nào của máy tính phát ra âm thanh?",
+    "a": "LOA",
+    "c": [
+      "LOA",
+      "MÀN HÌNH",
+      "BÀN PHÍM",
+      "CHUỘT"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết chức năng loa máy tính"
+  },
+  {
+    "q": "Phím nào dài nhất trên bàn phím máy tính?",
+    "a": "PHÍM CÁCH (SPACE)",
+    "c": [
+      "PHÍM CÁCH (SPACE)",
+      "PHÍM ENTER",
+      "PHÍM SHIFT",
+      "PHÍM CTRL"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết phím đặc biệt trên bàn phím"
+  },
+  {
+    "q": "Để bật/tắt máy tính ta nhấn nút nào?",
+    "a": "NÚT NGUỒN (POWER)",
+    "c": [
+      "NÚT NGUỒN (POWER)",
+      "PHÍM ENTER",
+      "PHÍM ESC",
+      "PHÍM DELETE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết nút nguồn máy tính"
+  },
+  {
+    "q": "Phím nào dùng để xóa chữ vừa gõ?",
+    "a": "BACKSPACE",
+    "c": [
+      "BACKSPACE",
+      "ENTER",
+      "SHIFT",
+      "SPACE"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sử dụng phím Backspace để xóa chữ"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để LƯU (Save) tài liệu nhé:",
+    "a": "ctrl+s",
+    "c": [
+      "ctrl+s"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt lưu tài liệu Ctrl+S"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để HOÀN TÁC (Undo) hành động vừa làm sai:",
+    "a": "ctrl+z",
+    "c": [
+      "ctrl+z"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt hoàn tác Ctrl+Z"
+  },
+  {
+    "q": "Luyện gõ các chữ cái hàng cơ sở F và J:",
+    "a": "asdfjkl;",
+    "c": [
+      "asdfjkl;"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím hàng cơ sở"
+  },
+  {
+    "q": "Luyện gõ từ đơn giản:",
+    "a": "abc",
+    "c": [
+      "abc"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím cơ bản"
+  },
+  {
+    "q": "Luyện gõ các ký tự hàng cơ sở:",
+    "a": "dfjk",
+    "c": [
+      "dfjk"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím hàng cơ sở"
+  },
+  {
+    "q": "Khi ngồi học máy tính, lưng phải như thế nào?",
+    "a": "THẲNG",
+    "c": [
+      "THẲNG",
+      "KHÒM",
+      "NGHIÊNG",
+      "NẰM CHƠI"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tư thế ngồi đúng khi sử dụng máy tính"
+  },
+  {
+    "q": "Màn hình máy tính hiển thị cái gì?",
+    "a": "HÌNH ẢNH VÀ CHỮ",
+    "c": [
+      "HÌNH ẢNH VÀ CHỮ",
+      "TIẾNG NÓI",
+      "BÀN PHÍM",
+      "PIN"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết chức năng màn hình máy tính"
+  },
+  {
+    "q": "Trong dãy số từ 1 đến 10, số nào lớn nhất?",
+    "a": "10",
+    "c": [
+      "10",
+      "1",
+      "5",
+      "9"
+    ],
+    "type": "multiple_choice",
+    "lo": "Làm quen với máy tính và các khái niệm cơ bản"
+  },
+  {
+    "q": "Thiết bị nào của máy tính dùng để gõ chữ và số?",
+    "a": "Bàn phím",
+    "c": [
+      "Bàn phím",
+      "Chuột",
+      "Màn hình",
+      "Thân máy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết thiết bị gõ chữ trên máy tính"
+  },
+  {
+    "q": "Khi muốn di chuyển con trỏ trên màn hình máy tính, em cần sử dụng thiết bị nào?",
+    "a": "Chuột máy tính",
+    "c": [
+      "Chuột máy tính",
+      "Bàn phím",
+      "Loa",
+      "Máy in"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhận biết thiết bị điều khiển con trỏ máy tính"
+  },
+  {
+    "q": "Ghép thiết bị máy tính với chức năng đúng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Nhận biết các thiết bị cơ bản của máy tính và chức năng tương ứng",
+    "pairs": [
+      {
+        "left": "Bàn phím",
+        "right": "Gõ chữ và số"
+      },
+      {
+        "left": "Chuột",
+        "right": "Di chuyển con trỏ"
+      },
+      {
+        "left": "Màn hình",
+        "right": "Hiển thị hình ảnh"
+      },
+      {
+        "left": "Loa",
+        "right": "Phát âm thanh"
+      }
+    ]
+  },
+  {
+    "q": "Ghép phím với chức năng tương ứng:",
+    "a": "matching_done",
+    "c": [
+      "matching_done"
+    ],
+    "type": "matching",
+    "lo": "Sử dụng đúng các phím đặc biệt trên bàn phím máy tính",
+    "pairs": [
+      {
+        "left": "Backspace",
+        "right": "Xóa chữ vừa gõ"
+      },
+      {
+        "left": "Enter",
+        "right": "Xuống hàng hoặc xác nhận"
+      },
+      {
+        "left": "Space",
+        "right": "Tạo khoảng cách"
+      },
+      {
+        "left": "Shift",
+        "right": "Viết chữ in hoa"
+      }
+    ]
+  },
+  {
+    "q": "Luyện gõ chuỗi chữ hàng cơ sở:",
+    "a": "asdf jkl",
+    "c": [
+      "asdf jkl"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím hàng cơ sở trên bàn phím QWERTY"
+  },
+  {
+    "q": "Luyện gõ từ đơn giản:",
+    "a": "may tinh",
+    "c": [
+      "may tinh"
+    ],
+    "type": "typing",
+    "lo": "Rèn luyện kỹ năng gõ phím cơ bản"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để SAO CHÉP (Copy) văn bản:",
+    "a": "ctrl+c",
+    "c": [
+      "ctrl+c"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt sao chép Ctrl+C trong soạn thảo văn bản"
+  },
+  {
+    "q": "Bé hãy nhấn tổ hợp phím để DÁN (Paste) văn bản:",
+    "a": "ctrl+v",
+    "c": [
+      "ctrl+v"
+    ],
+    "type": "shortcut",
+    "lo": "Thành thạo phím tắt dán Ctrl+V trong soạn thảo văn bản"
+  }
+]

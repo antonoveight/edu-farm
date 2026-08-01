@@ -1,0 +1,29 @@
+£. TẠO VÀ SỬ DỤNG BIẾN
+@ a) Tạo biến
+Trong Scratch, ngoài biến có sẵn, em có thể tạo biến với tên tự đặt.
+Các lệnh về biến được đặt trong nhóm lệnh ©ác biến: só.
+Để tạo biến, em sử dụng lệnh và đặt tên cho biến như minh
+hoạ ở Hình 89. Khi đó một biến mới được tạo như minh hoạ ở Hình 90.
+Biến mới x
+Tên biến mới:
+®Cho tất cả nhân  © Chỉ nhân vật Gícbiên số
+vật này
+Tạo một biến.
+B—. sœ®
+Hình 89. Tạo biến Hình 90. Kết quả tạo biến
+Lưu ý: Nháy chuột chọn hộp kiểm ngay trước tên biến như minh hoạ ở Hình 90
+để hiển thị giá trị của biến trên sân kháu.
+b) Đặt giá trị cho biến
+Em sử dụng lệnh để đặt giá trị cho biến và lệnh
+e2 ¬4~ 230M6) để thay đổi giá trị của biến như minh hoạ ở Hình 91
+và Hình 92.
+Giá trị của biến sẽ
+Ôchứa || Ô chứa giá được cộng thêm
+tên biến || trị của biến giá trị trong ô này
+đạt Tuổiy thành #ẰỀ tayđổi Tuổi v mótlưong §Ề
+Hình 91. Đặt giá trị cho biến Hình 92. Thay đổi giá trị của biến
+c) Hiễn thị giá trị của biến ra màn hình
+sauen đỒ ...„
+Tương tự như cách hiển thị giá trị của biến , em sử dụng lệnh
+hoặc để hiển thị giá trị của biến.
+69

@@ -1,0 +1,16 @@
+@ò một trung tàm chăm sóc mèo, mỗi chú mèo được đeo một thẻ số như
+dưới đây:
+®x„z lề ý
+B D
+Chú mèo nào đeo số bé nhất? Chú mèo nào đeo số lớn nhất?
+@ve 4 điểm rồi ghi các số (như hình vẽ). Nói các điểm đó theo thứ tự các
+số từ bé đến lớn.
+657 e e /65
+567 e e 756
+@ Mỗi bạn Nam, Việt và Mai chọn một cửa thần kì đến các hành tinh khác
+nhau. Biết Việt chọn cửa ghi số lớn nhất, Nam chọn cửa ghi số bé nhất.
+Hỏi mỗi bạn sẽ đến hành tinh nào?
+"¬—_—_—_—_—_—_ 4
+` |
+—.
+60 N

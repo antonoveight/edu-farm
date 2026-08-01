@@ -1,0 +1,32 @@
+7 BÀI `
+THỰC HÀNH SỬ DỤNG LỆNH LẶP
+Sau bài này em sẽ:
+». Sử dụng được lệnh lặp trong một số chương trình đơn giản.
+" . Chạy thử được chương trình.
+Øo KHỞI ĐỘNG
+Sau khi học về cấu trúc lặp, bạn Khoa có ý tưởng tạo chương trình mô tả chú
+vẹt bay liên tục trên sân khấu như sau:
+— Nhân vật: vẹt.
+—_ Sân khấu: phông nền bầu trời hoặc nền mặc định.
+— Hành động của nhân vật: lặp lại liên tục các hành động sau:
+1. Di chuyển 10 bước. 2. Vỗ cánh.
+3. Đợi 1 giây. 4. Nếu chạm cạnh sân kháu thì bật lại.
+Em hãy cùng bạn Khoa thực hành tạo chương trình đó nhé.
+THỰC HÀNH
+NHIỆM VỤ m Tạo khối lệnh điều khiển nhân vật vẹt thực hiện tuần tự các
+hành động:
+1. Di chuyển 10 bước. 2. Vỗ cánh.
+3. Đợi 1 giây. 4. Nếu chạm cạnh sân kháu thì bật lại.
+Hướng dẫn »w
+Bước ï: Xoá nhân vật mèo, thêm nhân vật (trong chủ đề Động vật).
+8ước 2: Sử dụng các lệnh trong bảng sau để tạo khối lệnh như minh hoạ
+trong Hình 78.
+Hành động ©
+R : di chuyển bước
+Vẹt di chuyền 10 bước.
+trang phục kế tiếp
+Ã =4 trang phục kế tiếp
+Nếu chạm cạnh sân kháu Hình 78. Khối lệnh
+thì bật lại. được lặp
+Bước 3: Lưu tệp với tên FianhiDongCuaVet vào thư mục của em.
+59
