@@ -4889,11 +4889,8 @@ function generateSpecificSubjectQuestion(subject, mode) {
                 qType = 'shortcut';
             } else if (lowerQ.includes('sắp xếp') || lowerQ.includes('ghép câu') || (candidate && candidate.words)) {
                 qType = 'reorder';
-            } else if (normSubject === 'viet' && (ans.length <= 15 && Math.random() < 0.45)) {
-                qType = 'typing';
             } else {
-                const typesPool = ['multiple_choice', 'typing', 'fill_blank', 'multiple_choice'];
-                qType = typesPool[Math.floor(Math.random() * typesPool.length)];
+                qType = 'multiple_choice';
             }
         }
     }
@@ -4901,11 +4898,8 @@ function generateSpecificSubjectQuestion(subject, mode) {
     // Anti-repeat: Tránh cùng loại bài liên tiếp ở chế độ Nông Trại
     const isFarmTask = activeTask && !isMapTask && !isBossTask;
     if (isFarmTask && qType === 'multiple_choice' && activeTask.lastQType === 'multiple_choice') {
-        // Đã là multiple_choice liên tiếp → đổi sang math_input hoặc typing
         if (normSubject === 'math') {
             qType = 'math_input';
-        } else if (ans.length <= 15 && !ans.includes(' ')) {
-            qType = 'typing';
         }
     }
     if (activeTask) activeTask.lastQType = qType;
@@ -5093,6 +5087,93 @@ function generateSpecificSubjectQuestion(subject, mode) {
                 verifyChoiceAnswer(constructed);
             }
         };
+    } else if (qType === 'matching') {
+        const pairs = (candidate && candidate.pairs) ? candidate.pairs : [];
+        if (pairs.length === 0) {
+            // Fallback if missing pairs
+            verifyChoiceAnswer(ans);
+            return;
+        }
+        
+        let leftItems = shuffleArray(pairs.map(p => p.left));
+        let rightItems = shuffleArray(pairs.map(p => p.right));
+        let selectedLeft = null;
+        let matchedCount = 0;
+        
+        panel.innerHTML = `
+            <div style="text-align: center; margin-top: 10px;">
+                <div style="font-size: 14px; color: #94a3b8; margin-bottom: 12px; font-style: italic;">Chạm vào một mục bên trái, sau đó chạm vào mục tương ứng bên phải để ghép cặp:</div>
+                <div style="display: flex; justify-content: center; gap: 20px; align-items: stretch;">
+                    <div id="match-left-col" style="display: flex; flex-direction: column; gap: 10px;"></div>
+                    <div id="match-right-col" style="display: flex; flex-direction: column; gap: 10px;"></div>
+                </div>
+            </div>
+        `;
+        
+        const leftCol = document.getElementById("match-left-col");
+        const rightCol = document.getElementById("match-right-col");
+        
+        const cardStyle = "min-width: 130px; padding: 12px 8px; background: #334155; border: 2px solid #475569; border-radius: 12px; color: #f8fafc; font-weight: bold; cursor: pointer; transition: all 0.2s; font-size: 14px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);";
+        
+        leftItems.forEach(item => {
+            const btn = document.createElement("button");
+            btn.className = "btn-mc-option";
+            btn.style.cssText = cardStyle;
+            btn.innerText = item;
+            btn.onclick = () => {
+                if (btn.disabled) return;
+                // Deselect others
+                Array.from(leftCol.children).forEach(b => {
+                    if (!b.disabled) { b.style.borderColor = "#475569"; b.style.background = "#334155"; }
+                });
+                selectedLeft = item;
+                btn.style.borderColor = "#3b82f6";
+                btn.style.background = "#1e3a8a";
+            };
+            leftCol.appendChild(btn);
+        });
+        
+        rightItems.forEach(item => {
+            const btn = document.createElement("button");
+            btn.className = "btn-mc-option";
+            btn.style.cssText = cardStyle;
+            btn.innerText = item;
+            btn.onclick = () => {
+                if (btn.disabled || !selectedLeft) return;
+                
+                const isMatch = pairs.some(p => p.left === selectedLeft && p.right === item);
+                if (isMatch) {
+                    btn.style.borderColor = "#10b981";
+                    btn.style.background = "#064e3b";
+                    btn.disabled = true;
+                    
+                    const lBtn = Array.from(leftCol.children).find(b => b.innerText === selectedLeft);
+                    if (lBtn) {
+                        lBtn.style.borderColor = "#10b981";
+                        lBtn.style.background = "#064e3b";
+                        lBtn.disabled = true;
+                    }
+                    selectedLeft = null;
+                    matchedCount++;
+                    if (matchedCount === pairs.length) {
+                        setTimeout(() => {
+                            if (isMapTask) checkMapMultipleChoice(ans, btn);
+                            else verifyChoiceAnswer(ans);
+                        }, 500);
+                    }
+                } else {
+                    const originalBg = btn.style.background;
+                    const originalBorder = btn.style.borderColor;
+                    btn.style.borderColor = "#e11d48";
+                    btn.style.background = "#881337";
+                    setTimeout(() => {
+                        btn.style.borderColor = originalBorder;
+                        btn.style.background = originalBg;
+                    }, 500);
+                }
+            };
+            rightCol.appendChild(btn);
+        });
     } else if (qType === 'shortcut') {
         const grid = document.createElement("div");
         grid.className = "mc-grid";
