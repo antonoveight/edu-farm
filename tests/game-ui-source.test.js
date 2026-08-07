@@ -17,14 +17,16 @@ const gameCss = fs.readFileSync(
 );
 
 describe('game exercise rendering', () => {
-    test('renders true/false as its own exercise branch before reorder', () => {
+    test('renders true/false as one top-level exercise branch', () => {
         const branches = gameScript.match(/else if \(qType === 'true_false'\)/g) || [];
         const trueFalseIndex = gameScript.indexOf("else if (qType === 'true_false')");
-        const reorderIndex = gameScript.indexOf("else if (qType === 'reorder')");
+        const reorderStateStart = gameScript.indexOf('function renderReorderState()');
+        const reorderStateEnd = gameScript.indexOf("else if (qType === 'matching')", reorderStateStart);
+        const reorderState = gameScript.slice(reorderStateStart, reorderStateEnd);
 
         expect(branches).toHaveLength(1);
         expect(trueFalseIndex).toBeGreaterThan(-1);
-        expect(trueFalseIndex).toBeLessThan(reorderIndex);
+        expect(reorderState).not.toContain("qType === 'true_false'");
     });
 
     test('offers exactly the two expected true/false answers', () => {
@@ -33,9 +35,14 @@ describe('game exercise rendering', () => {
         const branch = gameScript.slice(start, end);
 
         expect(branch.match(/class=\"tf-btn/g)).toHaveLength(2);
-        expect(branch).toContain("submitCurrentAnswer('Đúng', this)");
-        expect(branch).toContain("submitCurrentAnswer('Sai', this)");
+        expect(branch).toContain("submitCurrentAnswer(\\'\\u0110úng\\', this)");
+        expect(branch).toContain("submitCurrentAnswer(\\'Sai\\', this)");
         expect(branch).not.toContain('options.forEach');
+    });
+
+    test('does not expose dummy placeholder answers', () => {
+        expect(gameScript).not.toContain('"Lựa chọn " +');
+        expect(gameScript).toContain('Number.isFinite(numericBase)');
     });
 
     test('routes treasure answers through the multi-question handler', () => {
