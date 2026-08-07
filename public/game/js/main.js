@@ -112,7 +112,15 @@ function getSeedConfig() {
                     locked: "Tích đủ xu và giải đố để mở khóa ô đất nhé! 🔓",
                     acid_storm: "Mưa Axit tới! Giải bài tập ngay để tạo Lá Chắn! ⛈️",
                     egg: "Giải đố liên tục để trứng thần kỳ mau nở nhé! 🥚",
-                    boss: "Boss xuất hiện! Giải toán thật nhanh để tấn công! ⚔️"
+                    boss: "Boss xuất hiện! Giải toán thật nhanh để tấn công! ⚔️",
+                    map: "Khám phá bản đồ và giải đố để mở vùng đất mới! 🗺️",
+                    tab_farm: "Chào bé! Hãy chăm sóc cây trồng của mình nhé! 🌿",
+                    tab_market: "Đây là Chợ! Bé mua hạt giống hoặc bán nông sản tại đây! 🛒",
+                    tab_pet: "Ấp trứng mỗi ngày để thú cưng ra đời nhé! Giải nhiều bài tập hơn! 🥚",
+                    tab_arena: "Đấu Trường Boss! Trả lời đúng để gây sát thương! Cố lên bé! ⚔️",
+                    tab_daily: "Nhiệm vụ hàng ngày giúp bé kiếm thêm xu và hạt giống! 📋",
+                    tab_town: "Thị Trấn của bé! Nâng cấp các tòa nhà để mở thêm tính năng! 🏘️",
+                    tab_map: "Bản Đồ Học Tập! Giải đố để mở khóa vùng đất mới nhé! 🗺️"
                 }
             },
             cyber: {
@@ -127,7 +135,15 @@ function getSeedConfig() {
                     locked: "Giải đố và dùng xu để mở cổng liên kết nhé! 🔓",
                     acid_storm: "Mã axit xâm nhập! Hãy giải toán lập Lá Chắn! ⛈️",
                     egg: "Nạp tri thức để sinh vật robot tiến hóa nhé! 🥚",
-                    boss: "Chế độ bạo kích! Tính toán nhanh để diệt Boss! ⚔️"
+                    boss: "Chế độ bạo kích! Tính toán nhanh để diệt Boss! ⚔️",
+                    map: "Scan bản đồ để phát hiện vùng dữ liệu mới! 🗺️",
+                    tab_farm: "Hệ thống farm đang chạy! Kiểm tra cây trồng nào! 🌿",
+                    tab_market: "Truy cập chợ data! Mua/bán tài nguyên để mở rộng farm nhé! 🛒",
+                    tab_pet: "Đơn vị robot đang ấp! Giải toán để tăng tiến trình ủ trứng! 🥚",
+                    tab_arena: "Chế độ chiến đấu! Trả lời đúng để gây damage tối đa! ⚔️",
+                    tab_daily: "Nhiệm vụ hệ thống! Hoàn thành để nhận phần thưởng! 📋",
+                    tab_town: "Khu trung tâm! Nâng cấp module để mở tính năng mới! 🏘️",
+                    tab_map: "Bản đồ kết nối! Giải đố để mở khóa vùng server mới nhé! 🗺️"
                 }
             },
             magic: {
@@ -140,9 +156,17 @@ function getSeedConfig() {
                     dry: "Cạn linh lực! Bé tưới nước thiêng cho cây đi! 💧",
                     pest: "Yêu quái quấy phá! Nhấp vào để tung ma pháp diệt! 🐛",
                     locked: "Giải ma thuật cổ xưa để khai hoang đất nhé! 🔓",
-                    acid_storm: "Bão hắc hắc ám tới! Niệm chú Lá Chắn ngay! ⛈️",
+                    acid_storm: "Bão hắc ám tới! Niệm chú Lá Chắn ngay! ⛈️",
                     egg: "Trứng rồng đang tích tụ ma pháp để nở đấy! 🥚",
-                    boss: "Đại chiến nổ ra! Giải toán triệu hồi sấm sét! ⚔️"
+                    boss: "Đại chiến nổ ra! Giải toán triệu hồi sấm sét! ⚔️",
+                    map: "Bản đồ phép thuật chờ được khám phá! 🗺️",
+                    tab_farm: "Vườn phép thuật! Chăm sóc cây để thu hoạch pháp lực nhé! 🌸",
+                    tab_market: "Chợ huyền bí! Trao đổi nguyên liệu để tăng sức mạnh nhé! 🛒",
+                    tab_pet: "Trứng rồng thiêng! Giải đố để trứng tích đủ phép nở ra nhé! 🥚",
+                    tab_arena: "Đấu trường ma pháp! Triệu hồi sức mạnh qua tri thức! ⚔️",
+                    tab_daily: "Nhiệm vụ huyền thuật! Hoàn thành để nhận pháp lực! 📋",
+                    tab_town: "Thành phố phù thủy! Nâng cấp tòa tháp để mở phép mới! 🏘️",
+                    tab_map: "Bản đồ bí ẩn! Giải câu đố cổ để khai phá vùng đất mới! 🗺️"
                 }
             }
         };
@@ -497,19 +521,17 @@ function getSeedConfig() {
             const box = document.getElementById("assistant-box");
             if (!box) return;
 
-            // Nếu tắt hướng dẫn, hoặc đang ẩn màn hình game, hoặc không ở tab nông trại
-            if (!gameState.guideEnabled || document.getElementById("screen-game").classList.contains("screen-hidden") || activeTab !== "farm") {
+            // Màn hình game đang ẩn — không làm gì
+            if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+
+            // TRƯỜNG HỢP 1: Trợ lý TẮT → thu nhỏ góc dưới phải, vẫn hiển thị
+            if (!gameState.guideEnabled) {
                 clearHighlight();
-                // Khi TẮT: thu nhỏ trợ lý về góc dưới phải, không che nội dung
-                if (!gameState.guideEnabled) {
-                    box.classList.add("assistant-tucked");
-                } else {
-                    box.classList.remove("assistant-tucked");
-                    resetAssistantPosition();
-                }
-                if (currentGuideState !== "disabled") {
-                    currentGuideState = "disabled";
-                    // Quay về hiển thị hội thoại cơ bản
+                box.classList.add("assistant-tucked");
+                box.style.display = "flex";
+                box.style.zIndex = "9999";
+                if (currentGuideState !== "guide_off") {
+                    currentGuideState = "guide_off";
                     if (gameState.weather === "acid_storm") {
                         triggerAssistantSpeech("acid_storm");
                     } else {
@@ -530,8 +552,21 @@ function getSeedConfig() {
                 }
                 return;
             }
-            // Khi BẬT: đảm bảo xóa class tucked
+
+            // TRƯỜNG HỢP 2: BẬT, nhưng không ở tab farm → clear highlight, giữ nguyên
+            if (activeTab !== "farm") {
+                clearHighlight();
+                box.classList.remove("assistant-tucked");
+                box.style.display = "flex";
+                box.style.zIndex = "9999";
+                currentGuideState = null;
+                return;
+            }
+
+            // TRƯỜNG HỢP 3: BẬT, đang ở tab FARM → logic hướng dẫn đầy đủ
             box.classList.remove("assistant-tucked");
+            box.style.display = "flex";
+            box.style.zIndex = "9999";
 
             const comp = companionsConfig[selectedWorld];
             let targetElement = null;
@@ -625,24 +660,27 @@ function getSeedConfig() {
             if (!selectedWorld) return;
             playChime(600, 'sine', 0.1);
 
-            // Bất kể bật hay tắt hướng dẫn, click vào vẫn hiển thị nhắc nhở
+            // Khi click trợ lý: nói lời hướng dẫn phù hợp tab đang mở
+            if (activeTab !== "farm") {
+                triggerAssistantSpeech("tab_" + activeTab);
+                return;
+            }
+
+            // Tab farm: ưu tiên các tình huống quan trọng nhất
             if (gameState.weather === "acid_storm") {
                 triggerAssistantSpeech("acid_storm");
                 return;
             }
-
             const pestPlot = gameState.plots.find(p => p.status === "planted" && p.pest);
             if (pestPlot) {
                 triggerAssistantSpeech("pest");
                 return;
             }
-
             const dryPlot = gameState.plots.find(p => p.status === "planted" && !p.water);
             if (dryPlot) {
                 triggerAssistantSpeech("dry");
                 return;
             }
-
             if (gameState.eggProgress > 0) {
                 triggerAssistantSpeech("egg");
             } else {
@@ -930,35 +968,56 @@ function getSeedConfig() {
             } else if (tabId === "pet") {
                 renderHatchingEgg();
                 renderPetsList();
-                triggerAssistantSpeech("egg");
             } else if (tabId === "daily") {
-        document.getElementById("tab-daily").classList.add("active");
-        document.getElementById("tab-daily-content").classList.remove("hidden");
-        document.getElementById("tab-daily-content").classList.add("flex");
-    } else if (tabId === "arena") {
-                triggerAssistantSpeech("boss");
+                document.getElementById("tab-daily").classList.add("active");
+                document.getElementById("tab-daily-content").classList.remove("hidden");
+                document.getElementById("tab-daily-content").classList.add("flex");
+            } else if (tabId === "arena") {
+                // Trợ lý hiển thị ở arena (không ẩn nữa)
             } else if (tabId === "map") {
                 renderMap();
-                triggerAssistantSpeech("map");
             } else if (tabId === "town") {
                 renderTown();
             } else if (tabId === "farm") {
                 renderPlots();
             }
 
-            // Đồng bộ lại Trợ lý hướng dẫn
-            updateGuide();
+            // Cập nhật lời thoại trợ lý theo tab (trước updateGuide)
+            updateAssistantForTab(tabId);
 
-            // Ẩn Cô Tiên Xanh khi vào Boss Arena để không che nút
-            const assistantBox = document.getElementById("assistant-box");
-            if (assistantBox) {
-                if (tabId === "arena") {
-                    assistantBox.style.display = "none";
-                } else {
-                    assistantBox.style.display = "flex";
-                }
-            }
+            // Đồng bộ lại Trợ lý hướng dẫn farm
+            updateGuide();
         }
+
+        /* HÀM CẬP NHẬT TRỢ LÝ THEO TAB */
+        function updateAssistantForTab(tabId) {
+            if (!selectedWorld || !gameState.guideEnabled) return;
+            const box = document.getElementById("assistant-box");
+            if (!box) return;
+
+            // Luôn hiển thị và đặt z-index cao nhất
+            box.style.display = "flex";
+            box.style.zIndex = "9999";
+            box.classList.remove("assistant-tucked");
+
+            // Tab farm: updateGuide() sẽ xử lý chi tiết (bay tới target, highlight)
+            if (tabId === "farm") return;
+
+            // Arena: đặt góc dưới phải để không che các nút boss
+            if (tabId === "arena") {
+                box.style.left = "auto";
+                box.style.right = "16px";
+                box.style.bottom = "100px";
+                box.style.top = "auto";
+            } else {
+                // Các tab khác: vị trí mặc định bên trái
+                resetAssistantPosition();
+            }
+
+            // Nói lời thoại của tab
+            triggerAssistantSpeech("tab_" + tabId);
+        }
+
 
         function renderPlots() {
             const container = document.getElementById("grid-container");

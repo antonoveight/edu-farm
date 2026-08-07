@@ -351,7 +351,7 @@ window.addEventListener('unhandledrejection', function(e) {
             </div>
             
             <!-- HỘP THOẠI TRỢ LÝ TRỰC QUAN ĐỒNG HÀNH (Không nền) -->
-            <div id="assistant-box" class="fixed z-50 flex flex-col items-center pointer-events-none" style="width: 200px; left: 20px; top: 510px; bottom: auto; right: auto; transition: top 0.7s cubic-bezier(0.25, 1, 0.5, 1), left 0.7s cubic-bezier(0.25, 1, 0.5, 1);">
+            <div id="assistant-box" class="fixed flex flex-col items-center" style="width: 200px; left: 20px; top: 510px; bottom: auto; right: auto; z-index: 9999; transition: top 0.7s cubic-bezier(0.25, 1, 0.5, 1), left 0.7s cubic-bezier(0.25, 1, 0.5, 1), right 0.7s cubic-bezier(0.25, 1, 0.5, 1), bottom 0.7s cubic-bezier(0.25, 1, 0.5, 1);">
                 <!-- Bong bóng thoại trên đầu -->
                 <div id="assistant-bubble" class="bg-slate-950/90 border border-emerald-500 rounded-2xl px-3 py-2 shadow-2xl mb-2 text-center pointer-events-auto cursor-pointer max-w-[200px] relative transition-all duration-300" onclick="onAssistantClicked()">
                     <span id="assistant-name" class="block text-[10px] font-black uppercase tracking-wider text-emerald-400 mb-0.5">Cô Tiên Xanh</span>
