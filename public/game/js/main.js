@@ -4689,9 +4689,21 @@ function generateRealisticOptions(candidate, ans, normSubject) {
         }
     }
     
-    while (options.length < 4) {
-        let dummy = "Lựa chọn " + (options.length + 1);
-        if (!options.includes(dummy)) options.push(dummy);
+    // Pad with random variations rather than placeholder text if needed
+    let padTries = 0;
+    while (options.length < 4 && padTries < 50) {
+        padTries++;
+        const base = options[0] || '';
+        // Generate slight variations of the correct answer
+        let fake = '';
+        if (!isNaN(parseFloat(base))) {
+            const delta = (Math.floor(Math.random() * 5) + 1) * (Math.random() < 0.5 ? 1 : -1);
+            fake = String(Math.max(0, parseFloat(base) + delta));
+        } else {
+            // For text answers, we just stop - don't add dummy text
+            break;
+        }
+        if (fake && !options.includes(fake)) options.push(fake);
     }
     return options.slice(0, 4);
 }
@@ -5099,52 +5111,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
             ansAreaEl.innerHTML = "";
             if (selectedWords.length === 0) {
                 ansAreaEl.innerHTML = `<span style="font-size: 13px; color: #64748b; font-style: italic;">Chạm vào các từ bên dưới...</span>`;
-            } else if (qType === 'true_false') {
-        qTypeLabel.innerText = 'Dạng: Đúng / Sai';
-        qTypeLabel.style.color = '#10b981';
-        
-        let html = '<div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">';
-        html += '<button class="tf-btn btn-true" onclick="submitCurrentAnswer(\'Đúng\', this)">ĐÚNG</button>';
-        html += '<button class="tf-btn btn-false" onclick="submitCurrentAnswer(\'Sai\', this)">SAI</button>';
-        html += '</div>';
-        panel.innerHTML = html;
-        
-    } else if (qType === 'find_error') {
-        qTypeLabel.innerText = 'Dạng: Tìm lỗi sai';
-        qTypeLabel.style.color = '#f59e0b';
-        qText.style.display = 'none';
-        
-        let html = '<div class="find-error-container">';
-        html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
-        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
-        const words = candidate.words || question.split(' ');
-        words.forEach(w => {
-            html += '<button class="fe-word" onclick="submitCurrentAnswer(\'' + w.replace(/'/g, "\\'") + '\', this)">' + w + '</button>';
-        });
-        html += '</div></div>';
-        panel.innerHTML = html;
-        
-    } else if (qType === 'categorize') {
-        qTypeLabel.innerText = 'Dạng: Phân loại';
-        qTypeLabel.style.color = '#8b5cf6';
-        qText.style.display = 'none';
-        
-        let html = '<div class="categorize-container" style="text-align: center;">';
-        html += '<div class="cat-item-to-sort">' + question + '</div>';
-        html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
-        
-        let categories = options.length >= 2 ? options : (candidate.c || []);
-        categories.slice(0, 2).forEach(cat => {
-            html += '<button class="cat-bucket" onclick="submitCurrentAnswer(\'' + cat.replace(/'/g, "\\'") + '\', this)">';
-            html += '<div class="cat-bucket-icon" style="font-size: 30px; margin-bottom: 8px;">🛒</div>';
-            html += '<div class="cat-bucket-name" style="font-weight: bold; color: #374151;">' + cat + '</div>';
-            html += '</button>';
-        });
-        
-        html += '</div></div>';
-        panel.innerHTML = html;
-        
-    } else {
+                } else {
                 selectedWords.forEach((word, idx) => {
                     const chip = document.createElement("button");
                     chip.style.cssText = "padding: 6px 14px; background: #a855f7; color: white; font-weight: bold; border-radius: 20px; font-size: 14px; border: none; cursor: pointer;";
@@ -5310,6 +5277,55 @@ function generateSpecificSubjectQuestion(subject, mode) {
         });
         
         panel.appendChild(grid);
+    } else if (qType === 'true_false') {
+        qTypeLabel.innerText = 'Dạng: Đúng / Sai';
+        qTypeLabel.style.color = '#10b981';
+        activeTask.correctAnswer = ans;
+        
+        let html = '<div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">';
+        html += '<button class="tf-btn btn-true" onclick="submitCurrentAnswer(\'\u0110úng\', this)">ĐÚNG ✓</button>';
+        html += '<button class="tf-btn btn-false" onclick="submitCurrentAnswer(\'Sai\', this)">SAI ✗</button>';
+        html += '</div>';
+        panel.innerHTML = html;
+        
+    } else if (qType === 'find_error') {
+        qTypeLabel.innerText = 'Dạng: Tìm lỗi sai';
+        qTypeLabel.style.color = '#f59e0b';
+        qText.style.display = 'none';
+        activeTask.correctAnswer = ans;
+        
+        let html = '<div class="find-error-container">';
+        html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
+        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
+        var feWords = candidate ? (candidate.words || question.split(' ')) : question.split(' ');
+        feWords.forEach(function(w) {
+            html += '<button class="fe-word" onclick="submitCurrentAnswer(\'' + w.replace(/'/g, "\\'") + '\', this)">' + w + '</button>';
+        });
+        html += '</div></div>';
+        panel.innerHTML = html;
+        
+    } else if (qType === 'categorize') {
+        qTypeLabel.innerText = 'Dạng: Phân loại';
+        qTypeLabel.style.color = '#8b5cf6';
+        qText.style.display = 'none';
+        activeTask.correctAnswer = ans;
+        
+        var cats = candidate ? (candidate.c || []) : [];
+        if (!cats || cats.length < 2) cats = options.filter(function(v, i, a) { return a.indexOf(v) === i; }).slice(0, 2);
+        
+        let html = '<div class="categorize-container" style="text-align: center;">';
+        html += '<div class="cat-item-to-sort" style="font-size: 24px; font-weight: bold; margin-bottom: 20px; padding: 15px; background: #f3f4f6; border-radius: 12px; display: inline-block; color: #111827; border: 2px dashed #9ca3af;">' + question + '</div>';
+        html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
+        var bucketIcons = ['📦', '🗂️'];
+        cats.slice(0, 2).forEach(function(cat, catIdx) {
+            html += '<button class="cat-bucket" onclick="submitCurrentAnswer(\'' + cat.replace(/'/g, "\\'") + '\', this)">';
+            html += '<div style="font-size: 30px; margin-bottom: 8px;">' + (bucketIcons[catIdx] || '📦') + '</div>';
+            html += '<div style="font-weight: bold; color: #374151;">' + cat + '</div>';
+            html += '</button>';
+        });
+        html += '</div></div>';
+        panel.innerHTML = html;
+        
     } else {
         const grid = document.createElement("div");
         grid.className = "mc-grid";
