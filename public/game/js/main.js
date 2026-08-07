@@ -2180,6 +2180,18 @@ function updateMarketPrices() {
             if (String(userAnswer).trim().toLowerCase() === String(activeTask.correctAnswer).trim().toLowerCase()) {
                 playChime(784, 'triangle', 0.2);
                 if (typeof dqOnStreakResult === 'function') dqOnStreakResult(true);
+
+                // Tiến trình ấp thú cưng
+                if (typeof progressEgg === 'function') progressEgg();
+                
+                // Daily Quest: trả lời đúng
+                const taskSubject = activeTask ? activeTask.subject : null;
+                if (typeof dqOnCorrectAnswer === 'function') dqOnCorrectAnswer(taskSubject);
+                
+                // Perfect quest (không sai lần nào)
+                if (activeTask && activeTask.errors === 0) {
+                    if (typeof dqOnPerfectQuest === 'function') dqOnPerfectQuest();
+                }
                 
                 if (activeTask.type === "pest") {
                     const plot = gameState.plots[activeTask.targetId];
@@ -2282,7 +2294,14 @@ function updateMarketPrices() {
 
             activeTask.errors++;
             playChime(150, 'sawtooth', 0.3);
-            dqOnStreakResult(false); // Daily Quest: sai - reset streak
+            if (typeof dqOnStreakResult === 'function') dqOnStreakResult(false); // Daily Quest: sai - reset streak
+            
+            // Reset tiến trình ấp trứng
+            if (typeof gameState !== 'undefined') {
+                gameState.eggProgress = 0;
+                if (typeof renderHatchingEgg === 'function') renderHatchingEgg();
+            }
+
             renderQuestHearts();
 
             // Hiển thị gợi ý dựa vào số lần sai (chỉ lần 1, 2 — lần 3 sẽ thất bại ngay)
@@ -5300,6 +5319,19 @@ function checkMapMultipleChoice(selectedAnswer, btnElement) {
     if (String(selectedAnswer).trim().toLowerCase() === String(activeTask.correctAnswer).trim().toLowerCase()) {
         if (btnElement && btnElement.classList) btnElement.classList.add('correct');
         playChime(784, 'triangle', 0.2);
+        if (typeof dqOnStreakResult === 'function') dqOnStreakResult(true);
+
+        // Tiến trình ấp thú cưng
+        if (typeof progressEgg === 'function') progressEgg();
+        
+        // Daily Quest: trả lời đúng
+        const taskSubject = activeTask ? activeTask.subject : null;
+        if (typeof dqOnCorrectAnswer === 'function') dqOnCorrectAnswer(taskSubject);
+        
+        // Perfect quest (không sai lần nào)
+        if (activeTask && (activeTask.errors === undefined || activeTask.errors === 0)) {
+            if (typeof dqOnPerfectQuest === 'function') dqOnPerfectQuest();
+        }
 
         if (btnElement && btnElement.parentElement) {
             const btns = btnElement.parentElement.querySelectorAll('.btn-mc-option, button');
@@ -5395,6 +5427,14 @@ function checkMapMultipleChoice(selectedAnswer, btnElement) {
         // ── Trả lời sai ──────────────────────────────────────────────
         if (btnElement && btnElement.classList) btnElement.classList.add('wrong');
         playChime(150, 'sawtooth', 0.4);
+        if (typeof dqOnStreakResult === 'function') dqOnStreakResult(false);
+        
+        // Reset tiến trình ấp trứng
+        if (typeof gameState !== 'undefined') {
+            gameState.eggProgress = 0;
+            if (typeof renderHatchingEgg === 'function') renderHatchingEgg();
+        }
+
         if (btnElement && btnElement.parentElement) {
             const btns = btnElement.parentElement.querySelectorAll('.btn-mc-option, button');
             btns.forEach(b => b.disabled = true);
