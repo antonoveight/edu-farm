@@ -180,23 +180,36 @@ function getSeedConfig() {
         let activeTask = null; // Khai báo toàn cục để tránh lỗi ReferenceError
         let QUIZ_BANK = {};
 
-        // Hàng đợi lịch sử câu hỏi để ngăn lặp lại (lưu tối đa 15 câu gần nhất)
+        // Pool câu hỏi riêng theo từng chế độ — phân tầng để AI backend có thể điền vào sau này
+        const SESSION_POOL_LIMIT = 20; // Mỗi mode giữ tối đa 20 câu gần nhất
+        let sessionQuestionPools = {
+            farm:  [],
+            boss:  [],
+            pet:   [],
+            map:   [],
+            daily: [],
+            default: []
+        };
+        let _currentQMode = 'default'; // Mode đang được dùng để track pool
+        // Giữ recentQuestionsQueue để tương thích ngược
         let recentQuestionsQueue = [];
         const QUESTION_HISTORY_LIMIT = 15;
 
-        // Thêm câu hỏi vào lịch sử
-        function addToQuestionHistory(questionKey) {
-            if (!recentQuestionsQueue.includes(questionKey)) {
-                recentQuestionsQueue.push(questionKey);
-            }
-            if (recentQuestionsQueue.length > QUESTION_HISTORY_LIMIT) {
-                recentQuestionsQueue.shift();
-            }
+        // Thêm câu hỏi vào lịch sử, có hỗ trợ mode riêng
+        function addToQuestionHistory(questionKey, mode) {
+            const m = (mode && sessionQuestionPools[mode]) ? mode : 'default';
+            const pool = sessionQuestionPools[m];
+            if (!pool.includes(questionKey)) pool.push(questionKey);
+            if (pool.length > SESSION_POOL_LIMIT) pool.shift();
+            // Giữ tương thích với code cũ
+            if (!recentQuestionsQueue.includes(questionKey)) recentQuestionsQueue.push(questionKey);
+            if (recentQuestionsQueue.length > QUESTION_HISTORY_LIMIT) recentQuestionsQueue.shift();
         }
 
-        // Kiểm tra câu hỏi đã được hỏi gần đây chưa
-        function isRecentQuestion(questionKey) {
-            return recentQuestionsQueue.includes(questionKey);
+        // Kiểm tra câu hỏi đã xuất hiện trong mode này chưa
+        function isRecentQuestion(questionKey, mode) {
+            const m = (mode && sessionQuestionPools[mode]) ? mode : 'default';
+            return sessionQuestionPools[m].includes(questionKey);
         }
 
         // Trộn ngẫu nhiên mảng (Fisher-Yates shuffle)
@@ -1362,11 +1375,6 @@ function getSeedConfig() {
             document.getElementById("stat-level").innerText = `LV ${gameState.level}`;
         }
 
-        window.cheatGold = function() {
-            gameState.coins = (gameState.coins || 0) + 1000;
-            updateHeaderStats();
-            if (typeof showToast === 'function') showToast("💰 Đã hack 1,000 vàng!");
-        };
 
 let currentMarketPrices = {};
 function updateMarketPrices() {
@@ -1828,7 +1836,7 @@ function updateMarketPrices() {
             }
 
             updateBossHud();
-            generateCurriculumQuestion();
+            generateCurriculumQuestion('boss');
 
             bossState.timerInterval = setInterval(() => {
                 bossState.timer--;
@@ -1894,7 +1902,7 @@ function updateMarketPrices() {
             if (bossState.hp <= 0) {
                 endBossBattle(true);
             } else {
-                generateCurriculumQuestion();
+                generateCurriculumQuestion('boss');
             }
         }
 
@@ -2017,7 +2025,7 @@ function updateMarketPrices() {
                 questionText: ""
             };
 
-            generateCurriculumQuestion();
+            generateCurriculumQuestion('farm');
 
             document.getElementById("task-modal-title").innerText = 
                 type === "pest" ? "Tiêu Diệt Sâu Phá Hoại 🐛" :
@@ -4111,6 +4119,7 @@ function startMapQuest(nodeId, subject) {
     // Xoá lịch sử câu hỏi để đảm bảo luôn mới khi bắt đầu rương
     if (isTreasure) {
         recentQuestionsQueue = [];
+        sessionQuestionPools.map = [];   // Reset pool map khi vào rương mới
     }
 
     document.getElementById('modal-task').classList.add('active');
@@ -4251,8 +4260,8 @@ function _buildBasicMathQuestion(grade) {
             q = isPlus ? `${a} + ${b} = ?` : `${parseFloat((a+b).toFixed(1))} - ${b} = ?`;
         }
         key = 'basic|' + q;
-        if (!isRecentQuestion(key)) {
-            addToQuestionHistory(key);
+        if (!isRecentQuestion(key, _currentQMode)) {
+            addToQuestionHistory(key, _currentQMode);
             // Grade 5: giữ nguyên 1 chữ số thập phân trong chuỗi đáp án
             const ansStr = (grade >= 5) ? parseFloat(ans).toFixed(1) : String(ans);
             return { q, ans: ansStr, key };
@@ -4300,8 +4309,8 @@ function buildContextMathQuestion(grade) {
         if (!item) continue;
         if (item.ans < 0 || isNaN(item.ans)) continue;
         const key = 'ctx|' + item.q;
-        if (!isRecentQuestion(key)) {
-            addToQuestionHistory(key);
+        if (!isRecentQuestion(key, _currentQMode)) {
+            addToQuestionHistory(key, _currentQMode);
             return { q: item.q, ans: String(item.ans), key };
         }
     }
@@ -4351,8 +4360,8 @@ function buildFillInMathQuestion(grade) {
             ans = a;
         }
         const key = 'fill|' + q;
-        if (!isRecentQuestion(key)) {
-            addToQuestionHistory(key);
+        if (!isRecentQuestion(key, _currentQMode)) {
+            addToQuestionHistory(key, _currentQMode);
             return { q, ans: String(ans), key };
         }
     }
@@ -4367,13 +4376,13 @@ function pickQuizQuestion(bankKey) {
     for (let i = 0; i < Math.min(shuffled.length, 5); i++) {
         const candidate = shuffled[i];
         const key = bankKey + '|' + candidate.q;
-        if (!isRecentQuestion(key)) {
-            addToQuestionHistory(key);
+        if (!isRecentQuestion(key, _currentQMode)) {
+            addToQuestionHistory(key, _currentQMode);
             return candidate;
         }
     }
     const fallback = shuffled[0];
-    addToQuestionHistory(bankKey + '|' + fallback.q);
+    addToQuestionHistory(bankKey + '|' + fallback.q, _currentQMode);
     return fallback;
 }
 
@@ -4451,10 +4460,11 @@ function generateFarmTaskQuestion() {
     if (submitBtn) submitBtn.style.display = "none";
 }
 
-function generateCurriculumQuestion() {
+function generateCurriculumQuestion(mode) {
+    _currentQMode = mode || (activeTask && activeTask.mode) || 'default';
     const subjects = ['math', 'viet', 'science', 'tech'];
     const subject = subjects[Math.floor(Math.random() * subjects.length)];
-    generateSpecificSubjectQuestion(subject);
+    generateSpecificSubjectQuestion(subject, _currentQMode);
 }
 
 function submitCurrentAnswer(val, btnElement) {
@@ -4635,7 +4645,8 @@ function generateRealisticOptions(candidate, ans, normSubject) {
 }
 window.generateRealisticOptions = generateRealisticOptions;
 
-function generateSpecificSubjectQuestion(subject) {
+function generateSpecificSubjectQuestion(subject, mode) {
+    const _qMode = mode || (activeTask && activeTask.mode) || 'default';
     const baseGrade = typeof selectedGrade !== 'undefined' ? parseInt(selectedGrade) : 1;
     // Rương kho báu: tăng độ khó thêm 1 cấp (tối đa 5)
     const grade = (activeTask && activeTask.type === 'treasure')
@@ -5314,6 +5325,7 @@ function checkMapMultipleChoice(selectedAnswer, btnElement) {
             activeTask.correctCount = 0;
             activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'science', 'tech', 'math']);
             recentQuestionsQueue = []; // Xóa lịch sử để câu hỏi luôn mới
+            sessionQuestionPools.map = []; // Reset pool map trong treasure
             showToast(`❌ Trả lời sai! Phải làm lại từ đầu (đã ${oldCount} câu)`, 2500, 'error');
             setTimeout(() => {
                 if (!activeTask) return;
