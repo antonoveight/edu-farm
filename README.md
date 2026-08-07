@@ -34,3 +34,19 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+## Production on the Toan Vui VPS
+
+The production image uses Next.js standalone output, runs as the unprivileged
+`node` user, and is routed through the VPS's existing Traefik network.
+
+```bash
+npm ci
+npm test
+npm run lint
+npm run build
+docker compose -f docker-compose.vps.yml up -d --build
+curl --fail https://toanvui.tinhocsaoviet.com/api/health
+```
+
+The compiler endpoints are intentionally disabled when `NODE_ENV=production`.

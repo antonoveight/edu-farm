@@ -1,0 +1,9 @@
+.git
+.next
+node_modules
+coverage
+dist
+*.log
+.env*
+.agents
+temp_skills

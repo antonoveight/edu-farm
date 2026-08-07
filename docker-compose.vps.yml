@@ -1,0 +1,54 @@
+name: toanvuitinhocsaovietcom
+
+networks:
+  traefik-public:
+    external: true
+
+services:
+  app:
+    image: toanvui-edu-farm:production
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: toanvui-app
+    restart: unless-stopped
+    init: true
+    environment:
+      NODE_ENV: production
+      NEXT_TELEMETRY_DISABLED: "1"
+      HOSTNAME: 0.0.0.0
+      PORT: "3000"
+      TZ: Asia/Ho_Chi_Minh
+    expose:
+      - "3000"
+    networks:
+      - traefik-public
+    read_only: true
+    tmpfs:
+      - /tmp:rw,noexec,nosuid,size=64m
+      - /app/.next/cache:rw,noexec,nosuid,size=128m,uid=1000,gid=1000
+    cap_drop:
+      - ALL
+    security_opt:
+      - no-new-privileges:true
+    pids_limit: 256
+    mem_limit: 1g
+    cpus: 1.5
+    healthcheck:
+      test:
+        - CMD
+        - node
+        - -e
+        - "fetch('http://127.0.0.1:3000/api/health').then(r=>{if(!r.ok)process.exit(1)}).catch(()=>process.exit(1))"
+      interval: 15s
+      timeout: 5s
+      retries: 5
+      start_period: 30s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.toanvui.rule=Host(`toanvui.tinhocsaoviet.com`)"
+      - "traefik.http.routers.toanvui.entrypoints=websecure"
+      - "traefik.http.routers.toanvui.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.toanvui.middlewares=compress@file,security-headers@file"
+      - "traefik.docker.network=traefik-public"
+      - "traefik.http.services.toanvui.loadbalancer.server.port=3000"
