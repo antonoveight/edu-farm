@@ -9,6 +9,9 @@ const inter = Inter({
 export const metadata = {
   title: "Edu-Farm",
   description: "Phần mềm hỗ trợ học tập tiểu học",
+  icons: {
+    icon: "https://tinhocsaoviet.com/assets/img/favicon.png",
+  },
 };
 
 export default function RootLayout({ children }) {
