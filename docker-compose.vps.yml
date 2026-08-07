@@ -49,6 +49,12 @@ services:
       - "traefik.http.routers.toanvui.rule=Host(`toanvui.tinhocsaoviet.com`)"
       - "traefik.http.routers.toanvui.entrypoints=websecure"
       - "traefik.http.routers.toanvui.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.toanvui.middlewares=compress@file,security-headers@file"
+      # Response middleware runs in reverse order, so the site-specific frame
+      # policy must appear before the global DENY policy to override it.
+      - "traefik.http.routers.toanvui.middlewares=compress@file,toanvui-frame-policy@docker,security-headers@file"
       - "traefik.docker.network=traefik-public"
       - "traefik.http.services.toanvui.loadbalancer.server.port=3000"
+      # The /play page embeds /game/index.html from this same origin. Override the
+      # global DENY policy while continuing to block framing by external sites.
+      - "traefik.http.middlewares.toanvui-frame-policy.headers.customresponseheaders.X-Frame-Options=SAMEORIGIN"
+      - "traefik.http.middlewares.toanvui-frame-policy.headers.customresponseheaders.Content-Security-Policy=frame-ancestors 'self'"
