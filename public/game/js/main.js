@@ -3876,7 +3876,7 @@ function renderTown() {
                     `<div class="building-maxed"><i class="fa-solid fa-star"></i> Đã đạt cấp tối đa!</div>` :
                     `<button class="building-upgrade-btn" onclick="upgradeBuilding('${key}')" ${!canAfford ? 'disabled' : ''}>
                         <i class="fa-solid fa-hammer"></i> Nâng cấp
-                        <span class="cost"><i class="fa-solid fa-coins" style="color: #fbbf24;"></i> ${upgradeCost.toLocaleString('vi-VN')}</span>
+                        <span class="cost"><span class="currency-coin-icon" aria-hidden="true">₫</span> ${upgradeCost.toLocaleString('vi-VN')}</span>
                     </button>`
                 }
             </div>
@@ -4523,7 +4523,12 @@ function generateCurriculumQuestion(mode) {
 
 function submitCurrentAnswer(val, btnElement) {
     if (!activeTask) return;
-    const isMapTask = (activeTask.type === "map" || activeTask.type === "boss" || activeTask.subject === "boss");
+    const isMapTask = (
+        activeTask.type === "map" ||
+        activeTask.type === "boss" ||
+        activeTask.type === "treasure" ||
+        activeTask.subject === "boss"
+    );
     if (isMapTask) {
         checkMapMultipleChoice(val, btnElement);
     } else {
@@ -5078,6 +5083,49 @@ function generateSpecificSubjectQuestion(subject, mode) {
                 }
             }
         }, 100);
+    } else if (qType === 'true_false') {
+        qTypeLabel.innerText = 'Dạng: Đúng / Sai';
+        qTypeLabel.style.color = '#10b981';
+
+        panel.innerHTML = `
+            <div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">
+                <button class="tf-btn btn-true" onclick="submitCurrentAnswer('Đúng', this)">ĐÚNG</button>
+                <button class="tf-btn btn-false" onclick="submitCurrentAnswer('Sai', this)">SAI</button>
+            </div>
+        `;
+    } else if (qType === 'find_error') {
+        qTypeLabel.innerText = 'Dạng: Tìm lỗi sai';
+        qTypeLabel.style.color = '#f59e0b';
+        qText.style.display = 'none';
+
+        let html = '<div class="find-error-container">';
+        html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
+        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
+        const words = candidate.words || question.split(' ');
+        words.forEach(w => {
+            html += '<button class="fe-word" onclick="submitCurrentAnswer(\'' + w.replace(/'/g, "\\'") + '\', this)">' + w + '</button>';
+        });
+        html += '</div></div>';
+        panel.innerHTML = html;
+    } else if (qType === 'categorize') {
+        qTypeLabel.innerText = 'Dạng: Phân loại';
+        qTypeLabel.style.color = '#8b5cf6';
+        qText.style.display = 'none';
+
+        let html = '<div class="categorize-container" style="text-align: center;">';
+        html += '<div class="cat-item-to-sort">' + question + '</div>';
+        html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
+
+        let categories = options.length >= 2 ? options : (candidate.c || []);
+        categories.slice(0, 2).forEach(cat => {
+            html += '<button class="cat-bucket" onclick="submitCurrentAnswer(\'' + cat.replace(/'/g, "\\'") + '\', this)">';
+            html += '<div class="cat-bucket-icon" style="font-size: 30px; margin-bottom: 8px;">🛒</div>';
+            html += '<div class="cat-bucket-name" style="font-weight: bold; color: #374151;">' + cat + '</div>';
+            html += '</button>';
+        });
+
+        html += '</div></div>';
+        panel.innerHTML = html;
     } else if (qType === 'reorder') {
         let wordList = (candidate && candidate.words) ? [...candidate.words] : ans.split(/\s+/);
         wordList = shuffleArray(wordList);
@@ -5101,52 +5149,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
             ansAreaEl.innerHTML = "";
             if (selectedWords.length === 0) {
                 ansAreaEl.innerHTML = `<span style="font-size: 13px; color: #64748b; font-style: italic;">Chạm vào các từ bên dưới...</span>`;
-            } else if (qType === 'true_false') {
-        qTypeLabel.innerText = 'Dạng: Đúng / Sai';
-        qTypeLabel.style.color = '#10b981';
-        
-        let html = '<div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">';
-        html += '<button class="tf-btn btn-true" onclick="submitCurrentAnswer(\'Đúng\', this)">ĐÚNG</button>';
-        html += '<button class="tf-btn btn-false" onclick="submitCurrentAnswer(\'Sai\', this)">SAI</button>';
-        html += '</div>';
-        panel.innerHTML = html;
-        
-    } else if (qType === 'find_error') {
-        qTypeLabel.innerText = 'Dạng: Tìm lỗi sai';
-        qTypeLabel.style.color = '#f59e0b';
-        qText.style.display = 'none';
-        
-        let html = '<div class="find-error-container">';
-        html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
-        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
-        const words = candidate.words || question.split(' ');
-        words.forEach(w => {
-            html += '<button class="fe-word" onclick="submitCurrentAnswer(\'' + w.replace(/'/g, "\\'") + '\', this)">' + w + '</button>';
-        });
-        html += '</div></div>';
-        panel.innerHTML = html;
-        
-    } else if (qType === 'categorize') {
-        qTypeLabel.innerText = 'Dạng: Phân loại';
-        qTypeLabel.style.color = '#8b5cf6';
-        qText.style.display = 'none';
-        
-        let html = '<div class="categorize-container" style="text-align: center;">';
-        html += '<div class="cat-item-to-sort">' + question + '</div>';
-        html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
-        
-        let categories = options.length >= 2 ? options : (candidate.c || []);
-        categories.slice(0, 2).forEach(cat => {
-            html += '<button class="cat-bucket" onclick="submitCurrentAnswer(\'' + cat.replace(/'/g, "\\'") + '\', this)">';
-            html += '<div class="cat-bucket-icon" style="font-size: 30px; margin-bottom: 8px;">🛒</div>';
-            html += '<div class="cat-bucket-name" style="font-weight: bold; color: #374151;">' + cat + '</div>';
-            html += '</button>';
-        });
-        
-        html += '</div></div>';
-        panel.innerHTML = html;
-        
-    } else {
+            } else {
                 selectedWords.forEach((word, idx) => {
                     const chip = document.createElement("button");
                     chip.style.cssText = "padding: 6px 14px; background: #a855f7; color: white; font-weight: bold; border-radius: 20px; font-size: 14px; border: none; cursor: pointer;";
@@ -5594,4 +5597,3 @@ window.handleMathKeyDown      = handleMathKeyDown;
 window.updateTypingGuide      = updateTypingGuide;
 window.openTreasureChest      = openTreasureChest;
 window.showTreasureReward     = showTreasureReward;
-
