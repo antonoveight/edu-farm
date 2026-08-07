@@ -370,5 +370,70 @@
     "a": "bầu trời",
     "type": "typing",
     "lo": "Rèn luyện nhận biết và viết từ chỉ thiên nhiên"
+  },
+  {
+    "q": "Trái Đất đứng im Mặt Trời.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Mặt Trăng là một hành tinh.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Cá hô hấp bằng phổi dưới nước.",
+    "a": "phổi",
+    "words": [
+      "Cá",
+      "hô",
+      "hấp",
+      "bằng",
+      "phổi",
+      "dưới",
+      "nước."
+    ],
+    "type": "find_error",
+    "lo": "Tìm lỗi sai"
+  },
+  {
+    "q": "Con Chó",
+    "a": "Động vật",
+    "c": [
+      "Động vật",
+      "Thực vật"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "Cây lúa",
+    "a": "Thực vật",
+    "c": [
+      "Động vật",
+      "Thực vật"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "Trái Đất quay quanh Mặt Trời.",
+    "a": "Đúng",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
   }
 ]

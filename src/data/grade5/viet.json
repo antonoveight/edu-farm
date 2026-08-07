@@ -314,5 +314,58 @@
     "type": "fill_blank",
     "sentence": "Việt Nam là đất nước ___ nghìn năm lịch sử văn hiến.",
     "lo": "Hiểu biết về lịch sử và văn hóa Việt Nam qua văn bản"
+  },
+  {
+    "q": "Từ \"xinh xắn\" viết đúng chính tả.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Từ \"xuất sắc\" viết sai chính tả thành \"xuất xắc\".",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Bé học giỏi triếng Việt.",
+    "a": "triếng",
+    "words": [
+      "Bé",
+      "học",
+      "giỏi",
+      "triếng",
+      "Việt."
+    ],
+    "type": "find_error",
+    "lo": "Tìm lỗi sai"
+  },
+  {
+    "q": "Chạy bộ",
+    "a": "Động từ",
+    "c": [
+      "Danh từ",
+      "Động từ"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "Ngôi trường",
+    "a": "Danh từ",
+    "c": [
+      "Danh từ",
+      "Động từ"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
   }
 ]

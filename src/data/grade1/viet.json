@@ -350,22 +350,6 @@
     "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt"
   },
   {
-    "q": "Sắp xếp các từ thành câu hoàn chỉnh:",
-    "a": "Mặt trời mọc buổi sáng",
-    "c": [
-      "Mặt trời mọc buổi sáng"
-    ],
-    "words": [
-      "Mặt",
-      "trời",
-      "mọc",
-      "buổi",
-      "sáng"
-    ],
-    "type": "reorder",
-    "lo": "Rèn luyện kỹ năng đặt câu và trật tự từ trong Tiếng Việt"
-  },
-  {
     "q": "Điền từ thích hợp: Mặt ___ tỏa sáng ấm áp vào buổi sáng.",
     "a": "trời",
     "c": [
@@ -446,5 +430,58 @@
     "type": "fill_blank",
     "sentence": "Bé dùng bút chì để ___.",
     "lo": "Rèn luyện liên kết đồ dùng học tập với chức năng"
+  },
+  {
+    "q": "Từ \"xinh xắn\" viết đúng chính tả.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Từ \"xuất sắc\" viết sai chính tả thành \"xuất xắc\".",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Bé học giỏi triếng Việt.",
+    "a": "triếng",
+    "words": [
+      "Bé",
+      "học",
+      "giỏi",
+      "triếng",
+      "Việt."
+    ],
+    "type": "find_error",
+    "lo": "Tìm lỗi sai"
+  },
+  {
+    "q": "Chạy bộ",
+    "a": "Động từ",
+    "c": [
+      "Danh từ",
+      "Động từ"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "Ngôi trường",
+    "a": "Danh từ",
+    "c": [
+      "Danh từ",
+      "Động từ"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
   }
 ]

@@ -288,15 +288,6 @@
     "lo": "Rèn luyện kỹ năng gõ phím hàng cơ sở trên bàn phím QWERTY"
   },
   {
-    "q": "Luyện gõ từ đơn giản:",
-    "a": "may tinh",
-    "c": [
-      "may tinh"
-    ],
-    "type": "typing",
-    "lo": "Rèn luyện kỹ năng gõ phím cơ bản"
-  },
-  {
     "q": "Bé hãy nhấn tổ hợp phím để SAO CHÉP (Copy) văn bản:",
     "a": "ctrl+c",
     "c": [
@@ -313,5 +304,69 @@
     ],
     "type": "shortcut",
     "lo": "Thành thạo phím tắt dán Ctrl+V trong soạn thảo văn bản"
+  },
+  {
+    "q": "RAM là bộ nhớ vĩnh viễn của máy tính.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Ổ cứng là thiết bị xuất dữ liệu.",
+    "a": "Sai",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
+  },
+  {
+    "q": "Bàn phín dùng để gõ chữ.",
+    "a": "phín",
+    "words": [
+      "Bàn",
+      "phín",
+      "dùng",
+      "để",
+      "gõ",
+      "chữ."
+    ],
+    "type": "find_error",
+    "lo": "Tìm lỗi sai"
+  },
+  {
+    "q": "Chuột máy tính",
+    "a": "Phần cứng",
+    "c": [
+      "Phần cứng",
+      "Phần mềm"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "Trình duyệt web",
+    "a": "Phần mềm",
+    "c": [
+      "Phần cứng",
+      "Phần mềm"
+    ],
+    "type": "categorize",
+    "lo": "Phân loại"
+  },
+  {
+    "q": "RAM là bộ nhớ tạm thời của máy tính.",
+    "a": "Đúng",
+    "c": [
+      "Đúng",
+      "Sai"
+    ],
+    "type": "true_false",
+    "lo": "Kiến thức chung"
   }
 ]
