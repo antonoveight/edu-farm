@@ -4,6 +4,18 @@ const nextConfig = {
   outputFileTracingIncludes: {
     '/api/questions': ['./src/data/grade*/*.json'],
   },
+  rewrites() {
+    return {
+      beforeFiles: [
+        {
+          source: '/',
+          destination: '/game/whitebook.html',
+        },
+      ],
+      afterFiles: [],
+      fallback: [],
+    };
+  },
 };
 
 export default nextConfig;

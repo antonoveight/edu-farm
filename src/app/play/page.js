@@ -53,7 +53,7 @@ export default function PlayPage() {
                         href="/"
                         className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 hover:border-emerald-500/50 border border-slate-700/80 rounded-xl text-xs font-bold transition-all text-slate-200"
                     >
-                        <span>⬅</span> Quay Lại Dashboard
+                        <span>⬅</span> Quay Lại Trang Chủ
                     </Link>
                     <span className="h-6 w-[1.5px] bg-slate-800"></span>
                     <h2 className="text-sm font-black tracking-wider text-emerald-400">
