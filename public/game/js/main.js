@@ -3946,6 +3946,22 @@ function startMapQuest(nodeId, subject) {
 
 
 function buildMathQuestion(grade) {
+    // Random giữa 3 dạng bài: cơ bản (40%), ngữ cảnh (35%), điền số (25%)
+    const r = Math.random();
+    let result = null;
+    if (r < 0.40) {
+        result = _buildBasicMathQuestion(grade);
+    } else if (r < 0.75) {
+        result = buildContextMathQuestion(grade);
+    } else {
+        result = buildFillInMathQuestion(grade);
+    }
+    // Fallback nếu sinh không được
+    return result || _buildBasicMathQuestion(grade);
+}
+
+// Dạng phép tính cơ bản (gốc) — dùng nội bộ
+function _buildBasicMathQuestion(grade) {
     let attempts = 0;
     while (attempts < 30) {
         attempts++;
@@ -3982,7 +3998,107 @@ function buildMathQuestion(grade) {
             ans = parseFloat((isPlus ? a + b : Math.abs(a - b)).toFixed(1));
             q = isPlus ? `${a} + ${b} = ?` : `${parseFloat((a+b).toFixed(1))} - ${b} = ?`;
         }
-        key = 'math|' + q;
+        key = 'basic|' + q;
+        if (!isRecentQuestion(key)) {
+            addToQuestionHistory(key);
+            // Grade 5: giữ nguyên 1 chữ số thập phân trong chuỗi đáp án
+            const ansStr = (grade >= 5) ? parseFloat(ans).toFixed(1) : String(ans);
+            return { q, ans: ansStr, key };
+        }
+
+    }
+    return null;
+}
+
+// Dạng bài toán nông trại ngữ cảnh — đa dạng, thú vị hơn phép tính thuần túy
+function buildContextMathQuestion(grade) {
+    const g = Math.min(5, Math.max(1, grade));
+    const templates = {
+        1: [
+            () => { const a = Math.floor(Math.random()*5)+1; const b = Math.floor(Math.random()*4)+1; return { q: `Bé có ${a} quả táo, hái thêm ${b} quả. Bé có tất cả bao nhiêu quả?`, ans: a+b }; },
+            () => { const tot = Math.floor(Math.random()*6)+4; const die = Math.floor(Math.random()*Math.floor(tot/2))+1; return { q: `Vườn có ${tot} cây, bị chết ${die} cây. Còn lại bao nhiêu cây?`, ans: tot-die }; },
+            () => { const r = Math.floor(Math.random()*3)+2; const c = Math.floor(Math.random()*3)+2; return { q: `Vườn có ${r} hàng, mỗi hàng ${c} cây. Có tất cả bao nhiêu cây?`, ans: r*c }; },
+        ],
+        2: [
+            () => { const a = Math.floor(Math.random()*40)+20; const b = Math.floor(Math.random()*15)+5; return { q: `Kho có ${a} kg phân bón, dùng ${b} kg. Còn lại bao nhiêu kg?`, ans: a-b }; },
+            () => { const a = Math.floor(Math.random()*25)+10; const b = Math.floor(Math.random()*20)+10; return { q: `Thu ${a} quả hôm qua và ${b} quả hôm nay. Tổng bao nhiêu quả?`, ans: a+b }; },
+            () => { const c = Math.floor(Math.random()*4)+2; const each = Math.floor(Math.random()*7)+3; return { q: `Mỗi cây cho ${each} trái, bé có ${c} cây. Thu được bao nhiêu trái?`, ans: c*each }; },
+        ],
+        3: [
+            () => { const a = Math.floor(Math.random()*6)+3; const b = Math.floor(Math.random()*6)+3; return { q: `Bé trồng ${a} luống, mỗi luống ${b} hàng. Có bao nhiêu hàng cây?`, ans: a*b }; },
+            () => { const a = Math.floor(Math.random()*7)+2; const b = Math.floor(Math.random()*7)+2; return { q: `${a*b} hạt giống chia đều cho ${b} túi. Mỗi túi bao nhiêu hạt?`, ans: a }; },
+            () => { const n = Math.floor(Math.random()*5)+3; const each = Math.floor(Math.random()*8)+4; return { q: `${n} ngày thu hoạch, mỗi ngày ${each} kg. Tổng cộng bao nhiêu kg?`, ans: n*each }; },
+        ],
+        4: [
+            () => { const a = (Math.floor(Math.random()*10)+5)*100; const b = (Math.floor(Math.random()*7)+2)*100; return { q: `Thu ${a} đồng, chi ${b} đồng mua phân. Còn lại bao nhiêu đồng?`, ans: a-b }; },
+            () => { const a = (Math.floor(Math.random()*15)+5)*20; const b = (Math.floor(Math.random()*10)+5)*20; return { q: `Bán ${a} đồng thứ Hai và ${b} đồng thứ Ba. Tổng tiền bao nhiêu?`, ans: a+b }; },
+            () => { const n = Math.floor(Math.random()*4)+2; const each = (Math.floor(Math.random()*8)+3)*10; return { q: `Mỗi gói hạt có ${each} hạt, bé mua ${n} gói. Tất cả bao nhiêu hạt?`, ans: n*each }; },
+        ],
+        5: [
+            () => { const a = parseFloat((Math.random()*4+1.5).toFixed(1)); const b = parseFloat((Math.random()*2+0.5).toFixed(1)); const r = parseFloat((a-b).toFixed(1)); if(r<0) return null; return { q: `Bình có ${a} lít, tưới hết ${b} lít. Còn lại bao nhiêu lít?`, ans: r }; },
+            () => { const a = parseFloat((Math.random()*3+1).toFixed(1)); const b = parseFloat((Math.random()*2+0.5).toFixed(1)); return { q: `Thu ${a} tạ hôm qua và ${b} tạ hôm nay. Tổng cộng bao nhiêu tạ?`, ans: parseFloat((a+b).toFixed(1)) }; },
+            () => { const a = parseFloat((Math.random()*5+2).toFixed(1)); const n = Math.floor(Math.random()*3)+2; return { q: `Bé đi ${a} km mỗi ngày, sau ${n} ngày đi được bao nhiêu km?`, ans: parseFloat((a*n).toFixed(1)) }; },
+        ],
+    };
+    let attempts = 0;
+    while (attempts < 25) {
+        attempts++;
+        const pool = templates[g] || templates[3];
+        const item = pool[Math.floor(Math.random() * pool.length)]();
+        if (!item) continue;
+        if (item.ans < 0 || isNaN(item.ans)) continue;
+        const key = 'ctx|' + item.q;
+        if (!isRecentQuestion(key)) {
+            addToQuestionHistory(key);
+            return { q: item.q, ans: String(item.ans), key };
+        }
+    }
+    return null;
+}
+
+// Dạng bài điền số vào ô trống: ? + b = c hoặc a - ? = b
+function buildFillInMathQuestion(grade) {
+    let attempts = 0;
+    while (attempts < 25) {
+        attempts++;
+        let q, ans;
+        if (grade <= 2) {
+            const ans_ = Math.floor(Math.random()*7)+1;
+            const b = Math.floor(Math.random()*6)+1;
+            const total = ans_ + b;
+            if (Math.random() < 0.5) {
+                q = `? + ${b} = ${total}`;
+            } else {
+                q = `${total} - ? = ${b}`;
+            }
+            ans = ans_;
+        } else if (grade === 3) {
+            const a = Math.floor(Math.random()*7)+2;
+            const b = Math.floor(Math.random()*7)+2;
+            if (Math.random() < 0.5) {
+                q = `? × ${b} = ${a*b}`;
+                ans = a;
+            } else {
+                q = `${a*b} ÷ ? = ${a}`;
+                ans = b;
+            }
+        } else if (grade === 4) {
+            const a = (Math.floor(Math.random()*9)+2)*10;
+            const b = (Math.floor(Math.random()*6)+1)*10;
+            if (Math.random() < 0.5) {
+                q = `? + ${b} = ${a+b}`;
+            } else {
+                q = `${a+b} - ? = ${b}`;
+            }
+            ans = a;
+        } else {
+            const a = parseFloat((Math.random()*4+1).toFixed(1));
+            const b = parseFloat((Math.random()*3+0.5).toFixed(1));
+            const total = parseFloat((a+b).toFixed(1));
+            q = `? + ${b} = ${total}`;
+            ans = a;
+        }
+        const key = 'fill|' + q;
         if (!isRecentQuestion(key)) {
             addToQuestionHistory(key);
             return { q, ans: String(ans), key };
@@ -3990,6 +4106,7 @@ function buildMathQuestion(grade) {
     }
     return null;
 }
+
 
 function pickQuizQuestion(bankKey) {
     const bank = (typeof QUIZ_BANK !== 'undefined' && QUIZ_BANK) ? QUIZ_BANK[bankKey] : null;
@@ -4333,15 +4450,27 @@ function generateSpecificSubjectQuestion(subject) {
             ans = String(mathQ.ans);
             options = [ans];
             const numAns = parseFloat(ans);
+            // Xác định xem đáp án có dạng thập phân không để sinh fake options nhất quán
+            const isDecimalAns = ans.includes('.');
             let tries = 0;
             while (options.length < 4 && tries < 50) {
                 tries++;
-                let fake = numAns + (Math.floor(Math.random() * 5) + 1) * (Math.random() < 0.5 ? 1 : -1);
-                fake = Math.round(fake * 10) / 10;
-                if (fake >= 0 && !options.includes(String(fake))) {
-                    options.push(String(fake));
+                // Biên độ sai lệch: nhỏ hơn với thập phân để hợp lý
+                const spread = isDecimalAns ? 0.1 * (Math.floor(Math.random() * 5) + 1) : (Math.floor(Math.random() * 5) + 1);
+                let fake = numAns + spread * (Math.random() < 0.5 ? 1 : -1);
+                if (isDecimalAns) {
+                    fake = parseFloat(fake.toFixed(1));
+                    if (fake <= 0) continue;
+                    const fakeStr = fake.toFixed(1);
+                    if (!options.includes(fakeStr)) options.push(fakeStr);
+                } else {
+                    fake = Math.round(fake);
+                    if (fake < 0) continue;
+                    const fakeStr = String(fake);
+                    if (!options.includes(fakeStr)) options.push(fakeStr);
                 }
             }
+
         }
     } else {
         const bankKey = `g${grade}_${normSubject}`;
@@ -4727,7 +4856,8 @@ function generateSpecificSubjectQuestion(subject) {
         options.forEach(opt => {
             const btn = document.createElement("button");
             btn.className = "btn-mc-option";
-            btn.innerHTML = `<span style="font-weight: 800; color: #10b981; font-size: 18px;">[ ${opt} ]</span>`;
+            btn.innerHTML = `<span style="font-weight: 900; color: #ffffff; font-size: 17px; text-shadow: 0 1px 3px rgba(0,0,0,0.4);">${opt}</span>`;
+
             btn.onclick = function() {
                 if (isMapTask) {
                     checkMapMultipleChoice(opt, btn);
