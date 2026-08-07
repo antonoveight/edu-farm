@@ -933,6 +933,7 @@ function getSeedConfig() {
 
         function switchTab(tabId) {
             activeTab = tabId;
+            if (typeof dqOnTabVisit === 'function') dqOnTabVisit(tabId); // Daily Quest: all_tabs_3
             document.querySelectorAll(".btn-tab").forEach(b => b.classList.remove("active"));
             document.getElementById(`tab-${tabId}`).classList.add("active");
 
@@ -1475,7 +1476,7 @@ function updateMarketPrices() {
                 }
                 gameState.coins += sellValue;
                 gameState.inventory[harvestedKey] -= qtyToSell;
-                dqOnSell(sellValue); // Daily Quest: ban nong san
+                dqOnSell(sellValue, seedId); // Daily Quest: ban nong san + market quests
 
                 playChime(1000, 'sine', 0.3);
                 saveDataForMode();
@@ -1727,6 +1728,8 @@ function updateMarketPrices() {
             if (gameState.unlockedPets === undefined) gameState.unlockedPets = [];
 
             gameState.eggProgress++;
+            if (typeof dqOnEggProgress === 'function') dqOnEggProgress(); // DQ: pet_progress_2
+            if (typeof dqOnPetAnswer === 'function') dqOnPetAnswer();     // DQ: pet_answer_5
             if (gameState.eggProgress >= 5) {
                 gameState.eggProgress = 0;
                 
@@ -1766,6 +1769,7 @@ function updateMarketPrices() {
             bossState.hp = 100;
             bossState.timer = 60;
             bossState.stage = 1;
+            if (typeof dqOnBossStart === 'function') dqOnBossStart(); // Daily Quest hook
 
             // Thiết lập activeTask
             let targetCount = Math.floor(Math.random() * 4) + 3; // Random 3 to 6 questions
@@ -1879,6 +1883,7 @@ function updateMarketPrices() {
             bossState.hp -= 20;
             bossState.stage++;
             updateBossHud();
+            if (typeof dqOnBossAttack === 'function') dqOnBossAttack(true); // Daily Quest hook
             
             playBossHitAnimation(20);
 
@@ -1896,6 +1901,7 @@ function updateMarketPrices() {
         function bossPenalty() {
             playChime(120, 'sawtooth', 0.4);
             bossState.timer = Math.max(0, bossState.timer - 5);
+            if (typeof dqOnBossPenalty === 'function') dqOnBossPenalty(); // Daily Quest hook
             const timerEl = document.getElementById("boss-timer");
             timerEl.innerHTML = `<i class="fa-solid fa-stopwatch"></i> ${bossState.timer}s`;
             
@@ -2733,6 +2739,64 @@ function updateMarketPrices() {
                 desc: 'Chiến thắng trận Đấu Trường Boss',
                 difficulty: 'hard', target: 1, group: 'combo',
                 reward: { coins: 130, xp: 35, seeds: 1 }
+            },
+            // --- Nhóm ARENA (liên kết đấu trường) ---
+            {
+                id: 'arena_attack_3', icon: '⚔️', title: 'Chiến Binh Can Trường',
+                desc: 'Tấn công Boss 3 lần (đúng hoặc sai)',
+                difficulty: 'easy', target: 3, group: 'arena',
+                reward: { coins: 60, xp: 15 }
+            },
+            {
+                id: 'arena_win_2', icon: '🏆', title: 'Vô Địch Đấu Trường',
+                desc: 'Chiến thắng Boss 2 lần trong ngày',
+                difficulty: 'hard', target: 2, group: 'arena',
+                reward: { coins: 200, xp: 50, seeds: 1 }
+            },
+            {
+                id: 'arena_nohit', icon: '🛡️', title: 'Chiến Biệt Động',
+                desc: 'Thắng Boss mà không bị phạt giờ lần nào',
+                difficulty: 'hard', target: 1, group: 'arena',
+                reward: { coins: 180, xp: 45 }
+            },
+            // --- Nhóm PET (ấp trứng) ---
+            {
+                id: 'pet_progress_2', icon: '🥚', title: 'Bảo Vệ Trứng',
+                desc: 'Làm tiến độ ấp trứng tăng ít nhất 2 bước',
+                difficulty: 'easy', target: 2, group: 'pet',
+                reward: { coins: 50, xp: 10 }
+            },
+            {
+                id: 'pet_answer_5', icon: '🐾', title: 'Tâm Hồn Thú Cưng',
+                desc: 'Trả lời đúng 5 câu khi ấp trứng',
+                difficulty: 'medium', target: 5, group: 'pet',
+                reward: { coins: 80, xp: 20 }
+            },
+            // --- Nhóm MARKET (chợ & cửa hàng) ---
+            {
+                id: 'market_sell_3types', icon: '💰', title: 'Cửa Hàng Đa Dạng',
+                desc: 'Bán ít nhất 3 loại nông sản khác nhau',
+                difficulty: 'medium', target: 3, group: 'market',
+                reward: { coins: 90, xp: 20 }
+            },
+            {
+                id: 'market_earn_300', icon: '💳', title: 'Thương Nhân Tài Ba',
+                desc: 'Kiếm 300 xu từ bán hàng trong ngày',
+                difficulty: 'hard', target: 300, group: 'market',
+                reward: { coins: 150, xp: 30 }
+            },
+            // --- Nhóm CHALLENGE (thách thức đặc biệt) ---
+            {
+                id: 'all_tabs_3', icon: '🧭', title: 'Nhà Thám Hiểm',
+                desc: 'Ghé thăm 3 khu vực khác nhau trong ngày',
+                difficulty: 'easy', target: 3, group: 'challenge',
+                reward: { coins: 60, xp: 10 }
+            },
+            {
+                id: 'perfect_boss', icon: '💫', title: 'Chiến Thần Bất Bại',
+                desc: 'Thắng Boss mà không trả lời sai câu nào',
+                difficulty: 'hard', target: 1, group: 'challenge',
+                reward: { coins: 220, xp: 60, seeds: 2 }
             }
         ];
 
@@ -2755,10 +2819,9 @@ function updateMarketPrices() {
         }
 
         function pickDailyQuests() {
-            // Đảm bảo ít nhất 1 farm + 1 học tập
             const farmPool   = DAILY_QUEST_POOL.filter(q => q.group === 'farm');
             const learnPool  = DAILY_QUEST_POOL.filter(q => q.group === 'accuracy' || q.group === 'speed');
-            const otherPool  = DAILY_QUEST_POOL.filter(q => q.group === 'combo');
+            const arenaPool  = DAILY_QUEST_POOL.filter(q => q.group === 'arena');
 
             const shuffled = arr => arr.slice().sort(() => Math.random() - 0.5);
 
@@ -2773,14 +2836,18 @@ function updateMarketPrices() {
             const learnQ = shuffled(learnPool)[0];
             picked.push(learnQ); usedIds.add(learnQ.id);
 
-            // 3 còn lại random từ toàn pool
+            // 1 arena bắt buộc (tăng tương tác đấu trường)
+            const arenaQ = shuffled(arenaPool)[0];
+            if (arenaQ) { picked.push(arenaQ); usedIds.add(arenaQ.id); }
+
+            // 4 còn lại random từ toàn pool (không trùng)
             const rest = shuffled(DAILY_QUEST_POOL.filter(q => !usedIds.has(q.id)));
-            for (let i = 0; i < 3 && i < rest.length; i++) {
+            for (let i = 0; i < 4 && i < rest.length; i++) {
                 picked.push(rest[i]);
                 usedIds.add(rest[i].id);
             }
 
-            return picked.slice(0, 5);
+            return picked.slice(0, 7);
         }
 
         function initDailyQuests() {
@@ -3039,11 +3106,24 @@ function updateMarketPrices() {
         }
 
         // Gọi khi bán nông sản
-        function dqOnSell(amount) {
+        // amount = số xu bán được, cropType = loại cây (string, tùy chọn)
+        function dqOnSell(amount, cropType) {
             if (!dqState) return;
             dqState.quests.forEach((qs, idx) => {
-                if (qs.done || qs.claimed || qs.id !== 'sell_150') return;
-                advanceDQ(idx, amount);
+                if (qs.done || qs.claimed) return;
+                const id = qs.id;
+                if (id === 'sell_150') advanceDQ(idx, amount);
+                if (id === 'market_earn_300') advanceDQ(idx, amount);
+                if (id === 'market_sell_3types' && cropType) {
+                    if (!qs.soldTypes) qs.soldTypes = [];
+                    if (!qs.soldTypes.includes(cropType)) qs.soldTypes.push(cropType);
+                    const def = getQuestDef('market_sell_3types');
+                    if (def) {
+                        qs.progress = qs.soldTypes.length;
+                        if (qs.progress >= def.target) markDQDone(idx);
+                        else { renderDailyQuests(); saveDailyQuests(); }
+                    }
+                }
             });
         }
 
@@ -3051,8 +3131,76 @@ function updateMarketPrices() {
         function dqOnBossWin() {
             if (!dqState) return;
             dqState.quests.forEach((qs, idx) => {
-                if (qs.done || qs.claimed || qs.id !== 'boss_win') return;
-                advanceDQ(idx, 1);
+                if (qs.done || qs.claimed) return;
+                const id = qs.id;
+                if (id === 'boss_win') advanceDQ(idx, 1);
+                if (id === 'arena_win_2') advanceDQ(idx, 1);
+                if (id === 'arena_nohit' && qs.bossNoPenalty !== false) advanceDQ(idx, 1);
+                if (id === 'perfect_boss' && qs.bossNoError !== false) advanceDQ(idx, 1);
+            });
+        }
+
+        // Gọi khi tấn công Boss (câu đúng hoặc sai)
+        function dqOnBossAttack(isCorrect) {
+            if (!dqState) return;
+            dqState.quests.forEach((qs, idx) => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'arena_attack_3') advanceDQ(idx, 1);
+                if (!isCorrect) qs.bossNoError = false;
+            });
+        }
+
+        // Gọi khi bị phạt giờ trong Boss
+        function dqOnBossPenalty() {
+            if (!dqState) return;
+            dqState.quests.forEach(qs => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'arena_nohit') qs.bossNoPenalty = false;
+            });
+        }
+
+        // Gọi khi bắt đầu một trận Boss mới
+        function dqOnBossStart() {
+            if (!dqState) return;
+            dqState.quests.forEach(qs => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'arena_nohit') qs.bossNoPenalty = true;
+                if (qs.id === 'perfect_boss') qs.bossNoError = true;
+            });
+        }
+
+        // Gọi khi trả lời đúng trong chế độ ấp trứng
+        function dqOnPetAnswer() {
+            if (!dqState) return;
+            dqState.quests.forEach((qs, idx) => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'pet_answer_5') advanceDQ(idx, 1);
+            });
+        }
+
+        // Gọi khi tiến độ ấp trứng tăng
+        function dqOnEggProgress() {
+            if (!dqState) return;
+            dqState.quests.forEach((qs, idx) => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'pet_progress_2') advanceDQ(idx, 1);
+            });
+        }
+
+        // Gọi khi người dùng ghé thăm một tab mới
+        const _dqVisitedTabs = new Set();
+        function dqOnTabVisit(tabId) {
+            if (!dqState || !tabId) return;
+            _dqVisitedTabs.add(tabId);
+            dqState.quests.forEach((qs, idx) => {
+                if (qs.done || qs.claimed) return;
+                if (qs.id === 'all_tabs_3') {
+                    const def = getQuestDef('all_tabs_3');
+                    if (!def) return;
+                    qs.progress = Math.min(def.target, _dqVisitedTabs.size);
+                    if (qs.progress >= def.target) markDQDone(idx);
+                    else { renderDailyQuests(); saveDailyQuests(); }
+                }
             });
         }
 
