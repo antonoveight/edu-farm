@@ -3,15 +3,40 @@
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { Suspense } from 'react';
+import {
+    RequestValidationError,
+    parseGrade,
+    parseWorld
+} from '../../lib/request-validation.js';
+
+function parseGameParams(searchParams) {
+    try {
+        return {
+            grade: parseGrade(searchParams.get('grade') ?? '1'),
+            world: parseWorld(searchParams.get('world') ?? 'eco')
+        };
+    } catch (error) {
+        if (error instanceof RequestValidationError) {
+            return null;
+        }
+
+        throw error;
+    }
+}
 
 function GameIFrame() {
-    const searchParams = useSearchParams();
-    const grade = searchParams.get('grade') || '1';
-    const world = searchParams.get('world') || 'eco';
+    const gameParams = parseGameParams(useSearchParams());
+    if (!gameParams) {
+        return (
+            <div className="w-full h-full flex items-center justify-center text-rose-400 font-bold">
+                Liên kết trò chơi không hợp lệ.
+            </div>
+        );
+    }
 
     return (
         <iframe
-            src={`/game/index.html?grade=${grade}&world=${world}`}
+            src={`/game/index.html?grade=${gameParams.grade}&world=${gameParams.world}`}
             style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', border: 'none' }}
             title="Edu-Farm Game"
         />

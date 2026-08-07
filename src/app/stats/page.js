@@ -1,37 +1,68 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useSyncExternalStore } from 'react';
 import Link from 'next/link';
 
+const DEFAULT_STATS = Object.freeze({
+    math_correct: 0,
+    math_wrong: 0,
+    crops_harvested: 0,
+    boss_wins: 0,
+    coins_earned: 0
+});
+
+const subscribeToStorage = (callback) => {
+    window.addEventListener('storage', callback);
+    return () => window.removeEventListener('storage', callback);
+};
+
+const getParentPinSnapshot = () => localStorage.getItem('parent_pin');
+const getStatsSnapshot = () => localStorage.getItem('edufarm_global_stats') || '';
+const getHydrationSnapshot = () => true;
+const getServerHydrationSnapshot = () => false;
+const getServerPinSnapshot = () => null;
+const getServerStatsSnapshot = () => '';
+
+function parseStoredStats(serializedStats) {
+    try {
+        const storedStats = JSON.parse(serializedStats);
+        if (!storedStats || typeof storedStats !== 'object' || Array.isArray(storedStats)) {
+            return DEFAULT_STATS;
+        }
+
+        return Object.fromEntries(Object.keys(DEFAULT_STATS).map((key) => [
+            key,
+            Number.isFinite(storedStats[key]) ? storedStats[key] : 0
+        ]));
+    } catch {
+        return DEFAULT_STATS;
+    }
+}
+
 export default function StatsPage() {
-    const [view, setView] = useState('LOADING'); // LOADING, SETUP, LOCKED, DASHBOARD
+    const [viewOverride, setView] = useState(null);
     const [pinInput, setPinInput] = useState('');
     const [pinConfirm, setPinConfirm] = useState('');
     const [error, setError] = useState('');
-    const [stats, setStats] = useState({
-        math_correct: 0,
-        math_wrong: 0,
-        crops_harvested: 0,
-        boss_wins: 0,
-        coins_earned: 0
-    });
-
-    useEffect(() => {
-        const savedPin = localStorage.getItem('parent_pin');
-        if (!savedPin) {
-            setView('SETUP');
-        } else {
-            setView('LOCKED');
-        }
-
-        // Load stats
-        const savedStats = localStorage.getItem('edufarm_global_stats');
-        if (savedStats) {
-            try {
-                setStats(JSON.parse(savedStats));
-            } catch(e) {}
-        }
-    }, []);
+    const isHydrated = useSyncExternalStore(
+        subscribeToStorage,
+        getHydrationSnapshot,
+        getServerHydrationSnapshot
+    );
+    const savedPin = useSyncExternalStore(
+        subscribeToStorage,
+        getParentPinSnapshot,
+        getServerPinSnapshot
+    );
+    const serializedStats = useSyncExternalStore(
+        subscribeToStorage,
+        getStatsSnapshot,
+        getServerStatsSnapshot
+    );
+    const view = viewOverride ?? (
+        isHydrated ? (savedPin ? 'LOCKED' : 'SETUP') : 'LOADING'
+    );
+    const stats = parseStoredStats(serializedStats);
 
     const handleSetupPin = () => {
         if (pinInput.length < 4) {

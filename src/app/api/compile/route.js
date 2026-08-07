@@ -1,71 +1,80 @@
 import fs from 'fs';
 import path from 'path';
+import {
+    compilerDisabledResponse,
+    isCompilerDisabled
+} from '../../../lib/production-route-policy.js';
 
-export async function POST(request) {
-    const grades = [1, 2, 3, 4, 5];
-    const subjectFilesMap = {
-        'viet': 'vietnamese.txt',
-        'science': 'science.txt',
-        'tech': 'tech.txt'
-    };
+const GRADES = Object.freeze([1, 2, 3, 4, 5]);
+const SUBJECT_FILES = Object.freeze({
+    viet: 'vietnamese.txt',
+    science: 'science.txt',
+    tech: 'tech.txt'
+});
 
-    function parseTextbookFile(filePath) {
-        if (!fs.existsSync(filePath)) return null;
-        const content = fs.readFileSync(filePath, 'utf8');
-        const blocks = content.split(/\n\s*\n|\n\s*---\s*\n/);
-        const questions = [];
+function parseQuestionBlock(block) {
+    const fields = Object.fromEntries(block.split('\n').map((line) => {
+        const separatorIndex = line.indexOf(':');
+        return separatorIndex === -1
+            ? ['', '']
+            : [line.slice(0, separatorIndex).trim(), line.slice(separatorIndex + 1).trim()];
+    }));
 
-        for (const block of blocks) {
-            if (!block.trim()) continue;
-            const lines = block.split('\n');
-            let q = '';
-            let a = '';
-            let c = [];
-
-            for (let line of lines) {
-                line = line.trim();
-                if (line.startsWith('Q:')) {
-                    q = line.substring(2).trim();
-                } else if (line.startsWith('A:')) {
-                    a = line.substring(2).trim();
-                } else if (line.startsWith('C:')) {
-                    c = line.substring(2).split(',').map(item => item.trim());
-                }
-            }
-
-            if (q && a) {
-                if (c.length === 0) {
-                    c = [a];
-                } else if (!c.includes(a)) {
-                    c.unshift(a);
-                }
-                questions.push({ q, a, c });
-            }
-        }
-
-        return questions.length > 0 ? questions : null;
+    if (!fields.Q || !fields.A) {
+        return [];
     }
 
-    const log = [];
+    const choices = fields.C
+        ? fields.C.split(',').map((choice) => choice.trim())
+        : [];
+    const completeChoices = choices.includes(fields.A)
+        ? choices
+        : [fields.A, ...choices];
 
-    grades.forEach(g => {
-        const textbookDir = path.join(process.cwd(), 'textbooks', `grade${g}`);
-        const dataDir = path.join(process.cwd(), 'src', 'data', `grade${g}`);
-        
-        fs.mkdirSync(textbookDir, { recursive: true });
-        fs.mkdirSync(dataDir, { recursive: true });
+    return [{ q: fields.Q, a: fields.A, c: completeChoices }];
+}
 
-        Object.entries(subjectFilesMap).forEach(([subject, fileName]) => {
-            const textFilePath = path.join(textbookDir, fileName);
-            const jsonFilePath = path.join(dataDir, `${subject}.json`);
+function parseTextbookFile(filePath) {
+    if (!fs.existsSync(filePath)) {
+        return [];
+    }
 
-            const parsedQuestions = parseTextbookFile(textFilePath);
-            if (parsedQuestions) {
-                fs.writeFileSync(jsonFilePath, JSON.stringify(parsedQuestions, null, 2), 'utf8');
-                log.push(`Compiled Grade ${g} ${subject.toUpperCase()}: ${parsedQuestions.length} questions.`);
-            }
-        });
+    return fs.readFileSync(filePath, 'utf8')
+        .split(/\n\s*\n|\n\s*---\s*\n/)
+        .flatMap(parseQuestionBlock);
+}
+
+function compileGrade(grade) {
+    const textbookDirectory = path.join(process.cwd(), 'textbooks', `grade${grade}`);
+    const dataDirectory = path.join(process.cwd(), 'src', 'data', `grade${grade}`);
+
+    fs.mkdirSync(textbookDirectory, { recursive: true });
+    fs.mkdirSync(dataDirectory, { recursive: true });
+
+    return Object.entries(SUBJECT_FILES).flatMap(([subject, fileName]) => {
+        const questions = parseTextbookFile(path.join(textbookDirectory, fileName));
+        if (questions.length === 0) {
+            return [];
+        }
+
+        fs.writeFileSync(
+            path.join(dataDirectory, `${subject}.json`),
+            JSON.stringify(questions, null, 2),
+            'utf8'
+        );
+        return [`Compiled Grade ${grade} ${subject.toUpperCase()}: ${questions.length} questions.`];
     });
+}
 
-    return Response.json({ success: true, log });
+export async function POST() {
+    if (isCompilerDisabled(process.env.NODE_ENV)) {
+        return compilerDisabledResponse();
+    }
+
+    try {
+        return Response.json({ success: true, log: GRADES.flatMap(compileGrade) });
+    } catch (error) {
+        console.error('Textbook compilation failed', error);
+        return Response.json({ error: 'Internal Server Error' }, { status: 500 });
+    }
 }

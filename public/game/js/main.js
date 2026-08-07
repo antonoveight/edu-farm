@@ -3488,8 +3488,10 @@ function updateMarketPrices() {
             const urlParams = new URLSearchParams(window.location.search);
             const urlGrade = urlParams.get('grade');
             const urlWorld = urlParams.get('world');
-            if (urlGrade && urlWorld) {
-                selectedGrade = parseInt(urlGrade);
+            const validGrades = ['1', '2', '3', '4', '5'];
+            const validWorlds = ['eco', 'cyber', 'magic'];
+            if (validGrades.includes(urlGrade) && validWorlds.includes(urlWorld)) {
+                selectedGrade = Number(urlGrade);
                 selectedWorld = urlWorld;
                 // Đảm bảo screen-game hiển thị ngay lập tức (xóa class hidden trước)
                 const sg = document.getElementById('screen-game');
