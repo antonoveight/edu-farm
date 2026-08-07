@@ -991,13 +991,33 @@ function getSeedConfig() {
 
         /* HÀM CẬP NHẬT TRỢ LÝ THEO TAB */
         function updateAssistantForTab(tabId) {
-            if (!selectedWorld || !gameState.guideEnabled) return;
+            if (!selectedWorld) return;
             const box = document.getElementById("assistant-box");
             if (!box) return;
 
             // Luôn hiển thị và đặt z-index cao nhất
             box.style.display = "flex";
             box.style.zIndex = "9999";
+
+            // Cập nhật tên/avatar nhân vật theo world
+            const comp = companionsConfig[selectedWorld];
+            if (comp) {
+                const avatar = document.getElementById("assistant-avatar");
+                const nameEl = document.getElementById("assistant-name");
+                if (avatar) avatar.innerText = comp.avatar;
+                if (nameEl) {
+                    nameEl.innerText = comp.name;
+                    nameEl.className = `block text-[10px] font-black uppercase tracking-wider ${comp.textColor} mb-0.5`;
+                }
+            }
+
+            // Nếu guide TẮT: thu nhỏ về góc, không nói lời thoại tab
+            if (!gameState.guideEnabled) {
+                box.classList.add("assistant-tucked");
+                return;
+            }
+
+            // Guide BẬT: hiển thị đầy đủ
             box.classList.remove("assistant-tucked");
 
             // Tab farm: updateGuide() sẽ xử lý chi tiết (bay tới target, highlight)
@@ -1014,7 +1034,7 @@ function getSeedConfig() {
                 resetAssistantPosition();
             }
 
-            // Nói lời thoại của tab
+            // Nói lời thoại phù hợp tab
             triggerAssistantSpeech("tab_" + tabId);
         }
 
