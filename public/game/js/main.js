@@ -499,8 +499,14 @@ function getSeedConfig() {
 
             // Nếu tắt hướng dẫn, hoặc đang ẩn màn hình game, hoặc không ở tab nông trại
             if (!gameState.guideEnabled || document.getElementById("screen-game").classList.contains("screen-hidden") || activeTab !== "farm") {
-                resetAssistantPosition();
                 clearHighlight();
+                // Khi TẮT: thu nhỏ trợ lý về góc dưới phải, không che nội dung
+                if (!gameState.guideEnabled) {
+                    box.classList.add("assistant-tucked");
+                } else {
+                    box.classList.remove("assistant-tucked");
+                    resetAssistantPosition();
+                }
                 if (currentGuideState !== "disabled") {
                     currentGuideState = "disabled";
                     // Quay về hiển thị hội thoại cơ bản
@@ -524,6 +530,8 @@ function getSeedConfig() {
                 }
                 return;
             }
+            // Khi BẬT: đảm bảo xóa class tucked
+            box.classList.remove("assistant-tucked");
 
             const comp = companionsConfig[selectedWorld];
             let targetElement = null;
@@ -797,22 +805,35 @@ function getSeedConfig() {
             if (gameState.inventory.water === undefined) gameState.inventory.water = 5;
             if (!Array.isArray(gameState.inventory.decorations)) gameState.inventory.decorations = [];
 
-            if (!Array.isArray(gameState.plots) || gameState.plots.length !== 6) {
+            if (!Array.isArray(gameState.plots) || gameState.plots.length < 6) {
                 gameState.plots = [
                     { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
                     { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
                     { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
                     { status: "locked", cost: 100 },
                     { status: "locked", cost: 250 },
-                    { status: "locked", cost: 500 }
+                    { status: "locked", cost: 500 },
+                    { status: "locked", cost: 750 },
+                    { status: "locked", cost: 1000 },
+                    { status: "locked", cost: 1500 },
+                    { status: "locked", cost: 2000 }
                 ];
+            } else if (gameState.plots.length < 10) {
+                // Nâng cấp từ bản cũ (6 ô) lên 10 ô không mất dữ liệu cũ
+                const costs = [100, 250, 500, 750, 1000, 1500, 2000];
+                while (gameState.plots.length < 10) {
+                    const i = gameState.plots.length;
+                    const cost = costs[i - 3] || 2000;
+                    gameState.plots.push({ status: "locked", cost });
+                }
             } else {
                 // Sửa lỗi các ô đất bị thiếu thuộc tính từ bản v1.0
+                const lockedCosts = [100, 250, 500, 750, 1000, 1500, 2000];
                 gameState.plots = gameState.plots.map((plot, i) => {
                     if (!plot || typeof plot !== 'object') {
-                        return i < 3 
+                        return i < 3
                             ? { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 }
-                            : { status: "locked", cost: i === 3 ? 100 : (i === 4 ? 250 : 500) };
+                            : { status: "locked", cost: lockedCosts[i - 3] || 2000 };
                     }
                     if (plot.status === undefined) plot.status = "empty";
                     if (plot.prog === undefined) plot.prog = 0;
@@ -855,7 +876,11 @@ function getSeedConfig() {
                     { status: "empty", prog: 0, seed: null, water: true, pest: false, errorCount: 0 },
                     { status: "locked", cost: 100 },
                     { status: "locked", cost: 250 },
-                    { status: "locked", cost: 500 }
+                    { status: "locked", cost: 500 },
+                    { status: "locked", cost: 750 },
+                    { status: "locked", cost: 1000 },
+                    { status: "locked", cost: 1500 },
+                    { status: "locked", cost: 2000 }
                 ],
                 eggProgress: 0,
                 eggHatched: false,
