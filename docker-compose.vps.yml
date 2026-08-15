@@ -4,6 +4,9 @@ networks:
   traefik-public:
     external: true
 
+volumes:
+  question-data:
+
 services:
   app:
     image: toanvui-edu-farm:production
@@ -19,6 +22,10 @@ services:
       HOSTNAME: 0.0.0.0
       PORT: "3000"
       TZ: Asia/Ho_Chi_Minh
+      QUESTION_DB_PATH: /app/storage/questions.sqlite
+      ADMIN_USERNAME: ${ADMIN_USERNAME:-admin}
+      ADMIN_PASSWORD: ${ADMIN_PASSWORD:-}
+      ADMIN_SESSION_SECRET: ${ADMIN_SESSION_SECRET:-}
     expose:
       - "3000"
     networks:
@@ -27,6 +34,8 @@ services:
     tmpfs:
       - /tmp:rw,noexec,nosuid,size=64m
       - /app/.next/cache:rw,noexec,nosuid,size=128m,uid=1000,gid=1000
+    volumes:
+      - question-data:/app/storage
     cap_drop:
       - ALL
     security_opt:

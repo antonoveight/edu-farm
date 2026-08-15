@@ -750,6 +750,7 @@ function getSeedConfig() {
             try {
                 const res = await fetch(`${window.GAME_API_BASE}/api/questions?grade=${selectedGrade}`);
                 const data = await res.json();
+                QUIZ_BANK[`g${selectedGrade}_math`] = data.math || [];
                 QUIZ_BANK[`g${selectedGrade}_viet`] = data.viet || [];
                 QUIZ_BANK[`g${selectedGrade}_science`] = data.science || [];
                 QUIZ_BANK[`g${selectedGrade}_tech`] = data.tech || [];
@@ -4779,33 +4780,40 @@ function generateSpecificSubjectQuestion(subject, mode) {
 
     if (normSubject === 'math') {
         labelPrefix = `Toán Học Lớp ${grade}`;
-        const mathQ = buildMathQuestion(grade);
-        if (mathQ) {
-            question = mathQ.q;
-            ans = String(mathQ.ans);
-            options = [ans];
-            const numAns = parseFloat(ans);
-            // Xác định xem đáp án có dạng thập phân không để sinh fake options nhất quán
-            const isDecimalAns = ans.includes('.');
-            let tries = 0;
-            while (options.length < 4 && tries < 50) {
-                tries++;
-                // Biên độ sai lệch: nhỏ hơn với thập phân để hợp lý
-                const spread = isDecimalAns ? 0.1 * (Math.floor(Math.random() * 5) + 1) : (Math.floor(Math.random() * 5) + 1);
-                let fake = numAns + spread * (Math.random() < 0.5 ? 1 : -1);
-                if (isDecimalAns) {
-                    fake = parseFloat(fake.toFixed(1));
-                    if (fake <= 0) continue;
-                    const fakeStr = fake.toFixed(1);
-                    if (!options.includes(fakeStr)) options.push(fakeStr);
-                } else {
-                    fake = Math.round(fake);
-                    if (fake < 0) continue;
-                    const fakeStr = String(fake);
-                    if (!options.includes(fakeStr)) options.push(fakeStr);
+        const bankKey = `g${grade}_math`;
+        candidate = pickQuizQuestion(bankKey);
+        if (candidate) {
+            question = candidate.q || candidate.sentence || "Câu hỏi Toán:";
+            ans = String(candidate.a || (candidate.c ? candidate.c[0] : "Đáp án đúng"));
+            options = generateRealisticOptions(candidate, ans, normSubject);
+        } else {
+            const mathQ = buildMathQuestion(grade);
+            if (mathQ) {
+                question = mathQ.q;
+                ans = String(mathQ.ans);
+                options = [ans];
+                const numAns = parseFloat(ans);
+                // Xác định xem đáp án có dạng thập phân không để sinh fake options nhất quán
+                const isDecimalAns = ans.includes('.');
+                let tries = 0;
+                while (options.length < 4 && tries < 50) {
+                    tries++;
+                    // Biên độ sai lệch: nhỏ hơn với thập phân để hợp lý
+                    const spread = isDecimalAns ? 0.1 * (Math.floor(Math.random() * 5) + 1) : (Math.floor(Math.random() * 5) + 1);
+                    let fake = numAns + spread * (Math.random() < 0.5 ? 1 : -1);
+                    if (isDecimalAns) {
+                        fake = parseFloat(fake.toFixed(1));
+                        if (fake <= 0) continue;
+                        const fakeStr = fake.toFixed(1);
+                        if (!options.includes(fakeStr)) options.push(fakeStr);
+                    } else {
+                        fake = Math.round(fake);
+                        if (fake < 0) continue;
+                        const fakeStr = String(fake);
+                        if (!options.includes(fakeStr)) options.push(fakeStr);
+                    }
                 }
             }
-
         }
     } else {
         const bankKey = `g${grade}_${normSubject}`;
@@ -4970,7 +4978,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
     // Anti-repeat: Tránh cùng loại bài liên tiếp ở chế độ Nông Trại
     const isFarmTask = activeTask && !isMapTask && !isBossTask;
     if (isFarmTask && qType === 'multiple_choice' && activeTask.lastQType === 'multiple_choice') {
-        if (normSubject === 'math') {
+        if (normSubject === 'math' && Number.isFinite(Number(ans))) {
             qType = 'math_input';
         }
     }

@@ -4,6 +4,8 @@ import "./globals.css";
 const inter = Inter({
   variable: "--font-inter",
   subsets: ["latin", "vietnamese"],
+  display: "swap",
+  fallback: ["Arial", "sans-serif"],
 });
 
 export const metadata = {
@@ -20,7 +22,7 @@ export default function RootLayout({ children }) {
       lang="vi"
       className={`${inter.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col font-sans">{children}</body>
+      <body className={`${inter.className} min-h-full flex flex-col`}>{children}</body>
     </html>
   );
 }

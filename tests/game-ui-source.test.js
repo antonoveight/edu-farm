@@ -17,6 +17,16 @@ const gameCss = fs.readFileSync(
 );
 
 describe('game exercise rendering', () => {
+    test('loads and prefers the curated mathematics bank from the API', () => {
+        expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_math`] = data.math || []');
+        expect(gameScript).toContain('const bankKey = `g${grade}_math`');
+        expect(gameScript).toContain('candidate = pickQuizQuestion(bankKey)');
+    });
+
+    test('only changes repeated mathematics choices to numeric input for numeric answers', () => {
+        expect(gameScript).toContain("normSubject === 'math' && Number.isFinite(Number(ans))");
+    });
+
     test('renders true/false as one top-level exercise branch', () => {
         const branches = gameScript.match(/else if \(qType === 'true_false'\)/g) || [];
         const trueFalseIndex = gameScript.indexOf("else if (qType === 'true_false')");

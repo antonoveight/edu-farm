@@ -6,7 +6,10 @@ let totalQ = 0;
 let errors = [];
 let warnings = [];
 
-const VALID_TYPES = ['multiple_choice', 'fill_blank', 'typing', 'shortcut', 'reorder', 'matching'];
+const VALID_TYPES = [
+    'multiple_choice', 'fill_blank', 'typing', 'shortcut', 'reorder',
+    'matching', 'true_false', 'find_error', 'categorize'
+];
 
 function checkJSON(filePath) {
     try {

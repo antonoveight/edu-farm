@@ -7,3 +7,5 @@ dist
 .env*
 .agents
 temp_skills
+storage/*.sqlite*
+backup/

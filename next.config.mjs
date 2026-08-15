@@ -2,7 +2,7 @@
 const nextConfig = {
   output: 'standalone',
   outputFileTracingIncludes: {
-    '/api/questions': ['./src/data/grade*/*.json'],
+    '/*': ['./src/data/grade*/*.json'],
   },
   rewrites() {
     return {
