@@ -490,115 +490,124 @@ window.addEventListener('unhandledrejection', function(e) {
 
         <!-- ================= MÀN HÌNH HỌC VIỆN LUYỆN GÕ 10 NGÓN ================= -->
         <div id="screen-typing" class="screen" style="display: none;">
-            <!-- Header -->
-            <div class="typing-header">
-                <div class="typing-header-title">
-                    <button class="btn-home" onclick="closeTypingAcademy()" title="Quay lại Trang Chủ">
+            <!-- Top Navigation Bar -->
+            <div class="typing-topbar">
+                <div class="typing-topbar-left">
+                    <button class="btn-typing-back" onclick="closeTypingAcademy()" title="Quay lại Trang Chủ">
                         <i class="fa-solid fa-arrow-left"></i>
                     </button>
-                    <div>
-                        <h2><i class="fa-solid fa-keyboard" style="color: #38bdf8;"></i> HỌC VIỆN GÕ 10 NGÓN</h2>
-                        <div id="typing-lesson-title" style="font-size: 13px; color: #94a3b8; font-weight: 700;">Đang nạp bài học...</div>
-                    </div>
+                    <button class="lesson-picker-btn" onclick="TypingEngine.openLessonModal()" title="Bấm để đổi bài học">
+                        <i class="fa-solid fa-book-bookmark" style="color: #38bdf8;"></i>
+                        <span id="typing-lesson-title">Bài 1: Hai ngón trỏ F và J</span>
+                        <i class="fa-solid fa-chevron-down" style="font-size: 11px; color: #94a3b8;"></i>
+                    </button>
                 </div>
-                <div style="display: flex; align-items: center; gap: 12px; flex-wrap: wrap;">
-                    <div class="ime-selector">
-                        <button class="ime-btn ime-btn-select active" data-ime="telex" onclick="TypingEngine.setImeMode('telex')">TELEX</button>
-                        <button class="ime-btn ime-btn-select" data-ime="vni" onclick="TypingEngine.setImeMode('vni')">VNI</button>
+                
+                <div class="typing-topbar-right">
+                    <div class="ime-pill">
+                        <button class="ime-pill-btn ime-btn-select active" data-ime="telex" onclick="TypingEngine.setImeMode('telex')">TELEX</button>
+                        <button class="ime-pill-btn ime-btn-select" data-ime="vni" onclick="TypingEngine.setImeMode('vni')">VNI</button>
                     </div>
-                    <button class="btn-select" style="padding: 6px 12px; font-size: 12px;" onclick="TypingEngine.retry()">
+                    <button class="btn-typing-action" onclick="TypingEngine.retry()" title="Luyện lại bài này">
                         <i class="fa-solid fa-rotate-right"></i> Gõ Lại
                     </button>
                 </div>
             </div>
 
-            <!-- Danh sách Cấp độ & Bài học -->
-            <div class="typing-categories-grid" id="typing-cat-list"></div>
-
-            <!-- Không gian luyện gõ chính -->
-            <div class="typing-workspace">
-                <!-- Bảng HUD chỉ số -->
-                <div class="typing-hud">
-                    <div class="hud-item">
-                        <div class="hud-item-label">Tốc Độ (WPM)</div>
-                        <div class="hud-item-val" id="hud-wpm">0</div>
+            <!-- Workspace chính -->
+            <div class="typing-main-container">
+                <!-- Thanh chỉ số HUD tối giản & Progress Bar -->
+                <div class="typing-compact-hud">
+                    <div class="hud-stat-group">
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Tốc Độ:</span>
+                            <span class="hud-stat-number" id="hud-wpm">0</span>
+                            <span style="font-size: 13px; color: #64748b; font-weight: 700;">WPM</span>
+                        </div>
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Chính Xác:</span>
+                            <span class="hud-stat-number" id="hud-accuracy" style="color: #10b981;">100%</span>
+                        </div>
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Chuỗi Đúng:</span>
+                            <span class="hud-stat-number" id="hud-streak" style="color: #f59e0b;">🔥 0</span>
+                        </div>
                     </div>
-                    <div class="hud-item">
-                        <div class="hud-item-label">Độ Chính Xác</div>
-                        <div class="hud-item-val" id="hud-accuracy" style="color: #10b981;">100%</div>
-                    </div>
-                    <div class="hud-item">
-                        <div class="hud-item-label">Chuỗi Đúng</div>
-                        <div class="hud-item-val" id="hud-streak" style="color: #f59e0b;">🔥 0</div>
-                    </div>
-                    <div class="hud-item">
-                        <div class="hud-item-label">Thời Gian</div>
-                        <div class="hud-item-val" id="hud-timer" style="color: #a855f7;">00:00</div>
+                    <div class="hud-stat-box">
+                        <span class="hud-stat-label">Thời Gian:</span>
+                        <span class="hud-stat-number" id="hud-timer" style="color: #cbd5e1; font-size: 20px;">00:00</span>
                     </div>
                 </div>
 
-                <!-- Khung hiển thị chữ cần gõ -->
-                <div class="typing-text-display" id="typing-text-display"></div>
-
-                <!-- Thanh gợi ý ngón tay & kiểu gõ -->
-                <div class="typing-hint-bar">
-                    <span id="typing-finger-hint">Đặt tay đúng vị trí hàng cơ sở F và J</span>
-                    <span class="typing-hint-badge" id="typing-ime-badge">TELEX</span>
+                <!-- Progress Bar -->
+                <div class="lesson-progress-bar">
+                    <div class="lesson-progress-fill" id="lesson-progress-fill"></div>
                 </div>
 
-                <!-- Bàn phím ảo QWERTY phát sáng -->
-                <div class="virtual-keyboard" id="virtual-keyboard"></div>
+                <!-- Khung hiển thị chữ gõ to, rõ ràng -->
+                <div class="typing-text-display-box" id="typing-text-display"></div>
 
-                <!-- Mô hình 2 bàn tay hướng dẫn 10 ngón -->
-                <div class="hands-guide-container">
+                <!-- Thanh hướng dẫn thao tác phím & ngón tay -->
+                <div class="typing-guide-instruction" id="typing-finger-hint">
+                    Đặt ngón trỏ lên phím <b style="color: #38bdf8">F</b> và <b style="color: #38bdf8">J</b>
+                </div>
+
+                <!-- Bàn phím ảo trực quan to, sắc nét -->
+                <div class="virtual-keyboard-clean" id="virtual-keyboard"></div>
+
+                <!-- Mô hình 2 bàn tay SVG trực quan sinh động -->
+                <div class="hands-visual-wrapper">
                     <!-- Bàn tay trái -->
-                    <div class="hand-visual" style="border-right: 1px dashed rgba(255,255,255,0.1); padding-right: 24px;">
-                        <div class="finger-indicator" id="finger-left_pinky" style="color: #ec4899;">
-                            <div class="finger-bar finger-pinky" style="background: #ec4899;"></div>
-                            <span class="finger-name">Út Trái</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-left_ring" style="color: #f97316;">
-                            <div class="finger-bar finger-ring" style="background: #f97316;"></div>
-                            <span class="finger-name">Áp Út</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-left_middle" style="color: #eab308;">
-                            <div class="finger-bar finger-middle" style="background: #eab308;"></div>
-                            <span class="finger-name">Giữa</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-left_index" style="color: #22c55e;">
-                            <div class="finger-bar finger-index" style="background: #22c55e;"></div>
-                            <span class="finger-name">Trỏ Trái (F)</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-thumb-left" style="color: #06b6d4;">
-                            <div class="finger-bar finger-thumb" style="background: #06b6d4;"></div>
-                            <span class="finger-name">Cái (Space)</span>
-                        </div>
+                    <div class="hand-svg-box">
+                        <span class="hand-svg-label">BÀN TAY TRÁI</span>
+                        <svg class="hand-svg" viewBox="0 0 160 130">
+                            <!-- Lòng bàn tay -->
+                            <path class="svg-palm" d="M30,70 Q25,115 65,120 Q105,120 105,75 Q105,55 90,55 Q60,55 30,70 Z" />
+                            <!-- Ngón Út -->
+                            <path id="svg-finger-left_pinky" class="svg-finger" d="M15,65 C10,40 18,25 28,25 C36,25 38,40 36,65 Z" />
+                            <!-- Ngón Áp Út -->
+                            <path id="svg-finger-left_ring" class="svg-finger" d="M38,58 C35,30 44,12 55,12 C64,12 67,30 63,58 Z" />
+                            <!-- Ngón Giữa -->
+                            <path id="svg-finger-left_middle" class="svg-finger" d="M65,55 C63,22 73,4 84,4 C93,4 95,22 91,55 Z" />
+                            <!-- Ngón Trỏ (F) -->
+                            <path id="svg-finger-left_index" class="svg-finger" d="M93,58 C93,28 103,16 113,16 C122,16 123,28 119,60 Z" />
+                            <!-- Ngón Cái (Space) -->
+                            <path id="svg-finger-thumb-left" class="svg-finger" d="M110,80 C125,75 145,70 150,82 C155,95 135,105 110,95 Z" />
+                        </svg>
                     </div>
 
                     <!-- Bàn tay phải -->
-                    <div class="hand-visual" style="padding-left: 24px;">
-                        <div class="finger-indicator" id="finger-thumb-right" style="color: #06b6d4;">
-                            <div class="finger-bar finger-thumb" style="background: #06b6d4;"></div>
-                            <span class="finger-name">Cái (Space)</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-right_index" style="color: #3b82f6;">
-                            <div class="finger-bar finger-index" style="background: #3b82f6;"></div>
-                            <span class="finger-name">Trỏ Phải (J)</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-right_middle" style="color: #8b5cf6;">
-                            <div class="finger-bar finger-middle" style="background: #8b5cf6;"></div>
-                            <span class="finger-name">Giữa</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-right_ring" style="color: #d946ef;">
-                            <div class="finger-bar finger-ring" style="background: #d946ef;"></div>
-                            <span class="finger-name">Áp Út</span>
-                        </div>
-                        <div class="finger-indicator" id="finger-right_pinky" style="color: #f43f5e;">
-                            <div class="finger-bar finger-pinky" style="background: #f43f5e;"></div>
-                            <span class="finger-name">Út Phải</span>
-                        </div>
+                    <div class="hand-svg-box">
+                        <span class="hand-svg-label">BÀN TAY PHẢI</span>
+                        <svg class="hand-svg" viewBox="0 0 160 130">
+                            <!-- Lòng bàn tay -->
+                            <path class="svg-palm" d="M130,70 Q135,115 95,120 Q55,120 55,75 Q55,55 70,55 Q100,55 130,70 Z" />
+                            <!-- Ngón Cái (Space) -->
+                            <path id="svg-finger-thumb-right" class="svg-finger" d="M50,80 C35,75 15,70 10,82 C5,95 25,105 50,95 Z" />
+                            <!-- Ngón Trỏ (J) -->
+                            <path id="svg-finger-right_index" class="svg-finger" d="M67,58 C67,28 57,16 47,16 C38,16 37,28 41,60 Z" />
+                            <!-- Ngón Giữa -->
+                            <path id="svg-finger-right_middle" class="svg-finger" d="M95,55 C97,22 87,4 76,4 C67,4 65,22 69,55 Z" />
+                            <!-- Ngón Áp Út -->
+                            <path id="svg-finger-right_ring" class="svg-finger" d="M122,58 C125,30 116,12 105,12 C96,12 93,30 97,58 Z" />
+                            <!-- Ngón Út -->
+                            <path id="svg-finger-right_pinky" class="svg-finger" d="M145,65 C150,40 142,25 132,25 C124,25 122,40 124,65 Z" />
+                        </svg>
                     </div>
                 </div>
+            </div>
+        </div>
+
+        <!-- Modal Chọn Bài Học Gọn Gàng -->
+        <div class="lesson-modal-overlay" id="modal-lesson-picker" onclick="if(event.target===this) TypingEngine.closeLessonModal()">
+            <div class="lesson-modal-content">
+                <div class="lesson-modal-header">
+                    <h3 style="font-size: 20px; font-weight: 900; color: #38bdf8; margin: 0;">
+                        <i class="fa-solid fa-list-check" style="margin-right: 8px;"></i> CHỌN BÀI LUYỆN GÕ
+                    </h3>
+                    <button class="btn-typing-back" style="width: 32px; height: 32px;" onclick="TypingEngine.closeLessonModal()">✕</button>
+                </div>
+                <div id="lesson-modal-categories" style="display: flex; flex-direction: column; gap: 16px;"></div>
             </div>
         </div>
 
@@ -609,23 +618,23 @@ window.addEventListener('unhandledrejection', function(e) {
                 <h3 style="font-size: 24px; font-weight: 900; color: #38bdf8; margin: 0 0 16px 0;">HOÀN THÀNH BÀI LUYỆN!</h3>
                 
                 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 20px;">
-                    <div class="hud-item">
-                        <div class="hud-item-label">Tốc độ gõ</div>
-                        <div class="hud-item-val" id="typing-res-wpm" style="font-size: 22px;">0 WPM</div>
+                    <div style="background: #111827; border-radius: 12px; padding: 10px;">
+                        <div class="hud-stat-label">Tốc độ gõ</div>
+                        <div id="typing-res-wpm" style="font-size: 22px; font-weight: 900; color: #38bdf8;">0 WPM</div>
                     </div>
-                    <div class="hud-item">
-                        <div class="hud-item-label">Độ chính xác</div>
-                        <div class="hud-item-val" id="typing-res-acc" style="font-size: 22px; color: #10b981;">100%</div>
+                    <div style="background: #111827; border-radius: 12px; padding: 10px;">
+                        <div class="hud-stat-label">Độ chính xác</div>
+                        <div id="typing-res-acc" style="font-size: 22px; font-weight: 900; color: #10b981;">100%</div>
                     </div>
                 </div>
 
-                <div style="background: rgba(251, 191, 36, 0.15); border: 1px solid rgba(251, 191, 36, 0.4); border-radius: 14px; padding: 12px; margin-bottom: 20px;">
+                <div style="background: rgba(251, 191, 36, 0.1); border: 1px solid rgba(251, 191, 36, 0.3); border-radius: 14px; padding: 12px; margin-bottom: 20px;">
                     <div style="font-size: 13px; color: #fef08a; font-weight: 700; margin-bottom: 4px;">Phần Thưởng Nông Trại:</div>
                     <div id="typing-res-coins" style="font-size: 20px; font-weight: 900; color: #fbbf24;">+10 Vàng Nông Trại</div>
                 </div>
 
                 <div style="display: flex; gap: 12px; justify-content: center;">
-                    <button class="btn-select" style="padding: 10px 20px; font-size: 14px;" onclick="TypingEngine.retry()">
+                    <button class="btn-typing-action" style="padding: 10px 20px; font-size: 14px;" onclick="TypingEngine.retry()">
                         <i class="fa-solid fa-rotate-right"></i> Luyện Lại
                     </button>
                     <button class="btn-start" style="padding: 10px 24px; font-size: 14px;" onclick="TypingEngine.next()">

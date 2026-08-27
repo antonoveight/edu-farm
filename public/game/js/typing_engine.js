@@ -1,6 +1,7 @@
 /**
  * TYPING ACADEMY ENGINE
  * Xử lý sự kiện bàn phím, phân tích Telex/VNI, tính WPM/Accuracy và điều phối giao diện
+ * Thiết kế tối giản, to rõ theo phong cách Typing.com
  */
 
 window.TypingEngine = (function() {
@@ -41,54 +42,72 @@ window.TypingEngine = (function() {
         } catch (e) {}
     }
 
-    function playClick() { playTone(600, 'triangle', 0.04, 0.04); }
-    function playCorrect() { playTone(880, 'sine', 0.06, 0.05); }
-    function playError() { playTone(180, 'sawtooth', 0.12, 0.08); }
+    function playClick() { playTone(550, 'triangle', 0.04, 0.04); }
+    function playCorrect() { playTone(800, 'sine', 0.05, 0.04); }
+    function playError() { playTone(180, 'sawtooth', 0.1, 0.06); }
     function playVictory() {
         [523, 659, 784, 1046].forEach((f, i) => {
-            setTimeout(() => playTone(f, 'triangle', 0.25, 0.1), i * 120);
+            setTimeout(() => playTone(f, 'triangle', 0.25, 0.08), i * 110);
         });
     }
 
     // Khởi tạo giao diện
     function init() {
-        renderCategories();
         renderKeyboard();
+        renderLessonModalList();
         setupEventListeners();
         loadLesson(0, 0);
     }
 
-    // Render danh mục bài học
-    function renderCategories() {
-        const listEl = document.getElementById("typing-cat-list");
-        if (!listEl) return;
+    // Render danh sách bài học trong Modal Chọn Bài
+    function renderLessonModalList() {
+        const modalContainer = document.getElementById("lesson-modal-categories");
+        if (!modalContainer) return;
 
         const cats = window.TYPING_DATA.categories;
-        listEl.innerHTML = cats.map((cat, idx) => `
-            <div class="typing-cat-card ${idx === state.catIndex ? 'active' : ''}" onclick="TypingEngine.selectCategory(${idx})">
-                <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 8px;">
-                    <span style="font-weight: 800; font-size: 14px; color: #38bdf8;">
-                        <i class="${cat.icon}" style="margin-right: 6px;"></i> ${cat.title}
+        modalContainer.innerHTML = cats.map((cat, cIdx) => `
+            <div style="background: #1e293b; border-radius: 16px; padding: 16px; border: 1px solid rgba(255,255,255,0.06);">
+                <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
+                    <span style="font-weight: 800; font-size: 15px; color: #38bdf8;">
+                        <i class="${cat.icon}" style="margin-right: 8px;"></i> ${cat.title}
                     </span>
-                    <span style="font-size: 12px; font-weight: 800; color: #fbbf24; background: rgba(251, 191, 36, 0.15); padding: 2px 8px; border-radius: 6px;">
+                    <span style="font-size: 12px; font-weight: 800; color: #fbbf24;">
                         +${cat.rewardCoins} 🪙
                     </span>
                 </div>
-                <p style="font-size: 12px; color: #94a3b8; margin: 0 0 10px 0; line-height: 1.4;">${cat.desc}</p>
-                <div style="display: flex; gap: 4px; flex-wrap: wrap;">
-                    ${cat.lessons.map((les, lIdx) => `
-                        <button class="ime-btn ${idx === state.catIndex && lIdx === state.lessonIndex ? 'active' : ''}" 
-                                style="font-size: 11px; padding: 4px 8px;" 
-                                onclick="event.stopPropagation(); TypingEngine.loadLesson(${idx}, ${lIdx})">
-                            Bài ${lIdx + 1}
-                        </button>
-                    `).join('')}
+                <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+                    ${cat.lessons.map((les, lIdx) => {
+                        const isCurrent = (cIdx === state.catIndex && lIdx === state.lessonIndex);
+                        return `
+                            <button class="lesson-picker-btn" 
+                                    style="padding: 8px 14px; font-size: 13px; ${isCurrent ? 'background: #0284c7; border-color: #38bdf8;' : ''}"
+                                    onclick="TypingEngine.selectLessonFromModal(${cIdx}, ${lIdx})">
+                                ${les.name}
+                            </button>
+                        `;
+                    }).join('')}
                 </div>
             </div>
         `).join('');
     }
 
-    // Render bàn phím ảo
+    function openLessonModal() {
+        renderLessonModalList();
+        const modal = document.getElementById("modal-lesson-picker");
+        if (modal) modal.style.display = "flex";
+    }
+
+    function closeLessonModal() {
+        const modal = document.getElementById("modal-lesson-picker");
+        if (modal) modal.style.display = "none";
+    }
+
+    function selectLessonFromModal(catIdx, lesIdx) {
+        closeLessonModal();
+        loadLesson(catIdx, lesIdx);
+    }
+
+    // Render bàn phím ảo sạch sẽ
     function renderKeyboard() {
         const kbEl = document.getElementById("virtual-keyboard");
         if (!kbEl) return;
@@ -97,36 +116,34 @@ window.TypingEngine = (function() {
             [
                 { k: "`", l: "~" }, { k: "1", l: "!" }, { k: "2", l: "@" }, { k: "3", l: "#" }, { k: "4", l: "$" },
                 { k: "5", l: "%" }, { k: "6", l: "^" }, { k: "7", l: "&" }, { k: "8", l: "*" }, { k: "9", l: "(" },
-                { k: "0", l: ")" }, { k: "-", l: "_" }, { k: "=", l: "+" }, { k: "Backspace", label: "⌫ Xóa", cls: "kb-key-wide" }
+                { k: "0", l: ")" }, { k: "-", l: "_" }, { k: "=", l: "+" }, { k: "Backspace", label: "⌫ Xóa", cls: "kb-clean-wide" }
             ],
             [
-                { k: "Tab", label: "Tab", cls: "kb-key-wide" },
+                { k: "Tab", label: "Tab", cls: "kb-clean-wide" },
                 { k: "q" }, { k: "w" }, { k: "e" }, { k: "r" }, { k: "t" }, { k: "y" }, { k: "u" }, { k: "i" }, { k: "o" }, { k: "p" },
                 { k: "[" }, { k: "]" }, { k: "\\" }
             ],
             [
-                { k: "CapsLock", label: "Caps", cls: "kb-key-wide" },
+                { k: "CapsLock", label: "Caps", cls: "kb-clean-wide" },
                 { k: "a" }, { k: "s" }, { k: "d" }, { k: "f" }, { k: "g" }, { k: "h" }, { k: "j" }, { k: "k" }, { k: "l" },
-                { k: ";" }, { k: "'" }, { k: "Enter", label: "↵ Enter", cls: "kb-key-wider" }
+                { k: ";" }, { k: "'" }, { k: "Enter", label: "↵ Enter", cls: "kb-clean-wider" }
             ],
             [
-                { k: "Shift", label: "⇧ Shift", cls: "kb-key-wider" },
+                { k: "Shift", label: "⇧ Shift", cls: "kb-clean-wider" },
                 { k: "z" }, { k: "x" }, { k: "c" }, { k: "v" }, { k: "b" }, { k: "n" }, { k: "m" },
-                { k: "," }, { k: "." }, { k: "/" }, { k: "Shift", label: "⇧ Shift", cls: "kb-key-wider" }
+                { k: "," }, { k: "." }, { k: "/" }, { k: "Shift", label: "⇧ Shift", cls: "kb-clean-wider" }
             ],
             [
-                { k: " ", label: "Space (Dấu Cách)", cls: "kb-key-space" }
+                { k: " ", label: "SPACE (DẤU CÁCH)", cls: "kb-clean-space" }
             ]
         ];
 
         kbEl.innerHTML = rows.map(row => `
-            <div class="kb-row">
+            <div class="kb-clean-row">
                 ${row.map(item => {
                     const keyVal = item.k.toLowerCase();
-                    const fingerInfo = getFingerForKey(keyVal);
-                    const colorStyle = fingerInfo ? `border-bottom: 3px solid ${fingerInfo.color};` : '';
                     return `
-                        <div class="kb-key ${item.cls || ''}" data-key="${keyVal}" style="${colorStyle}">
+                        <div class="kb-clean-key ${item.cls || ''}" data-key="${keyVal}">
                             ${item.label || item.k.toUpperCase()}
                         </div>
                     `;
@@ -168,9 +185,11 @@ window.TypingEngine = (function() {
         state.errorCount = 0;
         state.completed = false;
 
-        document.getElementById("typing-lesson-title").innerText = `${cats[catIdx].title} – ${cats[catIdx].lessons[lesIdx].name}`;
+        const titleEl = document.getElementById("typing-lesson-title");
+        if (titleEl) {
+            titleEl.innerText = `${cats[catIdx].lessons[lesIdx].name}`;
+        }
         
-        renderCategories();
         renderText();
         updateHUD();
         highlightGuide();
@@ -184,7 +203,7 @@ window.TypingEngine = (function() {
         let html = "";
         for (let i = 0; i < state.targetText.length; i++) {
             const char = state.targetText[i];
-            const displayChar = char === ' ' ? ' ' : char;
+            const displayChar = char === ' ' ? '&nbsp;' : char;
             let cls = "char-pending";
 
             if (i < state.currentIndex) {
@@ -196,14 +215,21 @@ window.TypingEngine = (function() {
             html += `<span class="${cls}">${displayChar}</span>`;
         }
         displayEl.innerHTML = html;
+
+        // Cập nhật thanh tiến độ
+        const fillEl = document.getElementById("lesson-progress-fill");
+        if (fillEl) {
+            const percent = (state.currentIndex / state.targetText.length) * 100;
+            fillEl.style.width = `${percent}%`;
+        }
     }
 
-    // Highlight phím tiếp theo và ngón tay trên mô hình
+    // Highlight phím tiếp theo và ngón tay trên mô hình SVG
     function highlightGuide() {
         // Xóa highlight cũ trên bàn phím
-        document.querySelectorAll(".kb-key").forEach(k => k.classList.remove("key-target"));
-        // Xóa active cũ trên bàn tay
-        document.querySelectorAll(".finger-indicator").forEach(f => f.classList.remove("active"));
+        document.querySelectorAll(".kb-clean-key").forEach(k => k.classList.remove("key-target"));
+        // Xóa active cũ trên các ngón tay SVG
+        document.querySelectorAll(".svg-finger").forEach(f => f.classList.remove("active"));
 
         if (state.currentIndex >= state.targetText.length) return;
 
@@ -214,21 +240,30 @@ window.TypingEngine = (function() {
         if (nextChar === ' ') keyToHighlight = ' ';
 
         // Tìm phím ảo tương ứng
-        const keyEl = document.querySelector(`.kb-key[data-key="${keyToHighlight}"]`);
+        const keyEl = document.querySelector(`.kb-clean-key[data-key="${keyToHighlight}"]`);
         if (keyEl) {
             keyEl.classList.add("key-target");
         }
 
-        // Highlight ngón tay
+        // Highlight ngón tay SVG trực quan
         const finger = getFingerForKey(keyToHighlight);
         if (finger) {
-            const fingerEl = document.getElementById(`finger-${finger.id}`);
-            if (fingerEl) {
-                fingerEl.classList.add("active");
-                const hintText = document.getElementById("typing-finger-hint");
-                if (hintText) {
-                    hintText.innerHTML = `Sử dụng: <b style="color: ${finger.color}">${finger.name}</b> để nhấn phím <b style="color: #fef08a">[ ${nextChar === ' ' ? 'Dấu Cách (Space)' : nextChar} ]</b>`;
+            if (finger.id === 'thumb') {
+                // Ngón cái
+                const thumbLeft = document.getElementById("svg-finger-thumb-left");
+                const thumbRight = document.getElementById("svg-finger-thumb-right");
+                if (thumbLeft) thumbLeft.classList.add("active");
+                if (thumbRight) thumbRight.classList.add("active");
+            } else {
+                const svgFinger = document.getElementById(`svg-finger-${finger.id}`);
+                if (svgFinger) {
+                    svgFinger.classList.add("active");
                 }
+            }
+
+            const hintText = document.getElementById("typing-finger-hint");
+            if (hintText) {
+                hintText.innerHTML = `Sử dụng <b style="color: #38bdf8">${finger.name}</b> để nhấn phím <b style="color: #fbbf24; font-size: 18px;">[ ${nextChar === ' ' ? 'Dấu Cách (Space)' : nextChar} ]</b>`;
             }
         }
     }
@@ -247,10 +282,10 @@ window.TypingEngine = (function() {
 
             // Hiệu ứng bấm phím ảo
             const pressedKey = e.key.toLowerCase();
-            const keyEl = document.querySelector(`.kb-key[data-key="${pressedKey === ' ' ? ' ' : pressedKey}"]`);
+            const keyEl = document.querySelector(`.kb-clean-key[data-key="${pressedKey === ' ' ? ' ' : pressedKey}"]`);
             if (keyEl) {
                 keyEl.classList.add("key-pressed");
-                setTimeout(() => keyEl.classList.remove("key-pressed"), 120);
+                setTimeout(() => keyEl.classList.remove("key-pressed"), 100);
             }
 
             // Bắt đầu tính giờ từ phím đầu tiên
@@ -273,7 +308,7 @@ window.TypingEngine = (function() {
                 return;
             }
 
-            // Chỉ nhận ký tự có độ dài 1 (bao gồm cả ký tự tiếng Việt có dấu từ IME)
+            // Nhận ký tự độ dài 1
             if (e.key.length === 1) {
                 e.preventDefault();
                 handleCharacterInput(e.key);
@@ -365,14 +400,11 @@ window.TypingEngine = (function() {
             reward = 3;
         }
 
-        // Tặng vàng nông trại
         giveFarmReward(reward);
-
-        // Hiển thị Modal kết quả
         showResultModal(stars, reward);
     }
 
-    // Tặng thưởng vàng vào gameState của game Edu-Farm
+    // Tặng thưởng vàng vào gameState của Edu-Farm
     function giveFarmReward(coins) {
         if (coins <= 0) return;
         try {
@@ -396,7 +428,6 @@ window.TypingEngine = (function() {
         document.getElementById("typing-res-stars").innerText = starDisplay;
         document.getElementById("typing-res-wpm").innerText = `${state.wpm} WPM`;
         document.getElementById("typing-res-acc").innerText = `${state.accuracy}%`;
-        document.getElementById("typing-res-streak").innerText = state.maxStreak;
         document.getElementById("typing-res-coins").innerText = `+${reward} Vàng Nông Trại`;
 
         modal.style.display = "flex";
@@ -427,15 +458,13 @@ window.TypingEngine = (function() {
         document.querySelectorAll(".ime-btn-select").forEach(b => {
             b.classList.toggle("active", b.dataset.ime === mode);
         });
-        const hintBadge = document.getElementById("typing-ime-badge");
-        if (hintBadge) {
-            hintBadge.innerText = mode.toUpperCase();
-        }
     }
 
     return {
         init: init,
-        selectCategory: function(idx) { loadLesson(idx, 0); },
+        openLessonModal: openLessonModal,
+        closeLessonModal: closeLessonModal,
+        selectLessonFromModal: selectLessonFromModal,
         loadLesson: loadLesson,
         retry: retryCurrentLesson,
         next: nextLesson,
