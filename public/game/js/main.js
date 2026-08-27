@@ -2279,11 +2279,20 @@ function updateMarketPrices() {
         window.verifyQuestAnswer = verifyQuestAnswer;
         
         function handleQuestError() {
-            if (activeTask && (activeTask.type === "map" || activeTask.type === "boss")) {
-                handleMapQuestFailure();
-                return;
-            }
-            if (activeTask && (activeTask.type === "map" || activeTask.type === "boss")) {
+            if (activeTask && (activeTask.type === "map" || activeTask.type === "boss" || activeTask.type === "treasure")) {
+                if (activeTask.type === "treasure") {
+                    const oldCount = activeTask.correctCount || 0;
+                    activeTask.correctCount = 0;
+                    activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'science', 'tech', 'math']);
+                    recentQuestionsQueue = [];
+                    sessionQuestionPools.map = [];
+                    showToast(`❌ Trả lời sai! Phải làm lại từ đầu (đã đúng ${oldCount} câu)`, 2500, 'error');
+                    setTimeout(() => {
+                        if (!activeTask) return;
+                        generateSpecificSubjectQuestion(activeTask.treasureSubjects[0]);
+                    }, 1200);
+                    return;
+                }
                 handleMapQuestFailure();
                 return;
             }
@@ -4114,35 +4123,49 @@ function showTreasureReward(rewards) {
     setTimeout(() => playChime(1568, 'sine', 0.3), 400);
 
     const seedListHtml = rewards.map(r =>
-        `<div style="display:flex;align-items:center;gap:10px;background:rgba(255,255,255,0.08);
-            border-radius:12px;padding:10px 16px;margin-bottom:8px;border:1px solid rgba(251,191,36,0.3);">
-            <span style="font-size:2rem;">${r.emoji}</span>
-            <div style="text-align:left;">
-                <div style="font-weight:bold;color:#fde68a;font-size:1rem;">${r.name}</div>
-                <div style="color:#94a3b8;font-size:0.8rem;">x${r.qty} hạt giống — <span style="color:#f59e0b;">Độc quyền rương báu!</span></div>
+        `<div style="display:flex;align-items:center;gap:12px;background:rgba(255,255,255,0.06);border-radius:14px;padding:12px 16px;margin-bottom:10px;border:1.5px solid rgba(251,191,36,0.4);text-align:left;">
+            <span style="font-size:2.2rem;filter:drop-shadow(0 2px 6px rgba(0,0,0,0.4));">${r.emoji}</span>
+            <div style="flex-grow:1;">
+                <div style="font-weight:900;color:#fde68a;font-size:1.05rem;">${r.name}</div>
+                <div style="color:#cbd5e1;font-size:0.85rem;margin-top:2px;">
+                    Số lượng: <b style="color:#38bdf8;">+${r.qty} hạt giống</b> — <span style="color:#fbbf24;font-weight:700;">Độc quyền Rương Báu!</span>
+                </div>
             </div>
         </div>`
     ).join('');
 
-    alertBox(`
-        <div style="text-align:center;">
-            <div style="font-size:3rem;margin-bottom:8px;animation:bounce 0.8s infinite;">🪙</div>
-            <h2 style="font-size:1.6rem;font-weight:900;color:#fbbf24;margin-bottom:4px;
-                text-shadow:0 0 20px rgba(251,191,36,0.8);">MỞ RƯƠNG THÀNH CÔNG!</h2>
-            <p style="color:#94a3b8;font-size:0.85rem;margin-bottom:16px;">
-                Bé đã nhận được <b style="color:#f59e0b;">${rewards.length} loại hạt giống đặc biệt</b>
-                không có trong cửa hàng!
+    const overlay = document.createElement("div");
+    overlay.className = "modal-overlay active alert-box-overlay";
+    overlay.style.zIndex = "99999";
+    overlay.style.backdropFilter = "blur(8px)";
+
+    overlay.innerHTML = `
+        <div class="modal-card" style="max-width: 440px; text-align: center; background: #0f172a; border: 2px solid #f59e0b; box-shadow: 0 0 35px rgba(245,158,11,0.4); border-radius: 24px; padding: 28px;">
+            <div style="font-size: 3.5rem; margin-bottom: 8px; filter: drop-shadow(0 4px 12px rgba(245,158,11,0.6));">🪙</div>
+            <h2 style="font-size: 1.6rem; font-weight: 900; color: #fbbf24; margin: 0 0 8px 0; text-transform: uppercase; text-shadow: 0 0 20px rgba(251,191,36,0.6);">
+                MỞ RƯƠNG BÁU THÀNH CÔNG!
+            </h2>
+            <p style="color: #94a3b8; font-size: 0.9rem; line-height: 1.5; margin: 0 0 16px 0;">
+                Chúc mừng bé đã vượt qua toàn bộ câu hỏi thử thách và nhận được <b style="color: #fbbf24;">${rewards.length} loại hạt giống quý hiếm</b>!
             </p>
-            <div style="max-width:280px;margin:0 auto 16px;">
+            <div style="margin-bottom: 18px;">
                 ${seedListHtml}
             </div>
-            <p style="color:#64748b;font-size:0.78rem;">
-                🔒 Bản đồ đã được khóa lại. Dùng chìa khóa để khám phá lần sau!
-            </p>
+            <div style="background: rgba(239, 68, 68, 0.1); border: 1px dashed rgba(239, 68, 68, 0.4); border-radius: 12px; padding: 10px 14px; margin-bottom: 20px; font-size: 0.82rem; color: #fca5a5;">
+                <i class="fa-solid fa-lock" style="margin-right: 6px;"></i> <b>Bản đồ đã được khóa lại</b>. Bé hãy dùng <b>Chìa Khóa Bản Đồ</b> (tìm thấy khi thu hoạch ở Nông Trại) để mở khóa lại nhé!
+            </div>
+            <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px;">
+                <button class="btn-primary" style="padding: 12px; font-size: 14px; font-weight: 800; border-radius: 14px; background: linear-gradient(135deg, #10b981, #059669);" onclick="closeAlertBox(); switchTab('farm');">
+                    <i class="fa-solid fa-wheat-awn"></i> VỀ NÔNG TRẠI
+                </button>
+                <button class="btn-secondary" style="padding: 12px; font-size: 14px; font-weight: 800; border-radius: 14px;" onclick="closeAlertBox(); renderMap();">
+                    <i class="fa-solid fa-map-location-dot"></i> XEM BẢN ĐỒ
+                </button>
+            </div>
         </div>
-    `);
+    `;
 
-    // Render lại bản đồ sau khi đóng popup (delay nhỏ để popup hiện trước)
+    document.getElementById("game-container").appendChild(overlay);
     setTimeout(() => renderMap(), 300);
 }
 window.showTreasureReward = showTreasureReward;
@@ -4552,7 +4575,7 @@ function generateCurriculumQuestion(mode) {
 
 function submitCurrentAnswer(val, btnElement) {
     if (!activeTask) return;
-    const isMapTask = (activeTask.type === "map" || activeTask.type === "boss" || activeTask.subject === "boss");
+    const isMapTask = (activeTask.type === "map" || activeTask.type === "boss" || activeTask.subject === "boss" || activeTask.type === "treasure");
     if (isMapTask) {
         checkMapMultipleChoice(val, btnElement);
     } else {
