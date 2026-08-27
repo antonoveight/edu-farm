@@ -3383,6 +3383,35 @@ function updateMarketPrices() {
             validateWelcomeScreen();
         }
 
+        function openTypingAcademy() {
+            document.documentElement.style.setProperty('--fouc-welcome', 'none');
+            document.documentElement.style.setProperty('--fouc-game', 'none');
+            
+            const welcomeEl = document.getElementById("screen-welcome");
+            const gameEl = document.getElementById("screen-game");
+            const typingEl = document.getElementById("screen-typing");
+
+            if (welcomeEl) welcomeEl.style.display = "none";
+            if (gameEl) gameEl.style.display = "none";
+            if (typingEl) typingEl.style.display = "flex";
+
+            playChime(523, 'triangle', 0.2);
+            if (window.TypingEngine && typeof window.TypingEngine.init === 'function') {
+                window.TypingEngine.init();
+            }
+        }
+
+        function closeTypingAcademy() {
+            const typingEl = document.getElementById("screen-typing");
+            const welcomeEl = document.getElementById("screen-welcome");
+
+            if (typingEl) typingEl.style.display = "none";
+            if (welcomeEl) welcomeEl.style.display = "flex";
+
+            document.documentElement.style.setProperty('--fouc-welcome', 'flex');
+            playChime(440, 'sine', 0.15);
+        }
+
         function showResetConfirmModal() {
             document.getElementById("modal-confirm-reset").classList.add("active");
         }
@@ -3509,6 +3538,8 @@ function updateMarketPrices() {
         }
 
         // Bind functions to window scope for inline HTML handlers
+        window.openTypingAcademy = openTypingAcademy;
+        window.closeTypingAcademy = closeTypingAcademy;
         window.selectGrade = selectGrade;
         window.selectWorld = selectWorld;
         window.startGame = startGame;
