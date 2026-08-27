@@ -51,6 +51,8 @@ window.TypingEngine = (function() {
         });
     }
 
+    let isListenerAttached = false;
+
     // Khởi tạo giao diện
     function init() {
         renderKeyboard();
@@ -268,14 +270,20 @@ window.TypingEngine = (function() {
         }
     }
 
-    // Xử lý sự kiện nhấn phím
+    // Xử lý sự kiện nhấn phím (đảm bảo chỉ gắn 1 listener duy nhất)
     function setupEventListeners() {
+        if (isListenerAttached) return;
+        isListenerAttached = true;
+
         window.addEventListener("keydown", function(e) {
             const screenTyping = document.getElementById("screen-typing");
             if (!screenTyping || screenTyping.style.display !== "flex") return;
 
+            // Bỏ qua các phím lặp lại khi đè phím lâu
+            if (e.repeat) return;
+
             // Bỏ qua các phím điều khiển hệ thống
-            if (e.key === "Tab" || e.key === "Alt" || e.key === "Control" || e.key === "Meta" || e.key === "CapsLock") {
+            if (e.key === "Tab" || e.key === "Alt" || e.key === "Control" || e.key === "Meta" || e.key === "CapsLock" || e.isComposing) {
                 if (e.key === "Tab") e.preventDefault();
                 return;
             }
