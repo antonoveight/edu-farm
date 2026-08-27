@@ -436,7 +436,7 @@ window.TypingEngine = (function() {
         document.getElementById("typing-res-stars").innerText = starDisplay;
         document.getElementById("typing-res-wpm").innerText = `${state.wpm} WPM`;
         document.getElementById("typing-res-acc").innerText = `${state.accuracy}%`;
-        document.getElementById("typing-res-coins").innerText = `+${reward} Vàng Nông Trại`;
+        document.getElementById("typing-res-coins").innerHTML = `<span>🪙</span> +${reward} Vàng Nông Trại`;
 
         modal.style.display = "flex";
     }
