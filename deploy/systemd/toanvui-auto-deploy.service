@@ -1,0 +1,12 @@
+[Unit]
+Description=Deploy the latest healthy Edu-Farm main commit
+After=network-online.target docker.service
+Wants=network-online.target
+
+[Service]
+Type=oneshot
+WorkingDirectory=/home/khaidinh/deployments/toanvui.tinhocsaoviet.com
+ExecStart=/home/khaidinh/deployments/toanvui.tinhocsaoviet.com/scripts/auto_deploy_main.sh
+
+[Install]
+WantedBy=default.target
