@@ -58,15 +58,21 @@ checks_payload="$(curl --fail --silent --show-error \
     -H 'X-GitHub-Api-Version: 2022-11-28' \
     "${GITHUB_CHECKS_URL}/${target_sha}/check-runs")"
 
-quality_state="$(printf '%s' "$checks_payload" | node -e '
-let input = "";
-process.stdin.on("data", chunk => input += chunk);
-process.stdin.on("end", () => {
-  const payload = JSON.parse(input);
-  const check = (payload.check_runs || []).find(item => item.name === "quality");
-  if (!check || check.status !== "completed") process.stdout.write("pending");
-  else process.stdout.write(check.conclusion === "success" ? "success" : "failure");
-});
+quality_state="$(printf '%s' "$checks_payload" | python3 -c '
+import json
+import sys
+
+payload = json.load(sys.stdin)
+check = next(
+    (item for item in payload.get("check_runs", []) if item.get("name") == "quality"),
+    None,
+)
+if not check or check.get("status") != "completed":
+    print("pending", end="")
+elif check.get("conclusion") == "success":
+    print("success", end="")
+else:
+    print("failure", end="")
 ')"
 
 case "$quality_state" in
