@@ -51,6 +51,7 @@
     </style>
     
     <link rel="stylesheet" href="./css/style.css?v=2.2.8">
+    <link rel="stylesheet" href="./css/typing.css?v=1.0.0">
     
     <!-- NGĂN CHẶN NHẤP NHÁY MÀN HÌNH CHÀO (FOUC) KHI CHẠY TRONG IFRAME -->
     <script>
@@ -136,6 +137,13 @@ window.addEventListener('unhandledrejection', function(e) {
             </div>
 
             <button id="btn-play" class="btn-start" disabled onclick="startGame()">VÀO NÔNG TRẠI</button>
+            
+            <div style="margin-top: 12px; width: 100%; max-width: 420px; display: flex; justify-content: center;">
+                <button type="button" class="btn-start" style="background: linear-gradient(135deg, #0284c7, #6366f1); box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4); width: 100%; padding: 12px 20px; font-size: 15px; border-radius: 14px;" onclick="openTypingAcademy()">
+                    <i class="fa-solid fa-keyboard" style="margin-right: 8px;"></i> ⌨️ HỌC VIỆN LUYỆN GÕ 10 NGÓN
+                </button>
+            </div>
+
             <a href="whitebook.html" target="_blank" style="margin-top: 18px; color: #38bdf8; font-size: 13px; font-weight: 800; cursor: pointer; text-align: center; display: inline-flex; align-items: center; gap: 6px; text-decoration: none; transition: color 0.2s;" onmouseover="this.style.color='#a855f7'" onmouseout="this.style.color='#38bdf8'">
                 <i class="fa-solid fa-book"></i> SÁCH HƯỚNG DẪN & TÍNH NĂNG (WHITEBOOK)
             </a>
@@ -481,6 +489,164 @@ window.addEventListener('unhandledrejection', function(e) {
             </div>
         </div>
 
+        <!-- ================= MÀN HÌNH HỌC VIỆN LUYỆN GÕ 10 NGÓN ================= -->
+        <div id="screen-typing" class="screen" style="display: none;">
+            <!-- Top Navigation Bar -->
+            <div class="typing-topbar">
+                <div class="typing-topbar-left">
+                    <button class="btn-typing-back" onclick="closeTypingAcademy()" title="Quay lại Trang Chủ">
+                        <i class="fa-solid fa-arrow-left"></i>
+                    </button>
+                    <button class="lesson-picker-btn" onclick="TypingEngine.openLessonModal()" title="Bấm để đổi bài học">
+                        <i class="fa-solid fa-book-bookmark" style="color: #38bdf8;"></i>
+                        <span id="typing-lesson-title">Bài 1: Hai ngón trỏ F và J</span>
+                        <i class="fa-solid fa-chevron-down" style="font-size: 11px; color: #94a3b8;"></i>
+                    </button>
+                </div>
+                
+                <div class="typing-topbar-right">
+                    <div class="ime-pill">
+                        <button class="ime-pill-btn ime-btn-select active" data-ime="telex" onclick="TypingEngine.setImeMode('telex')">TELEX</button>
+                        <button class="ime-pill-btn ime-btn-select" data-ime="vni" onclick="TypingEngine.setImeMode('vni')">VNI</button>
+                    </div>
+                    <button class="btn-typing-action" onclick="TypingEngine.retry()" title="Luyện lại bài này">
+                        <i class="fa-solid fa-rotate-right"></i> Gõ Lại
+                    </button>
+                </div>
+            </div>
+
+            <!-- Workspace chính -->
+            <div class="typing-main-container">
+                <!-- Thanh chỉ số HUD tối giản & Progress Bar -->
+                <div class="typing-compact-hud">
+                    <div class="hud-stat-group">
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Tốc Độ:</span>
+                            <span class="hud-stat-number" id="hud-wpm">0</span>
+                            <span style="font-size: 13px; color: #64748b; font-weight: 700;">WPM</span>
+                        </div>
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Chính Xác:</span>
+                            <span class="hud-stat-number" id="hud-accuracy" style="color: #10b981;">100%</span>
+                        </div>
+                        <div class="hud-stat-box">
+                            <span class="hud-stat-label">Chuỗi Đúng:</span>
+                            <span class="hud-stat-number" id="hud-streak" style="color: #f59e0b;">🔥 0</span>
+                        </div>
+                    </div>
+                    <div class="hud-stat-box">
+                        <span class="hud-stat-label">Thời Gian:</span>
+                        <span class="hud-stat-number" id="hud-timer" style="color: #cbd5e1; font-size: 20px;">00:00</span>
+                    </div>
+                </div>
+
+                <!-- Progress Bar -->
+                <div class="lesson-progress-bar">
+                    <div class="lesson-progress-fill" id="lesson-progress-fill"></div>
+                </div>
+
+                <!-- Khung hiển thị chữ gõ to, rõ ràng -->
+                <div class="typing-text-display-box" id="typing-text-display"></div>
+
+                <!-- Thanh hướng dẫn thao tác phím & ngón tay -->
+                <div class="typing-guide-instruction" id="typing-finger-hint">
+                    Đặt ngón trỏ lên phím <b style="color: #38bdf8">F</b> và <b style="color: #38bdf8">J</b>
+                </div>
+
+                <!-- Bàn phím ảo trực quan to, sắc nét -->
+                <div class="virtual-keyboard-clean" id="virtual-keyboard"></div>
+
+                <!-- Mô hình 2 bàn tay SVG trực quan sinh động -->
+                <div class="hands-visual-wrapper">
+                    <!-- Bàn tay trái -->
+                    <div class="hand-svg-box">
+                        <span class="hand-svg-label">BÀN TAY TRÁI</span>
+                        <svg class="hand-svg" viewBox="0 0 160 130">
+                            <!-- Lòng bàn tay -->
+                            <path class="svg-palm" d="M30,70 Q25,115 65,120 Q105,120 105,75 Q105,55 90,55 Q60,55 30,70 Z" />
+                            <!-- Ngón Út -->
+                            <path id="svg-finger-left_pinky" class="svg-finger" d="M15,65 C10,40 18,25 28,25 C36,25 38,40 36,65 Z" />
+                            <!-- Ngón Áp Út -->
+                            <path id="svg-finger-left_ring" class="svg-finger" d="M38,58 C35,30 44,12 55,12 C64,12 67,30 63,58 Z" />
+                            <!-- Ngón Giữa -->
+                            <path id="svg-finger-left_middle" class="svg-finger" d="M65,55 C63,22 73,4 84,4 C93,4 95,22 91,55 Z" />
+                            <!-- Ngón Trỏ (F) -->
+                            <path id="svg-finger-left_index" class="svg-finger" d="M93,58 C93,28 103,16 113,16 C122,16 123,28 119,60 Z" />
+                            <!-- Ngón Cái (Space) -->
+                            <path id="svg-finger-thumb-left" class="svg-finger" d="M110,80 C125,75 145,70 150,82 C155,95 135,105 110,95 Z" />
+                        </svg>
+                    </div>
+
+                    <!-- Bàn tay phải -->
+                    <div class="hand-svg-box">
+                        <span class="hand-svg-label">BÀN TAY PHẢI</span>
+                        <svg class="hand-svg" viewBox="0 0 160 130">
+                            <!-- Lòng bàn tay -->
+                            <path class="svg-palm" d="M130,70 Q135,115 95,120 Q55,120 55,75 Q55,55 70,55 Q100,55 130,70 Z" />
+                            <!-- Ngón Cái (Space) -->
+                            <path id="svg-finger-thumb-right" class="svg-finger" d="M50,80 C35,75 15,70 10,82 C5,95 25,105 50,95 Z" />
+                            <!-- Ngón Trỏ (J) -->
+                            <path id="svg-finger-right_index" class="svg-finger" d="M67,58 C67,28 57,16 47,16 C38,16 37,28 41,60 Z" />
+                            <!-- Ngón Giữa -->
+                            <path id="svg-finger-right_middle" class="svg-finger" d="M95,55 C97,22 87,4 76,4 C67,4 65,22 69,55 Z" />
+                            <!-- Ngón Áp Út -->
+                            <path id="svg-finger-right_ring" class="svg-finger" d="M122,58 C125,30 116,12 105,12 C96,12 93,30 97,58 Z" />
+                            <!-- Ngón Út -->
+                            <path id="svg-finger-right_pinky" class="svg-finger" d="M145,65 C150,40 142,25 132,25 C124,25 122,40 124,65 Z" />
+                        </svg>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Modal Chọn Bài Học Gọn Gàng -->
+        <div class="lesson-modal-overlay" id="modal-lesson-picker" onclick="if(event.target===this) TypingEngine.closeLessonModal()">
+            <div class="lesson-modal-content">
+                <div class="lesson-modal-header">
+                    <h3 style="font-size: 20px; font-weight: 900; color: #38bdf8; margin: 0;">
+                        <i class="fa-solid fa-list-check" style="margin-right: 8px;"></i> CHỌN BÀI LUYỆN GÕ
+                    </h3>
+                    <button class="btn-typing-back" style="width: 32px; height: 32px;" onclick="TypingEngine.closeLessonModal()">✕</button>
+                </div>
+                <div id="lesson-modal-categories" style="display: flex; flex-direction: column; gap: 16px;"></div>
+            </div>
+        </div>
+
+        <!-- Modal Kết quả luyện gõ -->
+        <div class="typing-result-modal" id="modal-typing-result">
+            <div class="typing-result-card">
+                <div class="typing-res-stars-wrapper" id="typing-res-stars">⭐⭐⭐</div>
+                <h3 class="typing-res-title">HOÀN THÀNH BÀI LUYỆN!</h3>
+                
+                <div class="typing-res-stats-grid">
+                    <div class="typing-res-stat-card">
+                        <span class="hud-stat-label">TỐC ĐỘ GÕ</span>
+                        <span id="typing-res-wpm" style="font-size: 24px; font-weight: 900; color: #38bdf8;">0 WPM</span>
+                    </div>
+                    <div class="typing-res-stat-card">
+                        <span class="hud-stat-label">ĐỘ CHÍNH XÁC</span>
+                        <span id="typing-res-acc" style="font-size: 24px; font-weight: 900; color: #10b981;">100%</span>
+                    </div>
+                </div>
+
+                <div class="typing-res-reward-box">
+                    <div class="typing-res-reward-label">Phần Thưởng Nông Trại:</div>
+                    <div class="typing-res-reward-val" id="typing-res-coins">
+                        <span>🪙</span> +10 Vàng Nông Trại
+                    </div>
+                </div>
+
+                <div class="typing-res-actions">
+                    <button class="btn-modal-retry" onclick="TypingEngine.retry()">
+                        <i class="fa-solid fa-rotate-right"></i> Luyện Lại
+                    </button>
+                    <button class="btn-modal-next" onclick="TypingEngine.next()">
+                        Bài Tiếp Theo <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
         <!-- Modal Xác Nhận Thoát về Menu -->
         <div class="modal-overlay" id="modal-confirm-exit">
             <div class="modal-card">
@@ -520,7 +686,9 @@ window.addEventListener('unhandledrejection', function(e) {
         window.GAME_API_BASE = "";
     </script>
 
-    <!-- Hệ thống Game Engine điều phối chính -->
+    <!-- Hệ thống Game Engine & Typing Academy -->
+    <script src="./js/typing_data.js"></script>
+    <script src="./js/typing_engine.js"></script>
     <script src="./js/quest_context.js"></script>
     <script type="module" src="./js/main.js?v=4.0.2"></script>
 </body>
