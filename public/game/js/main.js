@@ -752,6 +752,7 @@ function getSeedConfig() {
                 const data = await res.json();
                 QUIZ_BANK[`g${selectedGrade}_math`] = data.math || [];
                 QUIZ_BANK[`g${selectedGrade}_viet`] = data.viet || [];
+                QUIZ_BANK[`g${selectedGrade}_english`] = data.english || [];
                 QUIZ_BANK[`g${selectedGrade}_science`] = data.science || [];
                 QUIZ_BANK[`g${selectedGrade}_tech`] = data.tech || [];
             } catch (e) {
@@ -2284,7 +2285,7 @@ function updateMarketPrices() {
                 if (activeTask.type === "treasure") {
                     const oldCount = activeTask.correctCount || 0;
                     activeTask.correctCount = 0;
-                    activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'science', 'tech', 'math']);
+                    activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'english', 'science', 'tech']);
                     recentQuestionsQueue = [];
                     sessionQuestionPools.map = [];
                     showToast(`❌ Trả lời sai! Phải làm lại từ đầu (đã đúng ${oldCount} câu)`, 2500, 'error');
@@ -3959,22 +3960,25 @@ var mapConfigs = {
         { id: 1, type: "math", icon: "fa-calculator", name: "Toán Học" },
         { id: 2, type: "science", icon: "fa-leaf", name: "Khoa Học" },
         { id: 3, type: "viet", icon: "fa-book", name: "Tiếng Việt" },
-        { id: 4, type: "tech", icon: "fa-desktop", name: "Tin Học" },
-        { id: 5, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
+        { id: 4, type: "english", icon: "fa-language", name: "Tiếng Anh" },
+        { id: 5, type: "tech", icon: "fa-desktop", name: "Tin Học" },
+        { id: 6, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
     ],
     cyber: [
         { id: 1, type: "tech", icon: "fa-microchip", name: "Tin Học" },
         { id: 2, type: "math", icon: "fa-superscript", name: "Toán Học" },
         { id: 3, type: "science", icon: "fa-atom", name: "Khoa Học" },
         { id: 4, type: "viet", icon: "fa-pen", name: "Tiếng Việt" },
-        { id: 5, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
+        { id: 5, type: "english", icon: "fa-language", name: "Tiếng Anh" },
+        { id: 6, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
     ],
     magic: [
         { id: 1, type: "viet", icon: "fa-feather", name: "Ngôn Từ" },
         { id: 2, type: "tech", icon: "fa-bolt", name: "Phép Thuật" },
         { id: 3, type: "math", icon: "fa-shapes", name: "Hình Học" },
         { id: 4, type: "science", icon: "fa-flask", name: "Giả Kim" },
-        { id: 5, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
+        { id: 5, type: "english", icon: "fa-language", name: "Ngoại Ngữ" },
+        { id: 6, type: "treasure", icon: "fa-chest", name: "Rương Báu" }
     ]
 };
 
@@ -4189,7 +4193,7 @@ function startMapQuest(nodeId, subject) {
         errors: 0,
         timeLeft: isBossMap ? 60 : null,
         // Xáo trộn danh sách môn học cho rương mỗi lần mới
-        treasureSubjects: isTreasure ? shuffleArray(['math', 'viet', 'science', 'tech', 'math']) : null
+        treasureSubjects: isTreasure ? shuffleArray(['math', 'viet', 'english', 'science', 'tech']) : null
     };
 
     // Xoá lịch sử câu hỏi để đảm bảo luôn mới khi bắt đầu rương
@@ -4571,7 +4575,7 @@ function generateFarmTaskQuestion() {
 
 function generateCurriculumQuestion(mode) {
     _currentQMode = mode || (activeTask && activeTask.mode) || 'default';
-    const subjects = ['math', 'viet', 'science', 'tech'];
+    const subjects = ['math', 'viet', 'english', 'science', 'tech'];
     const subject = subjects[Math.floor(Math.random() * subjects.length)];
     generateSpecificSubjectQuestion(subject, _currentQMode);
 }
@@ -4742,6 +4746,12 @@ function generateRealisticOptions(candidate, ans, normSubject) {
                 if (options.length >= 4) break;
                 if (!options.includes(vf)) options.push(vf);
             }
+        } else if (normSubject === 'english') {
+            const englishFakes = ['book', 'cat', 'garden', 'milk', 'window', 'tiger', 'water', 'pencil'];
+            for (let englishFake of shuffleArray(englishFakes)) {
+                if (options.length >= 4) break;
+                if (!options.includes(englishFake)) options.push(englishFake);
+            }
         } else if (normSubject === 'science') {
             const sciFakes = ['Ánh sáng mặt trời', 'Nước ngọt', 'Không khí', 'Đất phù sa', 'Lá cây', 'Rễ cây'];
             for (let sf of shuffleArray(sciFakes)) {
@@ -4775,8 +4785,8 @@ window.generateRealisticOptions = generateRealisticOptions;
 function generateSpecificSubjectQuestion(subject, mode) {
     const _qMode = mode || (activeTask && activeTask.mode) || 'default';
     const baseGrade = typeof selectedGrade !== 'undefined' ? parseInt(selectedGrade) : 1;
-    // Rương kho báu: tăng độ khó thêm 1 cấp (tối đa 5)
-    const grade = (activeTask && activeTask.type === 'treasure')
+    // Lớp 1 luôn dùng đúng ngân hàng lớp 1; các lớp lớn hơn giữ cơ chế tăng độ khó.
+    const grade = (activeTask && activeTask.type === 'treasure' && baseGrade > 1)
         ? Math.min(5, baseGrade + 1)
         : baseGrade;
     const panel = document.getElementById("quest-answer-panel");
@@ -4818,11 +4828,12 @@ function generateSpecificSubjectQuestion(subject, mode) {
 
     let normSubject = subject;
     if (subject === 'viet' || subject === 'vietnamese' || subject === 'language') normSubject = 'viet';
+    else if (subject === 'english' || subject === 'en') normSubject = 'english';
     else if (subject === 'tech' || subject === 'it' || subject === 'magic') normSubject = 'tech';
     else if (subject === 'science' || subject === 'alchemy' || subject === 'geometry') normSubject = 'science';
     else if (subject === 'math') normSubject = 'math';
     else if (subject === 'boss') {
-        const pool = ['math', 'viet', 'science', 'tech'];
+        const pool = ['math', 'viet', 'english', 'science', 'tech'];
         normSubject = pool[Math.floor(Math.random() * pool.length)];
     }
 
@@ -4835,7 +4846,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
     if (normSubject === 'math') {
         labelPrefix = `Toán Học Lớp ${grade}`;
         const bankKey = `g${grade}_math`;
-        candidate = pickQuizQuestion(bankKey);
+        candidate = pickQuizQuestion(bankKey) || (grade !== baseGrade ? pickQuizQuestion(`g${baseGrade}_math`) : null);
         if (candidate) {
             question = candidate.q || candidate.sentence || "Câu hỏi Toán:";
             ans = String(candidate.a || (candidate.c ? candidate.c[0] : "Đáp án đúng"));
@@ -4871,10 +4882,10 @@ function generateSpecificSubjectQuestion(subject, mode) {
         }
     } else {
         const bankKey = `g${grade}_${normSubject}`;
-        const subjectNames = { viet: `Tiếng Việt Lớp ${grade}`, science: `Khoa Học Lớp ${grade}`, tech: `Tin Học Lớp ${grade}` };
+        const subjectNames = { viet: `Tiếng Việt Lớp ${grade}`, english: `Tiếng Anh Lớp ${grade}`, science: `Tự Nhiên và Xã Hội Lớp ${grade}`, tech: `Tin Học Lớp ${grade}` };
         labelPrefix = subjectNames[normSubject] || `Môn Lớp ${grade}`;
 
-        candidate = pickQuizQuestion(bankKey);
+        candidate = pickQuizQuestion(bankKey) || (grade !== baseGrade ? pickQuizQuestion(`g${baseGrade}_${normSubject}`) : null);
         if (candidate) {
             question = candidate.q || candidate.sentence || "Câu hỏi thám hiểm:";
             ans = String(candidate.a || (candidate.c ? candidate.c[0] : "Đáp án đúng"));
@@ -4883,13 +4894,18 @@ function generateSpecificSubjectQuestion(subject, mode) {
             const fallbackBank = {
                 viet: [
                     { q: "Từ nào viết đúng chính tả?", a: "Sáng sớm", fakes: ["Xáng xớm", "Sáng xớm", "Xáng sớm"] },
-                    { q: "Từ nào chỉ hoạt động của học sinh?", a: "Đọc sách", fakes: ["Bàn học", "Xanh tươi", "Đẹp đẽ"] },
-                    { q: "Từ trái nghĩa với 'Trung thực' là gì?", a: "Gian dối", fakes: ["Hiền lành", "Cần cù", "Dũng cảm"] }
+                    { q: "Tiếng nào chứa vần ia?", a: "tia", fakes: ["thỏ", "cua", "dưa"] },
+                    { q: "Bồ câu cứu kiến bằng cách nào?", a: "Thả một chiếc lá xuống nước", fakes: ["Bay đi", "Gọi thợ săn", "Đẩy kiến xuống sâu hơn"] }
+                ],
+                english: [
+                    { q: "Từ tiếng Anh nào có nghĩa là quyển sách?", a: "book", fakes: ["cat", "milk", "garden"] },
+                    { q: "Hoàn thành câu: This is a ___.", a: "dog", fakes: ["run", "red", "two"] },
+                    { q: "Từ nào bắt đầu bằng chữ B?", a: "ball", fakes: ["cat", "dog", "fish"] }
                 ],
                 science: [
-                    { q: "Cây xanh cần gì nhất để quang hợp?", a: "Ánh sáng mặt trời", fakes: ["Bóng tối", "Nước ngọt", "Gió mạnh"] },
-                    { q: "Cơ quan nào giúp con người hô hấp?", a: "Phổi", fakes: ["Dạ dày", "Tim", "Thận"] },
-                    { q: "Chất nào tồn tại ở thể khí trong không khí?", a: "Oxy", fakes: ["Sắt", "Nước đá", "Cát"] }
+                    { q: "Việc nào giúp cây trồng phát triển?", a: "Tưới nước vừa đủ", fakes: ["Bẻ cành", "Nhổ cây", "Giẫm lên cây"] },
+                    { q: "Bộ phận nào giúp em ngửi mùi?", a: "Mũi", fakes: ["Tai", "Mắt", "Lưỡi"] },
+                    { q: "Khi thấy dây điện bị hở, em cần làm gì?", a: "Báo ngay cho người lớn", fakes: ["Sờ thử", "Tự nối lại", "Đổ nước vào"] }
                 ],
                 tech: [
                     { q: "Bé hãy nhấn tổ hợp phím để CHỌN TẤT CẢ (Select All):", a: "ctrl+a", fakes: ["ctrl+c", "ctrl+v", "ctrl+z"] },
@@ -5003,7 +5019,8 @@ function generateSpecificSubjectQuestion(subject, mode) {
 
     if (candidate) {
         activeTask.ctx = candidate.ctx || (typeof getQuestContext === 'function' ? getQuestContext(`g${grade}_${normSubject}`) : null);
-        activeTask.explanation = candidate.educore ? candidate.educore.explanation : `Đáp án đúng là "${ans}".`;
+        activeTask.explanation = candidate.explanation || (candidate.educore ? candidate.educore.explanation : `Đáp án đúng là "${ans}".`);
+        activeTask.hints = Array.isArray(candidate.hints) ? candidate.hints : [];
     }
     
     if (!options.includes(ans)) options[0] = ans;
@@ -5608,7 +5625,7 @@ function checkMapMultipleChoice(selectedAnswer, btnElement) {
             // Sai trong rương → reset về 0, xáo trộn lại câu hỏi
             const oldCount = activeTask.correctCount;
             activeTask.correctCount = 0;
-            activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'science', 'tech', 'math']);
+            activeTask.treasureSubjects = shuffleArray(['math', 'viet', 'english', 'science', 'tech']);
             recentQuestionsQueue = []; // Xóa lịch sử để câu hỏi luôn mới
             sessionQuestionPools.map = []; // Reset pool map trong treasure
             showToast(`❌ Trả lời sai! Phải làm lại từ đầu (đã ${oldCount} câu)`, 2500, 'error');

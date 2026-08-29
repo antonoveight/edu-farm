@@ -23,6 +23,24 @@ describe('game exercise rendering', () => {
         expect(gameScript).toContain('candidate = pickQuizQuestion(bankKey)');
     });
 
+    test('loads English and includes it in maps, random play and treasure rounds', () => {
+        expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_english`] = data.english || []');
+        expect(gameScript).toContain('{ id: 4, type: "english", icon: "fa-language", name: "Tiếng Anh" }');
+        expect(gameScript).toContain("const subjects = ['math', 'viet', 'english', 'science', 'tech']");
+        expect(gameScript).toContain("shuffleArray(['math', 'viet', 'english', 'science', 'tech'])");
+    });
+
+    test('uses explanations and hints carried by the textbook bank', () => {
+        expect(gameScript).toContain('candidate.explanation ||');
+        expect(gameScript).toContain('Array.isArray(candidate.hints)');
+    });
+
+    test('keeps Grade 1 treasure rounds inside the Grade 1 curriculum', () => {
+        expect(gameScript).toContain("activeTask.type === 'treasure' && baseGrade > 1");
+        expect(gameScript).toContain('Khi thấy dây điện bị hở, em cần làm gì?');
+        expect(gameScript).not.toContain('Cây xanh cần gì nhất để quang hợp?');
+    });
+
     test('only changes repeated mathematics choices to numeric input for numeric answers', () => {
         expect(gameScript).toContain("normSubject === 'math' && Number.isFinite(Number(ans))");
     });

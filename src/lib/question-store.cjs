@@ -6,11 +6,12 @@ const Database = require('better-sqlite3');
 const SUBJECTS = Object.freeze([
     { code: 'math', name: 'Toán', sortOrder: 1 },
     { code: 'viet', name: 'Tiếng Việt', sortOrder: 2 },
-    { code: 'science', name: 'Khoa học', sortOrder: 3 },
-    { code: 'tech', name: 'Tin học', sortOrder: 4 }
+    { code: 'english', name: 'Tiếng Anh', sortOrder: 3 },
+    { code: 'science', name: 'Tự nhiên và Xã hội', sortOrder: 4 },
+    { code: 'tech', name: 'Tin học', sortOrder: 5 }
 ]);
 const PUBLIC_SUBJECT_CODES = Object.freeze(SUBJECTS.map(({ code }) => code));
-const LEGACY_SUBJECT_CODES = Object.freeze(['math', 'viet', 'science', 'tech']);
+const LEGACY_SUBJECT_CODES = Object.freeze(PUBLIC_SUBJECT_CODES);
 const GLOBAL_STATE_KEY = Symbol.for('toanvui.question-store');
 
 function resolveDatabasePath() {
@@ -83,6 +84,12 @@ function initializeSchema(db) {
             is_active INTEGER NOT NULL DEFAULT 1 CHECK (is_active IN (0, 1))
         );
 
+        CREATE TABLE IF NOT EXISTS seed_question_state (
+            source_key TEXT PRIMARY KEY,
+            content_hash TEXT NOT NULL,
+            synced_at TEXT NOT NULL
+        );
+
         CREATE TABLE IF NOT EXISTS questions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
             grade_id INTEGER NOT NULL REFERENCES grades(id),
@@ -99,6 +106,7 @@ function initializeSchema(db) {
             source_type TEXT NOT NULL DEFAULT 'manual',
             source_ref TEXT,
             source_page INTEGER,
+            payload_json TEXT NOT NULL DEFAULT '{}' CHECK (json_valid(payload_json)),
             source_key TEXT UNIQUE,
             content_hash TEXT NOT NULL UNIQUE,
             created_at TEXT NOT NULL,
@@ -113,6 +121,13 @@ function initializeSchema(db) {
         CREATE INDEX IF NOT EXISTS idx_questions_type
             ON questions (question_type);
     `);
+
+    const questionColumns = new Set(
+        db.prepare('PRAGMA table_info(questions)').all().map(({ name }) => name)
+    );
+    if (!questionColumns.has('payload_json')) {
+        db.exec("ALTER TABLE questions ADD COLUMN payload_json TEXT NOT NULL DEFAULT '{}'");
+    }
 
     const upsertGrade = db.prepare(`
         INSERT INTO grades (id, name, sort_order)
@@ -151,6 +166,47 @@ function setMetadata(db, key, value) {
     `).run(key, String(value), now());
 }
 
+function buildSeedFingerprint() {
+    const dataDirectory = resolveSeedDirectory();
+    const hash = crypto.createHash('sha256');
+    for (let grade = 1; grade <= 5; grade += 1) {
+        for (const subject of LEGACY_SUBJECT_CODES) {
+            const relativePath = path.join(`grade${grade}`, `${subject}.json`);
+            const filePath = path.join(dataDirectory, relativePath);
+            hash.update(relativePath);
+            if (fs.existsSync(filePath)) hash.update(fs.readFileSync(filePath));
+        }
+    }
+    return hash.digest('hex');
+}
+
+function buildQuestionPayload(item) {
+    const payload = {};
+    for (const key of ['sentence', 'words', 'pairs', 'explanation', 'hints']) {
+        if (item[key] !== undefined) payload[key] = item[key];
+    }
+    return payload;
+}
+
+function buildSeedStateHash(question) {
+    const managedState = {
+        gradeId: Number(question.gradeId),
+        subjectId: Number(question.subjectId),
+        questionText: String(question.questionText),
+        correctAnswer: String(question.correctAnswer),
+        choicesJson: JSON.stringify(JSON.parse(question.choicesJson || '[]')),
+        questionType: String(question.questionType),
+        learningObjective: question.learningObjective || null,
+        difficulty: String(question.difficulty),
+        status: String(question.status),
+        sourceType: String(question.sourceType),
+        sourceRef: question.sourceRef || null,
+        sourcePage: question.sourcePage || null,
+        payloadJson: JSON.stringify(JSON.parse(question.payloadJson || '{}'))
+    };
+    return crypto.createHash('sha256').update(JSON.stringify(managedState)).digest('hex');
+}
+
 function syncLegacyQuestionsInternal(db) {
     const dataDirectory = resolveSeedDirectory();
     const subjectIds = Object.fromEntries(
@@ -160,14 +216,69 @@ function syncLegacyQuestionsInternal(db) {
         INSERT INTO questions (
             grade_id, subject_id, question_text, correct_answer, choices_json,
             question_type, learning_objective, difficulty, status, source_type,
-            source_ref, source_page, source_key, content_hash, created_at, updated_at
+            source_ref, source_page, payload_json, source_key, content_hash, created_at, updated_at
         ) VALUES (
             @gradeId, @subjectId, @questionText, @correctAnswer, @choicesJson,
             @questionType, @learningObjective, @difficulty, @status, @sourceType,
-            @sourceRef, @sourcePage, @sourceKey, @contentHash, @timestamp, @timestamp
+            @sourceRef, @sourcePage, @payloadJson, @sourceKey, @contentHash, @timestamp, @timestamp
         )
-        ON CONFLICT(source_key) DO NOTHING
     `);
+    const selectSeedQuestion = db.prepare(`
+        SELECT
+            id,
+            grade_id AS gradeId,
+            subject_id AS subjectId,
+            question_text AS questionText,
+            correct_answer AS correctAnswer,
+            choices_json AS choicesJson,
+            question_type AS questionType,
+            learning_objective AS learningObjective,
+            difficulty,
+            status,
+            source_type AS sourceType,
+            source_ref AS sourceRef,
+            source_page AS sourcePage,
+            payload_json AS payloadJson,
+            content_hash AS contentHash,
+            updated_at AS updatedAt
+        FROM questions
+        WHERE source_key = ? AND deleted_at IS NULL
+    `);
+    const updateSeedQuestion = db.prepare(`
+        UPDATE questions SET
+            grade_id = @gradeId,
+            subject_id = @subjectId,
+            question_text = @questionText,
+            correct_answer = @correctAnswer,
+            choices_json = @choicesJson,
+            question_type = @questionType,
+            learning_objective = @learningObjective,
+            difficulty = @difficulty,
+            status = @status,
+            source_type = @sourceType,
+            source_ref = @sourceRef,
+            source_page = @sourcePage,
+            payload_json = @payloadJson,
+            content_hash = @contentHash,
+            updated_at = @timestamp
+        WHERE id = @id
+    `);
+    const selectSeedState = db.prepare(
+        'SELECT content_hash FROM seed_question_state WHERE source_key = ?'
+    );
+    const upsertSeedState = db.prepare(`
+        INSERT INTO seed_question_state (source_key, content_hash, synced_at)
+        VALUES (?, ?, ?)
+        ON CONFLICT(source_key) DO UPDATE SET
+            content_hash = excluded.content_hash,
+            synced_at = excluded.synced_at
+    `);
+    let legacySeedSyncedAt = null;
+    try {
+        legacySeedSyncedAt = JSON.parse(getMetadata(db, 'legacy_seed_v1') || '{}').syncedAt || null;
+    } catch {
+        legacySeedSyncedAt = null;
+    }
 
     const result = { discovered: 0, inserted: 0, updated: 0, skipped: 0 };
     const sync = db.transaction(() => {
@@ -180,10 +291,7 @@ function syncLegacyQuestionsInternal(db) {
                 const questions = JSON.parse(fs.readFileSync(filePath, 'utf8'));
                 questions.forEach((item, index) => {
                     result.discovered += 1;
-                    const sourceKey = `legacy:${grade}:${subject}:${index}`;
-                    const existing = db.prepare(
-                        'SELECT id FROM questions WHERE source_key = ?'
-                    ).get(sourceKey);
+                    const sourceKey = item.sourceKey || `legacy:${grade}:${subject}:${index}`;
                     const normalized = {
                         grade,
                         subject,
@@ -193,26 +301,46 @@ function syncLegacyQuestionsInternal(db) {
                     };
                     const contentHash = buildContentHash(normalized);
 
+                    const values = {
+                        gradeId: grade,
+                        subjectId: subjectIds[subject],
+                        questionText: normalized.questionText,
+                        correctAnswer: normalized.correctAnswer,
+                        choicesJson: JSON.stringify(Array.isArray(item.c) ? item.c : []),
+                        questionType: normalized.questionType,
+                        learningObjective: item.lo ? String(item.lo).trim() : null,
+                        difficulty: item.difficulty || 'medium',
+                        status: item.status || 'published',
+                        sourceType: item.sourceType || 'legacy_json',
+                        sourceRef: item.sourceRef || relativePath,
+                        sourcePage: item.sourcePage || null,
+                        payloadJson: JSON.stringify(buildQuestionPayload(item)),
+                        sourceKey,
+                        contentHash,
+                        timestamp: now()
+                    };
+                    const existing = selectSeedQuestion.get(sourceKey);
+                    const lastSeedHash = selectSeedState.get(sourceKey)?.content_hash;
+                    const seedStateHash = buildSeedStateHash(values);
+                    const existingStateHash = existing ? buildSeedStateHash(existing) : null;
+                    const isUnmodifiedSeed = existing && (
+                        existingStateHash === lastSeedHash ||
+                        (!lastSeedHash && legacySeedSyncedAt && existing.updatedAt <= legacySeedSyncedAt)
+                    );
+
                     try {
-                        insertQuestion.run({
-                            gradeId: grade,
-                            subjectId: subjectIds[subject],
-                            questionText: normalized.questionText,
-                            correctAnswer: normalized.correctAnswer,
-                            choicesJson: JSON.stringify(Array.isArray(item.c) ? item.c : []),
-                            questionType: normalized.questionType,
-                            learningObjective: item.lo ? String(item.lo).trim() : null,
-                            difficulty: item.difficulty || 'medium',
-                            status: item.status || 'published',
-                            sourceType: item.sourceType || 'legacy_json',
-                            sourceRef: item.sourceRef || relativePath,
-                            sourcePage: item.sourcePage || null,
-                            sourceKey,
-                            contentHash,
-                            timestamp: now()
-                        });
-                        if (!existing) result.inserted += 1;
-                        else result.skipped += 1;
+                        if (!existing) {
+                            insertQuestion.run(values);
+                            result.inserted += 1;
+                        } else if (existingStateHash === seedStateHash) {
+                            result.skipped += 1;
+                        } else if (isUnmodifiedSeed) {
+                            updateSeedQuestion.run({ ...values, id: existing.id });
+                            result.updated += 1;
+                        } else {
+                            result.skipped += 1;
+                        }
+                        upsertSeedState.run(sourceKey, seedStateHash, values.timestamp);
                     } catch (error) {
                         if (error.code?.startsWith('SQLITE_CONSTRAINT')) {
                             result.skipped += 1;
@@ -223,7 +351,8 @@ function syncLegacyQuestionsInternal(db) {
                 });
             }
         }
-        setMetadata(db, 'legacy_seed_v1', JSON.stringify({ ...result, syncedAt: now() }));
+        setMetadata(db, 'legacy_seed_hash', buildSeedFingerprint());
+        setMetadata(db, 'legacy_seed_last_sync', JSON.stringify({ ...result, syncedAt: now() }));
     });
 
     sync();
@@ -244,7 +373,7 @@ function openDatabase() {
         db.pragma('synchronous = NORMAL');
     }
     initializeSchema(db);
-    if (!getMetadata(db, 'legacy_seed_v1')) {
+    if (getMetadata(db, 'legacy_seed_hash') !== buildSeedFingerprint()) {
         syncLegacyQuestionsInternal(db);
     }
 
@@ -281,6 +410,7 @@ function parseQuestionRow(row) {
         sourceType: row.source_type,
         sourceRef: row.source_ref,
         sourcePage: row.source_page,
+        interactionData: JSON.parse(row.payload_json || '{}'),
         createdAt: row.created_at,
         updatedAt: row.updated_at
     };
@@ -370,8 +500,8 @@ function createQuestion(question) {
         INSERT INTO questions (
             grade_id, subject_id, question_text, correct_answer, choices_json,
             question_type, learning_objective, difficulty, status, source_type,
-            source_ref, source_page, source_key, content_hash, created_at, updated_at
-        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NULL, ?, ?, ?)
+            source_ref, source_page, payload_json, source_key, content_hash, created_at, updated_at
+        ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, NULL, ?, ?, ?)
     `).run(
         question.grade,
         subjectId,
@@ -385,6 +515,7 @@ function createQuestion(question) {
         question.sourceType || 'manual',
         question.sourceRef || null,
         question.sourcePage || null,
+        JSON.stringify(question.interactionData || {}),
         contentHash,
         timestamp,
         timestamp
@@ -400,7 +531,7 @@ function updateQuestion(id, question) {
         UPDATE questions SET
             grade_id = ?, subject_id = ?, question_text = ?, correct_answer = ?,
             choices_json = ?, question_type = ?, learning_objective = ?, difficulty = ?,
-            status = ?, source_type = ?, source_ref = ?, source_page = ?,
+            status = ?, source_type = ?, source_ref = ?, source_page = ?, payload_json = ?,
             content_hash = ?, updated_at = ?
         WHERE id = ? AND deleted_at IS NULL
     `).run(
@@ -416,6 +547,7 @@ function updateQuestion(id, question) {
         question.sourceType || 'manual',
         question.sourceRef || null,
         question.sourcePage || null,
+        JSON.stringify(question.interactionData || {}),
         buildContentHash(question),
         now(),
         id
@@ -475,12 +607,14 @@ function getPublicQuestionBank(grade) {
     const bank = Object.fromEntries(PUBLIC_SUBJECT_CODES.map((code) => [code, []]));
 
     for (const row of rows) {
+        const payload = JSON.parse(row.payload_json || '{}');
         bank[row.subject_code].push({
             q: row.question_text,
             a: row.correct_answer,
             c: JSON.parse(row.choices_json || '[]'),
             type: row.question_type,
-            ...(row.learning_objective ? { lo: row.learning_objective } : {})
+            ...(row.learning_objective ? { lo: row.learning_objective } : {}),
+            ...payload
         });
     }
     return bank;

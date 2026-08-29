@@ -17,9 +17,9 @@ describe('question store', () => {
         const sync = questionStore.syncLegacyQuestions();
         const second = questionStore.getMetadataSnapshot();
 
-        expect(first.stats).toEqual({ total: 845, published: 845, draft: 0, archived: 0 });
-        expect(sync).toMatchObject({ discovered: 845, inserted: 0, updated: 0 });
-        expect(second.stats.total).toBe(845);
+        expect(first.stats).toEqual({ total: 1343, published: 1343, draft: 0, archived: 0 });
+        expect(sync).toMatchObject({ discovered: 1343, inserted: 0, updated: 0 });
+        expect(second.stats.total).toBe(1343);
     });
 
     test('creates, edits, filters and soft-deletes a question', () => {
@@ -50,7 +50,7 @@ describe('question store', () => {
 
         expect(questionStore.deleteQuestion(created.id)).toBe(true);
         expect(questionStore.getQuestion(created.id)).toBeNull();
-        expect(questionStore.getMetadataSnapshot().stats.total).toBe(845);
+        expect(questionStore.getMetadataSnapshot().stats.total).toBe(1343);
     });
 
     test('rejects duplicate question content in the same grade and subject', () => {
@@ -76,12 +76,18 @@ describe('question store', () => {
     test('does not overwrite an administrator edit during a legacy sync', () => {
         const original = questionStore.listQuestions({ grade: 1, subject: 'viet' }).items[0];
         const editedText = `${original.questionText} (bản đã duyệt)`;
+        const editedChoices = ['Phương án do quản trị viên duyệt', original.correctAnswer];
         questionStore.updateQuestion(original.id, {
             ...original,
-            questionText: editedText
+            questionText: editedText,
+            choices: editedChoices,
+            interactionData: { hints: ['Gợi ý do quản trị viên duyệt'] }
         });
 
         questionStore.syncLegacyQuestions();
-        expect(questionStore.getQuestion(original.id).questionText).toBe(editedText);
+        const afterSync = questionStore.getQuestion(original.id);
+        expect(afterSync.questionText).toBe(editedText);
+        expect(afterSync.choices).toEqual(editedChoices);
+        expect(afterSync.interactionData.hints).toEqual(['Gợi ý do quản trị viên duyệt']);
     });
 });

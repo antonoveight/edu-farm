@@ -4,7 +4,7 @@ const path = require('path');
 const OUTPUT_PATH = path.join(process.cwd(), 'src', 'data', 'grade1', 'math.json');
 const SOURCE_FILE = 'sgk-toan-1-tu-nam-2026-tap-1_107202616.pdf';
 const BOOK_NAME = 'SGK Toán 1, Tập một – Kết nối tri thức với cuộc sống';
-const SOURCE_FILE_SEMESTER_2 = 'sgk-toan-1-tu-nam-2026-tap-2_107202616.pdf';
+const SOURCE_FILE_SEMESTER_2 = 'sgk-toan-1-tu-nam-2026-tap-2_107202616 (1).pdf';
 const BOOK_NAME_SEMESTER_2 = 'SGK Toán 1, Tập hai – Kết nối tri thức với cuộc sống';
 const NUMBER_WORDS = [
     'không', 'một', 'hai', 'ba', 'bốn', 'năm',

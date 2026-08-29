@@ -39,7 +39,7 @@ describe('standardized Grade 1 mathematics bank', () => {
         expect(semesterOne.every(({ sourcePage }) => sourcePage >= 8 && sourcePage <= 112)).toBe(true);
         expect(semesterTwo.every(({ sourcePage }) => sourcePage >= 4 && sourcePage <= 104)).toBe(true);
         expect(semesterOne.every(({ sourceRef }) => sourceRef.includes('sgk-toan-1-tu-nam-2026-tap-1_107202616.pdf'))).toBe(true);
-        expect(semesterTwo.every(({ sourceRef }) => sourceRef.includes('sgk-toan-1-tu-nam-2026-tap-2_107202616.pdf'))).toBe(true);
+        expect(semesterTwo.every(({ sourceRef }) => sourceRef.includes('sgk-toan-1-tu-nam-2026-tap-2_107202616 (1).pdf'))).toBe(true);
     });
 
     test('covers every lesson across both semester books', () => {

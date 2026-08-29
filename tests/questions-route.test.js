@@ -22,11 +22,12 @@ describe('GET /api/questions', () => {
         const body = await response.json();
 
         expect(response.status).toBe(200);
-        expect(Object.keys(body)).toEqual(['math', 'viet', 'science', 'tech']);
+        expect(Object.keys(body)).toEqual(['math', 'viet', 'english', 'science', 'tech']);
         expect(body.math).toHaveLength(400);
-        expect(body.viet.length).toBeGreaterThan(0);
-        expect(body.science.length).toBeGreaterThan(0);
-        expect(body.tech.length).toBeGreaterThan(0);
+        expect(body.viet).toHaveLength(338);
+        expect(body.english).toHaveLength(124);
+        expect(body.science).toHaveLength(112);
+        expect(body.tech).toHaveLength(31);
     });
 
     test('merges the immediately previous grade into grades above one', async () => {
@@ -37,6 +38,16 @@ describe('GET /api/questions', () => {
         expect(gradeTwo.science.length).toBeGreaterThan(gradeOne.science.length);
         expect(gradeTwo.tech.length).toBeGreaterThan(gradeOne.tech.length);
         expect(gradeTwo.math).toHaveLength(gradeOne.math.length);
+        expect(gradeTwo.english).toHaveLength(gradeOne.english.length);
+    });
+
+    test('preserves interaction data required by game question types', async () => {
+        const body = await (await GET(requestForGrade('1'))).json();
+        const matching = body.tech.find((question) => question.type === 'matching');
+
+        expect(matching).toBeDefined();
+        expect(matching.pairs).toBeInstanceOf(Array);
+        expect(matching.pairs.length).toBeGreaterThan(1);
     });
 
     test.each(['', '0', '6', '01', '1.5', '../1'])('rejects grade %j', async (grade) => {

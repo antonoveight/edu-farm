@@ -1,439 +1,2130 @@
 [
   {
-    "q": "Bộ phận nào trên cơ thể dùng để nghe âm thanh?",
-    "a": "TAI",
+    "q": "Những người cùng chung sống và yêu thương nhau tạo thành gì?",
+    "a": "gia đình",
     "c": [
-      "TAI",
-      "MẮT",
-      "MŨI",
-      "TAY"
+      "gia đình",
+      "lớp học",
+      "khu phố",
+      "đội bóng"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 1: Kể về gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 1: Kể về gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 1: Kể về gia đình",
+    "sourcePage": 6,
+    "explanation": "Theo Bài 1: Kể về gia đình, gia đình.",
+    "hints": []
   },
   {
-    "q": "Khi đi bộ trên đường, bé cần đi trên phần đường nào?",
-    "a": "VỈA HÈ",
+    "q": "Việc nào thể hiện sự quan tâm giữa các thành viên gia đình?",
+    "a": "Hỏi thăm và giúp đỡ nhau",
     "c": [
-      "VỈA HÈ",
-      "LÒNG ĐƯỜNG",
-      "ĐƯỜNG RAY",
-      "DƯỚI MƯƠNG"
+      "Tranh giành đồ dùng",
+      "Không nói chuyện với nhau",
+      "Vứt đồ bừa bãi",
+      "Hỏi thăm và giúp đỡ nhau"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 1: Kể về gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 1: Kể về gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 1: Kể về gia đình",
+    "sourcePage": 6,
+    "explanation": "Theo Bài 1: Kể về gia đình, hỏi thăm và giúp đỡ nhau.",
+    "hints": []
   },
   {
-    "q": "Khi đi xe máy cùng bố mẹ, bé cần tuân thủ luật lệ nào để an toàn?",
-    "a": "ĐỘI MŨ BẢO HIỂM",
+    "q": "Khi giới thiệu gia đình, em nên nói điều gì?",
+    "a": "Tên và mối quan hệ của từng người",
     "c": [
-      "ĐỘI MŨ BẢO HIỂM",
-      "ĐEO KÍNH RÂM",
-      "MẶC ÁO MƯA",
-      "MANG BA LÔ"
+      "Biển số xe",
+      "Mật khẩu điện thoại",
+      "Tên và mối quan hệ của từng người",
+      "Giá tiền đồ dùng"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 1: Kể về gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 1: Kể về gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 1: Kể về gia đình",
+    "sourcePage": 6,
+    "explanation": "Theo Bài 1: Kể về gia đình, tên và mối quan hệ của từng người.",
+    "hints": []
   },
   {
-    "q": "Động vật nào kêu 'meo meo' và thích bắt chuột?",
-    "a": "CON MÈO",
+    "q": "Mọi người trong gia đình cần đối xử với nhau như thế nào?",
+    "a": "Yêu thương và chia sẻ",
     "c": [
-      "CON MÈO",
-      "CON CHÓ",
-      "CON GÀ",
-      "CON THỎ"
+      "Không quan tâm",
+      "Yêu thương và chia sẻ",
+      "Lạnh nhạt",
+      "Giành phần hơn"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 1: Kể về gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 1: Kể về gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 1: Kể về gia đình",
+    "sourcePage": 6,
+    "explanation": "Theo Bài 1: Kể về gia đình, yêu thương và chia sẻ.",
+    "hints": []
   },
   {
-    "q": "Loài hoa nào thường hướng về phía mặt trời?",
-    "a": "HOA HƯỚNG DƯƠNG",
+    "q": "Ngôi nhà là nơi để gia đình làm gì?",
+    "a": "Sinh sống và sum họp",
     "c": [
-      "HOA HƯỚNG DƯƠNG",
-      "HOA HỒNG",
-      "HOA CÚC",
-      "HOA LAN"
+      "Sinh sống và sum họp",
+      "Chỉ để đồ chơi",
+      "Chỉ để xe",
+      "Chỉ để bán hàng"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 2: Ngôi nhà của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 2: Ngôi nhà của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 2: Ngôi nhà của em",
+    "sourcePage": 10,
+    "explanation": "Theo Bài 2: Ngôi nhà của em, sinh sống và sum họp.",
+    "hints": []
   },
   {
-    "q": "Trái cây nào sau đây có gai nhọn và mùi thơm rất đậm?",
-    "a": "SẦU RIÊNG",
+    "q": "Phòng nào thường là nơi cả nhà cùng trò chuyện?",
+    "a": "Phòng khách",
     "c": [
-      "SẦU RIÊNG",
-      "DƯA HẤU",
-      "TÁO",
-      "XOÀI"
+      "Phòng tắm",
+      "Nhà kho",
+      "Ban công",
+      "Phòng khách"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 2: Ngôi nhà của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 2: Ngôi nhà của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 2: Ngôi nhà của em",
+    "sourcePage": 10,
+    "explanation": "Theo Bài 2: Ngôi nhà của em, phòng khách.",
+    "hints": []
   },
   {
-    "q": "Ban đêm chúng ta nhìn bầu trời thấy gì sáng lên?",
-    "a": "TRĂNG VÀ SAO",
+    "q": "Việc nào giúp ngôi nhà sạch đẹp?",
+    "a": "Quét dọn và sắp xếp đồ gọn gàng",
     "c": [
-      "TRĂNG VÀ SAO",
-      "MẶT TRỜI",
-      "MÂY TRẮNG",
-      "CẦU VỒNG"
+      "Vứt rác xuống sàn",
+      "Để đồ chắn lối đi",
+      "Quét dọn và sắp xếp đồ gọn gàng",
+      "Vẽ bẩn lên tường"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 2: Ngôi nhà của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 2: Ngôi nhà của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 2: Ngôi nhà của em",
+    "sourcePage": 10,
+    "explanation": "Theo Bài 2: Ngôi nhà của em, quét dọn và sắp xếp đồ gọn gàng.",
+    "hints": []
   },
   {
-    "q": "Cây cần gì để sống và phát triển?",
-    "a": "NƯỚC, ÁNH SÁNG, ĐẤT",
+    "q": "Nhà ở nông thôn và thành phố có thể như thế nào?",
+    "a": "Có hình dạng và cách xây dựng khác nhau",
     "c": [
-      "NƯỚC, ÁNH SÁNG, ĐẤT",
-      "ĐÁ VÀ CÁT",
-      "BÚT VÀ VỞ",
-      "DẦU VÀ MỠ"
+      "Đều chỉ có một phòng",
+      "Có hình dạng và cách xây dựng khác nhau",
+      "Luôn giống hệt nhau",
+      "Đều không có cửa"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 2: Ngôi nhà của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 2: Ngôi nhà của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 2: Ngôi nhà của em",
+    "sourcePage": 10,
+    "explanation": "Theo Bài 2: Ngôi nhà của em, có hình dạng và cách xây dựng khác nhau.",
+    "hints": []
   },
   {
-    "q": "Mặt trời mọc ở hướng nào?",
-    "a": "ĐÔNG",
+    "q": "Đồ dùng nào thường dùng để nấu cơm?",
+    "a": "Nồi cơm điện",
     "c": [
-      "ĐÔNG",
-      "TÂY",
-      "NAM",
-      "BẮC"
+      "Nồi cơm điện",
+      "Quạt điện",
+      "Ti vi",
+      "Đồng hồ"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 3: Đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 3: Đồ dùng trong nhà",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 3: Đồ dùng trong nhà",
+    "sourcePage": 14,
+    "explanation": "Theo Bài 3: Đồ dùng trong nhà, nồi cơm điện.",
+    "hints": []
   },
   {
-    "q": "Trời mưa xuất hiện hiện tượng màu sắc nào trên bầu trời?",
-    "a": "CẦU VỒNG",
+    "q": "Đồ dùng nào giúp bảo quản thức ăn lạnh?",
+    "a": "Tủ lạnh",
     "c": [
-      "CẦU VỒNG",
-      "SAO BĂNG",
-      "ÁNH TRĂNG",
-      "SƯƠNG MÙ"
+      "Bàn học",
+      "Giá sách",
+      "Chổi",
+      "Tủ lạnh"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 3: Đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 3: Đồ dùng trong nhà",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 3: Đồ dùng trong nhà",
+    "sourcePage": 14,
+    "explanation": "Theo Bài 3: Đồ dùng trong nhà, tủ lạnh.",
+    "hints": []
   },
   {
-    "q": "Điền từ thích hợp: Rửa ___ sạch sẽ trước khi ăn để bảo vệ sức khỏe.",
-    "a": "tay",
+    "q": "Sau khi dùng đồ vật trong nhà, em nên làm gì?",
+    "a": "Đặt lại đúng chỗ",
     "c": [
-      "tay",
-      "chân",
-      "mặt",
-      "tóc"
-    ],
-    "type": "fill_blank",
-    "sentence": "Rửa ___ sạch sẽ trước khi ăn để bảo vệ sức khỏe.",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
-  },
-  {
-    "q": "Điền từ thích hợp: Mỗi người chúng ta đều có ___ bàn tay.",
-    "a": "hai",
-    "c": [
-      "hai",
-      "một",
-      "ba",
-      "bốn"
-    ],
-    "type": "fill_blank",
-    "sentence": "Mỗi người chúng ta đều có ___ bàn tay.",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
-  },
-  {
-    "q": "Điền từ thích hợp: Không vứt ___ bừa bãi ra môi trường.",
-    "a": "rác",
-    "c": [
-      "rác",
-      "nước",
-      "đồ chơi",
-      "sách"
-    ],
-    "type": "fill_blank",
-    "sentence": "Không vứt ___ bừa bãi ra môi trường.",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
-  },
-  {
-    "q": "Sắp xếp lời dạy của bác sĩ:",
-    "a": "Hãy uống nước đun sôi để nguội",
-    "c": [
-      "Hãy uống nước đun sôi để nguội"
-    ],
-    "type": "reorder",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé",
-    "words": [
-      "Hãy",
-      "uống",
-      "nước",
-      "đun",
-      "sôi",
-      "để",
-      "nguội"
-    ]
-  },
-  {
-    "q": "Bộ phận nào trên mặt dùng để nhìn?",
-    "a": "MẮT",
-    "c": [
-      "MẮT",
-      "MŨI",
-      "TAI",
-      "MIỆNG"
+      "Ném xuống sàn",
+      "Giấu đi",
+      "Đặt lại đúng chỗ",
+      "Để giữa lối đi"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 3: Đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 3: Đồ dùng trong nhà",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 3: Đồ dùng trong nhà",
+    "sourcePage": 14,
+    "explanation": "Theo Bài 3: Đồ dùng trong nhà, đặt lại đúng chỗ.",
+    "hints": []
   },
   {
-    "q": "Đâu là loài vật nuôi trong gia đình?",
-    "a": "CHÓ",
+    "q": "Đồ dùng trong nhà cần được sử dụng như thế nào?",
+    "a": "Đúng công dụng và cẩn thận",
     "c": [
-      "CHÓ",
-      "HỔ",
-      "SƯ TỬ",
-      "VOI"
+      "Làm rơi nhiều lần",
+      "Đúng công dụng và cẩn thận",
+      "Tuỳ ý tháo lắp",
+      "Dùng làm đồ chơi"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 3: Đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 3: Đồ dùng trong nhà",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 3: Đồ dùng trong nhà",
+    "sourcePage": 14,
+    "explanation": "Theo Bài 3: Đồ dùng trong nhà, đúng công dụng và cẩn thận.",
+    "hints": []
   },
   {
-    "q": "Cây xanh cần gì để lớn lên?",
-    "a": "NƯỚC VÀ ÁNH SÁNG",
+    "q": "Em có được chạm tay ướt vào ổ điện không?",
+    "a": "Không",
     "c": [
-      "NƯỚC VÀ ÁNH SÁNG",
-      "CHỈ ĐẤT",
-      "CHỈ SỎI",
-      "KHÔNG CẦN GÌ"
+      "Không",
+      "Có",
+      "Chỉ khi ở một mình",
+      "Chỉ vào ban đêm"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "sourcePage": 18,
+    "explanation": "Theo Bài 4: An toàn khi sử dụng đồ dùng trong nhà, không.",
+    "hints": []
   },
   {
-    "q": "Màu nào là màu của lá cây thông thường?",
-    "a": "MÀU XANH LÁ",
+    "q": "Khi thấy dây điện bị hở, em cần làm gì?",
+    "a": "Báo ngay cho người lớn",
     "c": [
-      "MÀU XANH LÁ",
-      "MÀU ĐỎ",
-      "MÀU VÀNG",
-      "MÀU TÍM"
+      "Tự nối lại",
+      "Sờ thử",
+      "Đổ nước vào",
+      "Báo ngay cho người lớn"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "sourcePage": 18,
+    "explanation": "Theo Bài 4: An toàn khi sử dụng đồ dùng trong nhà, báo ngay cho người lớn.",
+    "hints": []
   },
   {
-    "q": "Việc làm nào giúp em giữ vệ sinh răng miệng sạch sẽ hằng ngày?",
-    "a": "Chải răng mỗi ngày 2 lần sáng và tối",
+    "q": "Dao và kéo cần được sử dụng khi nào?",
+    "a": "Khi có người lớn hướng dẫn",
     "c": [
-      "Chải răng mỗi ngày 2 lần sáng và tối",
-      "Chỉ chải răng khi ăn kẹo",
-      "Chỉ súc miệng bằng nước",
-      "Không cần chải răng"
+      "Khi đùa nghịch",
+      "Khi ở một mình",
+      "Khi có người lớn hướng dẫn",
+      "Khi đang chạy"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "sourcePage": 18,
+    "explanation": "Theo Bài 4: An toàn khi sử dụng đồ dùng trong nhà, khi có người lớn hướng dẫn.",
+    "hints": []
   },
   {
-    "q": "Tại sao em cần phải rửa tay trước khi ăn và sau khi đi vệ sinh?",
-    "a": "Để phòng tránh vi khuẩn và bảo vệ sức khoẻ",
+    "q": "Để tránh bị bỏng, em không nên làm gì?",
+    "a": "Tự ý chạm vào đồ đang nóng",
     "c": [
-      "Để phòng tránh vi khuẩn và bảo vệ sức khoẻ",
-      "Để tay có mùi thơm",
-      "Để tay ướt dễ cầm thức ăn",
-      "Để được bố mẹ khen"
+      "Dùng đồ bảo vệ",
+      "Tự ý chạm vào đồ đang nóng",
+      "Đứng xa bếp",
+      "Nhờ người lớn giúp"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 4: An toàn khi sử dụng đồ dùng trong nhà – Nhận biết và vận dụng kiến thức trọng tâm của Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 4: An toàn khi sử dụng đồ dùng trong nhà",
+    "sourcePage": 18,
+    "explanation": "Theo Bài 4: An toàn khi sử dụng đồ dùng trong nhà, tự ý chạm vào đồ đang nóng.",
+    "hints": []
   },
   {
-    "q": "Khi đi bộ trên đường phố, em nên đi ở đâu để đảm bảo an toàn?",
-    "a": "Đi trên vỉa hè",
+    "q": "Việc nào vừa giúp gia đình vừa phù hợp với học sinh lớp 1?",
+    "a": "Xếp đồ chơi gọn gàng",
     "c": [
-      "Đi trên vỉa hè",
-      "Đi sát dải phân cách",
-      "Đi dưới lòng đường",
-      "Đi chéo qua ngã tư"
+      "Xếp đồ chơi gọn gàng",
+      "Sửa ổ điện",
+      "Dùng dao lớn",
+      "Leo lên mái nhà"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 5: Ôn tập chủ đề Gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 5: Ôn tập chủ đề Gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 5: Ôn tập chủ đề Gia đình",
+    "sourcePage": 22,
+    "explanation": "Theo Bài 5: Ôn tập chủ đề Gia đình, xếp đồ chơi gọn gàng.",
+    "hints": []
   },
   {
-    "q": "Việc nào em nên làm để giúp đỡ bố mẹ khi ở nhà?",
-    "a": "Dọn dẹp đồ chơi gọn gàng sau khi chơi",
+    "q": "Khi có người lạ gọi cửa lúc ở nhà một mình, em nên làm gì?",
+    "a": "Không mở cửa và gọi người lớn",
     "c": [
-      "Dọn dẹp đồ chơi gọn gàng sau khi chơi",
-      "Vứt đồ dùng bừa bãi",
-      "Đòi bố mẹ mua thêm đồ chơi",
-      "Chỉ ngồi xem tivi"
+      "Mở cửa ngay",
+      "Đi theo người lạ",
+      "Cho biết em ở một mình",
+      "Không mở cửa và gọi người lớn"
     ],
     "type": "multiple_choice",
-    "lo": "Khám phá thế giới tự nhiên xã hội xung quanh bé"
+    "lo": "Bài 5: Ôn tập chủ đề Gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 5: Ôn tập chủ đề Gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 5: Ôn tập chủ đề Gia đình",
+    "sourcePage": 22,
+    "explanation": "Theo Bài 5: Ôn tập chủ đề Gia đình, không mở cửa và gọi người lớn.",
+    "hints": []
   },
   {
-    "q": "Ghép bộ phận cây với chức năng:",
-    "a": "matching_done",
+    "q": "Đâu là nơi sum họp của các thành viên?",
+    "a": "Ngôi nhà",
     "c": [
-      "matching_done"
+      "Công trường",
+      "Bến xe",
+      "Ngôi nhà",
+      "Lòng đường"
     ],
-    "type": "matching",
-    "lo": "Nhận biết cấu tạo và chức năng các bộ phận của cây xanh",
-    "pairs": [
-      {
-        "left": "Rễ",
-        "right": "Hút nước từ đất"
-      },
-      {
-        "left": "Thân",
-        "right": "Dẫn nước và chất dinh dưỡng"
-      },
-      {
-        "left": "Lá",
-        "right": "Quang hợp tạo thức ăn"
-      },
-      {
-        "left": "Hoa",
-        "right": "Sinh sản và kết quả"
-      }
-    ]
+    "type": "multiple_choice",
+    "lo": "Bài 5: Ôn tập chủ đề Gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 5: Ôn tập chủ đề Gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 5: Ôn tập chủ đề Gia đình",
+    "sourcePage": 22,
+    "explanation": "Theo Bài 5: Ôn tập chủ đề Gia đình, ngôi nhà.",
+    "hints": []
   },
   {
-    "q": "Sắp xếp thứ tự các mùa trong năm (bắt đầu từ mùa Xuân):",
-    "a": "Xuân Hạ Thu Đông",
+    "q": "Hành động nào giữ an toàn trong nhà?",
+    "a": "Đi lại cẩn thận và cất đồ đúng chỗ",
     "c": [
-      "Xuân Hạ Thu Đông"
+      "Nghịch ổ điện",
+      "Đi lại cẩn thận và cất đồ đúng chỗ",
+      "Chạy trên nền ướt",
+      "Chơi gần bếp lửa"
     ],
-    "words": [
-      "Xuân",
-      "Hạ",
-      "Thu",
-      "Đông"
-    ],
-    "type": "reorder",
-    "lo": "Nhận biết và sắp xếp thứ tự các mùa trong năm"
+    "type": "multiple_choice",
+    "lo": "Bài 5: Ôn tập chủ đề Gia đình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 5: Ôn tập chủ đề Gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 5: Ôn tập chủ đề Gia đình",
+    "sourcePage": 22,
+    "explanation": "Theo Bài 5: Ôn tập chủ đề Gia đình, đi lại cẩn thận và cất đồ đúng chỗ.",
+    "hints": []
   },
   {
-    "q": "Điền từ thích hợp: Cây xanh cần ___ để quang hợp và tạo thức ăn.",
-    "a": "ánh sáng",
+    "q": "Ai là người hướng dẫn học sinh học tập ở lớp?",
+    "a": "Thầy giáo hoặc cô giáo",
     "c": [
-      "ánh sáng",
-      "bóng tối",
-      "không khí lạnh",
-      "muối ăn"
+      "Thầy giáo hoặc cô giáo",
+      "Bác tài xế",
+      "Người bán hàng",
+      "Thợ xây"
     ],
-    "type": "fill_blank",
-    "sentence": "Cây xanh cần ___ để quang hợp và tạo thức ăn.",
-    "lo": "Nhận biết điều kiện sống của cây xanh"
+    "type": "multiple_choice",
+    "lo": "Bài 6: Lớp học của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 6: Lớp học của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 6: Lớp học của em",
+    "sourcePage": 24,
+    "explanation": "Theo Bài 6: Lớp học của em, thầy giáo hoặc cô giáo.",
+    "hints": []
   },
   {
-    "q": "Điền từ thích hợp: Con người cần ___ để thở và sống.",
-    "a": "không khí",
+    "q": "Đồ dùng nào thường có trong lớp học?",
+    "a": "Bảng và bàn ghế",
     "c": [
-      "không khí",
-      "đất cát",
-      "ánh đèn",
-      "sách vở"
+      "Bếp ga",
+      "Giường ngủ",
+      "Bồn tắm",
+      "Bảng và bàn ghế"
     ],
-    "type": "fill_blank",
-    "sentence": "Con người cần ___ để thở và sống.",
-    "lo": "Nhận biết nhu cầu sống cơ bản của con người"
+    "type": "multiple_choice",
+    "lo": "Bài 6: Lớp học của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 6: Lớp học của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 6: Lớp học của em",
+    "sourcePage": 24,
+    "explanation": "Theo Bài 6: Lớp học của em, bảng và bàn ghế.",
+    "hints": []
   },
   {
-    "q": "Gõ lại từ sau: MẶT TRỜI",
-    "a": "mặt trời",
-    "type": "typing",
-    "lo": "Rèn luyện nhận biết và viết tên hiện tượng tự nhiên"
-  },
-  {
-    "q": "Gõ lại từ sau: CON CÁ",
-    "a": "con cá",
-    "type": "typing",
-    "lo": "Rèn luyện nhận biết và viết tên sinh vật dưới nước"
-  },
-  {
-    "q": "Điền từ thích hợp: Vào mùa ___, trời lạnh và có thể có tuyết rơi ở vùng núi cao.",
-    "a": "đông",
+    "q": "Để lớp học sạch đẹp, học sinh cần làm gì?",
+    "a": "Giữ vệ sinh và sắp xếp đồ dùng",
     "c": [
-      "đông",
-      "xuân",
-      "hạ",
-      "thu"
+      "Vẽ lên bàn",
+      "Bẻ đồ dùng",
+      "Giữ vệ sinh và sắp xếp đồ dùng",
+      "Vứt giấy xuống sàn"
     ],
-    "type": "fill_blank",
-    "sentence": "Vào mùa ___, trời lạnh và có thể có tuyết rơi ở vùng núi cao.",
-    "lo": "Nhận biết đặc điểm thời tiết theo mùa"
+    "type": "multiple_choice",
+    "lo": "Bài 6: Lớp học của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 6: Lớp học của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 6: Lớp học của em",
+    "sourcePage": 24,
+    "explanation": "Theo Bài 6: Lớp học của em, giữ vệ sinh và sắp xếp đồ dùng.",
+    "hints": []
   },
   {
-    "q": "Gõ lại từ sau: BẦU TRỜI",
-    "a": "bầu trời",
-    "type": "typing",
-    "lo": "Rèn luyện nhận biết và viết từ chỉ thiên nhiên"
-  },
-  {
-    "q": "Trái Đất đứng im Mặt Trời.",
-    "a": "Sai",
+    "q": "Khi bạn phát biểu, em nên làm gì?",
+    "a": "Lắng nghe",
     "c": [
-      "Đúng",
-      "Sai"
+      "Gây ồn",
+      "Lắng nghe",
+      "Nói chen",
+      "Chạy ra ngoài"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Bài 6: Lớp học của em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 6: Lớp học của em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 6: Lớp học của em",
+    "sourcePage": 24,
+    "explanation": "Theo Bài 6: Lớp học của em, lắng nghe.",
+    "hints": []
   },
   {
-    "q": "Mặt Trăng là một hành tinh.",
-    "a": "Sai",
+    "q": "Nơi nào trong trường dùng để đọc và mượn sách?",
+    "a": "Thư viện",
     "c": [
-      "Đúng",
-      "Sai"
+      "Thư viện",
+      "Nhà bếp",
+      "Bãi xe",
+      "Cổng trường"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Bài 7: Cùng khám phá trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 7: Cùng khám phá trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 7: Cùng khám phá trường học",
+    "sourcePage": 30,
+    "explanation": "Theo Bài 7: Cùng khám phá trường học, thư viện.",
+    "hints": []
   },
   {
-    "q": "Cá hô hấp bằng phổi dưới nước.",
-    "a": "phổi",
-    "words": [
-      "Cá",
-      "hô",
-      "hấp",
-      "bằng",
-      "phổi",
-      "dưới",
-      "nước."
-    ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
-  },
-  {
-    "q": "Con Chó",
-    "a": "Động vật",
+    "q": "Nơi học sinh tập thể dục và vui chơi thường là đâu?",
+    "a": "Sân trường",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Phòng y tế",
+      "Văn phòng",
+      "Nhà kho",
+      "Sân trường"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Bài 7: Cùng khám phá trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 7: Cùng khám phá trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 7: Cùng khám phá trường học",
+    "sourcePage": 30,
+    "explanation": "Theo Bài 7: Cùng khám phá trường học, sân trường.",
+    "hints": []
   },
   {
-    "q": "Cây lúa",
-    "a": "Thực vật",
+    "q": "Khi tham quan trường, em cần làm gì?",
+    "a": "Đi theo hướng dẫn và giữ trật tự",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Chạy vào nơi nguy hiểm",
+      "La hét",
+      "Đi theo hướng dẫn và giữ trật tự",
+      "Tự ý tách nhóm"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Bài 7: Cùng khám phá trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 7: Cùng khám phá trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 7: Cùng khám phá trường học",
+    "sourcePage": 30,
+    "explanation": "Theo Bài 7: Cùng khám phá trường học, đi theo hướng dẫn và giữ trật tự.",
+    "hints": []
   },
   {
-    "q": "Trái Đất quay quanh Mặt Trời.",
-    "a": "Đúng",
+    "q": "Phòng y tế của trường có công dụng gì?",
+    "a": "Chăm sóc sức khoẻ ban đầu",
     "c": [
-      "Đúng",
-      "Sai"
+      "Cất xe",
+      "Chăm sóc sức khoẻ ban đầu",
+      "Nấu ăn",
+      "Bán sách"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Bài 7: Cùng khám phá trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 7: Cùng khám phá trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 7: Cùng khám phá trường học",
+    "sourcePage": 30,
+    "explanation": "Theo Bài 7: Cùng khám phá trường học, chăm sóc sức khoẻ ban đầu.",
+    "hints": []
+  },
+  {
+    "q": "Hoạt động nào phù hợp trong giờ ra chơi?",
+    "a": "Chơi trò chơi an toàn cùng bạn",
+    "c": [
+      "Chơi trò chơi an toàn cùng bạn",
+      "Xô đẩy trên cầu thang",
+      "Leo qua lan can",
+      "Ném đá"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 8: Cùng vui ở trường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 8: Cùng vui ở trường",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 8: Cùng vui ở trường",
+    "sourcePage": 36,
+    "explanation": "Theo Bài 8: Cùng vui ở trường, chơi trò chơi an toàn cùng bạn.",
+    "hints": []
+  },
+  {
+    "q": "Khi chơi cùng bạn, em cần làm gì?",
+    "a": "Tuân thủ luật chơi và đoàn kết",
+    "c": [
+      "Gian lận",
+      "Tranh giành",
+      "Chế giễu bạn",
+      "Tuân thủ luật chơi và đoàn kết"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 8: Cùng vui ở trường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 8: Cùng vui ở trường",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 8: Cùng vui ở trường",
+    "sourcePage": 36,
+    "explanation": "Theo Bài 8: Cùng vui ở trường, tuân thủ luật chơi và đoàn kết.",
+    "hints": []
+  },
+  {
+    "q": "Nếu bạn bị ngã trong sân trường, em nên làm gì?",
+    "a": "Đỡ bạn và báo người lớn",
+    "c": [
+      "Cười bạn",
+      "Giấu sự việc",
+      "Đỡ bạn và báo người lớn",
+      "Bỏ đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 8: Cùng vui ở trường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 8: Cùng vui ở trường",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 8: Cùng vui ở trường",
+    "sourcePage": 36,
+    "explanation": "Theo Bài 8: Cùng vui ở trường, đỡ bạn và báo người lớn.",
+    "hints": []
+  },
+  {
+    "q": "Hoạt động chung ở trường giúp học sinh thế nào?",
+    "a": "Vui vẻ và gắn bó hơn",
+    "c": [
+      "Không cần lắng nghe",
+      "Vui vẻ và gắn bó hơn",
+      "Dễ gây gổ hơn",
+      "Không cần hợp tác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 8: Cùng vui ở trường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 8: Cùng vui ở trường",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 8: Cùng vui ở trường",
+    "sourcePage": 36,
+    "explanation": "Theo Bài 8: Cùng vui ở trường, vui vẻ và gắn bó hơn.",
+    "hints": []
+  },
+  {
+    "q": "Khi lên xuống cầu thang ở trường, em cần làm gì?",
+    "a": "Đi theo hàng và không xô đẩy",
+    "c": [
+      "Đi theo hàng và không xô đẩy",
+      "Chạy thật nhanh",
+      "Trượt trên tay vịn",
+      "Chen lấn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 9: Ôn tập chủ đề Trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 9: Ôn tập chủ đề Trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 9: Ôn tập chủ đề Trường học",
+    "sourcePage": 40,
+    "explanation": "Theo Bài 9: Ôn tập chủ đề Trường học, đi theo hàng và không xô đẩy.",
+    "hints": []
+  },
+  {
+    "q": "Ai cùng học tập với em trong lớp?",
+    "a": "Các bạn học sinh",
+    "c": [
+      "Khách du lịch",
+      "Người bán hàng",
+      "Hành khách",
+      "Các bạn học sinh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 9: Ôn tập chủ đề Trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 9: Ôn tập chủ đề Trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 9: Ôn tập chủ đề Trường học",
+    "sourcePage": 40,
+    "explanation": "Theo Bài 9: Ôn tập chủ đề Trường học, các bạn học sinh.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào thể hiện yêu trường lớp?",
+    "a": "Giữ gìn bàn ghế và cây xanh",
+    "c": [
+      "Vẽ bẩn lên tường",
+      "Làm hỏng sách",
+      "Giữ gìn bàn ghế và cây xanh",
+      "Bẻ cành cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 9: Ôn tập chủ đề Trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 9: Ôn tập chủ đề Trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 9: Ôn tập chủ đề Trường học",
+    "sourcePage": 40,
+    "explanation": "Theo Bài 9: Ôn tập chủ đề Trường học, giữ gìn bàn ghế và cây xanh.",
+    "hints": []
+  },
+  {
+    "q": "Khi nghe trống báo vào lớp, em cần làm gì?",
+    "a": "Nhanh chóng xếp hàng vào lớp",
+    "c": [
+      "Trốn sau cây",
+      "Nhanh chóng xếp hàng vào lớp",
+      "Tiếp tục chạy chơi",
+      "Ra khỏi trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 9: Ôn tập chủ đề Trường học – Nhận biết và vận dụng kiến thức trọng tâm của Bài 9: Ôn tập chủ đề Trường học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 9: Ôn tập chủ đề Trường học",
+    "sourcePage": 40,
+    "explanation": "Theo Bài 9: Ôn tập chủ đề Trường học, nhanh chóng xếp hàng vào lớp.",
+    "hints": []
+  },
+  {
+    "q": "Quang cảnh nơi em sống có thể gồm những gì?",
+    "a": "Nhà cửa, đường sá và cây cối",
+    "c": [
+      "Nhà cửa, đường sá và cây cối",
+      "Chỉ có đồ chơi",
+      "Chỉ có sách vở",
+      "Chỉ có quần áo"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 10: Cùng khám phá quang cảnh xung quanh – Nhận biết và vận dụng kiến thức trọng tâm của Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "sourcePage": 42,
+    "explanation": "Theo Bài 10: Cùng khám phá quang cảnh xung quanh, nhà cửa, đường sá và cây cối.",
+    "hints": []
+  },
+  {
+    "q": "Đâu là cảnh vật tự nhiên?",
+    "a": "Cây và dòng sông",
+    "c": [
+      "Cầu và đường",
+      "Nhà và chợ",
+      "Xe và cột điện",
+      "Cây và dòng sông"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 10: Cùng khám phá quang cảnh xung quanh – Nhận biết và vận dụng kiến thức trọng tâm của Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "sourcePage": 42,
+    "explanation": "Theo Bài 10: Cùng khám phá quang cảnh xung quanh, cây và dòng sông.",
+    "hints": []
+  },
+  {
+    "q": "Đâu là công trình do con người xây dựng?",
+    "a": "Con đường",
+    "c": [
+      "Dòng sông",
+      "Cây rừng",
+      "Con đường",
+      "Ngọn núi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 10: Cùng khám phá quang cảnh xung quanh – Nhận biết và vận dụng kiến thức trọng tâm của Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "sourcePage": 42,
+    "explanation": "Theo Bài 10: Cùng khám phá quang cảnh xung quanh, con đường.",
+    "hints": []
+  },
+  {
+    "q": "Để nơi ở sạch đẹp, mọi người cần làm gì?",
+    "a": "Bỏ rác đúng nơi và bảo vệ cây xanh",
+    "c": [
+      "Viết bẩn lên tường",
+      "Bỏ rác đúng nơi và bảo vệ cây xanh",
+      "Vứt rác xuống sông",
+      "Bẻ cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 10: Cùng khám phá quang cảnh xung quanh – Nhận biết và vận dụng kiến thức trọng tâm của Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 10: Cùng khám phá quang cảnh xung quanh",
+    "sourcePage": 42,
+    "explanation": "Theo Bài 10: Cùng khám phá quang cảnh xung quanh, bỏ rác đúng nơi và bảo vệ cây xanh.",
+    "hints": []
+  },
+  {
+    "q": "Người nông dân thường làm công việc gì?",
+    "a": "Trồng trọt và chăn nuôi",
+    "c": [
+      "Trồng trọt và chăn nuôi",
+      "Lái máy bay",
+      "Khám bệnh",
+      "Dạy học"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 11: Con người nơi em sống – Nhận biết và vận dụng kiến thức trọng tâm của Bài 11: Con người nơi em sống",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 11: Con người nơi em sống",
+    "sourcePage": 46,
+    "explanation": "Theo Bài 11: Con người nơi em sống, trồng trọt và chăn nuôi.",
+    "hints": []
+  },
+  {
+    "q": "Người bán hàng làm việc chủ yếu ở đâu?",
+    "a": "Cửa hàng hoặc chợ",
+    "c": [
+      "Trên đồng ruộng",
+      "Trong buồng lái",
+      "Ở trạm vũ trụ",
+      "Cửa hàng hoặc chợ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 11: Con người nơi em sống – Nhận biết và vận dụng kiến thức trọng tâm của Bài 11: Con người nơi em sống",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 11: Con người nơi em sống",
+    "sourcePage": 46,
+    "explanation": "Theo Bài 11: Con người nơi em sống, cửa hàng hoặc chợ.",
+    "hints": []
+  },
+  {
+    "q": "Mỗi nghề nghiệp trong cộng đồng có ý nghĩa thế nào?",
+    "a": "Đều góp phần phục vụ cuộc sống",
+    "c": [
+      "Không liên quan đến nhau",
+      "Đều giống nhau",
+      "Đều góp phần phục vụ cuộc sống",
+      "Chỉ một nghề là cần thiết"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 11: Con người nơi em sống – Nhận biết và vận dụng kiến thức trọng tâm của Bài 11: Con người nơi em sống",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 11: Con người nơi em sống",
+    "sourcePage": 46,
+    "explanation": "Theo Bài 11: Con người nơi em sống, đều góp phần phục vụ cuộc sống.",
+    "hints": []
+  },
+  {
+    "q": "Khi giao tiếp với người xung quanh, em nên làm gì?",
+    "a": "Lễ phép và thân thiện",
+    "c": [
+      "Gây ồn",
+      "Lễ phép và thân thiện",
+      "Nói trống không",
+      "Chế giễu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 11: Con người nơi em sống – Nhận biết và vận dụng kiến thức trọng tâm của Bài 11: Con người nơi em sống",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 11: Con người nơi em sống",
+    "sourcePage": 46,
+    "explanation": "Theo Bài 11: Con người nơi em sống, lễ phép và thân thiện.",
+    "hints": []
+  },
+  {
+    "q": "Tết cổ truyền là dịp gia đình thường làm gì?",
+    "a": "Sum họp và chúc nhau điều tốt đẹp",
+    "c": [
+      "Sum họp và chúc nhau điều tốt đẹp",
+      "Không gặp nhau",
+      "Vứt bỏ đồ dùng",
+      "Đóng cửa cả ngày"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 12: Vui đón Tết – Nhận biết và vận dụng kiến thức trọng tâm của Bài 12: Vui đón Tết",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 12: Vui đón Tết",
+    "sourcePage": 50,
+    "explanation": "Theo Bài 12: Vui đón Tết, sum họp và chúc nhau điều tốt đẹp.",
+    "hints": []
+  },
+  {
+    "q": "Hoa nào thường được nhắc đến trong ngày Tết ở miền Bắc?",
+    "a": "Hoa đào",
+    "c": [
+      "Hoa sen",
+      "Hoa phượng",
+      "Hoa súng",
+      "Hoa đào"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 12: Vui đón Tết – Nhận biết và vận dụng kiến thức trọng tâm của Bài 12: Vui đón Tết",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 12: Vui đón Tết",
+    "sourcePage": 50,
+    "explanation": "Theo Bài 12: Vui đón Tết, hoa đào.",
+    "hints": []
+  },
+  {
+    "q": "Khi nhận lời chúc Tết, em nên làm gì?",
+    "a": "Cảm ơn và chúc lại lễ phép",
+    "c": [
+      "Đòi quà",
+      "Nói trống không",
+      "Cảm ơn và chúc lại lễ phép",
+      "Im lặng bỏ đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 12: Vui đón Tết – Nhận biết và vận dụng kiến thức trọng tâm của Bài 12: Vui đón Tết",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 12: Vui đón Tết",
+    "sourcePage": 50,
+    "explanation": "Theo Bài 12: Vui đón Tết, cảm ơn và chúc lại lễ phép.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào giúp đón Tết an toàn?",
+    "a": "Thực hiện theo hướng dẫn của người lớn",
+    "c": [
+      "Chạy ra lòng đường",
+      "Thực hiện theo hướng dẫn của người lớn",
+      "Tự đốt pháo",
+      "Chơi gần bếp lửa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 12: Vui đón Tết – Nhận biết và vận dụng kiến thức trọng tâm của Bài 12: Vui đón Tết",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 12: Vui đón Tết",
+    "sourcePage": 50,
+    "explanation": "Theo Bài 12: Vui đón Tết, thực hiện theo hướng dẫn của người lớn.",
+    "hints": []
+  },
+  {
+    "q": "Người đi bộ nên đi ở đâu khi đường có vỉa hè?",
+    "a": "Trên vỉa hè",
+    "c": [
+      "Trên vỉa hè",
+      "Giữa lòng đường",
+      "Sát xe đang chạy",
+      "Trên dải phân cách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 13: An toàn trên đường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 13: An toàn trên đường",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 13: An toàn trên đường",
+    "sourcePage": 54,
+    "explanation": "Theo Bài 13: An toàn trên đường, trên vỉa hè.",
+    "hints": []
+  },
+  {
+    "q": "Khi qua đường, trẻ em nên làm gì?",
+    "a": "Đi cùng người lớn và quan sát xe",
+    "c": [
+      "Chạy qua bất ngờ",
+      "Vừa đi vừa chơi",
+      "Qua ở chỗ khuất",
+      "Đi cùng người lớn và quan sát xe"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 13: An toàn trên đường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 13: An toàn trên đường",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 13: An toàn trên đường",
+    "sourcePage": 54,
+    "explanation": "Theo Bài 13: An toàn trên đường, đi cùng người lớn và quan sát xe.",
+    "hints": []
+  },
+  {
+    "q": "Ngồi trên xe máy, em cần đội gì?",
+    "a": "Mũ bảo hiểm đúng cách",
+    "c": [
+      "Mũ giấy",
+      "Mũ đồ chơi",
+      "Mũ bảo hiểm đúng cách",
+      "Mũ len"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 13: An toàn trên đường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 13: An toàn trên đường",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 13: An toàn trên đường",
+    "sourcePage": 54,
+    "explanation": "Theo Bài 13: An toàn trên đường, mũ bảo hiểm đúng cách.",
+    "hints": []
+  },
+  {
+    "q": "Đèn đỏ dành cho người và xe tham gia giao thông báo hiệu gì?",
+    "a": "Dừng lại",
+    "c": [
+      "Bấm còi",
+      "Dừng lại",
+      "Đi nhanh",
+      "Rẽ tự do"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 13: An toàn trên đường – Nhận biết và vận dụng kiến thức trọng tâm của Bài 13: An toàn trên đường",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 13: An toàn trên đường",
+    "sourcePage": 54,
+    "explanation": "Theo Bài 13: An toàn trên đường, dừng lại.",
+    "hints": []
+  },
+  {
+    "q": "Công việc nào giúp giữ đường phố sạch?",
+    "a": "Thu gom rác đúng nơi",
+    "c": [
+      "Thu gom rác đúng nơi",
+      "Xả rác",
+      "Đổ nước bẩn ra đường",
+      "Bẻ cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 14: Ôn tập chủ đề Cộng đồng địa phương – Nhận biết và vận dụng kiến thức trọng tâm của Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "sourcePage": 58,
+    "explanation": "Theo Bài 14: Ôn tập chủ đề Cộng đồng địa phương, thu gom rác đúng nơi.",
+    "hints": []
+  },
+  {
+    "q": "Khi đến nơi công cộng, em cần làm gì?",
+    "a": "Giữ trật tự và vệ sinh",
+    "c": [
+      "La hét",
+      "Chen lấn",
+      "Vẽ bẩn",
+      "Giữ trật tự và vệ sinh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 14: Ôn tập chủ đề Cộng đồng địa phương – Nhận biết và vận dụng kiến thức trọng tâm của Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "sourcePage": 58,
+    "explanation": "Theo Bài 14: Ôn tập chủ đề Cộng đồng địa phương, giữ trật tự và vệ sinh.",
+    "hints": []
+  },
+  {
+    "q": "Biển báo và đèn giao thông giúp ích gì?",
+    "a": "Hướng dẫn đi lại an toàn",
+    "c": [
+      "Che nắng",
+      "Phát nhạc",
+      "Hướng dẫn đi lại an toàn",
+      "Trang trí đường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 14: Ôn tập chủ đề Cộng đồng địa phương – Nhận biết và vận dụng kiến thức trọng tâm của Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "sourcePage": 58,
+    "explanation": "Theo Bài 14: Ôn tập chủ đề Cộng đồng địa phương, hướng dẫn đi lại an toàn.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào thể hiện tôn trọng người lao động?",
+    "a": "Chào hỏi và giữ gìn thành quả lao động",
+    "c": [
+      "Gây cản trở",
+      "Chào hỏi và giữ gìn thành quả lao động",
+      "Chê bai nghề nghiệp",
+      "Làm hỏng đồ công cộng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 14: Ôn tập chủ đề Cộng đồng địa phương – Nhận biết và vận dụng kiến thức trọng tâm của Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 14: Ôn tập chủ đề Cộng đồng địa phương",
+    "sourcePage": 58,
+    "explanation": "Theo Bài 14: Ôn tập chủ đề Cộng đồng địa phương, chào hỏi và giữ gìn thành quả lao động.",
+    "hints": []
+  },
+  {
+    "q": "Cây thường có những bộ phận chính nào?",
+    "a": "Rễ, thân, lá, hoa và quả",
+    "c": [
+      "Rễ, thân, lá, hoa và quả",
+      "Đầu, mình và chân",
+      "Cánh, mỏ và đuôi",
+      "Bàn, ghế và tủ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 15: Cây xung quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 15: Cây xung quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 15: Cây xung quanh em",
+    "sourcePage": 60,
+    "explanation": "Theo Bài 15: Cây xung quanh em, rễ, thân, lá, hoa và quả.",
+    "hints": []
+  },
+  {
+    "q": "Bộ phận nào giúp cây hút nước từ đất?",
+    "a": "Rễ",
+    "c": [
+      "Hoa",
+      "Quả",
+      "Lá",
+      "Rễ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 15: Cây xung quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 15: Cây xung quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 15: Cây xung quanh em",
+    "sourcePage": 60,
+    "explanation": "Theo Bài 15: Cây xung quanh em, rễ.",
+    "hints": []
+  },
+  {
+    "q": "Cây có thể sống ở đâu?",
+    "a": "Trên cạn hoặc dưới nước",
+    "c": [
+      "Chỉ trên mái",
+      "Chỉ trong hộp",
+      "Trên cạn hoặc dưới nước",
+      "Chỉ trong nhà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 15: Cây xung quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 15: Cây xung quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 15: Cây xung quanh em",
+    "sourcePage": 60,
+    "explanation": "Theo Bài 15: Cây xung quanh em, trên cạn hoặc dưới nước.",
+    "hints": []
+  },
+  {
+    "q": "Lợi ích nào của cây xanh là đúng?",
+    "a": "Cho bóng mát và làm không khí trong lành",
+    "c": [
+      "Làm hỏng sách",
+      "Cho bóng mát và làm không khí trong lành",
+      "Làm đường trơn",
+      "Gây tiếng còi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 15: Cây xung quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 15: Cây xung quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 15: Cây xung quanh em",
+    "sourcePage": 60,
+    "explanation": "Theo Bài 15: Cây xung quanh em, cho bóng mát và làm không khí trong lành.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào giúp cây trồng phát triển?",
+    "a": "Tưới nước vừa đủ",
+    "c": [
+      "Tưới nước vừa đủ",
+      "Bẻ cành",
+      "Giẫm lên cây",
+      "Nhổ cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 16: Chăm sóc và bảo vệ cây trồng – Nhận biết và vận dụng kiến thức trọng tâm của Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "sourcePage": 66,
+    "explanation": "Theo Bài 16: Chăm sóc và bảo vệ cây trồng, tưới nước vừa đủ.",
+    "hints": []
+  },
+  {
+    "q": "Vì sao cần làm cỏ quanh gốc cây?",
+    "a": "Để cây có đủ chất dinh dưỡng và không gian sống",
+    "c": [
+      "Để đất khô hơn",
+      "Để bẻ rễ cây",
+      "Để cây mất lá",
+      "Để cây có đủ chất dinh dưỡng và không gian sống"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 16: Chăm sóc và bảo vệ cây trồng – Nhận biết và vận dụng kiến thức trọng tâm của Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "sourcePage": 66,
+    "explanation": "Theo Bài 16: Chăm sóc và bảo vệ cây trồng, để cây có đủ chất dinh dưỡng và không gian sống.",
+    "hints": []
+  },
+  {
+    "q": "Hành động nào bảo vệ cây?",
+    "a": "Không hái hoa và bẻ cành",
+    "c": [
+      "Giẫm lên bồn cây",
+      "Vặt lá",
+      "Không hái hoa và bẻ cành",
+      "Khắc tên lên thân cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 16: Chăm sóc và bảo vệ cây trồng – Nhận biết và vận dụng kiến thức trọng tâm của Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "sourcePage": 66,
+    "explanation": "Theo Bài 16: Chăm sóc và bảo vệ cây trồng, không hái hoa và bẻ cành.",
+    "hints": []
+  },
+  {
+    "q": "Khi thấy cây bị sâu bệnh, em nên làm gì?",
+    "a": "Báo người lớn để chăm sóc đúng cách",
+    "c": [
+      "Bỏ mặc",
+      "Báo người lớn để chăm sóc đúng cách",
+      "Tự dùng hoá chất",
+      "Đốt cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 16: Chăm sóc và bảo vệ cây trồng – Nhận biết và vận dụng kiến thức trọng tâm của Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 16: Chăm sóc và bảo vệ cây trồng",
+    "sourcePage": 66,
+    "explanation": "Theo Bài 16: Chăm sóc và bảo vệ cây trồng, báo người lớn để chăm sóc đúng cách.",
+    "hints": []
+  },
+  {
+    "q": "Con vật thường có những bộ phận nào?",
+    "a": "Đầu, mình và cơ quan di chuyển",
+    "c": [
+      "Đầu, mình và cơ quan di chuyển",
+      "Rễ, thân và lá",
+      "Bàn, ghế và tủ",
+      "Mây, mưa và nắng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 17: Con vật quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 17: Con vật quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 17: Con vật quanh em",
+    "sourcePage": 70,
+    "explanation": "Theo Bài 17: Con vật quanh em, đầu, mình và cơ quan di chuyển.",
+    "hints": []
+  },
+  {
+    "q": "Con cá di chuyển chủ yếu bằng gì?",
+    "a": "Vây và đuôi",
+    "c": [
+      "Cánh",
+      "Chân có móng",
+      "Rễ",
+      "Vây và đuôi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 17: Con vật quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 17: Con vật quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 17: Con vật quanh em",
+    "sourcePage": 70,
+    "explanation": "Theo Bài 17: Con vật quanh em, vây và đuôi.",
+    "hints": []
+  },
+  {
+    "q": "Con chim di chuyển trên không chủ yếu bằng gì?",
+    "a": "Cánh",
+    "c": [
+      "Rễ",
+      "Lá",
+      "Cánh",
+      "Vây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 17: Con vật quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 17: Con vật quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 17: Con vật quanh em",
+    "sourcePage": 70,
+    "explanation": "Theo Bài 17: Con vật quanh em, cánh.",
+    "hints": []
+  },
+  {
+    "q": "Con vật có thể sống ở đâu?",
+    "a": "Nhiều môi trường khác nhau",
+    "c": [
+      "Chỉ dưới nước",
+      "Nhiều môi trường khác nhau",
+      "Chỉ trong nhà",
+      "Chỉ trên cây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 17: Con vật quanh em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 17: Con vật quanh em",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 17: Con vật quanh em",
+    "sourcePage": 70,
+    "explanation": "Theo Bài 17: Con vật quanh em, nhiều môi trường khác nhau.",
+    "hints": []
+  },
+  {
+    "q": "Vật nuôi cần được cung cấp gì?",
+    "a": "Thức ăn, nước uống và nơi ở phù hợp",
+    "c": [
+      "Thức ăn, nước uống và nơi ở phù hợp",
+      "Chỉ đồ chơi",
+      "Chỉ ánh đèn",
+      "Không cần gì"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 18: Chăm sóc và bảo vệ vật nuôi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "sourcePage": 76,
+    "explanation": "Theo Bài 18: Chăm sóc và bảo vệ vật nuôi, thức ăn, nước uống và nơi ở phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Khi vật nuôi bị ốm, em nên làm gì?",
+    "a": "Báo người lớn hoặc bác sĩ thú y",
+    "c": [
+      "Tự cho thuốc lạ",
+      "Xua đuổi",
+      "Bỏ đói",
+      "Báo người lớn hoặc bác sĩ thú y"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 18: Chăm sóc và bảo vệ vật nuôi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "sourcePage": 76,
+    "explanation": "Theo Bài 18: Chăm sóc và bảo vệ vật nuôi, báo người lớn hoặc bác sĩ thú y.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào thể hiện yêu quý vật nuôi?",
+    "a": "Chăm sóc nhẹ nhàng và giữ vệ sinh",
+    "c": [
+      "Trêu chọc",
+      "Kéo đuôi",
+      "Chăm sóc nhẹ nhàng và giữ vệ sinh",
+      "Đánh đập"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 18: Chăm sóc và bảo vệ vật nuôi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "sourcePage": 76,
+    "explanation": "Theo Bài 18: Chăm sóc và bảo vệ vật nuôi, chăm sóc nhẹ nhàng và giữ vệ sinh.",
+    "hints": []
+  },
+  {
+    "q": "Sau khi tiếp xúc với vật nuôi, em cần làm gì?",
+    "a": "Rửa tay sạch",
+    "c": [
+      "Không cần làm gì",
+      "Rửa tay sạch",
+      "Dụi mắt ngay",
+      "Cầm thức ăn ngay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 18: Chăm sóc và bảo vệ vật nuôi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 18: Chăm sóc và bảo vệ vật nuôi",
+    "sourcePage": 76,
+    "explanation": "Theo Bài 18: Chăm sóc và bảo vệ vật nuôi, rửa tay sạch.",
+    "hints": []
+  },
+  {
+    "q": "Điểm khác nhau cơ bản giữa cây và con vật là gì?",
+    "a": "Cây có rễ, thân, lá; con vật có cơ quan di chuyển",
+    "c": [
+      "Cây có rễ, thân, lá; con vật có cơ quan di chuyển",
+      "Cả hai đều có bánh xe",
+      "Cả hai đều có bàn ghế",
+      "Không có điểm khác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 19: Ôn tập chủ đề Thực vật và động vật – Nhận biết và vận dụng kiến thức trọng tâm của Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "sourcePage": 80,
+    "explanation": "Theo Bài 19: Ôn tập chủ đề Thực vật và động vật, cây có rễ, thân, lá; con vật có cơ quan di chuyển.",
+    "hints": []
+  },
+  {
+    "q": "Việc nào cùng bảo vệ cả cây và con vật?",
+    "a": "Giữ môi trường sống sạch",
+    "c": [
+      "Phá tổ",
+      "Bẻ cành",
+      "Xả rác",
+      "Giữ môi trường sống sạch"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 19: Ôn tập chủ đề Thực vật và động vật – Nhận biết và vận dụng kiến thức trọng tâm của Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "sourcePage": 80,
+    "explanation": "Theo Bài 19: Ôn tập chủ đề Thực vật và động vật, giữ môi trường sống sạch.",
+    "hints": []
+  },
+  {
+    "q": "Cây và con vật đều cần gì để sống?",
+    "a": "Nước và môi trường phù hợp",
+    "c": [
+      "Bút chì",
+      "Ti vi",
+      "Nước và môi trường phù hợp",
+      "Đồ chơi điện tử"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 19: Ôn tập chủ đề Thực vật và động vật – Nhận biết và vận dụng kiến thức trọng tâm của Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "sourcePage": 80,
+    "explanation": "Theo Bài 19: Ôn tập chủ đề Thực vật và động vật, nước và môi trường phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Không nên làm gì với sinh vật quanh em?",
+    "a": "Phá hoại nơi sống của chúng",
+    "c": [
+      "Giữ vệ sinh môi trường",
+      "Phá hoại nơi sống của chúng",
+      "Quan sát nhẹ nhàng",
+      "Chăm sóc đúng cách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 19: Ôn tập chủ đề Thực vật và động vật – Nhận biết và vận dụng kiến thức trọng tâm của Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 19: Ôn tập chủ đề Thực vật và động vật",
+    "sourcePage": 80,
+    "explanation": "Theo Bài 19: Ôn tập chủ đề Thực vật và động vật, phá hoại nơi sống của chúng.",
+    "hints": []
+  },
+  {
+    "q": "Cơ thể người gồm ba phần chính nào?",
+    "a": "Đầu, mình và các chi",
+    "c": [
+      "Đầu, mình và các chi",
+      "Rễ, thân và lá",
+      "Cánh, mỏ và đuôi",
+      "Bàn, ghế và tủ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 20: Cơ thể em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 20: Cơ thể em",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 20: Cơ thể em",
+    "sourcePage": 82,
+    "explanation": "Theo Bài 20: Cơ thể em, đầu, mình và các chi.",
+    "hints": []
+  },
+  {
+    "q": "Tay và chân thuộc phần nào của cơ thể?",
+    "a": "Các chi",
+    "c": [
+      "Đầu",
+      "Tóc",
+      "Mắt",
+      "Các chi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 20: Cơ thể em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 20: Cơ thể em",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 20: Cơ thể em",
+    "sourcePage": 82,
+    "explanation": "Theo Bài 20: Cơ thể em, các chi.",
+    "hints": []
+  },
+  {
+    "q": "Bộ phận nào giúp em cầm nắm?",
+    "a": "Bàn tay",
+    "c": [
+      "Tai",
+      "Mũi",
+      "Bàn tay",
+      "Bàn chân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 20: Cơ thể em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 20: Cơ thể em",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 20: Cơ thể em",
+    "sourcePage": 82,
+    "explanation": "Theo Bài 20: Cơ thể em, bàn tay.",
+    "hints": []
+  },
+  {
+    "q": "Để cơ thể sạch sẽ, em cần làm gì?",
+    "a": "Tắm rửa và thay quần áo sạch",
+    "c": [
+      "Ít đánh răng",
+      "Tắm rửa và thay quần áo sạch",
+      "Mặc đồ bẩn",
+      "Không rửa tay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 20: Cơ thể em – Nhận biết và vận dụng kiến thức trọng tâm của Bài 20: Cơ thể em",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 20: Cơ thể em",
+    "sourcePage": 82,
+    "explanation": "Theo Bài 20: Cơ thể em, tắm rửa và thay quần áo sạch.",
+    "hints": []
+  },
+  {
+    "q": "Mắt giúp em nhận biết điều gì?",
+    "a": "Hình dạng và màu sắc",
+    "c": [
+      "Hình dạng và màu sắc",
+      "Mùi",
+      "Vị",
+      "Âm thanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 21: Các giác quan của cơ thể – Nhận biết và vận dụng kiến thức trọng tâm của Bài 21: Các giác quan của cơ thể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 21: Các giác quan của cơ thể",
+    "sourcePage": 88,
+    "explanation": "Theo Bài 21: Các giác quan của cơ thể, hình dạng và màu sắc.",
+    "hints": []
+  },
+  {
+    "q": "Tai giúp em làm gì?",
+    "a": "Nghe âm thanh",
+    "c": [
+      "Nhìn màu sắc",
+      "Nếm thức ăn",
+      "Ngửi mùi",
+      "Nghe âm thanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 21: Các giác quan của cơ thể – Nhận biết và vận dụng kiến thức trọng tâm của Bài 21: Các giác quan của cơ thể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 21: Các giác quan của cơ thể",
+    "sourcePage": 88,
+    "explanation": "Theo Bài 21: Các giác quan của cơ thể, nghe âm thanh.",
+    "hints": []
+  },
+  {
+    "q": "Mũi giúp em nhận biết gì?",
+    "a": "Mùi",
+    "c": [
+      "Màu sắc",
+      "Độ dài",
+      "Mùi",
+      "Âm thanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 21: Các giác quan của cơ thể – Nhận biết và vận dụng kiến thức trọng tâm của Bài 21: Các giác quan của cơ thể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 21: Các giác quan của cơ thể",
+    "sourcePage": 88,
+    "explanation": "Theo Bài 21: Các giác quan của cơ thể, mùi.",
+    "hints": []
+  },
+  {
+    "q": "Lưỡi giúp em nhận biết gì?",
+    "a": "Vị của thức ăn",
+    "c": [
+      "Hình dạng",
+      "Vị của thức ăn",
+      "Tiếng động",
+      "Ánh sáng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 21: Các giác quan của cơ thể – Nhận biết và vận dụng kiến thức trọng tâm của Bài 21: Các giác quan của cơ thể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 21: Các giác quan của cơ thể",
+    "sourcePage": 88,
+    "explanation": "Theo Bài 21: Các giác quan của cơ thể, vị của thức ăn.",
+    "hints": []
+  },
+  {
+    "q": "Vì sao cần ăn đủ bữa?",
+    "a": "Để cơ thể có năng lượng và phát triển",
+    "c": [
+      "Để cơ thể có năng lượng và phát triển",
+      "Để không cần ngủ",
+      "Để không cần vận động",
+      "Để thức khuya"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 22: Ăn, uống hằng ngày – Nhận biết và vận dụng kiến thức trọng tâm của Bài 22: Ăn, uống hằng ngày",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 22: Ăn, uống hằng ngày",
+    "sourcePage": 94,
+    "explanation": "Theo Bài 22: Ăn, uống hằng ngày, để cơ thể có năng lượng và phát triển.",
+    "hints": []
+  },
+  {
+    "q": "Nước uống hằng ngày cần như thế nào?",
+    "a": "Sạch và an toàn",
+    "c": [
+      "Có màu lạ",
+      "Lấy ở bất cứ vũng nào",
+      "Để lâu không đậy",
+      "Sạch và an toàn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 22: Ăn, uống hằng ngày – Nhận biết và vận dụng kiến thức trọng tâm của Bài 22: Ăn, uống hằng ngày",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 22: Ăn, uống hằng ngày",
+    "sourcePage": 94,
+    "explanation": "Theo Bài 22: Ăn, uống hằng ngày, sạch và an toàn.",
+    "hints": []
+  },
+  {
+    "q": "Trước khi ăn, em cần làm gì?",
+    "a": "Rửa tay sạch",
+    "c": [
+      "Dụi mắt",
+      "Cầm rác",
+      "Rửa tay sạch",
+      "Chơi với đất"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 22: Ăn, uống hằng ngày – Nhận biết và vận dụng kiến thức trọng tâm của Bài 22: Ăn, uống hằng ngày",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 22: Ăn, uống hằng ngày",
+    "sourcePage": 94,
+    "explanation": "Theo Bài 22: Ăn, uống hằng ngày, rửa tay sạch.",
+    "hints": []
+  },
+  {
+    "q": "Nhóm thức ăn nào nên được dùng đa dạng?",
+    "a": "Nhiều loại thực phẩm phù hợp",
+    "c": [
+      "Chỉ đồ chiên",
+      "Nhiều loại thực phẩm phù hợp",
+      "Chỉ bánh kẹo",
+      "Chỉ nước ngọt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 22: Ăn, uống hằng ngày – Nhận biết và vận dụng kiến thức trọng tâm của Bài 22: Ăn, uống hằng ngày",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 22: Ăn, uống hằng ngày",
+    "sourcePage": 94,
+    "explanation": "Theo Bài 22: Ăn, uống hằng ngày, nhiều loại thực phẩm phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Vận động hằng ngày giúp cơ thể thế nào?",
+    "a": "Khoẻ mạnh và nhanh nhẹn",
+    "c": [
+      "Khoẻ mạnh và nhanh nhẹn",
+      "Mệt mãi",
+      "Không cần ngủ",
+      "Không cần ăn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 23: Vận động và nghỉ ngơi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 23: Vận động và nghỉ ngơi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 23: Vận động và nghỉ ngơi",
+    "sourcePage": 98,
+    "explanation": "Theo Bài 23: Vận động và nghỉ ngơi, khoẻ mạnh và nhanh nhẹn.",
+    "hints": []
+  },
+  {
+    "q": "Học sinh lớp 1 cần ngủ như thế nào?",
+    "a": "Đủ giấc và đúng giờ",
+    "c": [
+      "Thức thật khuya",
+      "Ngủ rất ít",
+      "Vừa ngủ vừa xem màn hình",
+      "Đủ giấc và đúng giờ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 23: Vận động và nghỉ ngơi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 23: Vận động và nghỉ ngơi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 23: Vận động và nghỉ ngơi",
+    "sourcePage": 98,
+    "explanation": "Theo Bài 23: Vận động và nghỉ ngơi, đủ giấc và đúng giờ.",
+    "hints": []
+  },
+  {
+    "q": "Sau thời gian học tập, em nên làm gì?",
+    "a": "Nghỉ ngơi và vận động phù hợp",
+    "c": [
+      "Bỏ bữa",
+      "Thức đêm",
+      "Nghỉ ngơi và vận động phù hợp",
+      "Ngồi lì thật lâu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 23: Vận động và nghỉ ngơi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 23: Vận động và nghỉ ngơi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 23: Vận động và nghỉ ngơi",
+    "sourcePage": 98,
+    "explanation": "Theo Bài 23: Vận động và nghỉ ngơi, nghỉ ngơi và vận động phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Tư thế ngồi học đúng là gì?",
+    "a": "Lưng thẳng, khoảng cách phù hợp",
+    "c": [
+      "Ngồi lệch lâu",
+      "Lưng thẳng, khoảng cách phù hợp",
+      "Nằm sát vở",
+      "Cúi gập người"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 23: Vận động và nghỉ ngơi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 23: Vận động và nghỉ ngơi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 23: Vận động và nghỉ ngơi",
+    "sourcePage": 98,
+    "explanation": "Theo Bài 23: Vận động và nghỉ ngơi, lưng thẳng, khoảng cách phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Khi người lạ rủ đi, em cần làm gì?",
+    "a": "Từ chối và báo người lớn tin cậy",
+    "c": [
+      "Từ chối và báo người lớn tin cậy",
+      "Đi theo ngay",
+      "Giữ bí mật",
+      "Cho biết địa chỉ nhà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 24: Tự bảo vệ mình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 24: Tự bảo vệ mình",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 24: Tự bảo vệ mình",
+    "sourcePage": 102,
+    "explanation": "Theo Bài 24: Tự bảo vệ mình, từ chối và báo người lớn tin cậy.",
+    "hints": []
+  },
+  {
+    "q": "Nếu bị lạc, em nên tìm ai giúp đỡ?",
+    "a": "Công an, bảo vệ hoặc người lớn tin cậy",
+    "c": [
+      "Người lạ rủ đi",
+      "Tự chạy ra đường",
+      "Trốn ở nơi vắng",
+      "Công an, bảo vệ hoặc người lớn tin cậy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 24: Tự bảo vệ mình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 24: Tự bảo vệ mình",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 24: Tự bảo vệ mình",
+    "sourcePage": 102,
+    "explanation": "Theo Bài 24: Tự bảo vệ mình, công an, bảo vệ hoặc người lớn tin cậy.",
+    "hints": []
+  },
+  {
+    "q": "Khi cảm thấy không an toàn, em cần làm gì?",
+    "a": "Nói “không”, rời đi và kể với người lớn",
+    "c": [
+      "Giữ bí mật",
+      "Đi theo",
+      "Nói “không”, rời đi và kể với người lớn",
+      "Im lặng chịu đựng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 24: Tự bảo vệ mình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 24: Tự bảo vệ mình",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 24: Tự bảo vệ mình",
+    "sourcePage": 102,
+    "explanation": "Theo Bài 24: Tự bảo vệ mình, nói “không”, rời đi và kể với người lớn.",
+    "hints": []
+  },
+  {
+    "q": "Thông tin nào không nên tuỳ ý nói cho người lạ?",
+    "a": "Địa chỉ nhà và số điện thoại người thân",
+    "c": [
+      "Tên trò chơi",
+      "Địa chỉ nhà và số điện thoại người thân",
+      "Tên môn học",
+      "Màu em thích"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 24: Tự bảo vệ mình – Nhận biết và vận dụng kiến thức trọng tâm của Bài 24: Tự bảo vệ mình",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 24: Tự bảo vệ mình",
+    "sourcePage": 102,
+    "explanation": "Theo Bài 24: Tự bảo vệ mình, địa chỉ nhà và số điện thoại người thân.",
+    "hints": []
+  },
+  {
+    "q": "Thói quen nào tốt cho sức khoẻ?",
+    "a": "Ăn đủ chất, vận động và ngủ đủ",
+    "c": [
+      "Ăn đủ chất, vận động và ngủ đủ",
+      "Bỏ bữa",
+      "Thức khuya",
+      "Không vận động"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 25: Ôn tập chủ đề Con người và sức khoẻ – Nhận biết và vận dụng kiến thức trọng tâm của Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "sourcePage": 106,
+    "explanation": "Theo Bài 25: Ôn tập chủ đề Con người và sức khoẻ, ăn đủ chất, vận động và ngủ đủ.",
+    "hints": []
+  },
+  {
+    "q": "Để bảo vệ mắt, em nên làm gì?",
+    "a": "Đọc nơi đủ sáng và giữ khoảng cách",
+    "c": [
+      "Đọc trong bóng tối",
+      "Đưa sách sát mắt",
+      "Nhìn màn hình liên tục",
+      "Đọc nơi đủ sáng và giữ khoảng cách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 25: Ôn tập chủ đề Con người và sức khoẻ – Nhận biết và vận dụng kiến thức trọng tâm của Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "sourcePage": 106,
+    "explanation": "Theo Bài 25: Ôn tập chủ đề Con người và sức khoẻ, đọc nơi đủ sáng và giữ khoảng cách.",
+    "hints": []
+  },
+  {
+    "q": "Để bảo vệ tai, em không nên làm gì?",
+    "a": "Nghe âm thanh quá lớn",
+    "c": [
+      "Tránh vật nhọn",
+      "Báo người lớn khi đau",
+      "Nghe âm thanh quá lớn",
+      "Giữ tai sạch"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 25: Ôn tập chủ đề Con người và sức khoẻ – Nhận biết và vận dụng kiến thức trọng tâm của Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "sourcePage": 106,
+    "explanation": "Theo Bài 25: Ôn tập chủ đề Con người và sức khoẻ, nghe âm thanh quá lớn.",
+    "hints": []
+  },
+  {
+    "q": "Khi bị đau hoặc mệt, em nên làm gì?",
+    "a": "Báo cho người lớn",
+    "c": [
+      "Tiếp tục hoạt động mạnh",
+      "Báo cho người lớn",
+      "Tự uống thuốc lạ",
+      "Giấu đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 25: Ôn tập chủ đề Con người và sức khoẻ – Nhận biết và vận dụng kiến thức trọng tâm của Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 25: Ôn tập chủ đề Con người và sức khoẻ",
+    "sourcePage": 106,
+    "explanation": "Theo Bài 25: Ôn tập chủ đề Con người và sức khoẻ, báo cho người lớn.",
+    "hints": []
+  },
+  {
+    "q": "Ban ngày, vật nào thường chiếu sáng bầu trời?",
+    "a": "Mặt Trời",
+    "c": [
+      "Mặt Trời",
+      "Mặt Trăng",
+      "Đèn pin",
+      "Ngọn nến"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 26: Cùng khám phá bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 26: Cùng khám phá bầu trời",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 26: Cùng khám phá bầu trời",
+    "sourcePage": 108,
+    "explanation": "Theo Bài 26: Cùng khám phá bầu trời, mặt Trời.",
+    "hints": []
+  },
+  {
+    "q": "Ban đêm trời quang, em có thể nhìn thấy gì?",
+    "a": "Mặt Trăng và các ngôi sao",
+    "c": [
+      "Cầu vồng mọi lúc",
+      "Mặt Trời ở giữa trời",
+      "Đèn giao thông",
+      "Mặt Trăng và các ngôi sao"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 26: Cùng khám phá bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 26: Cùng khám phá bầu trời",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 26: Cùng khám phá bầu trời",
+    "sourcePage": 108,
+    "explanation": "Theo Bài 26: Cùng khám phá bầu trời, mặt Trăng và các ngôi sao.",
+    "hints": []
+  },
+  {
+    "q": "Mây có thể có hình dạng như thế nào?",
+    "a": "Nhiều hình dạng khác nhau",
+    "c": [
+      "Luôn đứng yên",
+      "Luôn màu đen",
+      "Nhiều hình dạng khác nhau",
+      "Chỉ hình vuông"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 26: Cùng khám phá bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 26: Cùng khám phá bầu trời",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 26: Cùng khám phá bầu trời",
+    "sourcePage": 108,
+    "explanation": "Theo Bài 26: Cùng khám phá bầu trời, nhiều hình dạng khác nhau.",
+    "hints": []
+  },
+  {
+    "q": "Không nên nhìn trực tiếp vào vật nào?",
+    "a": "Mặt Trời",
+    "c": [
+      "Bàn học",
+      "Mặt Trời",
+      "Quyển sách",
+      "Cây xanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 26: Cùng khám phá bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 26: Cùng khám phá bầu trời",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 26: Cùng khám phá bầu trời",
+    "sourcePage": 108,
+    "explanation": "Theo Bài 26: Cùng khám phá bầu trời, mặt Trời.",
+    "hints": []
+  },
+  {
+    "q": "Dấu hiệu nào cho biết trời mưa?",
+    "a": "Có mây đen và hạt mưa rơi",
+    "c": [
+      "Có mây đen và hạt mưa rơi",
+      "Nắng chói chang",
+      "Trời quang không mây",
+      "Đường khô"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 27: Thời tiết luôn thay đổi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 27: Thời tiết luôn thay đổi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 27: Thời tiết luôn thay đổi",
+    "sourcePage": 114,
+    "explanation": "Theo Bài 27: Thời tiết luôn thay đổi, có mây đen và hạt mưa rơi.",
+    "hints": []
+  },
+  {
+    "q": "Khi trời nắng gắt, em nên làm gì?",
+    "a": "Đội mũ và tránh nắng lâu",
+    "c": [
+      "Đứng ngoài nắng thật lâu",
+      "Không uống nước",
+      "Mặc áo ướt",
+      "Đội mũ và tránh nắng lâu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 27: Thời tiết luôn thay đổi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 27: Thời tiết luôn thay đổi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 27: Thời tiết luôn thay đổi",
+    "sourcePage": 114,
+    "explanation": "Theo Bài 27: Thời tiết luôn thay đổi, đội mũ và tránh nắng lâu.",
+    "hints": []
+  },
+  {
+    "q": "Khi trời lạnh, em nên mặc gì?",
+    "a": "Quần áo đủ ấm",
+    "c": [
+      "Đồ bơi",
+      "Quần áo ướt",
+      "Quần áo đủ ấm",
+      "Áo thật mỏng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 27: Thời tiết luôn thay đổi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 27: Thời tiết luôn thay đổi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 27: Thời tiết luôn thay đổi",
+    "sourcePage": 114,
+    "explanation": "Theo Bài 27: Thời tiết luôn thay đổi, quần áo đủ ấm.",
+    "hints": []
+  },
+  {
+    "q": "Vì sao cần theo dõi dự báo thời tiết?",
+    "a": "Để chuẩn bị trang phục và hoạt động phù hợp",
+    "c": [
+      "Để đo chiều cao",
+      "Để chuẩn bị trang phục và hoạt động phù hợp",
+      "Để thời tiết không đổi",
+      "Để không cần ra ngoài"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 27: Thời tiết luôn thay đổi – Nhận biết và vận dụng kiến thức trọng tâm của Bài 27: Thời tiết luôn thay đổi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 27: Thời tiết luôn thay đổi",
+    "sourcePage": 114,
+    "explanation": "Theo Bài 27: Thời tiết luôn thay đổi, để chuẩn bị trang phục và hoạt động phù hợp.",
+    "hints": []
+  },
+  {
+    "q": "Thời tiết có đặc điểm gì?",
+    "a": "Có thể thay đổi theo thời gian",
+    "c": [
+      "Có thể thay đổi theo thời gian",
+      "Luôn giống nhau",
+      "Chỉ có nắng",
+      "Không ảnh hưởng sinh hoạt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "sourcePage": 120,
+    "explanation": "Theo Bài 28: Ôn tập chủ đề Trái Đất và bầu trời, có thể thay đổi theo thời gian.",
+    "hints": []
+  },
+  {
+    "q": "Trang phục nên được chọn dựa vào điều gì?",
+    "a": "Điều kiện thời tiết",
+    "c": [
+      "Màu bàn học",
+      "Số trang sách",
+      "Tên đường",
+      "Điều kiện thời tiết"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "sourcePage": 120,
+    "explanation": "Theo Bài 28: Ôn tập chủ đề Trái Đất và bầu trời, điều kiện thời tiết.",
+    "hints": []
+  },
+  {
+    "q": "Khi có giông sét, em nên làm gì?",
+    "a": "Trú ở nơi an toàn và nghe người lớn hướng dẫn",
+    "c": [
+      "Chơi ngoài đồng",
+      "Cầm vật kim loại ngoài trời",
+      "Trú ở nơi an toàn và nghe người lớn hướng dẫn",
+      "Đứng dưới cây cao"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "sourcePage": 120,
+    "explanation": "Theo Bài 28: Ôn tập chủ đề Trái Đất và bầu trời, trú ở nơi an toàn và nghe người lớn hướng dẫn.",
+    "hints": []
+  },
+  {
+    "q": "Mặt Trời, Mặt Trăng và sao được quan sát ở đâu?",
+    "a": "Trên bầu trời",
+    "c": [
+      "Trong cặp sách",
+      "Trên bầu trời",
+      "Dưới lòng đất",
+      "Trong tủ lạnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài 28: Ôn tập chủ đề Trái Đất và bầu trời – Nhận biết và vận dụng kiến thức trọng tâm của Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 1 – Kết nối tri thức với cuộc sống (sgk-tu-nhien-va-xa-hoi-lop-1-thong-nhat-tu-nam-2026_107202616.pdf) – Bài 28: Ôn tập chủ đề Trái Đất và bầu trời",
+    "sourcePage": 120,
+    "explanation": "Theo Bài 28: Ôn tập chủ đề Trái Đất và bầu trời, trên bầu trời.",
+    "hints": []
   }
 ]
