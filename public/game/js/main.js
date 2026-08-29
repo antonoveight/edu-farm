@@ -750,6 +750,7 @@ function getSeedConfig() {
             try {
                 const res = await fetch(`${window.GAME_API_BASE}/api/questions?grade=${selectedGrade}`);
                 const data = await res.json();
+                QUIZ_BANK[`g${selectedGrade}_math`] = data.math || [];
                 QUIZ_BANK[`g${selectedGrade}_viet`] = data.viet || [];
                 QUIZ_BANK[`g${selectedGrade}_science`] = data.science || [];
                 QUIZ_BANK[`g${selectedGrade}_tech`] = data.tech || [];
@@ -3526,8 +3527,10 @@ function updateMarketPrices() {
             const urlParams = new URLSearchParams(window.location.search);
             const urlGrade = urlParams.get('grade');
             const urlWorld = urlParams.get('world');
-            if (urlGrade && urlWorld) {
-                selectedGrade = parseInt(urlGrade);
+            const validGrades = ['1', '2', '3', '4', '5'];
+            const validWorlds = ['eco', 'cyber', 'magic'];
+            if (validGrades.includes(urlGrade) && validWorlds.includes(urlWorld)) {
+                selectedGrade = Number(urlGrade);
                 selectedWorld = urlWorld;
                 // Đảm bảo screen-game hiển thị ngay lập tức (xóa class hidden trước)
                 const sg = document.getElementById('screen-game');
@@ -3914,7 +3917,7 @@ function renderTown() {
                     `<div class="building-maxed"><i class="fa-solid fa-star"></i> Đã đạt cấp tối đa!</div>` :
                     `<button class="building-upgrade-btn" onclick="upgradeBuilding('${key}')" ${!canAfford ? 'disabled' : ''}>
                         <i class="fa-solid fa-hammer"></i> Nâng cấp
-                        <span class="cost"><i class="fa-solid fa-coins" style="color: #fbbf24;"></i> ${upgradeCost.toLocaleString('vi-VN')}</span>
+                        <span class="cost"><span class="currency-coin-icon" aria-hidden="true">₫</span> ${upgradeCost.toLocaleString('vi-VN')}</span>
                     </button>`
                 }
             </div>
@@ -4575,7 +4578,12 @@ function generateCurriculumQuestion(mode) {
 
 function submitCurrentAnswer(val, btnElement) {
     if (!activeTask) return;
-    const isMapTask = (activeTask.type === "map" || activeTask.type === "boss" || activeTask.subject === "boss" || activeTask.type === "treasure");
+    const isMapTask = (
+        activeTask.type === "map" ||
+        activeTask.type === "boss" ||
+        activeTask.type === "treasure" ||
+        activeTask.subject === "boss"
+    );
     if (isMapTask) {
         checkMapMultipleChoice(val, btnElement);
     } else {
@@ -4748,11 +4756,12 @@ function generateRealisticOptions(candidate, ans, normSubject) {
     while (options.length < 4 && padTries < 50) {
         padTries++;
         const base = options[0] || '';
+        const numericBase = Number(base);
         // Generate slight variations of the correct answer
         let fake = '';
-        if (!isNaN(parseFloat(base))) {
+        if (Number.isFinite(numericBase)) {
             const delta = (Math.floor(Math.random() * 5) + 1) * (Math.random() < 0.5 ? 1 : -1);
-            fake = String(Math.max(0, parseFloat(base) + delta));
+            fake = String(Math.max(0, numericBase + delta));
         } else {
             // For text answers, we just stop - don't add dummy text
             break;
@@ -4825,33 +4834,40 @@ function generateSpecificSubjectQuestion(subject, mode) {
 
     if (normSubject === 'math') {
         labelPrefix = `Toán Học Lớp ${grade}`;
-        const mathQ = buildMathQuestion(grade);
-        if (mathQ) {
-            question = mathQ.q;
-            ans = String(mathQ.ans);
-            options = [ans];
-            const numAns = parseFloat(ans);
-            // Xác định xem đáp án có dạng thập phân không để sinh fake options nhất quán
-            const isDecimalAns = ans.includes('.');
-            let tries = 0;
-            while (options.length < 4 && tries < 50) {
-                tries++;
-                // Biên độ sai lệch: nhỏ hơn với thập phân để hợp lý
-                const spread = isDecimalAns ? 0.1 * (Math.floor(Math.random() * 5) + 1) : (Math.floor(Math.random() * 5) + 1);
-                let fake = numAns + spread * (Math.random() < 0.5 ? 1 : -1);
-                if (isDecimalAns) {
-                    fake = parseFloat(fake.toFixed(1));
-                    if (fake <= 0) continue;
-                    const fakeStr = fake.toFixed(1);
-                    if (!options.includes(fakeStr)) options.push(fakeStr);
-                } else {
-                    fake = Math.round(fake);
-                    if (fake < 0) continue;
-                    const fakeStr = String(fake);
-                    if (!options.includes(fakeStr)) options.push(fakeStr);
+        const bankKey = `g${grade}_math`;
+        candidate = pickQuizQuestion(bankKey);
+        if (candidate) {
+            question = candidate.q || candidate.sentence || "Câu hỏi Toán:";
+            ans = String(candidate.a || (candidate.c ? candidate.c[0] : "Đáp án đúng"));
+            options = generateRealisticOptions(candidate, ans, normSubject);
+        } else {
+            const mathQ = buildMathQuestion(grade);
+            if (mathQ) {
+                question = mathQ.q;
+                ans = String(mathQ.ans);
+                options = [ans];
+                const numAns = parseFloat(ans);
+                // Xác định xem đáp án có dạng thập phân không để sinh fake options nhất quán
+                const isDecimalAns = ans.includes('.');
+                let tries = 0;
+                while (options.length < 4 && tries < 50) {
+                    tries++;
+                    // Biên độ sai lệch: nhỏ hơn với thập phân để hợp lý
+                    const spread = isDecimalAns ? 0.1 * (Math.floor(Math.random() * 5) + 1) : (Math.floor(Math.random() * 5) + 1);
+                    let fake = numAns + spread * (Math.random() < 0.5 ? 1 : -1);
+                    if (isDecimalAns) {
+                        fake = parseFloat(fake.toFixed(1));
+                        if (fake <= 0) continue;
+                        const fakeStr = fake.toFixed(1);
+                        if (!options.includes(fakeStr)) options.push(fakeStr);
+                    } else {
+                        fake = Math.round(fake);
+                        if (fake < 0) continue;
+                        const fakeStr = String(fake);
+                        if (!options.includes(fakeStr)) options.push(fakeStr);
+                    }
                 }
             }
-
         }
     } else {
         const bankKey = `g${grade}_${normSubject}`;
@@ -5016,7 +5032,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
     // Anti-repeat: Tránh cùng loại bài liên tiếp ở chế độ Nông Trại
     const isFarmTask = activeTask && !isMapTask && !isBossTask;
     if (isFarmTask && qType === 'multiple_choice' && activeTask.lastQType === 'multiple_choice') {
-        if (normSubject === 'math') {
+        if (normSubject === 'math' && Number.isFinite(Number(ans))) {
             qType = 'math_input';
         }
     }
@@ -5165,7 +5181,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
             ansAreaEl.innerHTML = "";
             if (selectedWords.length === 0) {
                 ansAreaEl.innerHTML = `<span style="font-size: 13px; color: #64748b; font-style: italic;">Chạm vào các từ bên dưới...</span>`;
-                } else {
+            } else {
                 selectedWords.forEach((word, idx) => {
                     const chip = document.createElement("button");
                     chip.style.cssText = "padding: 6px 14px; background: #a855f7; color: white; font-weight: bold; border-radius: 20px; font-size: 14px; border: none; cursor: pointer;";
@@ -5335,19 +5351,19 @@ function generateSpecificSubjectQuestion(subject, mode) {
         qTypeLabel.innerText = 'Dạng: Đúng / Sai';
         qTypeLabel.style.color = '#10b981';
         activeTask.correctAnswer = ans;
-        
+
         let html = '<div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">';
         html += '<button class="tf-btn btn-true" onclick="submitCurrentAnswer(\'\u0110úng\', this)">ĐÚNG ✓</button>';
         html += '<button class="tf-btn btn-false" onclick="submitCurrentAnswer(\'Sai\', this)">SAI ✗</button>';
         html += '</div>';
         panel.innerHTML = html;
-        
+
     } else if (qType === 'find_error') {
         qTypeLabel.innerText = 'Dạng: Tìm lỗi sai';
         qTypeLabel.style.color = '#f59e0b';
         qText.style.display = 'none';
         activeTask.correctAnswer = ans;
-        
+
         let html = '<div class="find-error-container">';
         html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
         html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
@@ -5357,16 +5373,16 @@ function generateSpecificSubjectQuestion(subject, mode) {
         });
         html += '</div></div>';
         panel.innerHTML = html;
-        
+
     } else if (qType === 'categorize') {
         qTypeLabel.innerText = 'Dạng: Phân loại';
         qTypeLabel.style.color = '#8b5cf6';
         qText.style.display = 'none';
         activeTask.correctAnswer = ans;
-        
+
         var cats = candidate ? (candidate.c || []) : [];
         if (!cats || cats.length < 2) cats = options.filter(function(v, i, a) { return a.indexOf(v) === i; }).slice(0, 2);
-        
+
         let html = '<div class="categorize-container" style="text-align: center;">';
         html += '<div class="cat-item-to-sort" style="font-size: 24px; font-weight: bold; margin-bottom: 20px; padding: 15px; background: #f3f4f6; border-radius: 12px; display: inline-block; color: #111827; border: 2px dashed #9ca3af;">' + question + '</div>';
         html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
@@ -5379,7 +5395,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
         });
         html += '</div></div>';
         panel.innerHTML = html;
-        
+
     } else {
         const grid = document.createElement("div");
         grid.className = "mc-grid";
@@ -5662,4 +5678,3 @@ window.handleMathKeyDown      = handleMathKeyDown;
 window.updateTypingGuide      = updateTypingGuide;
 window.openTreasureChest      = openTreasureChest;
 window.showTreasureReward     = showTreasureReward;
-

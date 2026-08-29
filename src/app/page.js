@@ -1,25 +1,37 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useEffect, useState, useSyncExternalStore } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 
+const subscribeToAuthChanges = (callback) => {
+    window.addEventListener('storage', callback);
+    return () => window.removeEventListener('storage', callback);
+};
+
+const getAuthSnapshot = () => localStorage.getItem('isLoggedIn') === 'true'
+    ? 'authenticated'
+    : 'unauthenticated';
+const getServerAuthSnapshot = () => 'loading';
+
 export default function Home() {
-        const router = useRouter();
-    const [isAuth, setIsAuth] = useState(false);
+    const router = useRouter();
+    const authStatus = useSyncExternalStore(
+        subscribeToAuthChanges,
+        getAuthSnapshot,
+        getServerAuthSnapshot
+    );
 
     useEffect(() => {
-        if (localStorage.getItem('isLoggedIn') !== 'true') {
+        if (authStatus === 'unauthenticated') {
             router.push('/login');
-        } else {
-            setIsAuth(true);
         }
-    }, [router]);
+    }, [authStatus, router]);
 
     const [selectedGrade, setSelectedGrade] = useState('1');
     const [selectedWorld, setSelectedWorld] = useState('eco');
 
-    if (!isAuth) return null;
+    if (authStatus !== 'authenticated') return null;
 
     const companions = {
         eco: {

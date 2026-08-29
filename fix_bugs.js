@@ -9,24 +9,24 @@ console.log('fill_blank+else at:', fillBlankElseIdx);
 
 if (fillBlankElseIdx !== -1) {
     const insertionPoint = fillBlankElseIdx + "panel.appendChild(grid);\r\n".length;
-    
+
     const newBlocks = `    } else if (qType === 'true_false') {
         qTypeLabel.innerText = 'D\u1ea1ng: \u0110\u00fang / Sai';
         qTypeLabel.style.color = '#10b981';
         activeTask.correctAnswer = ans;
-        
+
         let html = '<div class="tf-container" style="display: flex; gap: 20px; justify-content: center; padding: 20px;">';
         html += '<button class="tf-btn btn-true" onclick="submitCurrentAnswer(\\'\\u0110\u00fang\\', this)">\u0110\u00daNG \u2713</button>';
         html += '<button class="tf-btn btn-false" onclick="submitCurrentAnswer(\\'Sai\\', this)">SAI \u2717</button>';
         html += '</div>';
         panel.innerHTML = html;
-        
+
     } else if (qType === 'find_error') {
         qTypeLabel.innerText = 'D\u1ea1ng: T\u00ecm l\u1ed7i sai';
         qTypeLabel.style.color = '#f59e0b';
         qText.style.display = 'none';
         activeTask.correctAnswer = ans;
-        
+
         let html = '<div class="find-error-container">';
         html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">H\u00e3y b\u1ea5m v\u00e0o t\u1eeb b\u1ecb sai trong c\u00e2u d\u01b0\u1edbi \u0111\u00e2y:</div>';
         html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
@@ -36,16 +36,16 @@ if (fillBlankElseIdx !== -1) {
         });
         html += '</div></div>';
         panel.innerHTML = html;
-        
+
     } else if (qType === 'categorize') {
         qTypeLabel.innerText = 'D\u1ea1ng: Ph\u00e2n lo\u1ea1i';
         qTypeLabel.style.color = '#8b5cf6';
         qText.style.display = 'none';
         activeTask.correctAnswer = ans;
-        
+
         var cats = candidate ? (candidate.c || []) : [];
         if (!cats || cats.length < 2) cats = options.filter(function(v, i, a) { return a.indexOf(v) === i; }).slice(0, 2);
-        
+
         let html = '<div class="categorize-container" style="text-align: center;">';
         html += '<div class="cat-item-to-sort" style="font-size: 24px; font-weight: bold; margin-bottom: 20px; padding: 15px; background: #f3f4f6; border-radius: 12px; display: inline-block; color: #111827; border: 2px dashed #9ca3af;">' + question + '</div>';
         html += '<div class="cat-buckets" style="display: flex; justify-content: space-around; gap: 15px;">';
@@ -58,7 +58,7 @@ if (fillBlankElseIdx !== -1) {
         });
         html += '</div></div>';
         panel.innerHTML = html;
-        
+
 `;
     code = code.substring(0, insertionPoint) + newBlocks + code.substring(insertionPoint);
     console.log('New blocks inserted at:', insertionPoint);

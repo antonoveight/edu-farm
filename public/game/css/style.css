@@ -404,7 +404,23 @@
             font-size: 16px;
         }
 
-        .stat-badge.coins i { color: #facc15; text-shadow: 0 0 10px rgba(250,204,21,0.4); }
+        .currency-coin-icon {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 1.25em;
+            height: 1.25em;
+            flex: 0 0 1.25em;
+            border: 2px solid #fef08a;
+            border-radius: 50%;
+            background: linear-gradient(145deg, #fde047, #f59e0b);
+            box-shadow: 0 0 10px rgba(250, 204, 21, 0.45), inset 0 0 0 2px rgba(180, 83, 9, 0.22);
+            color: #78350f;
+            font-family: Arial, sans-serif;
+            font-size: 0.9em;
+            font-weight: 900;
+            line-height: 1;
+        }
         .stat-badge.level i { color: #38bdf8; text-shadow: 0 0 10px rgba(56,189,248,0.4); }
         .stat-badge.weather-badge { color: #a5f3fc; }
 
@@ -3304,4 +3320,3 @@
 .cat-bucket:active { transform: scale(0.95); }
 .cat-bucket-icon { font-size: 30px; margin-bottom: 8px; }
 .cat-bucket-name { font-weight: bold; color: #374151; }
-

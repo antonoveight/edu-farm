@@ -6,18 +6,25 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "questions:build:math1": "node scripts/build_grade1_math_bank.cjs",
+    "db:sync": "node scripts/sync_questions_db.cjs"
   },
   "dependencies": {
-    "next": "16.2.12",
+    "better-sqlite3": "^12.11.1",
+    "next": "16.3.0",
     "pdf-parse": "^2.4.5",
     "react": "19.2.4",
     "react-dom": "19.2.4"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
+    "@vitest/coverage-v8": "^4.1.10",
     "eslint": "^9",
-    "eslint-config-next": "16.2.12",
-    "tailwindcss": "^4"
+    "eslint-config-next": "16.3.0",
+    "tailwindcss": "^4",
+    "vitest": "^4.1.10"
   }
 }

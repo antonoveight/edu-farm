@@ -96,15 +96,6 @@ const gameAssets = {
     }
 };
 
-window.getSeedConfig = function() {
-    let w = (typeof selectedWorld !== 'undefined' && selectedWorld) ? selectedWorld : 'eco';
-    if (typeof gameState !== 'undefined' && gameState && gameState.world) w = gameState.world;
-    return gameAssets[w].seeds;
-};
-function getSeedConfig() {
-    return window.getSeedConfig();
-}
-
         // CẤU HÌNH NHÂN VẬT TRỢ LÝ ĐỒNG HÀNH CHO TỪNG THẾ GIỚI
         
 global.gameAssets = gameAssets;

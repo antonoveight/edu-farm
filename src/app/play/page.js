@@ -3,15 +3,40 @@
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { Suspense } from 'react';
+import {
+    RequestValidationError,
+    parseGrade,
+    parseWorld
+} from '../../lib/request-validation.js';
+
+function parseGameParams(searchParams) {
+    try {
+        return {
+            grade: parseGrade(searchParams.get('grade') ?? '1'),
+            world: parseWorld(searchParams.get('world') ?? 'eco')
+        };
+    } catch (error) {
+        if (error instanceof RequestValidationError) {
+            return null;
+        }
+
+        throw error;
+    }
+}
 
 function GameIFrame() {
-    const searchParams = useSearchParams();
-    const grade = searchParams.get('grade') || '1';
-    const world = searchParams.get('world') || 'eco';
+    const gameParams = parseGameParams(useSearchParams());
+    if (!gameParams) {
+        return (
+            <div className="w-full h-full flex items-center justify-center text-rose-400 font-bold">
+                Liên kết trò chơi không hợp lệ.
+            </div>
+        );
+    }
 
     return (
         <iframe
-            src={`/game/index.html?grade=${grade}&world=${world}`}
+            src={`/game/index.html?grade=${gameParams.grade}&world=${gameParams.world}`}
             style={{ position: 'absolute', inset: 0, width: '100%', height: '100%', border: 'none' }}
             title="Edu-Farm Game"
         />
@@ -28,7 +53,7 @@ export default function PlayPage() {
                         href="/"
                         className="flex items-center gap-2 px-4 py-2 bg-slate-800 hover:bg-slate-700 hover:border-emerald-500/50 border border-slate-700/80 rounded-xl text-xs font-bold transition-all text-slate-200"
                     >
-                        <span>⬅</span> Quay Lại Dashboard
+                        <span>⬅</span> Quay Lại Trang Chủ
                     </Link>
                     <span className="h-6 w-[1.5px] bg-slate-800"></span>
                     <h2 className="text-sm font-black tracking-wider text-emerald-400">
