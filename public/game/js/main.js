@@ -3453,6 +3453,17 @@ function updateMarketPrices() {
             if (typingEl) typingEl.style.display = "none";
             if (welcomeEl) welcomeEl.style.display = "flex";
 
+            // Dọn dẹp và dừng mọi timer/mini-game của TypingEngine
+            if (window.TypingEngine && window.TypingEngine.farmGame && typeof window.TypingEngine.farmGame.stop === 'function') {
+                window.TypingEngine.farmGame.stop();
+            }
+            const modalResult = document.getElementById("modal-typing-result");
+            if (modalResult) modalResult.style.display = "none";
+            const modalLesson = document.getElementById("modal-lesson-picker");
+            if (modalLesson) modalLesson.style.display = "none";
+            const modalMinigame = document.getElementById("modal-typing-minigame");
+            if (modalMinigame) modalMinigame.style.display = "none";
+
             document.documentElement.style.setProperty('--fouc-welcome', 'flex');
             playChime(440, 'sine', 0.15);
         }
@@ -3483,6 +3494,15 @@ function updateMarketPrices() {
 
             if (mouseEl) mouseEl.style.display = "none";
             if (welcomeEl) welcomeEl.style.display = "flex";
+
+            // Dừng dứt điểm timer và dọn dẹp sân chơi của MouseEngine
+            if (window.MouseEngine && typeof window.MouseEngine.stopGame === 'function') {
+                window.MouseEngine.stopGame();
+            }
+            const modalMouseResult = document.getElementById("modal-mouse-result");
+            if (modalMouseResult) modalMouseResult.style.display = "none";
+            const modalMousePicker = document.getElementById("modal-mouse-level-picker");
+            if (modalMousePicker) modalMousePicker.style.display = "none";
 
             document.documentElement.style.setProperty('--fouc-welcome', 'flex');
             playChime(440, 'sine', 0.15);

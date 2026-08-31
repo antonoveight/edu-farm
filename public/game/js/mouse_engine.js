@@ -636,12 +636,19 @@ window.MouseEngine = (function() {
 
     function finishGame(won) {
         stopGame();
+        
+        // Chỉ hiển thị modal kết quả nếu màn hình Luyện Chuột đang thực sự mở và hiển thị
+        const mouseScreen = document.getElementById("screen-mouse");
+        if (!mouseScreen || mouseScreen.style.display === 'none' || getComputedStyle(mouseScreen).display === 'none') {
+            return;
+        }
+
         const lvl = window.MOUSE_DATA.levels[state.levelIndex];
 
         if (won) {
             playVictory();
-            const reward = lvl.rewardCoins || 20;
-            const xp = lvl.rewardXp || 40;
+            const reward = lvl ? (lvl.rewardCoins || 20) : 20;
+            const xp = lvl ? (lvl.rewardXp || 40) : 40;
             giveFarmReward(reward, xp);
 
             showResultModal(3, reward);
@@ -668,6 +675,11 @@ window.MouseEngine = (function() {
     }
 
     function showResultModal(stars, reward) {
+        const mouseScreen = document.getElementById("screen-mouse");
+        if (!mouseScreen || mouseScreen.style.display === 'none' || getComputedStyle(mouseScreen).display === 'none') {
+            return;
+        }
+
         const modal = document.getElementById("modal-mouse-result");
         if (!modal) return;
 
@@ -700,6 +712,7 @@ window.MouseEngine = (function() {
         selectLevelFromModal: selectLevelFromModal,
         setFilter: setFilter,
         loadLevel: loadLevel,
+        stopGame: stopGame,
         retry: retryCurrentLevel,
         next: nextLevel
     };
