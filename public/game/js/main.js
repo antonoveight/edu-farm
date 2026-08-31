@@ -1629,6 +1629,21 @@ function updateMarketPrices() {
 
         // Tự động thay đổi thời tiết ngẫu nhiên sau mỗi 60 giây
         function rotateWeather() {
+            // CHỈ áp dụng thời tiết khi đang ở mục Nông Trại ('farm')
+            if (typeof activeTab !== 'undefined' && activeTab !== 'farm') return;
+
+            // Không áp dụng nếu màn hình game đang ẩn hoặc đang ở Học viện Luyện Gõ
+            const gameScreen = document.getElementById("screen-game");
+            if (!gameScreen || gameScreen.style.display === "none" || gameScreen.classList.contains("screen-hidden")) return;
+            const typingScreen = document.getElementById("screen-typing");
+            if (typingScreen && typingScreen.style.display === "flex") return;
+
+            // Không làm ngắt quãng nếu bé đang làm câu hỏi/nhiệm vụ hoặc đang đánh Boss
+            if (activeTask) return;
+            if (typeof bossState !== 'undefined' && bossState && bossState.active) return;
+            const taskModal = document.getElementById("modal-task");
+            if (taskModal && taskModal.classList.contains("active")) return;
+
             const rand = Math.random();
             if (rand < 0.6) {
                 gameState.weather = "sunny";
@@ -3290,9 +3305,15 @@ function updateMarketPrices() {
         // =====================================================
 
         function startRealtimeGameLoop() {
-            // Thay đổi thời tiết sau mỗi 60s
+            // Thay đổi thời tiết sau mỗi 60s (CHỈ áp dụng khi đang ở mục Nông Trại)
             setInterval(() => {
-                if (document.getElementById("screen-game").classList.contains("screen-hidden")) return;
+                const gameScreen = document.getElementById("screen-game");
+                if (!gameScreen || gameScreen.style.display === "none" || gameScreen.classList.contains("screen-hidden")) return;
+                if (typeof activeTab !== 'undefined' && activeTab !== 'farm') return;
+                if (activeTask || (typeof bossState !== 'undefined' && bossState && bossState.active)) return;
+                const taskModal = document.getElementById("modal-task");
+                if (taskModal && taskModal.classList.contains("active")) return;
+
                 if (gameState.weather === "sunny" || gameState.weather === "rainy") {
                     if (gameState.activePet === "p3" && Math.random() < 0.5) {
                         // Miễn bão axit
