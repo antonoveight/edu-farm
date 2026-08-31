@@ -1342,15 +1342,16 @@ function getSeedConfig() {
                 { id: "s3", name: seeds.s3.name, emoji: seeds.s3.emoji, desc: "Hạt giống Khó" }
             ];
 
-            for (let i = 4; i <= 11; i++) {
+            for (let i = 4; i <= 13; i++) {
                 let seedId = 's' + i;
                 let count = gameState.inventory[seedId] || 0;
                 if (count > 0 && seeds[seedId]) {
+                    const isRare = (i >= 11);
                     items.push({
                         id: seedId,
                         name: seeds[seedId].name,
                         emoji: seeds[seedId].emoji,
-                        desc: i === 11 ? "Hạt kho báu hiếm" : "Hạt đặc biệt"
+                        desc: isRare ? "Hạt kho báu hiếm ⭐" : "Hạt đặc biệt"
                     });
                 }
             }
@@ -1451,10 +1452,10 @@ function updateMarketPrices() {
                 { id: "s3", name: seeds.s3.name, price: currentMarketPrices.s3 || seeds.s3.reward, maxPrice: Math.floor(seeds.s3.reward * 1.5) }
             ];
 
-            // Add premium crops to the chart if purchased or harvested
-            for (let i = 4; i <= 10; i++) {
+            // Add premium & rare crops to the chart if purchased or harvested
+            for (let i = 4; i <= 13; i++) {
                 const seedId = 's' + i;
-                if ((gameState.inventory[seedId] || 0) > 0 || (gameState.inventory['harvested_' + seedId] || 0) > 0) {
+                if (seeds[seedId] && ((gameState.inventory[seedId] || 0) > 0 || (gameState.inventory['harvested_' + seedId] || 0) > 0)) {
                     crops.push({
                         id: seedId,
                         name: seeds[seedId].name,
@@ -2553,7 +2554,25 @@ function updateMarketPrices() {
                     }
                 } else {
                     // 6. Cây chín muồi (Mature): Biến đổi hoạt hình rực rỡ theo từng thế giới
-                    if (selectedWorld === "eco") {
+                    const sInfo = gameAssets[selectedWorld] ? gameAssets[selectedWorld].seeds[plot.seed] : null;
+                    if (sInfo && plot.seed !== "s1" && plot.seed !== "s2" && plot.seed !== "s3") {
+                        // Hiển thị các cây đặc biệt và cây hiếm s4..s13
+                        const isRare = (plot.seed === "s11" || plot.seed === "s12" || plot.seed === "s13");
+                        const color = sInfo.color || "#fbbf24";
+                        const stemColor = selectedWorld === "cyber" ? "#0891b2" : (selectedWorld === "magic" ? "#7c3aed" : "#15803d");
+                        svgStr += `
+                            <!-- Thân cây -->
+                            <path d="M70 80 Q68 54 70 38" fill="none" stroke="${stemColor}" stroke-width="6" stroke-linecap="round"/>
+                            <!-- Vòng hào quang phát sáng -->
+                            <circle cx="70" cy="42" r="${isRare ? 30 : 24}" fill="${color}" opacity="${isRare ? 0.35 : 0.2}"/>
+                            <!-- Biểu tượng nông sản chín rực rỡ -->
+                            <text x="70" y="52" font-size="${isRare ? 40 : 34}" text-anchor="middle" style="filter: drop-shadow(0 4px 10px rgba(0,0,0,0.5));">${sInfo.emoji}</text>
+                            ${isRare ? `
+                                <!-- Vương miện sao kho báu -->
+                                <polygon points="70,12 73,18 80,19 75,24 77,30 70,26 63,30 65,24 60,19 67,18" fill="#fbbf24" style="filter: drop-shadow(0 0 6px #f59e0b);"/>
+                            ` : ''}
+                        `;
+                    } else if (selectedWorld === "eco") {
                         // --- ĐẢO SINH THÁI ---
                         if (plot.seed === "s1") {
                             // Cải Ngọt (🥬) béo tròn đáng yêu
@@ -3826,7 +3845,7 @@ function renderMarket() {
     if (!marketEl) return;
     let seeds = getSeedConfig();
     let currentPrices = {};
-    for(let i=1; i<=10; i++) currentPrices['s'+i] = currentMarketPrices['s'+i] || seeds['s'+i].reward;
+    for(let i=1; i<=13; i++) currentPrices['s'+i] = currentMarketPrices['s'+i] || (seeds['s'+i] ? seeds['s'+i].reward : 100);
     
     let w = (typeof selectedWorld !== 'undefined' && selectedWorld) ? selectedWorld : 'eco';
     if (typeof gameState !== 'undefined' && gameState && gameState.world) w = gameState.world;
@@ -3839,14 +3858,16 @@ function renderMarket() {
             </h3>
             <div class="shop-items-grid">`;
             
-    for(let i=1; i<=10; i++) {
+    for(let i=1; i<=13; i++) {
         let seedId = 's'+i;
+        if (!seeds[seedId]) continue;
         let harvestedCount = gameState.inventory['harvested_'+seedId] || 0;
         if (harvestedCount > 0 || i <= 3) {
+            const isRare = (i >= 11);
             html += `
-            <div class="shop-item-card flex flex-col justify-between items-center text-center p-3">
+            <div class="shop-item-card flex flex-col justify-between items-center text-center p-3 ${isRare ? 'border-2 border-amber-400/60 bg-amber-950/20' : ''}">
                 <span class="text-3xl">${seeds[seedId].emoji}</span>
-                <span class="text-xs font-bold">${seeds[seedId].name}</span>
+                <span class="text-xs font-bold ${isRare ? 'text-amber-300' : ''}">${seeds[seedId].name}</span>
                 <span class="text-xs text-yellow-400 font-bold">${currentPrices[seedId]}🪙 / cái</span>
                 <span class="text-[10px] opacity-75">Kho: ${harvestedCount}</span>
                 <button class="btn-shop-sell mt-2 w-full" onclick="sellCrop('${seedId}')" ${harvestedCount <= 0 ? 'disabled' : ''}>Bán Hết</button>
@@ -5491,9 +5512,9 @@ function generateSpecificSubjectQuestion(subject, mode) {
         qText.style.display = 'none';
         activeTask.correctAnswer = ans;
 
-        let html = '<div class="find-error-container">';
-        html += '<div class="fe-instruction" style="font-weight:600; margin-bottom: 12px; color: #4b5563;">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
-        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 8px; justify-content: center; margin-bottom: 10px;">';
+        let html = '<div class="find-error-container" style="text-align: center;">';
+        html += '<div class="fe-instruction" style="font-weight:700; margin-bottom: 14px; color: #fde68a; font-size: 15px; text-shadow: 0 1px 3px rgba(0,0,0,0.5);">Hãy bấm vào từ bị sai trong câu dưới đây:</div>';
+        html += '<div class="fe-sentence" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin-bottom: 12px;">';
         var feWords = candidate ? (candidate.words || question.split(' ')) : question.split(' ');
         feWords.forEach(function(w) {
             html += '<button class="fe-word" onclick="submitCurrentAnswer(\'' + w.replace(/'/g, "\\'") + '\', this)">' + w + '</button>';

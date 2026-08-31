@@ -3281,42 +3281,63 @@
 
 /* Find Error */
 .fe-word {
-    padding: 8px 12px;
-    font-size: 18px;
-    background: #e5e7eb;
-    border: 1px solid #d1d5db;
-    border-radius: 8px;
+    padding: 10px 18px;
+    font-size: 19px;
+    font-weight: 800;
+    color: #0f172a !important;
+    background: #ffffff !important;
+    border: 2.5px solid #cbd5e1;
+    border-radius: 14px;
     cursor: pointer;
-    transition: all 0.2s;
+    transition: all 0.2s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    text-shadow: none !important;
 }
-.fe-word:hover { background: #fcd34d; border-color: #fbbf24; }
+.fe-word:hover {
+    background: #fef08a !important;
+    color: #854d0e !important;
+    border-color: #f59e0b !important;
+    transform: translateY(-3px) scale(1.05);
+    box-shadow: 0 8px 18px rgba(245, 158, 11, 0.4);
+}
 .fe-word:active { transform: scale(0.95); }
 
 /* Categorize */
 .cat-item-to-sort {
     font-size: 24px;
-    font-weight: bold;
+    font-weight: 900;
     margin-bottom: 20px;
-    padding: 15px;
-    background: #f3f4f6;
-    border-radius: 12px;
+    padding: 14px 24px;
+    background: #ffffff !important;
+    border-radius: 16px;
     display: inline-block;
-    color: #111827;
-    border: 2px dashed #9ca3af;
+    color: #0f172a !important;
+    border: 3px dashed #64748b;
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.15);
+    text-shadow: none !important;
 }
 .cat-bucket {
     flex: 1;
-    padding: 20px;
-    border: 3px dashed #cbd5e1;
-    border-radius: 16px;
-    background: white;
+    padding: 18px;
+    border: 3px dashed #94a3b8;
+    border-radius: 18px;
+    background: #ffffff !important;
     cursor: pointer;
     transition: all 0.2s;
     display: flex;
     flex-direction: column;
     align-items: center;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.15);
 }
-.cat-bucket:hover { border-color: #8b5cf6; background: #f5f3ff; }
+.cat-bucket:hover {
+    border-color: #8b5cf6 !important;
+    background: #f5f3ff !important;
+    transform: translateY(-3px) scale(1.03);
+    box-shadow: 0 8px 20px rgba(139, 92, 246, 0.3);
+}
 .cat-bucket:active { transform: scale(0.95); }
-.cat-bucket-icon { font-size: 30px; margin-bottom: 8px; }
-.cat-bucket-name { font-weight: bold; color: #374151; }
+.cat-bucket-icon { font-size: 34px; margin-bottom: 8px; }
+.cat-bucket-name { font-weight: 800; font-size: 16px; color: #1e293b !important; text-shadow: none !important; }
