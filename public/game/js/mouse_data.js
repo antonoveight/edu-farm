@@ -290,71 +290,74 @@ window.MOUSE_DATA = {
             ]
         },
 
-        // ================= KỸ NĂNG 5: RÊ CHUỘT DẪN ĐƯỜNG (HOVER & TRACKING) =================
+        // ================= KỸ NĂNG 5: RÊ CHUỘT DẪN ĐƯỜNG CONG (CURVED HOVER & TRACKING) =================
         {
             id: "hover_easy",
             skillId: "hover_tracking",
             difficulty: "easy",
-            title: "Luống Hoa Mùa Xuân",
-            skillName: "Rê Chuột Chính Xác",
+            title: "Đường Cong Luống Hoa Mùa Xuân",
+            skillName: "Rê Chuột Đường Cong",
             theme: "hover_tracking",
-            desc: "Đường hoa rộng rãi uốn nhẹ, làm quen rê chuột không lệch đường",
-            instruction: "Bé hãy rê chuột dẫn chú Ong bay dọc luống hoa rộng rãi, giữ con ong trong đường để về tổ!",
+            desc: "Đường cong chữ S rộng rãi uốn lượn nhẹ, nhấn giữ chuột dắt chú Ong lấy mật",
+            instruction: "Bé hãy NHẤP VÀ GIỮ CHUỘT TRÁI vào chú Ong, rê dọc đường cong để lấy mật hoa về tổ nhé!",
             targetCount: 3,
-            timeLimit: 40,
+            timeLimit: 45,
             roadWidth: 85,
             rewardCoins: 25,
             rewardXp: 50,
             pathPoints: [
-                { x: 80, y: 240, icon: "🌸" },
-                { x: 300, y: 150, icon: "🌻" },
-                { x: 520, y: 330, icon: "🌼" },
-                { x: 740, y: 240, icon: "🍯" }
+                { x: 80, y: 240, icon: "🌸", label: "Xuất phát" },
+                { x: 260, y: 120, icon: "🌻", label: "Hoa hướng dương" },
+                { x: 480, y: 360, icon: "🌺", label: "Hoa dâm bụt" },
+                { x: 680, y: 150, icon: "🌼", label: "Hoa cúc" },
+                { x: 860, y: 240, icon: "🍯", label: "Tổ ong" }
             ]
         },
         {
             id: "hover_med",
             skillId: "hover_tracking",
             difficulty: "medium",
-            title: "Đường Lượn Ziczac Đồi Hoa",
-            skillName: "Rê Chuột Chính Xác",
+            title: "Đường Cong Sóng Lượn Đồi Hoa",
+            skillName: "Rê Chuột Đường Cong",
             theme: "hover_tracking",
-            desc: "Đường hoa ziczac 5 khúc cua, rèn luyện sự khéo léo của cổ tay",
-            instruction: "Rê chuột khéo léo qua 5 khúc cua đồi hoa để thu thập từng giọt mật thơm ngon!",
+            desc: "Đường cong lượn sóng 3 nhịp hình sin uốn khúc mềm mại, rèn luyện sự khéo léo",
+            instruction: "Nhấn giữ chuột vào chú Ong và rê khéo léo qua các khúc cua sóng lượn để thu thập mật!",
             targetCount: 3,
-            timeLimit: 35,
+            timeLimit: 40,
             roadWidth: 60,
             rewardCoins: 35,
             rewardXp: 70,
             pathPoints: [
-                { x: 70, y: 100, icon: "🌸" },
-                { x: 230, y: 360, icon: "🌻" },
-                { x: 400, y: 120, icon: "🌺" },
-                { x: 570, y: 360, icon: "🌼" },
-                { x: 730, y: 160, icon: "🍯" }
+                { x: 70, y: 360, icon: "🌸", label: "Xuất phát" },
+                { x: 220, y: 110, icon: "🌻", label: "Hoa vàng" },
+                { x: 380, y: 370, icon: "🌺", label: "Hoa hồng" },
+                { x: 540, y: 100, icon: "🌷", label: "Hoa tulip" },
+                { x: 700, y: 360, icon: "🌼", label: "Hoa cúc" },
+                { x: 860, y: 160, icon: "🍯", label: "Tổ ong" }
             ]
         },
         {
             id: "hover_hard",
             skillId: "hover_tracking",
             difficulty: "hard",
-            title: "Mê Cung Xoắn Ốc Thần Kỳ",
-            skillName: "Rê Chuột Chính Xác",
+            title: "Mê Cung Xoắn Ốc Uốn Lượn Thần Kỳ",
+            skillName: "Rê Chuột Đường Cong",
             theme: "hover_tracking",
-            desc: "Đường hoa hẹp và uốn lượn liên tục, thử thách độ chính xác tuyệt đối",
-            instruction: "Tập trung cao độ dẫn chú Ong bay qua mê cung hẹp mà không chạm hàng rào gai!",
+            desc: "Đường cong xoắn lượn vòng cung liên tục với độ rộng hẹp, thử thách độ chính xác cao",
+            instruction: "Tập trung cao độ giữ chuột dắt chú Ong lượn qua các vòng cung hẹp mà không chạm gai!",
             targetCount: 3,
-            timeLimit: 30,
-            roadWidth: 44,
+            timeLimit: 35,
+            roadWidth: 46,
             rewardCoins: 50,
             rewardXp: 100,
             pathPoints: [
-                { x: 70, y: 380, icon: "🌸" },
-                { x: 180, y: 100, icon: "🌻" },
-                { x: 340, y: 380, icon: "🌺" },
-                { x: 480, y: 120, icon: "🌷" },
-                { x: 620, y: 360, icon: "🌼" },
-                { x: 740, y: 140, icon: "🍯" }
+                { x: 70, y: 390, icon: "🌸", label: "Xuất phát" },
+                { x: 150, y: 130, icon: "🌻", label: "Trạm 1" },
+                { x: 340, y: 90, icon: "🌺", label: "Trạm 2" },
+                { x: 420, y: 370, icon: "🌷", label: "Trạm 3" },
+                { x: 600, y: 390, icon: "🌼", label: "Trạm 4" },
+                { x: 720, y: 120, icon: "🌹", label: "Trạm 5" },
+                { x: 860, y: 220, icon: "🍯", label: "Tổ ong" }
             ]
         }
     ]

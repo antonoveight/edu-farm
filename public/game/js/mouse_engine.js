@@ -479,8 +479,31 @@ window.MouseEngine = (function() {
         };
     }
 
-    // ================= CHẾ ĐỘ 5: HOVER & TRACKING (ĐƯỜNG BAY CỦA ONG) =================
-    // Hàm hình học: Tìm khoảng cách từ điểm p đến đoạn thẳng (v, w) và toạ độ chiếu gần nhất
+    // ================= CHẾ ĐỘ 5: RÊ CHUỘT ĐƯỜNG CONG (CURVED HOVER & TRACKING) =================
+    // Hàm nội suy đường cong Catmull-Rom Spline mượt mà
+    function getSplineSampledPoints(points, samplesPerSegment = 30) {
+        if (!points || points.length < 2) return points || [];
+        const pts = [];
+        const p = [points[0], ...points, points[points.length - 1]];
+        for (let i = 1; i < p.length - 2; i++) {
+            const p0 = p[i - 1];
+            const p1 = p[i];
+            const p2 = p[i + 1];
+            const p3 = p[i + 2];
+            for (let s = 0; s < samplesPerSegment; s++) {
+                const t = s / samplesPerSegment;
+                const t2 = t * t;
+                const t3 = t2 * t;
+                const x = 0.5 * ((2 * p1.x) + (-p0.x + p2.x) * t + (2 * p0.x - 5 * p1.x + 4 * p2.x - p3.x) * t2 + (-p0.x + 3 * p1.x - 3 * p2.x + p3.x) * t3);
+                const y = 0.5 * ((2 * p1.y) + (-p0.y + p2.y) * t + (2 * p0.y - 5 * p1.y + 4 * p2.y - p3.y) * t2 + (-p0.y + 3 * p1.y - 3 * p2.y + p3.y) * t3);
+                pts.push({ x, y });
+            }
+        }
+        pts.push(points[points.length - 1]);
+        return pts;
+    }
+
+    // Hàm tìm khoảng cách từ điểm p đến đoạn thẳng (v, w)
     function distToSegment(p, v, w) {
         function sqr(x) { return x * x; }
         function dist2(v, w) { return sqr(v.x - w.x) + sqr(v.y - w.y); }
@@ -504,79 +527,179 @@ window.MouseEngine = (function() {
 
         const warnEl = document.createElement("div");
         warnEl.className = "bee-offroad-warning";
-        warnEl.innerText = "⚠️ RÊ CHUỘT VÀO LUỐNG HOA!";
+        warnEl.innerText = "⚠️ RÊ CHUỘT TRONG ĐƯỜNG CONG!";
         arena.appendChild(warnEl);
+
+        const tipEl = document.createElement("div");
+        tipEl.className = "bee-start-tooltip";
+        tipEl.style.position = "absolute";
+        tipEl.style.left = `${lvl.pathPoints[0].x}px`;
+        tipEl.style.top = `${lvl.pathPoints[0].y - 38}px`;
+        tipEl.style.transform = "translateX(-50%)";
+        tipEl.style.background = "rgba(15, 23, 42, 0.9)";
+        tipEl.style.color = "#fbbf24";
+        tipEl.style.fontWeight = "800";
+        tipEl.style.fontSize = "12px";
+        tipEl.style.padding = "4px 10px";
+        tipEl.style.borderRadius = "8px";
+        tipEl.style.border = "1px solid #fbbf24";
+        tipEl.style.boxShadow = "0 4px 12px rgba(251, 191, 36, 0.3)";
+        tipEl.style.pointerEvents = "none";
+        tipEl.style.zIndex = "40";
+        tipEl.innerText = "👆 Giữ chuột vào Ong để dắt đi!";
+        arena.appendChild(tipEl);
 
         const ctx = canvas.getContext("2d");
         const pathPoints = lvl.pathPoints;
         const roadWidth = lvl.roadWidth || 60;
         const roadRadius = roadWidth / 2;
 
+        // Sinh chuỗi điểm cong spline
+        const splinePoints = getSplineSampledPoints(pathPoints, 30);
+
         let beeEl = document.createElement("div");
         beeEl.className = "bee-cursor-follower";
         beeEl.innerText = "🐝";
         beeEl.style.left = `${pathPoints[0].x}px`;
         beeEl.style.top = `${pathPoints[0].y}px`;
+        beeEl.style.cursor = "grab";
+        beeEl.style.pointerEvents = "auto";
+        beeEl.style.transition = "none";
         arena.appendChild(beeEl);
 
-        function drawMaze() {
+        function drawCurvedMaze() {
             ctx.clearRect(0, 0, canvas.width, canvas.height);
 
-            // Vẽ dải cỏ / viền ngoài của đường hoa
+            if (splinePoints.length < 2) return;
+
+            // 1. Viền cỏ bên ngoài đường cong
             ctx.beginPath();
-            ctx.strokeStyle = "rgba(22, 101, 52, 0.4)";
-            ctx.lineWidth = roadWidth + 24;
+            ctx.strokeStyle = "rgba(20, 83, 45, 0.5)";
+            ctx.lineWidth = roadWidth + 26;
             ctx.lineCap = "round";
             ctx.lineJoin = "round";
-            ctx.moveTo(pathPoints[0].x, pathPoints[0].y);
-            for (let i = 1; i < pathPoints.length; i++) ctx.lineTo(pathPoints[i].x, pathPoints[i].y);
+            ctx.moveTo(splinePoints[0].x, splinePoints[0].y);
+            for (let i = 1; i < splinePoints.length; i++) {
+                ctx.lineTo(splinePoints[i].x, splinePoints[i].y);
+            }
             ctx.stroke();
 
-            // Vẽ lòng luống hoa rực rỡ
+            // 2. Lòng đường cong hoa rực rỡ
             ctx.beginPath();
-            ctx.strokeStyle = "rgba(74, 222, 128, 0.55)";
+            ctx.strokeStyle = "rgba(74, 222, 128, 0.6)";
             ctx.lineWidth = roadWidth;
             ctx.lineCap = "round";
             ctx.lineJoin = "round";
-            ctx.moveTo(pathPoints[0].x, pathPoints[0].y);
-            for (let i = 1; i < pathPoints.length; i++) ctx.lineTo(pathPoints[i].x, pathPoints[i].y);
+            ctx.moveTo(splinePoints[0].x, splinePoints[0].y);
+            for (let i = 1; i < splinePoints.length; i++) {
+                ctx.lineTo(splinePoints[i].x, splinePoints[i].y);
+            }
             ctx.stroke();
 
-            // Vẽ các trạm hoa mật
+            // 3. Đường tâm phát sáng
+            ctx.beginPath();
+            ctx.strokeStyle = "rgba(255, 255, 255, 0.4)";
+            ctx.lineWidth = 4;
+            ctx.setLineDash([8, 12]);
+            ctx.lineCap = "round";
+            ctx.lineJoin = "round";
+            ctx.moveTo(splinePoints[0].x, splinePoints[0].y);
+            for (let i = 1; i < splinePoints.length; i++) {
+                ctx.lineTo(splinePoints[i].x, splinePoints[i].y);
+            }
+            ctx.stroke();
+            ctx.setLineDash([]); // Reset dash
+
+            // 4. Vẽ các trạm hoa mật
             pathPoints.forEach((p, idx) => {
-                ctx.font = "26px sans-serif";
+                ctx.font = idx === pathPoints.length - 1 ? "32px sans-serif" : "26px sans-serif";
                 ctx.textAlign = "center";
                 ctx.textBaseline = "middle";
                 ctx.fillText(p.icon || "🌸", p.x, p.y);
             });
         }
 
-        drawMaze();
+        drawCurvedMaze();
 
         let currentCheckpoint = 0;
         let lastWarnTime = 0;
+        let isHoldingBee = false;
 
-        canvas.onmousemove = function(e) {
-            if (!state.isRunning) return;
+        function resetBeeToStart() {
+            isHoldingBee = false;
+            currentCheckpoint = 0;
+            beeEl.style.transition = "all 0.45s cubic-bezier(0.34, 1.56, 0.64, 1)";
+            beeEl.style.left = `${pathPoints[0].x}px`;
+            beeEl.style.top = `${pathPoints[0].y}px`;
+            beeEl.style.cursor = "grab";
+            warnEl.style.display = "none";
+            tipEl.style.display = "block";
+            tipEl.innerText = `👆 Giữ chuột vào Ong để bắt đầu chặng ${state.completedCount + 1}!`;
+
+            setTimeout(() => {
+                beeEl.style.transition = "none";
+            }, 460);
+        }
+
+        beeEl.onmousedown = function(e) {
+            if (e.button !== 0) return;
+            e.preventDefault();
+            e.stopPropagation();
+            isHoldingBee = true;
+            beeEl.style.cursor = "grabbing";
+            tipEl.style.display = "none";
+            playTone(480, 'triangle', 0.05, 0.05);
+        };
+
+        canvas.onmousedown = function(e) {
+            if (e.button !== 0) return;
             const rect = canvas.getBoundingClientRect();
             const mouseX = e.clientX - rect.left;
             const mouseY = e.clientY - rect.top;
 
-            // Tìm đoạn thẳng đường đi gần con trỏ chuột nhất
-            let minDistance = 9999;
-            let nearestProjectedPoint = { x: pathPoints[0].x, y: pathPoints[0].y };
+            const curBeeX = parseFloat(beeEl.style.left) || pathPoints[0].x;
+            const curBeeY = parseFloat(beeEl.style.top) || pathPoints[0].y;
+            const dist = Math.hypot(mouseX - curBeeX, mouseY - curBeeY);
 
-            for (let i = 0; i < pathPoints.length - 1; i++) {
-                const res = distToSegment({ x: mouseX, y: mouseY }, pathPoints[i], pathPoints[i + 1]);
+            if (dist <= 48) {
+                e.preventDefault();
+                isHoldingBee = true;
+                beeEl.style.cursor = "grabbing";
+                tipEl.style.display = "none";
+                playTone(480, 'triangle', 0.05, 0.05);
+            }
+        };
+
+        window.addEventListener("mouseup", function onGlobalMouseUp() {
+            if (isHoldingBee) {
+                isHoldingBee = false;
+                beeEl.style.cursor = "grab";
+            }
+        });
+
+        canvas.onmousemove = function(e) {
+            if (!state.isRunning) return;
+            if (!isHoldingBee) return; // Chỉ khi bé click và giữ chuột, con ong mới di chuyển!
+
+            const rect = canvas.getBoundingClientRect();
+            const mouseX = e.clientX - rect.left;
+            const mouseY = e.clientY - rect.top;
+
+            // Tìm đoạn cong nhỏ gần con trỏ chuột nhất
+            let minDistance = 9999;
+            let nearestProjectedPoint = { x: splinePoints[0].x, y: splinePoints[0].y };
+
+            for (let i = 0; i < splinePoints.length - 1; i++) {
+                const res = distToSegment({ x: mouseX, y: mouseY }, splinePoints[i], splinePoints[i + 1]);
                 if (res.dist < minDistance) {
                     minDistance = res.dist;
                     nearestProjectedPoint = res.closest;
                 }
             }
 
-            // RÀNG BUỘC CON ONG LUÔN NẰM TRONG ĐƯỜNG ĐI
+            // RÀNG BUỘC CON ONG BÁM TRONG ĐƯỜNG CONG
             if (minDistance <= roadRadius) {
-                // Chuột nằm trong lòng đường hoa
+                // Chuột nằm trong lòng đường cong
                 beeEl.style.left = `${mouseX}px`;
                 beeEl.style.top = `${mouseY}px`;
                 warnEl.style.display = "none";
@@ -585,27 +708,30 @@ window.MouseEngine = (function() {
                 const targetPoint = pathPoints[currentCheckpoint + 1];
                 if (targetPoint) {
                     const distToTarget = Math.hypot(mouseX - targetPoint.x, mouseY - targetPoint.y);
-                    if (distToTarget < Math.max(30, roadRadius)) {
+                    if (distToTarget < Math.max(32, roadRadius)) {
                         currentCheckpoint++;
                         playSuccess();
                         state.score += 20;
                         showPopEffect(targetPoint.x, targetPoint.y, "✨ LẤY MẬT!");
                         updateHUD();
 
+                        // Nếu chạm trạm cuối cùng (Tổ ong 🍯)
                         if (currentCheckpoint >= pathPoints.length - 1) {
                             state.completedCount++;
                             updateHUD();
+                            
                             if (state.completedCount >= lvl.targetCount) {
                                 finishGame(true);
                             } else {
-                                currentCheckpoint = 0;
-                                showPopEffect(canvas.width / 2, canvas.height / 2, "🎉 XONG CHẶNG! TIẾP TỤC NÀO!");
+                                showPopEffect(canvas.width / 2, canvas.height / 2, `🎉 HOÀN THÀNH CHẶNG ${state.completedCount}!`);
+                                // CON ONG MẶC ĐỊNH QUAY VỀ VỊ TRÍ XUẤT PHÁT BAN ĐẦU
+                                resetBeeToStart();
                             }
                         }
                     }
                 }
             } else {
-                // Chuột bay lệch ra ngoài luống hoa ➔ Giữ con ong ở mép đường chiếu
+                // Chuột lệch ra ngoài đường cong ➔ Giữ con ong ở mép đường chiếu
                 beeEl.style.left = `${nearestProjectedPoint.x}px`;
                 beeEl.style.top = `${nearestProjectedPoint.y}px`;
                 warnEl.style.display = "block";
