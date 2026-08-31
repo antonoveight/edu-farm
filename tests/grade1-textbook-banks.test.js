@@ -116,7 +116,7 @@ describe('Grade 1 textbook-authored banks', () => {
             sourcePage: 144
         }));
         expect(english).toContainEqual(expect.objectContaining({
-            q: 'Hoàn thành mẫu câu của Unit 2: I ___ a car.',
+            q: 'Hoàn thành câu sau: I ___ a car.',
             a: 'have',
             sourcePage: 9
         }));

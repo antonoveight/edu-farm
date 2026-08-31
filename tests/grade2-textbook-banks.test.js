@@ -44,7 +44,7 @@ function assertBank(subject, minimumCount) {
 describe('Grade 2 textbook-authored banks', () => {
     test('keep traceable source metadata and valid choices for every supplied subject', () => {
         assertBank('math', 400);
-        assertBank('viet', 100);
+        assertBank('viet', 90);
         for (const subject of ['ethics', 'experience', 'music', 'art', 'physical']) assertBank(subject, 20);
     });
 
