@@ -151,13 +151,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (a, b, c, e, ê và các dấu thanh đã học)?",
-    "a": "a, b, c, e, ê và các dấu thanh đã học",
+    "q": "Âm \"b\" ghép với âm \"a\" và dấu huyền tạo thành tiếng nào sau đây?",
+    "a": "bà",
     "c": [
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "a, b, c, e, ê và các dấu thanh đã học"
+      "bà",
+      "bố",
+      "bé",
+      "cá"
     ],
     "type": "multiple_choice",
     "lo": "Bài 5: Ôn tập và kể chuyện – Củng cố a, b, c, e, ê và các dấu thanh đã học",
@@ -166,7 +166,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 5: Ôn tập và kể chuyện",
     "sourcePage": 22,
-    "explanation": "Mục lục xác định Bài 5: Ôn tập và kể chuyện là bài ôn tập các nội dung: a, b, c, e, ê và các dấu thanh đã học.",
+    "explanation": "Âm 'b' ghép với 'a' thành 'ba', thêm dấu huyền thành 'bà'.",
     "hints": []
   },
   {
@@ -335,13 +335,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (o, ô, ơ, d, đ và các dấu thanh đã học)?",
-    "a": "o, ô, ơ, d, đ và các dấu thanh đã học",
+    "q": "Âm \"đ\" ghép với âm \"o\" và dấu sắc tạo thành tiếng nào sau đây?",
+    "a": "đó",
     "c": [
-      "o, ô, ơ, d, đ và các dấu thanh đã học",
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học"
+      "đó",
+      "đa",
+      "đi",
+      "đê"
     ],
     "type": "multiple_choice",
     "lo": "Bài 10: Ôn tập và kể chuyện – Củng cố o, ô, ơ, d, đ và các dấu thanh đã học",
@@ -350,7 +350,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 10: Ôn tập và kể chuyện",
     "sourcePage": 32,
-    "explanation": "Mục lục xác định Bài 10: Ôn tập và kể chuyện là bài ôn tập các nội dung: o, ô, ơ, d, đ và các dấu thanh đã học.",
+    "explanation": "Âm 'đ' ghép với 'o' thành 'đo', thêm dấu sắc thành 'đó'.",
     "hints": []
   },
   {
@@ -576,13 +576,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (i, k, h, l, u, ư, ch, kh)?",
-    "a": "i, k, h, l, u, ư, ch, kh",
+    "q": "Tiếng nào dưới đây chứa âm \"kh\"?",
+    "a": "khế",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "i, k, h, l, u, ư, ch, kh",
-      "chỉ các chữ số"
+      "khế",
+      "lá",
+      "cá",
+      "hổ"
     ],
     "type": "multiple_choice",
     "lo": "Bài 15: Ôn tập và kể chuyện – Củng cố i, k, h, l, u, ư, ch, kh",
@@ -591,7 +591,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 15: Ôn tập và kể chuyện",
     "sourcePage": 42,
-    "explanation": "Mục lục xác định Bài 15: Ôn tập và kể chuyện là bài ôn tập các nội dung: i, k, h, l, u, ư, ch, kh.",
+    "explanation": "Từ 'khế' bắt đầu bằng âm 'kh'.",
     "hints": []
   },
   {
@@ -817,13 +817,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (m, n, g, gi, gh, nh, ng, ngh)?",
-    "a": "m, n, g, gi, gh, nh, ng, ngh",
+    "q": "Tiếng nào dưới đây chứa âm \"nh\"?",
+    "a": "nhà",
     "c": [
-      "m, n, g, gi, gh, nh, ng, ngh",
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học"
+      "nhà",
+      "gà",
+      "mèo",
+      "bò"
     ],
     "type": "multiple_choice",
     "lo": "Bài 20: Ôn tập và kể chuyện – Củng cố m, n, g, gi, gh, nh, ng, ngh",
@@ -832,7 +832,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 20: Ôn tập và kể chuyện",
     "sourcePage": 52,
-    "explanation": "Mục lục xác định Bài 20: Ôn tập và kể chuyện là bài ôn tập các nội dung: m, n, g, gi, gh, nh, ng, ngh.",
+    "explanation": "Từ 'nhà' bắt đầu bằng âm 'nh'.",
     "hints": []
   },
   {
@@ -1058,13 +1058,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (r, s, t, tr, th, ia, ua, ưa)?",
-    "a": "r, s, t, tr, th, ia, ua, ưa",
+    "q": "Tiếng nào dưới đây chứa vần \"ưa\"?",
+    "a": "dưa",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "r, s, t, tr, th, ia, ua, ưa",
-      "chỉ các chữ số"
+      "dưa",
+      "tre",
+      "cá",
+      "táo"
     ],
     "type": "multiple_choice",
     "lo": "Bài 25: Ôn tập và kể chuyện – Củng cố r, s, t, tr, th, ia, ua, ưa",
@@ -1073,7 +1073,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 25: Ôn tập và kể chuyện",
     "sourcePage": 62,
-    "explanation": "Mục lục xác định Bài 25: Ôn tập và kể chuyện là bài ôn tập các nội dung: r, s, t, tr, th, ia, ua, ưa.",
+    "explanation": "Tiếng 'dưa' có âm 'd' ghép với vần 'ưa'.",
     "hints": []
   },
   {
@@ -1228,13 +1228,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (các chữ ghi âm dễ lẫn đã học)?",
-    "a": "các chữ ghi âm dễ lẫn đã học",
+    "q": "Chữ \"k\" thường đi với những nguyên âm nào dưới đây?",
+    "a": "i, e, ê",
     "c": [
-      "các chữ ghi âm dễ lẫn đã học",
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học"
+      "i, e, ê",
+      "a, o, u",
+      "ơ, ư, ă",
+      "ô, ơ, â"
     ],
     "type": "multiple_choice",
     "lo": "Bài 29: Luyện tập chính tả – Củng cố các chữ ghi âm dễ lẫn đã học",
@@ -1243,7 +1243,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 29: Luyện tập chính tả",
     "sourcePage": 70,
-    "explanation": "Mục lục xác định Bài 29: Luyện tập chính tả là bài ôn tập các nội dung: các chữ ghi âm dễ lẫn đã học.",
+    "explanation": "Theo quy tắc chính tả: 'k' đi với 'i, e, ê'; 'c' đi với các nguyên âm còn lại.",
     "hints": []
   },
   {
@@ -1261,13 +1261,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ph, qu, v, x, y và chính tả)?",
-    "a": "ph, qu, v, x, y và chính tả",
+    "q": "Tiếng nào dưới đây chứa âm \"ph\"?",
+    "a": "phố",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "ph, qu, v, x, y và chính tả",
-      "chỉ các chữ số"
+      "phố",
+      "xe",
+      "quạt",
+      "vở"
     ],
     "type": "multiple_choice",
     "lo": "Bài 30: Ôn tập và kể chuyện – Củng cố ph, qu, v, x, y và chính tả",
@@ -1276,7 +1276,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 30: Ôn tập và kể chuyện",
     "sourcePage": 72,
-    "explanation": "Mục lục xác định Bài 30: Ôn tập và kể chuyện là bài ôn tập các nội dung: ph, qu, v, x, y và chính tả.",
+    "explanation": "Từ 'phố' bắt đầu bằng âm 'ph'.",
     "hints": []
   },
   {
@@ -1597,13 +1597,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm)?",
-    "a": "an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm",
+    "q": "Tiếng nào dưới đây chứa vần \"an\"?",
+    "a": "cái bàn",
     "c": [
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm"
+      "cái bàn",
+      "cây bút",
+      "sách vở",
+      "thước kẻ"
     ],
     "type": "multiple_choice",
     "lo": "Bài 35: Ôn tập và kể chuyện – Củng cố an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm",
@@ -1612,7 +1612,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 35: Ôn tập và kể chuyện",
     "sourcePage": 82,
-    "explanation": "Mục lục xác định Bài 35: Ôn tập và kể chuyện là bài ôn tập các nội dung: an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm.",
+    "explanation": "Tiếng 'bàn' chứa vần 'an'.",
     "hints": []
   },
   {
@@ -1933,13 +1933,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi)?",
-    "a": "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
+    "q": "Tiếng nào dưới đây chứa vần \"êm\"?",
+    "a": "đêm",
     "c": [
-      "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học"
+      "đêm",
+      "nắng",
+      "mưa",
+      "gió"
     ],
     "type": "multiple_choice",
     "lo": "Bài 40: Ôn tập và kể chuyện – Củng cố om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
@@ -1948,7 +1948,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 40: Ôn tập và kể chuyện",
     "sourcePage": 92,
-    "explanation": "Mục lục xác định Bài 40: Ôn tập và kể chuyện là bài ôn tập các nội dung: om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi.",
+    "explanation": "Tiếng 'đêm' chứa vần 'êm'.",
     "hints": []
   },
   {
@@ -2193,13 +2193,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ui, ưi, ao, eo, au, âu, êu, iu, ưu)?",
-    "a": "ui, ưi, ao, eo, au, âu, êu, iu, ưu",
+    "q": "Tiếng nào dưới đây chứa vần \"ao\"?",
+    "a": "ngôi sao",
     "c": [
-      "chỉ hình học",
-      "ui, ưi, ao, eo, au, âu, êu, iu, ưu",
-      "chỉ các chữ số",
-      "chỉ phép cộng"
+      "ngôi sao",
+      "mặt trăng",
+      "đám mây",
+      "ngọn núi"
     ],
     "type": "multiple_choice",
     "lo": "Bài 45: Ôn tập và kể chuyện – Củng cố ui, ưi, ao, eo, au, âu, êu, iu, ưu",
@@ -2208,7 +2208,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 45: Ôn tập và kể chuyện",
     "sourcePage": 102,
-    "explanation": "Mục lục xác định Bài 45: Ôn tập và kể chuyện là bài ôn tập các nội dung: ui, ưi, ao, eo, au, âu, êu, iu, ưu.",
+    "explanation": "Tiếng 'sao' chứa vần 'ao'.",
     "hints": []
   },
   {
@@ -2529,13 +2529,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt)?",
-    "a": "ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
+    "q": "Tiếng nào dưới đây chứa vần \"oc\"?",
+    "a": "con cóc",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
-      "chỉ các chữ số"
+      "con cóc",
+      "con cá",
+      "con mèo",
+      "chú gà"
     ],
     "type": "multiple_choice",
     "lo": "Bài 50: Ôn tập và kể chuyện – Củng cố ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
@@ -2544,7 +2544,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 50: Ôn tập và kể chuyện",
     "sourcePage": 112,
-    "explanation": "Mục lục xác định Bài 50: Ôn tập và kể chuyện là bài ôn tập các nội dung: ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt.",
+    "explanation": "Tiếng 'cóc' chứa vần 'oc'.",
     "hints": []
   },
   {
@@ -2827,13 +2827,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp)?",
-    "a": "et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
+    "q": "Tiếng nào dưới đây chứa vần \"êt\"?",
+    "a": "con rết",
     "c": [
-      "chỉ hình học",
-      "et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
-      "chỉ các chữ số",
-      "chỉ phép cộng"
+      "con rết",
+      "con sâu",
+      "con bướm",
+      "con ong"
     ],
     "type": "multiple_choice",
     "lo": "Bài 55: Ôn tập và kể chuyện – Củng cố et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
@@ -2842,7 +2842,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 55: Ôn tập và kể chuyện",
     "sourcePage": 122,
-    "explanation": "Mục lục xác định Bài 55: Ôn tập và kể chuyện là bài ôn tập các nội dung: et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp.",
+    "explanation": "Tiếng 'rết' chứa vần 'êt'.",
     "hints": []
   },
   {
@@ -3163,13 +3163,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng)?",
-    "a": "ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
+    "q": "Tiếng nào dưới đây chứa vần \"anh\"?",
+    "a": "quả chanh",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
-      "chỉ các chữ số"
+      "quả chanh",
+      "quả chuối",
+      "quả ổi",
+      "quả lê"
     ],
     "type": "multiple_choice",
     "lo": "Bài 60: Ôn tập và kể chuyện – Củng cố ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
@@ -3178,7 +3178,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 60: Ôn tập và kể chuyện",
     "sourcePage": 132,
-    "explanation": "Mục lục xác định Bài 60: Ôn tập và kể chuyện là bài ôn tập các nội dung: ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng.",
+    "explanation": "Tiếng 'chanh' chứa vần 'anh'.",
     "hints": []
   },
   {
@@ -3499,13 +3499,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu)?",
-    "a": "ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu",
+    "q": "Tiếng nào dưới đây chứa vần \"ong\"?",
+    "a": "chú ong",
     "c": [
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu"
+      "chú ong",
+      "chú vịt",
+      "chú mèo",
+      "chú cún"
     ],
     "type": "multiple_choice",
     "lo": "Bài 65: Ôn tập và kể chuyện – Củng cố ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu",
@@ -3514,7 +3514,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 65: Ôn tập và kể chuyện",
     "sourcePage": 142,
-    "explanation": "Mục lục xác định Bài 65: Ôn tập và kể chuyện là bài ôn tập các nội dung: ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu.",
+    "explanation": "Tiếng 'ong' chứa vần 'ong'.",
     "hints": []
   },
   {
@@ -3740,13 +3740,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu)?",
-    "a": "uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
+    "q": "Tiếng nào dưới đây chứa vần \"uôi\"?",
+    "a": "quả chuối",
     "c": [
-      "chỉ hình học",
-      "uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
-      "chỉ các chữ số",
-      "chỉ phép cộng"
+      "quả chuối",
+      "quả cam",
+      "quả táo",
+      "quả dưa"
     ],
     "type": "multiple_choice",
     "lo": "Bài 70: Ôn tập và kể chuyện – Củng cố uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
@@ -3755,7 +3755,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 70: Ôn tập và kể chuyện",
     "sourcePage": 152,
-    "explanation": "Mục lục xác định Bài 70: Ôn tập và kể chuyện là bài ôn tập các nội dung: uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu.",
+    "explanation": "Tiếng 'chuối' chứa vần 'uôi'.",
     "hints": []
   },
   {
@@ -3981,13 +3981,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ươc, ươt, ươm, ươp, ươn, ương, oa, oe)?",
-    "a": "ươc, ươt, ươm, ươp, ươn, ương, oa, oe",
+    "q": "Tiếng nào dưới đây chứa vần \"ươm\"?",
+    "a": "con bướm",
     "c": [
-      "chỉ các chữ số",
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "ươc, ươt, ươm, ươp, ươn, ương, oa, oe"
+      "con bướm",
+      "con cá",
+      "con rùa",
+      "con ếch"
     ],
     "type": "multiple_choice",
     "lo": "Bài 75: Ôn tập và kể chuyện – Củng cố ươc, ươt, ươm, ươp, ươn, ương, oa, oe",
@@ -3996,7 +3996,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 75: Ôn tập và kể chuyện",
     "sourcePage": 162,
-    "explanation": "Mục lục xác định Bài 75: Ôn tập và kể chuyện là bài ôn tập các nội dung: ươc, ươt, ươm, ươp, ươn, ương, oa, oe.",
+    "explanation": "Tiếng 'bướm' chứa vần 'ươm'.",
     "hints": []
   },
   {
@@ -4279,13 +4279,13 @@
     "hints": []
   },
   {
-    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt)?",
-    "a": "oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
+    "q": "Tiếng nào dưới đây chứa vần \"oan\"?",
+    "a": "bé ngoan",
     "c": [
-      "chỉ phép cộng",
-      "chỉ hình học",
-      "oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
-      "chỉ các chữ số"
+      "bé ngoan",
+      "chăm chỉ",
+      "vui vẻ",
+      "thật thà"
     ],
     "type": "multiple_choice",
     "lo": "Bài 80: Ôn tập và kể chuyện – Củng cố oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
@@ -4294,7 +4294,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 80: Ôn tập và kể chuyện",
     "sourcePage": 172,
-    "explanation": "Mục lục xác định Bài 80: Ôn tập và kể chuyện là bài ôn tập các nội dung: oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt.",
+    "explanation": "Tiếng 'ngoan' chứa vần 'oan'.",
     "hints": []
   },
   {
@@ -4312,7 +4312,7 @@
     "hints": []
   },
   {
-    "q": "Nam học lớp nào?",
+    "q": "Đọc câu sau: \"Năm nay, bạn Nam vừa tròn sáu tuổi và bước vào học lớp 1A.\" Hỏi: Bạn Nam học lớp nào?",
     "a": "lớp 1A",
     "c": [
       "lớp 1A",
@@ -4327,7 +4327,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Tôi là học sinh lớp 1",
     "sourcePage": 4,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tôi là học sinh lớp 1”.",
+    "explanation": "Theo câu văn, bạn Nam học lớp 1A.",
     "hints": [
       "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
     ]
@@ -4858,7 +4858,7 @@
     ]
   },
   {
-    "q": "Bức tranh của Hà có hình gì?",
+    "q": "Đọc câu sau: \"Bạn Hà vẽ tặng cô giáo một bức tranh bông hoa bốn cánh thật đẹp.\" Hỏi: Bức tranh của Hà vẽ hình gì?",
     "a": "Bông hoa bốn cánh",
     "c": [
       "Ngôi nhà",
@@ -4873,13 +4873,13 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Hoa yêu thương",
     "sourcePage": 50,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hoa yêu thương”.",
+    "explanation": "Theo câu văn, bạn Hà vẽ một bức tranh bông hoa bốn cánh.",
     "hints": [
       "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
     ]
   },
   {
-    "q": "Giữa nhuỵ hoa trong tranh là ai?",
+    "q": "Đọc câu sau: \"Ở chính giữa nhụy hoa, Hà vẽ hình cô giáo đang cười tươi rạng rỡ.\" Hỏi: Ở giữa nhụy hoa là hình ảnh của ai?",
     "a": "Cô giáo đang cười tươi",
     "c": [
       "Một chú mèo",
@@ -4894,7 +4894,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Hoa yêu thương",
     "sourcePage": 50,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hoa yêu thương”.",
+    "explanation": "Theo câu văn, giữa nhụy hoa là hình ảnh cô giáo đang cười tươi.",
     "hints": [
       "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
     ]
@@ -5509,13 +5509,13 @@
     ]
   },
   {
-    "q": "Bảy màu cầu vồng theo bài thơ là gì?",
+    "q": "Cầu vồng sau cơn mưa gồm 7 sắc màu rực rỡ nào sau đây?",
     "a": "Đỏ, cam, vàng, lục, lam, chàm, tím",
     "c": [
-      "Đỏ, đen, trắng",
-      "Cam, nâu, xám",
-      "Chỉ xanh và đỏ",
-      "Đỏ, cam, vàng, lục, lam, chàm, tím"
+      "Đỏ, cam, vàng, lục, lam, chàm, tím",
+      "Đỏ, đen, trắng, hồng, xám",
+      "Cam, nâu, xám, vàng, đen",
+      "Chỉ có hai màu xanh và đỏ"
     ],
     "type": "multiple_choice",
     "lo": "Chủ điểm 6 – Bảy sắc cầu vồng – Đọc hiểu và tìm chi tiết trong bài “Bảy sắc cầu vồng”",
@@ -5524,7 +5524,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Bảy sắc cầu vồng",
     "sourcePage": 108,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bảy sắc cầu vồng”.",
+    "explanation": "7 sắc cầu vồng theo thứ tự là: Đỏ, cam, vàng, lục, lam, chàm, tím.",
     "hints": [
       "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
     ]
@@ -5866,12 +5866,12 @@
     ]
   },
   {
-    "q": "Những con vật nào được nhắc đến trong bài thơ?",
+    "q": "Đọc đoạn thơ: \"Trên đồng cỏ xanh tươi / Đàn trâu đang gặm cỏ / Chú bò vàng thong thả / Bầy bướm lượn chập chờn.\" Những con vật nào được nhắc đến trong đoạn thơ?",
     "a": "Trâu, bò và bướm",
     "c": [
+      "Trâu, bò và bướm",
       "Cá, tôm và cua",
       "Gấu và sói",
-      "Trâu, bò và bướm",
       "Hổ, báo và voi"
     ],
     "type": "multiple_choice",
@@ -5881,7 +5881,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Buổi trưa hè",
     "sourcePage": 138,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Buổi trưa hè”.",
+    "explanation": "Đoạn thơ nhắc đến đàn trâu, chú bò vàng và bầy bướm.",
     "hints": [
       "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
     ]

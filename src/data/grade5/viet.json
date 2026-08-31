@@ -108,10 +108,10 @@
     "q": "Trong câu ghép “Trời mưa nên chúng em ở trong lớp.”, từ “nên” có tác dụng gì?",
     "a": "Nối các vế câu",
     "c": [
-      "Đặt tên sự vật",
-      "Chỉ màu sắc",
-      "Kết thúc câu",
-      "Nối các vế câu"
+      "Nối các vế câu",
+      "Làm chủ ngữ trong câu",
+      "Bổ sung ý nghĩa thời gian",
+      "Kết thúc câu"
     ],
     "type": "multiple_choice",
     "lo": "Luyện từ và câu – Nhận biết quan hệ từ trong câu ghép",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "q": "Mỏm đá trong câu chuyện có hình giống gì?",
+    "q": "Đọc câu sau: \"Nhìn từ xa, mỏm đá tự nhiên bên bờ biển có hình dáng kỳ thú giống hệt một em bé cưỡi voi.\" Hỏi: Mỏm đá có hình dáng giống gì?",
     "a": "Em bé cưỡi voi",
     "c": [
       "Chiếc thuyền",

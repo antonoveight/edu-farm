@@ -1,6 +1,6 @@
 [
   {
-    "q": "Từ nào viết đúng chính tả? (chăm chỉ)",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
     "a": "chăm chỉ",
     "c": [
       "chăm chỉ",
@@ -21,7 +21,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (sân trường)",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
     "a": "sân trường",
     "c": [
       "xân trường",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (dòng sông)",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
     "a": "dòng sông",
     "c": [
       "giòng sông",
@@ -63,7 +63,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (bầu trời)",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
     "a": "bầu trời",
     "c": [
       "bầu trời",
@@ -83,7 +83,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (nghệ sĩ)",
+    "q": "Từ nào dưới đây viết đúng chính tả?",
     "a": "nghệ sĩ",
     "c": [
       "nghệ sĩ",
