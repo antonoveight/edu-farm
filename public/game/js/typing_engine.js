@@ -1,7 +1,7 @@
 /**
  * TYPING ACADEMY ENGINE
  * Xử lý sự kiện bàn phím, phân tích Telex/VNI, tính WPM/Accuracy và điều phối giao diện
- * Thiết kế tối giản, to rõ theo phong cách Typing.com
+ * Tích hợp Mini-Game Ôn tập Nông Trại ("Farm Drop Harvest") sau mỗi hàng phím
  */
 
 window.TypingEngine = (function() {
@@ -25,26 +25,35 @@ window.TypingEngine = (function() {
     };
 
     // Web Audio Sound FX
-    const audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+    let audioCtx = null;
+    function getAudioContext() {
+        if (!audioCtx) {
+            audioCtx = new (window.AudioContext || window.webkitAudioContext)();
+        }
+        return audioCtx;
+    }
+
     function playTone(freq, type = 'sine', duration = 0.08, vol = 0.06) {
         try {
-            if (audioCtx.state === 'suspended') audioCtx.resume();
-            const osc = audioCtx.createOscillator();
-            const gain = audioCtx.createGain();
+            const ctx = getAudioContext();
+            if (ctx.state === 'suspended') ctx.resume();
+            const osc = ctx.createOscillator();
+            const gain = ctx.createGain();
             osc.type = type;
-            osc.frequency.setValueAtTime(freq, audioCtx.currentTime);
-            gain.gain.setValueAtTime(vol, audioCtx.currentTime);
-            gain.gain.exponentialRampToValueAtTime(0.0001, audioCtx.currentTime + duration);
+            osc.frequency.setValueAtTime(freq, ctx.currentTime);
+            gain.gain.setValueAtTime(vol, ctx.currentTime);
+            gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
             osc.connect(gain);
-            gain.connect(audioCtx.destination);
+            gain.connect(ctx.destination);
             osc.start();
-            osc.stop(audioCtx.currentTime + duration);
+            osc.stop(ctx.currentTime + duration);
         } catch (e) {}
     }
 
     function playClick() { playTone(550, 'triangle', 0.04, 0.04); }
     function playCorrect() { playTone(800, 'sine', 0.05, 0.04); }
     function playError() { playTone(180, 'sawtooth', 0.1, 0.06); }
+    function playHarvestPop() { playTone(950, 'sine', 0.08, 0.08); }
     function playVictory() {
         [523, 659, 784, 1046].forEach((f, i) => {
             setTimeout(() => playTone(f, 'triangle', 0.25, 0.08), i * 110);
@@ -68,18 +77,25 @@ window.TypingEngine = (function() {
 
         const cats = window.TYPING_DATA.categories;
         modalContainer.innerHTML = cats.map((cat, cIdx) => `
-            <div style="background: #1e293b; border-radius: 16px; padding: 16px; border: 1px solid rgba(255,255,255,0.06);">
+            <div style="background: #1e293b; border-radius: 16px; padding: 16px; border: 1px solid rgba(255,255,255,0.08);">
                 <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 12px;">
                     <span style="font-weight: 800; font-size: 15px; color: #38bdf8;">
                         <i class="${cat.icon}" style="margin-right: 8px;"></i> ${cat.title}
                     </span>
-                    <span style="font-size: 12px; font-weight: 800; color: #fbbf24;">
-                        +${cat.rewardCoins} 🪙
-                    </span>
+                    <div style="display: flex; align-items: center; gap: 8px;">
+                        ${cat.miniGame ? `
+                            <button class="lesson-picker-btn" style="background: linear-gradient(135deg, #16a34a, #15803d); border-color: #4ade80; padding: 6px 12px; font-size: 12px; color: #ffffff;" onclick="TypingEngine.startMiniGame(${cIdx})">
+                                🎮 Ôn Tập Nông Trại
+                            </button>
+                        ` : ''}
+                        <span style="font-size: 12px; font-weight: 800; color: #fbbf24;">
+                            +${cat.rewardCoins} 🪙
+                        </span>
+                    </div>
                 </div>
                 <div style="display: flex; gap: 8px; flex-wrap: wrap;">
                     ${cat.lessons.map((les, lIdx) => {
-                        const isCurrent = (cIdx === state.catIndex && lIdx === state.lessonIndex);
+                        const isCurrent = (cIdx === state.catIndex && lIdx === state.lessonIndex && !TypingFarmGame.isActive());
                         return `
                             <button class="lesson-picker-btn" 
                                     style="padding: 8px 14px; font-size: 13px; ${isCurrent ? 'background: #0284c7; border-color: #38bdf8;' : ''}"
@@ -106,6 +122,7 @@ window.TypingEngine = (function() {
 
     function selectLessonFromModal(catIdx, lesIdx) {
         closeLessonModal();
+        TypingFarmGame.stop();
         loadLesson(catIdx, lesIdx);
     }
 
@@ -228,9 +245,7 @@ window.TypingEngine = (function() {
 
     // Highlight phím tiếp theo và ngón tay trên mô hình SVG
     function highlightGuide() {
-        // Xóa highlight cũ trên bàn phím
         document.querySelectorAll(".kb-clean-key").forEach(k => k.classList.remove("key-target"));
-        // Xóa active cũ trên các ngón tay SVG
         document.querySelectorAll(".svg-finger").forEach(f => f.classList.remove("active"));
 
         if (state.currentIndex >= state.targetText.length) return;
@@ -238,20 +253,16 @@ window.TypingEngine = (function() {
         const nextChar = state.targetText[state.currentIndex];
         let keyToHighlight = nextChar.toLowerCase();
 
-        // Xử lý phím đặc biệt
         if (nextChar === ' ') keyToHighlight = ' ';
 
-        // Tìm phím ảo tương ứng
         const keyEl = document.querySelector(`.kb-clean-key[data-key="${keyToHighlight}"]`);
         if (keyEl) {
             keyEl.classList.add("key-target");
         }
 
-        // Highlight ngón tay SVG trực quan
         const finger = getFingerForKey(keyToHighlight);
         if (finger) {
             if (finger.id === 'thumb') {
-                // Ngón cái
                 const thumbLeft = document.getElementById("svg-finger-thumb-left");
                 const thumbRight = document.getElementById("svg-finger-thumb-right");
                 if (thumbLeft) thumbLeft.classList.add("active");
@@ -270,7 +281,7 @@ window.TypingEngine = (function() {
         }
     }
 
-    // Xử lý sự kiện nhấn phím (đảm bảo chỉ gắn 1 listener duy nhất)
+    // Xử lý sự kiện nhấn phím
     function setupEventListeners() {
         if (isListenerAttached) return;
         isListenerAttached = true;
@@ -279,16 +290,22 @@ window.TypingEngine = (function() {
             const screenTyping = document.getElementById("screen-typing");
             if (!screenTyping || screenTyping.style.display !== "flex") return;
 
-            // Bỏ qua các phím lặp lại khi đè phím lâu
+            // Nếu đang chơi Mini-game Farm Drop, chuyển event cho mini-game xử lý
+            if (TypingFarmGame.isActive()) {
+                if (e.key.length === 1) {
+                    e.preventDefault();
+                    TypingFarmGame.handleKey(e.key);
+                }
+                return;
+            }
+
             if (e.repeat) return;
 
-            // Bỏ qua các phím điều khiển hệ thống
             if (e.key === "Tab" || e.key === "Alt" || e.key === "Control" || e.key === "Meta" || e.key === "CapsLock" || e.isComposing) {
                 if (e.key === "Tab") e.preventDefault();
                 return;
             }
 
-            // Hiệu ứng bấm phím ảo
             const pressedKey = e.key.toLowerCase();
             const keyEl = document.querySelector(`.kb-clean-key[data-key="${pressedKey === ' ' ? ' ' : pressedKey}"]`);
             if (keyEl) {
@@ -296,7 +313,6 @@ window.TypingEngine = (function() {
                 setTimeout(() => keyEl.classList.remove("key-pressed"), 100);
             }
 
-            // Bắt đầu tính giờ từ phím đầu tiên
             if (!state.startTime && !state.completed) {
                 state.startTime = Date.now();
                 state.timerInterval = setInterval(updateTimerAndWPM, 500);
@@ -304,7 +320,6 @@ window.TypingEngine = (function() {
 
             if (state.completed) return;
 
-            // Xử lý phím Backspace
             if (e.key === "Backspace") {
                 e.preventDefault();
                 if (state.currentIndex > 0) {
@@ -316,7 +331,6 @@ window.TypingEngine = (function() {
                 return;
             }
 
-            // Nhận ký tự độ dài 1
             if (e.key.length === 1) {
                 e.preventDefault();
                 handleCharacterInput(e.key);
@@ -324,19 +338,17 @@ window.TypingEngine = (function() {
         });
     }
 
-    // Xử lý ký tự người dùng gõ
+    // Xử lý ký tự gõ
     function handleCharacterInput(char) {
         const expectedChar = state.targetText[state.currentIndex];
         state.totalTyped++;
 
         if (char === expectedChar) {
-            // Gõ đúng
             state.charStates[state.currentIndex] = 'correct';
             state.streak++;
             if (state.streak > state.maxStreak) state.maxStreak = state.streak;
             playCorrect();
         } else {
-            // Gõ sai
             state.charStates[state.currentIndex] = 'wrong';
             state.errorCount++;
             state.streak = 0;
@@ -348,7 +360,6 @@ window.TypingEngine = (function() {
         updateHUD();
         highlightGuide();
 
-        // Kiểm tra hoàn thành bài
         if (state.currentIndex >= state.targetText.length) {
             finishLesson();
         }
@@ -360,11 +371,8 @@ window.TypingEngine = (function() {
         const elapsedSeconds = Math.max(1, Math.floor((Date.now() - state.startTime) / 1000));
         const minutes = elapsedSeconds / 60;
         
-        // Công thức tính WPM tiêu chuẩn: (Ký tự đúng / 5) / Phút
         const correctChars = state.charStates.filter(s => s === 'correct').length;
         state.wpm = Math.round((correctChars / 5) / minutes) || 0;
-        
-        // Độ chính xác
         state.accuracy = state.totalTyped > 0 ? Math.round((correctChars / state.totalTyped) * 100) : 100;
 
         updateHUD(elapsedSeconds);
@@ -409,26 +417,28 @@ window.TypingEngine = (function() {
         }
 
         giveFarmReward(reward);
-        showResultModal(stars, reward);
+
+        const isLastLesson = (state.lessonIndex === cat.lessons.length - 1);
+        showResultModal(stars, reward, isLastLesson);
     }
 
-    // Tặng thưởng vàng vào gameState của Edu-Farm
-    function giveFarmReward(coins) {
-        if (coins <= 0) return;
+    // Tặng thưởng vàng vào gameState
+    function giveFarmReward(coins, xp = 0) {
+        if (coins <= 0 && xp <= 0) return;
         try {
             if (typeof gameState !== 'undefined' && gameState) {
                 gameState.coins = (gameState.coins || 0) + coins;
-                gameState.xp = (gameState.xp || 0) + coins * 2;
+                gameState.xp = (gameState.xp || 0) + (xp || coins * 2);
                 if (typeof saveDataForMode === 'function') saveDataForMode();
                 if (typeof updateHeaderStats === 'function') updateHeaderStats();
             }
         } catch (e) {
-            console.error("Lỗi khi cộng thưởng vàng:", e);
+            console.error("Lỗi khi cộng thưởng:", e);
         }
     }
 
     // Hiển thị Modal tổng kết bài gõ
-    function showResultModal(stars, reward) {
+    function showResultModal(stars, reward, isLastLesson = false) {
         const modal = document.getElementById("modal-typing-result");
         if (!modal) return;
 
@@ -437,6 +447,23 @@ window.TypingEngine = (function() {
         document.getElementById("typing-res-wpm").innerText = `${state.wpm} WPM`;
         document.getElementById("typing-res-acc").innerText = `${state.accuracy}%`;
         document.getElementById("typing-res-coins").innerHTML = `<span>🪙</span> +${reward} Vàng Nông Trại`;
+
+        const nextBtn = modal.querySelector(".btn-modal-next");
+        if (nextBtn) {
+            if (isLastLesson) {
+                nextBtn.innerHTML = `🎮 Ôn Tập Nông Trại <i class="fa-solid fa-gamepad"></i>`;
+                nextBtn.onclick = function() {
+                    modal.style.display = "none";
+                    TypingFarmGame.start(state.catIndex);
+                };
+            } else {
+                nextBtn.innerHTML = `Bài Tiếp Theo <i class="fa-solid fa-arrow-right"></i>`;
+                nextBtn.onclick = function() {
+                    modal.style.display = "none";
+                    nextLesson();
+                };
+            }
+        }
 
         modal.style.display = "flex";
     }
@@ -468,6 +495,211 @@ window.TypingEngine = (function() {
         });
     }
 
+    // ================= MINI GAME: FARM DROP HARVEST =================
+    const TypingFarmGame = (function() {
+        let isRunning = false;
+        let catIndex = 0;
+        let score = 0;
+        let caughtCount = 0;
+        let lives = 3;
+        let activeFruits = [];
+        let spawnTimer = null;
+        let animFrame = null;
+        let lastTime = 0;
+
+        function start(catIdx = 0) {
+            catIndex = catIdx;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            if (!cat || !cat.miniGame) return;
+
+            isRunning = true;
+            score = 0;
+            caughtCount = 0;
+            lives = 3;
+            activeFruits = [];
+
+            const modal = document.getElementById("modal-typing-minigame");
+            if (modal) modal.style.display = "flex";
+
+            const titleEl = document.getElementById("minigame-header-title");
+            if (titleEl) titleEl.innerHTML = `🌾 ${cat.miniGame.title}`;
+
+            updateGameHUD();
+            clearField();
+
+            lastTime = performance.now();
+            spawnFruit();
+            spawnTimer = setInterval(spawnFruit, 1800);
+            animFrame = requestAnimationFrame(gameLoop);
+        }
+
+        function stop() {
+            isRunning = false;
+            if (spawnTimer) clearInterval(spawnTimer);
+            if (animFrame) cancelAnimationFrame(animFrame);
+            clearField();
+            const modal = document.getElementById("modal-typing-minigame");
+            if (modal) modal.style.display = "none";
+        }
+
+        function clearField() {
+            const field = document.getElementById("minigame-playfield-arena");
+            if (field) field.innerHTML = `<div class="minigame-ground">🧺 HỨNG NÔNG SẢN VÀO GIỎ BẰNG CÁCH GÕ ĐÚNG PHÍM</div>`;
+            activeFruits = [];
+        }
+
+        function spawnFruit() {
+            if (!isRunning) return;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            const cfg = cat.miniGame;
+            const field = document.getElementById("minigame-playfield-arena");
+            if (!field) return;
+
+            const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
+            const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
+            const leftPercent = 10 + Math.random() * 80;
+
+            const fruitEl = document.createElement("div");
+            fruitEl.className = "falling-fruit";
+            fruitEl.style.left = `${leftPercent}%`;
+            fruitEl.style.top = `-60px`;
+
+            fruitEl.innerHTML = `
+                <div class="falling-fruit-bubble">${randomItem.icon}</div>
+                <div class="falling-fruit-key">${randomKey}</div>
+            `;
+
+            field.appendChild(fruitEl);
+
+            activeFruits.push({
+                key: randomKey.toLowerCase(),
+                icon: randomItem.icon,
+                el: fruitEl,
+                top: -60,
+                speed: 1.2 + Math.random() * 0.6
+            });
+        }
+
+        function gameLoop(time) {
+            if (!isRunning) return;
+            const delta = (time - lastTime) / 16;
+            lastTime = time;
+
+            const field = document.getElementById("minigame-playfield-arena");
+            const groundY = field ? field.clientHeight - 80 : 450;
+
+            for (let i = activeFruits.length - 1; i >= 0; i--) {
+                const fruit = activeFruits[i];
+                fruit.top += fruit.speed * delta;
+                fruit.el.style.top = `${fruit.top}px`;
+
+                if (fruit.top >= groundY) {
+                    // Chạm đất
+                    fruit.el.remove();
+                    activeFruits.splice(i, 1);
+                    lives--;
+                    playError();
+                    updateGameHUD();
+
+                    if (lives <= 0) {
+                        endGame(false);
+                        return;
+                    }
+                }
+            }
+
+            animFrame = requestAnimationFrame(gameLoop);
+        }
+
+        function handleKey(char) {
+            if (!isRunning) return;
+            const k = char.toLowerCase();
+
+            // Tìm quả thấp nhất có phím trùng khớp
+            let targetIdx = -1;
+            let maxTop = -999;
+            for (let i = 0; i < activeFruits.length; i++) {
+                if (activeFruits[i].key === k && activeFruits[i].top > maxTop) {
+                    maxTop = activeFruits[i].top;
+                    targetIdx = i;
+                }
+            }
+
+            if (targetIdx !== -1) {
+                // Thu hoạch thành công!
+                const fruit = activeFruits[targetIdx];
+                score += 10;
+                caughtCount++;
+                playHarvestPop();
+
+                showSplat(fruit.el.offsetLeft, fruit.top, `+10 🧺`);
+                fruit.el.remove();
+                activeFruits.splice(targetIdx, 1);
+                updateGameHUD();
+
+                const cat = window.TYPING_DATA.categories[catIndex];
+                if (caughtCount >= cat.miniGame.targetCount) {
+                    endGame(true);
+                }
+            } else {
+                playClick();
+            }
+        }
+
+        function showSplat(x, y, text) {
+            const field = document.getElementById("minigame-playfield-arena");
+            if (!field) return;
+            const splat = document.createElement("div");
+            splat.className = "fruit-splat";
+            splat.style.left = `${x}px`;
+            splat.style.top = `${y}px`;
+            splat.style.color = "#fbbf24";
+            splat.innerText = text;
+            field.appendChild(splat);
+            setTimeout(() => splat.remove(), 600);
+        }
+
+        function updateGameHUD() {
+            const scoreEl = document.getElementById("minigame-hud-score");
+            const livesEl = document.getElementById("minigame-hud-lives");
+            const progressEl = document.getElementById("minigame-hud-progress");
+            const cat = window.TYPING_DATA.categories[catIndex];
+
+            if (scoreEl) scoreEl.innerText = `⭐ ${score}`;
+            if (livesEl) livesEl.innerText = `❤️`.repeat(Math.max(0, lives)) + `🖤`.repeat(Math.max(0, 3 - lives));
+            if (progressEl && cat && cat.miniGame) {
+                progressEl.innerText = `🧺 ${caughtCount}/${cat.miniGame.targetCount}`;
+            }
+        }
+
+        function endGame(won) {
+            stop();
+            const cat = window.TYPING_DATA.categories[catIndex];
+            if (won) {
+                playVictory();
+                const coins = cat.miniGame.rewardCoins;
+                const xp = cat.miniGame.rewardXp;
+                giveFarmReward(coins, xp);
+
+                if (typeof showFloatingToast === 'function') {
+                    showFloatingToast(`🎉 XUẤT SẮC! Hoàn thành ôn tập ${cat.title}! Nhận +${coins} 🪙 và +${xp} XP!`);
+                }
+                showResultModal(3, coins);
+            } else {
+                if (typeof showFloatingToast === 'function') {
+                    showFloatingToast(`💔 Tiếc quá, thử lại nhé bé ơi! Cố gắng gõ nhanh hơn nhé!`);
+                }
+            }
+        }
+
+        return {
+            start: start,
+            stop: stop,
+            isActive: () => isRunning,
+            handleKey: handleKey
+        };
+    })();
+
     return {
         init: init,
         openLessonModal: openLessonModal,
@@ -476,6 +708,11 @@ window.TypingEngine = (function() {
         loadLesson: loadLesson,
         retry: retryCurrentLesson,
         next: nextLesson,
-        setImeMode: setImeMode
+        setImeMode: setImeMode,
+        startMiniGame: (catIdx) => {
+            closeLessonModal();
+            TypingFarmGame.start(catIdx);
+        },
+        farmGame: TypingFarmGame
     };
 })();

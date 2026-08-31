@@ -3457,6 +3457,37 @@ function updateMarketPrices() {
             playChime(440, 'sine', 0.15);
         }
 
+        function openMouseAcademy() {
+            document.documentElement.style.setProperty('--fouc-welcome', 'none');
+            document.documentElement.style.setProperty('--fouc-game', 'none');
+            
+            const welcomeEl = document.getElementById("screen-welcome");
+            const gameEl = document.getElementById("screen-game");
+            const typingEl = document.getElementById("screen-typing");
+            const mouseEl = document.getElementById("screen-mouse");
+
+            if (welcomeEl) welcomeEl.style.display = "none";
+            if (gameEl) gameEl.style.display = "none";
+            if (typingEl) typingEl.style.display = "none";
+            if (mouseEl) mouseEl.style.display = "flex";
+
+            playChime(587, 'triangle', 0.2);
+            if (window.MouseEngine && typeof window.MouseEngine.init === 'function') {
+                window.MouseEngine.init();
+            }
+        }
+
+        function closeMouseAcademy() {
+            const mouseEl = document.getElementById("screen-mouse");
+            const welcomeEl = document.getElementById("screen-welcome");
+
+            if (mouseEl) mouseEl.style.display = "none";
+            if (welcomeEl) welcomeEl.style.display = "flex";
+
+            document.documentElement.style.setProperty('--fouc-welcome', 'flex');
+            playChime(440, 'sine', 0.15);
+        }
+
         function showResetConfirmModal() {
             document.getElementById("modal-confirm-reset").classList.add("active");
         }
@@ -3587,6 +3618,8 @@ function updateMarketPrices() {
         // Bind functions to window scope for inline HTML handlers
         window.openTypingAcademy = openTypingAcademy;
         window.closeTypingAcademy = closeTypingAcademy;
+        window.openMouseAcademy = openMouseAcademy;
+        window.closeMouseAcademy = closeMouseAcademy;
         window.selectGrade = selectGrade;
         window.selectWorld = selectWorld;
         window.startGame = startGame;

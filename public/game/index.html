@@ -52,6 +52,7 @@
     
     <link rel="stylesheet" href="./css/style.css?v=2.2.8">
     <link rel="stylesheet" href="./css/typing.css?v=1.0.0">
+    <link rel="stylesheet" href="./css/mouse.css?v=1.0.0">
     
     <!-- NGĂN CHẶN NHẤP NHÁY MÀN HÌNH CHÀO (FOUC) KHI CHẠY TRONG IFRAME -->
     <script>
@@ -138,9 +139,12 @@ window.addEventListener('unhandledrejection', function(e) {
 
             <button id="btn-play" class="btn-start" disabled onclick="startGame()">VÀO NÔNG TRẠI</button>
             
-            <div style="margin-top: 12px; width: 100%; max-width: 420px; display: flex; justify-content: center;">
-                <button type="button" class="btn-start" style="background: linear-gradient(135deg, #0284c7, #6366f1); box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4); width: 100%; padding: 12px 20px; font-size: 15px; border-radius: 14px;" onclick="openTypingAcademy()">
-                    <i class="fa-solid fa-keyboard" style="margin-right: 8px;"></i> ⌨️ HỌC VIỆN LUYỆN GÕ 10 NGÓN
+            <div style="margin-top: 12px; width: 100%; max-width: 480px; display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+                <button type="button" class="btn-start" style="background: linear-gradient(135deg, #0284c7, #6366f1); box-shadow: 0 4px 15px rgba(99, 102, 241, 0.4); width: 100%; padding: 12px 14px; font-size: 13.5px; border-radius: 14px;" onclick="openTypingAcademy()">
+                    <i class="fa-solid fa-keyboard" style="margin-right: 6px;"></i> ⌨️ LUYỆN GÕ 10 NGÓN
+                </button>
+                <button type="button" class="btn-start" style="background: linear-gradient(135deg, #10b981, #059669); box-shadow: 0 4px 15px rgba(16, 185, 129, 0.4); width: 100%; padding: 12px 14px; font-size: 13.5px; border-radius: 14px;" onclick="openMouseAcademy()">
+                    <i class="fa-solid fa-computer-mouse" style="margin-right: 6px;"></i> 🖱️ LUYỆN CHUỘT
                 </button>
             </div>
 
@@ -647,6 +651,111 @@ window.addEventListener('unhandledrejection', function(e) {
             </div>
         </div>
 
+        <!-- Modal Mini-Game Ôn Tập Nông Trại ("Farm Drop") -->
+        <div class="minigame-modal-overlay" id="modal-typing-minigame">
+            <div class="minigame-container">
+                <div class="minigame-header">
+                    <h3 class="minigame-title" id="minigame-header-title">
+                        🌾 THU HOẠCH NÔNG SẢN
+                    </h3>
+                    <div class="minigame-stats-bar">
+                        <div class="minigame-stat-pill" id="minigame-hud-score">⭐ 0</div>
+                        <div class="minigame-stat-pill" id="minigame-hud-progress">🧺 0/20</div>
+                        <div class="minigame-stat-pill" id="minigame-hud-lives" style="color: #ef4444;">❤️❤️❤️</div>
+                        <button class="btn-typing-back" style="width: 32px; height: 32px;" onclick="TypingEngine.farmGame.stop()">✕</button>
+                    </div>
+                </div>
+                <div class="minigame-playfield" id="minigame-playfield-arena">
+                    <div class="minigame-ground">🧺 HỨNG NÔNG SẢN VÀO GIỎ BẰNG CÁCH GÕ ĐÚNG PHÍM</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ================= MÀN HÌNH HỌC VIỆN LUYỆN CHUỘT ================= -->
+        <div id="screen-mouse" class="screen">
+            <!-- Topbar -->
+            <div class="mouse-topbar">
+                <div class="mouse-topbar-left">
+                    <button class="btn-mouse-back" onclick="closeMouseAcademy()" title="Về Trang Chủ"><i class="fa-solid fa-arrow-left"></i></button>
+                    <button class="mouse-level-btn" onclick="MouseEngine.openLevelModal()">
+                        <i class="fa-solid fa-list-check" style="color: #38bdf8;"></i>
+                        <span id="mouse-level-title">Cấp 1: Nhấp Chuột Trái</span>
+                        <i class="fa-solid fa-chevron-down" style="font-size: 12px; color: #94a3b8;"></i>
+                    </button>
+                </div>
+                <div style="display: flex; align-items: center; gap: 10px;">
+                    <button class="mouse-level-btn" style="background: #1e293b; border-color: rgba(255,255,255,0.1);" onclick="MouseEngine.retry()">
+                        <i class="fa-solid fa-rotate-right"></i> Chơi Lại
+                    </button>
+                </div>
+            </div>
+
+            <!-- Workspace -->
+            <div class="mouse-main-container">
+                <!-- HUD -->
+                <div class="mouse-hud-card">
+                    <div class="mouse-hud-stat">
+                        <span class="mouse-hud-label">ĐIỂM SỐ</span>
+                        <span class="mouse-hud-val" id="mouse-hud-score" style="color: #fbbf24;">⭐ 0</span>
+                    </div>
+                    <div class="mouse-hud-stat">
+                        <span class="mouse-hud-label">MỤC TIÊU</span>
+                        <span class="mouse-hud-val" id="mouse-hud-progress">0/15</span>
+                    </div>
+                    <div class="mouse-hud-stat">
+                        <span class="mouse-hud-label">ĐỘ CHÍNH XÁC</span>
+                        <span class="mouse-hud-val" id="mouse-hud-accuracy" style="color: #10b981;">100%</span>
+                    </div>
+                    <div class="mouse-hud-stat">
+                        <span class="mouse-hud-label">THỜI GIAN</span>
+                        <span class="mouse-hud-val" id="mouse-hud-timer" style="color: #ef4444;">00:30</span>
+                    </div>
+                </div>
+
+                <!-- Hướng dẫn ngắn -->
+                <div class="mouse-instruction-box">
+                    <i class="fa-solid fa-circle-info" style="color: #38bdf8; font-size: 18px;"></i>
+                    <span id="mouse-instruction-text">Bé hãy dùng chuột trái nhấp nhanh và chuẩn xác vào các chú sâu bọ phá hoại mùa màng nhé!</span>
+                </div>
+
+                <!-- Sân chơi tương tác -->
+                <div class="mouse-arena-box" id="mouse-playground-arena"></div>
+            </div>
+        </div>
+
+        <!-- Modal Chọn Bài Học Luyện Chuột -->
+        <div class="mouse-modal-overlay" id="modal-mouse-level-picker" onclick="if(event.target===this) MouseEngine.closeLevelModal()">
+            <div class="mouse-modal-card">
+                <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 12px;">
+                    <h3 style="font-size: 20px; font-weight: 900; color: #38bdf8; margin: 0;">
+                        <i class="fa-solid fa-computer-mouse" style="margin-right: 8px;"></i> CHỌN BÀI LUYỆN CHUỘT
+                    </h3>
+                    <button class="btn-mouse-back" style="width: 32px; height: 32px;" onclick="MouseEngine.closeLevelModal()">✕</button>
+                </div>
+                <div id="mouse-levels-list-container" style="display: flex; flex-direction: column; gap: 12px;"></div>
+            </div>
+        </div>
+
+        <!-- Modal Kết Quả Luyện Chuột -->
+        <div class="mouse-modal-overlay" id="modal-mouse-result">
+            <div class="mouse-modal-card" style="text-align: center; align-items: center;">
+                <div style="font-size: 38px; margin-bottom: 4px;" id="mouse-res-stars">⭐⭐⭐</div>
+                <h3 style="font-size: 22px; font-weight: 900; color: #38bdf8; margin: 0;">HOÀN THÀNH BÀI TẬP!</h3>
+                <div style="font-size: 28px; font-weight: 900; color: #fbbf24; margin: 10px 0;" id="mouse-res-score">150 Điểm</div>
+                <div style="background: rgba(251, 191, 36, 0.15); border: 1px solid #fbbf24; padding: 10px 20px; border-radius: 14px; font-weight: 800; font-size: 18px; color: #fbbf24; margin-bottom: 16px;" id="mouse-res-coins">
+                    <span>🪙</span> +25 Vàng Nông Trại
+                </div>
+                <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px; width: 100%;">
+                    <button class="btn-modal-retry" onclick="MouseEngine.retry()">
+                        <i class="fa-solid fa-rotate-right"></i> Luyện Lại
+                    </button>
+                    <button class="btn-modal-next" onclick="MouseEngine.next()">
+                        Bài Tiếp Theo <i class="fa-solid fa-arrow-right"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+
         <!-- Modal Xác Nhận Thoát về Menu -->
         <div class="modal-overlay" id="modal-confirm-exit">
             <div class="modal-card">
@@ -686,9 +795,11 @@ window.addEventListener('unhandledrejection', function(e) {
         window.GAME_API_BASE = "";
     </script>
 
-    <!-- Hệ thống Game Engine & Typing Academy -->
+    <!-- Hệ thống Game Engine & Typing Academy & Mouse Academy -->
     <script src="./js/typing_data.js"></script>
     <script src="./js/typing_engine.js"></script>
+    <script src="./js/mouse_data.js"></script>
+    <script src="./js/mouse_engine.js"></script>
     <script src="./js/quest_context.js"></script>
     <script type="module" src="./js/main.js?v=4.0.2"></script>
 </body>
