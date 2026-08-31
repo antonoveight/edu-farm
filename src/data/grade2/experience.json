@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Việc nào giúp em sẵn sàng đến trường?",
+    "a": "Chuẩn bị sách vở từ tối hôm trước",
+    "c": [
+      "Chuẩn bị sách vở từ tối hôm trước",
+      "Thức quá khuya",
+      "Quên đồ dùng",
+      "Đi học muộn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Em và mái trường mến yêu – Tự phục vụ và chuẩn bị học tập",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Em và mái trường mến yêu",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Em và mái trường mến yêu”, lựa chọn phù hợp là “Chuẩn bị sách vở từ tối hôm trước”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi tham gia hoạt động lớp, em nên làm gì?",
+    "a": "Hợp tác với các bạn",
+    "c": [
+      "Không lắng nghe",
+      "Tách khỏi nhóm",
+      "Tranh giành",
+      "Hợp tác với các bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Em và mái trường mến yêu – Hợp tác trong hoạt động tập thể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Em và mái trường mến yêu",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Em và mái trường mến yêu”, lựa chọn phù hợp là “Hợp tác với các bạn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Em nên làm gì để lớp học sạch đẹp?",
+    "a": "Giữ vệ sinh chung",
+    "c": [
+      "Vứt giấy xuống sàn",
+      "Làm hỏng đồ dùng",
+      "Giữ vệ sinh chung",
+      "Vẽ lên bàn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Em và mái trường mến yêu – Giữ gìn môi trường lớp học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Em và mái trường mến yêu",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Em và mái trường mến yêu”, lựa chọn phù hợp là “Giữ vệ sinh chung”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi được phân công trực nhật, em nên làm gì?",
+    "a": "Hoàn thành phần việc của mình",
+    "c": [
+      "Làm qua loa",
+      "Hoàn thành phần việc của mình",
+      "Bỏ qua việc được giao",
+      "Đổ lỗi cho bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Em và mái trường mến yêu – Có trách nhiệm với nhiệm vụ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Em và mái trường mến yêu",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Em và mái trường mến yêu”, lựa chọn phù hợp là “Hoàn thành phần việc của mình”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi qua đường, em nên làm gì?",
+    "a": "Đi cùng người lớn và quan sát an toàn",
+    "c": [
+      "Đi cùng người lớn và quan sát an toàn",
+      "Chạy băng qua đường",
+      "Chơi dưới lòng đường",
+      "Đi khi đèn đỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vì cuộc sống an toàn – Thực hành an toàn giao thông",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Vì cuộc sống an toàn",
+    "sourcePage": 25,
+    "explanation": "Theo nội dung “Vì cuộc sống an toàn”, lựa chọn phù hợp là “Đi cùng người lớn và quan sát an toàn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi có người lạ rủ đi, em nên làm gì?",
+    "a": "Từ chối và báo người lớn",
+    "c": [
+      "Đi theo ngay",
+      "Cho địa chỉ nhà",
+      "Nhận quà rồi đi",
+      "Từ chối và báo người lớn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vì cuộc sống an toàn – Tự bảo vệ bản thân",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Vì cuộc sống an toàn",
+    "sourcePage": 25,
+    "explanation": "Theo nội dung “Vì cuộc sống an toàn”, lựa chọn phù hợp là “Từ chối và báo người lớn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi ở nhà một mình có người lạ gõ cửa, em nên làm gì?",
+    "a": "Không mở cửa và gọi người lớn",
+    "c": [
+      "Ra ngoài gặp",
+      "Cho người lạ vào",
+      "Không mở cửa và gọi người lớn",
+      "Mở cửa ngay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vì cuộc sống an toàn – Ứng phó tình huống không an toàn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Vì cuộc sống an toàn",
+    "sourcePage": 25,
+    "explanation": "Theo nội dung “Vì cuộc sống an toàn”, lựa chọn phù hợp là “Không mở cửa và gọi người lớn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Số điện thoại khẩn cấp cần dùng khi có việc nguy hiểm nên được làm gì?",
+    "a": "Ghi nhớ và nhờ người lớn hỗ trợ gọi",
+    "c": [
+      "Không cần biết",
+      "Ghi nhớ và nhờ người lớn hỗ trợ gọi",
+      "Dùng để trêu đùa",
+      "Cho người lạ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vì cuộc sống an toàn – Nhận biết cách tìm hỗ trợ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Vì cuộc sống an toàn",
+    "sourcePage": 25,
+    "explanation": "Theo nội dung “Vì cuộc sống an toàn”, lựa chọn phù hợp là “Ghi nhớ và nhờ người lớn hỗ trợ gọi”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Việc nào em có thể làm để giúp gia đình?",
+    "a": "Gấp quần áo gọn gàng",
+    "c": [
+      "Gấp quần áo gọn gàng",
+      "Tự sửa điện",
+      "Dùng dao lớn một mình",
+      "Leo lên cao lấy đồ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Chia sẻ việc nhà phù hợp",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 42,
+    "explanation": "Theo nội dung “Gia đình yêu thương”, lựa chọn phù hợp là “Gấp quần áo gọn gàng”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi người thân mệt, em nên làm gì?",
+    "a": "Hỏi thăm và giúp việc phù hợp",
+    "c": [
+      "Làm ồn",
+      "Trêu chọc",
+      "Đòi hỏi thêm",
+      "Hỏi thăm và giúp việc phù hợp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Quan tâm người thân",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 42,
+    "explanation": "Theo nội dung “Gia đình yêu thương”, lựa chọn phù hợp là “Hỏi thăm và giúp việc phù hợp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi cả nhà cùng ăn cơm, em nên làm gì?",
+    "a": "Nói chuyện lễ phép và giữ vệ sinh",
+    "c": [
+      "Làm rơi vãi thức ăn",
+      "Bỏ đi không nói",
+      "Nói chuyện lễ phép và giữ vệ sinh",
+      "Nói trống không"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Ứng xử trong gia đình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 42,
+    "explanation": "Theo nội dung “Gia đình yêu thương”, lựa chọn phù hợp là “Nói chuyện lễ phép và giữ vệ sinh”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Ngày sinh nhật người thân là dịp để em làm gì?",
+    "a": "Thể hiện tình cảm và lời chúc tốt đẹp",
+    "c": [
+      "Nói lời làm buồn",
+      "Thể hiện tình cảm và lời chúc tốt đẹp",
+      "Quên hoàn toàn",
+      "Đòi quà cho mình"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Bày tỏ tình cảm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 42,
+    "explanation": "Theo nội dung “Gia đình yêu thương”, lựa chọn phù hợp là “Thể hiện tình cảm và lời chúc tốt đẹp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi tham quan thiên nhiên, em nên làm gì?",
+    "a": "Quan sát và không làm hại cây, con vật",
+    "c": [
+      "Quan sát và không làm hại cây, con vật",
+      "Bẻ hoa",
+      "Bắt con vật tùy ý",
+      "Vứt rác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên quanh em – Ứng xử thân thiện với thiên nhiên",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Thiên nhiên quanh em",
+    "sourcePage": 62,
+    "explanation": "Theo nội dung “Thiên nhiên quanh em”, lựa chọn phù hợp là “Quan sát và không làm hại cây, con vật”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Một hoạt động bảo vệ trường xanh là gì?",
+    "a": "Chăm sóc cây và nhặt rác",
+    "c": [
+      "Bẻ cây",
+      "Xả nước lãng phí",
+      "Đốt lá bừa bãi",
+      "Chăm sóc cây và nhặt rác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên quanh em – Tham gia bảo vệ môi trường",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Thiên nhiên quanh em",
+    "sourcePage": 62,
+    "explanation": "Theo nội dung “Thiên nhiên quanh em”, lựa chọn phù hợp là “Chăm sóc cây và nhặt rác”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi làm việc nhóm, em cần lắng nghe điều gì?",
+    "a": "Ý kiến của các bạn",
+    "c": [
+      "Lời trêu chọc",
+      "Không cần nghe",
+      "Ý kiến của các bạn",
+      "Chỉ ý kiến của mình"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên quanh em – Kỹ năng hợp tác",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Thiên nhiên quanh em",
+    "sourcePage": 62,
+    "explanation": "Theo nội dung “Thiên nhiên quanh em”, lựa chọn phù hợp là “Ý kiến của các bạn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động trải nghiệm, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chế giễu bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt bỏ dụng cụ",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên quanh em – Tự đánh giá sau trải nghiệm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Thiên nhiên quanh em",
+    "sourcePage": 62,
+    "explanation": "Theo nội dung “Thiên nhiên quanh em”, lựa chọn phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Người nông dân góp phần làm gì?",
+    "a": "Trồng trọt và tạo ra nông sản",
+    "c": [
+      "Trồng trọt và tạo ra nông sản",
+      "Chữa bệnh",
+      "Dạy học",
+      "Lái tàu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề nghiệp quanh em – Nhận biết nghề nghiệp",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Nghề nghiệp quanh em",
+    "sourcePage": 82,
+    "explanation": "Theo nội dung “Nghề nghiệp quanh em”, lựa chọn phù hợp là “Trồng trọt và tạo ra nông sản”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi gặp người lao động, em nên làm gì?",
+    "a": "Lễ phép và trân trọng công việc của họ",
+    "c": [
+      "Chê bai",
+      "Gây phiền",
+      "Nói trống không",
+      "Lễ phép và trân trọng công việc của họ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề nghiệp quanh em – Tôn trọng người lao động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Nghề nghiệp quanh em",
+    "sourcePage": 82,
+    "explanation": "Theo nội dung “Nghề nghiệp quanh em”, lựa chọn phù hợp là “Lễ phép và trân trọng công việc của họ”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Muốn tìm hiểu một nghề, em nên làm gì?",
+    "a": "Đặt câu hỏi lịch sự và quan sát",
+    "c": [
+      "Chế giễu",
+      "Bỏ qua hướng dẫn",
+      "Đặt câu hỏi lịch sự và quan sát",
+      "Tự ý làm việc nguy hiểm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề nghiệp quanh em – Khám phá nghề nghiệp",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Nghề nghiệp quanh em",
+    "sourcePage": 82,
+    "explanation": "Theo nội dung “Nghề nghiệp quanh em”, lựa chọn phù hợp là “Đặt câu hỏi lịch sự và quan sát”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Mỗi nghề trong xã hội có ý nghĩa gì?",
+    "a": "Góp phần phục vụ cuộc sống",
+    "c": [
+      "Đều giống hệt nhau",
+      "Góp phần phục vụ cuộc sống",
+      "Không có ích",
+      "Chỉ để vui chơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề nghiệp quanh em – Tôn trọng đa dạng nghề nghiệp",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 2 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem2ketnoitrithucvoicuocsongf88b0_5120269.pdf) – Nghề nghiệp quanh em",
+    "sourcePage": 82,
+    "explanation": "Theo nội dung “Nghề nghiệp quanh em”, lựa chọn phù hợp là “Góp phần phục vụ cuộc sống”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  }
+]

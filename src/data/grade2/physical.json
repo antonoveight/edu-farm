@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Khi tập đội hình, em cần làm gì?",
+    "a": "Lắng nghe khẩu lệnh và thực hiện nghiêm túc",
+    "c": [
+      "Lắng nghe khẩu lệnh và thực hiện nghiêm túc",
+      "Tự ý chạy ra ngoài",
+      "Nói chuyện riêng",
+      "Xô đẩy bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Thực hiện đội hình đội ngũ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 12,
+    "explanation": "Theo nội dung “Đội hình đội ngũ”, lựa chọn phù hợp là “Lắng nghe khẩu lệnh và thực hiện nghiêm túc”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi chuyển đội hình hàng ngang, em cần chú ý điều gì?",
+    "a": "Giữ khoảng cách phù hợp với bạn",
+    "c": [
+      "Chen lấn",
+      "Đẩy bạn",
+      "Bỏ hàng",
+      "Giữ khoảng cách phù hợp với bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Phối hợp trong đội hình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 12,
+    "explanation": "Theo nội dung “Đội hình đội ngũ”, lựa chọn phù hợp là “Giữ khoảng cách phù hợp với bạn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Trước khi tập thể dục, em nên làm gì?",
+    "a": "Khởi động cơ thể",
+    "c": [
+      "Ăn quá no",
+      "Chạy ngay thật nhanh",
+      "Khởi động cơ thể",
+      "Ngồi yên cả giờ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Chuẩn bị vận động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 12,
+    "explanation": "Theo nội dung “Đội hình đội ngũ”, lựa chọn phù hợp là “Khởi động cơ thể”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi nghe hiệu lệnh dừng, em cần làm gì?",
+    "a": "Dừng lại theo hướng dẫn",
+    "c": [
+      "Bỏ vị trí",
+      "Dừng lại theo hướng dẫn",
+      "Chạy nhanh hơn",
+      "Đùa nghịch"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Tuân thủ hiệu lệnh",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 12,
+    "explanation": "Theo nội dung “Đội hình đội ngũ”, lựa chọn phù hợp là “Dừng lại theo hướng dẫn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Động tác vươn thở giúp em làm gì?",
+    "a": "Khởi động và điều hòa nhịp thở",
+    "c": [
+      "Khởi động và điều hòa nhịp thở",
+      "Làm mệt hơn ngay",
+      "Không liên quan vận động",
+      "Thay cho ngủ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Thực hiện bài thể dục",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bài thể dục",
+    "sourcePage": 23,
+    "explanation": "Theo nội dung “Bài thể dục”, lựa chọn phù hợp là “Khởi động và điều hòa nhịp thở”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi tập động tác chân, em cần chú ý gì?",
+    "a": "Giữ tư thế an toàn và theo hướng dẫn",
+    "c": [
+      "Đá gần bạn",
+      "Tập trên nền trơn",
+      "Đùa nghịch",
+      "Giữ tư thế an toàn và theo hướng dẫn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – An toàn khi tập luyện",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bài thể dục",
+    "sourcePage": 23,
+    "explanation": "Theo nội dung “Bài thể dục”, lựa chọn phù hợp là “Giữ tư thế an toàn và theo hướng dẫn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Sau khi vận động mạnh, em nên làm gì?",
+    "a": "Thả lỏng và uống nước phù hợp",
+    "c": [
+      "Chạy tiếp không nghỉ",
+      "Uống nước quá lạnh thật nhanh",
+      "Thả lỏng và uống nước phù hợp",
+      "Ngồi ở nơi nguy hiểm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Chăm sóc cơ thể sau vận động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bài thể dục",
+    "sourcePage": 23,
+    "explanation": "Theo nội dung “Bài thể dục”, lựa chọn phù hợp là “Thả lỏng và uống nước phù hợp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Tập thể dục đều đặn giúp ích gì?",
+    "a": "Cơ thể khỏe mạnh hơn",
+    "c": [
+      "Không cần ngủ",
+      "Cơ thể khỏe mạnh hơn",
+      "Làm cơ thể yếu đi",
+      "Không có tác dụng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Lợi ích của vận động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bài thể dục",
+    "sourcePage": 23,
+    "explanation": "Theo nội dung “Bài thể dục”, lựa chọn phù hợp là “Cơ thể khỏe mạnh hơn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi đi theo vạch kẻ thẳng, em nên làm gì?",
+    "a": "Giữ thăng bằng và nhìn phía trước",
+    "c": [
+      "Giữ thăng bằng và nhìn phía trước",
+      "Nhắm mắt chạy",
+      "Xô đẩy bạn",
+      "Quay lưng di chuyển"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đi và chạy – Rèn luyện kĩ năng đi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đi và chạy",
+    "sourcePage": 37,
+    "explanation": "Theo nội dung “Đi và chạy”, lựa chọn phù hợp là “Giữ thăng bằng và nhìn phía trước”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi chạy trong giờ học, em cần làm gì?",
+    "a": "Chạy đúng khu vực và theo hiệu lệnh",
+    "c": [
+      "Chạy ra đường",
+      "Đuổi theo bạn ngoài khu vực",
+      "Không khởi động",
+      "Chạy đúng khu vực và theo hiệu lệnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đi và chạy – An toàn khi chạy",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đi và chạy",
+    "sourcePage": 37,
+    "explanation": "Theo nội dung “Đi và chạy”, lựa chọn phù hợp là “Chạy đúng khu vực và theo hiệu lệnh”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Nếu cảm thấy mệt khi tập, em nên làm gì?",
+    "a": "Báo với giáo viên",
+    "c": [
+      "Giấu đi",
+      "Trêu bạn",
+      "Báo với giáo viên",
+      "Cố gắng quá sức"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đi và chạy – Tự theo dõi sức khỏe",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đi và chạy",
+    "sourcePage": 37,
+    "explanation": "Theo nội dung “Đi và chạy”, lựa chọn phù hợp là “Báo với giáo viên”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Giày tập thể dục nên như thế nào?",
+    "a": "Vừa chân và an toàn",
+    "c": [
+      "Không cần mang",
+      "Vừa chân và an toàn",
+      "Quá rộng dễ vấp",
+      "Trơn trượt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đi và chạy – Chuẩn bị trang phục",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Đi và chạy",
+    "sourcePage": 37,
+    "explanation": "Theo nội dung “Đi và chạy”, lựa chọn phù hợp là “Vừa chân và an toàn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi chơi trò chơi vận động, em cần làm gì?",
+    "a": "Tuân thủ luật chơi",
+    "c": [
+      "Tuân thủ luật chơi",
+      "Gian lận",
+      "Xô đẩy",
+      "Tranh cãi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Tham gia trò chơi an toàn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 65,
+    "explanation": "Theo nội dung “Trò chơi vận động”, lựa chọn phù hợp là “Tuân thủ luật chơi”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Nếu đội bạn chiến thắng, em nên làm gì?",
+    "a": "Chúc mừng lịch sự",
+    "c": [
+      "Chế giễu",
+      "Cãi nhau",
+      "Bỏ cuộc giữa chừng",
+      "Chúc mừng lịch sự"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Tinh thần thể thao",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 65,
+    "explanation": "Theo nội dung “Trò chơi vận động”, lựa chọn phù hợp là “Chúc mừng lịch sự”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi chơi với bóng, em cần chú ý điều gì?",
+    "a": "Không ném bóng vào mặt bạn",
+    "c": [
+      "Giành bóng bằng cách xô đẩy",
+      "Chơi ở nơi nguy hiểm",
+      "Không ném bóng vào mặt bạn",
+      "Ném thật mạnh vào bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – An toàn với dụng cụ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 65,
+    "explanation": "Theo nội dung “Trò chơi vận động”, lựa chọn phù hợp là “Không ném bóng vào mặt bạn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Trò chơi nhóm giúp rèn điều gì?",
+    "a": "Tinh thần hợp tác",
+    "c": [
+      "Sự thờ ơ",
+      "Tinh thần hợp tác",
+      "Thói quen ích kỉ",
+      "Không cần lắng nghe"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Hợp tác qua vận động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 65,
+    "explanation": "Theo nội dung “Trò chơi vận động”, lựa chọn phù hợp là “Tinh thần hợp tác”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi ở gần ao, hồ, em nên làm gì?",
+    "a": "Đi cùng người lớn và tuân theo quy định an toàn",
+    "c": [
+      "Đi cùng người lớn và tuân theo quy định an toàn",
+      "Tự ý xuống nước",
+      "Đùa nghịch gần mép nước",
+      "Đẩy bạn xuống nước"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bơi và an toàn dưới nước – An toàn dưới nước",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bơi và an toàn dưới nước",
+    "sourcePage": 85,
+    "explanation": "Theo nội dung “Bơi và an toàn dưới nước”, lựa chọn phù hợp là “Đi cùng người lớn và tuân theo quy định an toàn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Trước khi xuống bể bơi, em cần làm gì?",
+    "a": "Khởi động và nghe hướng dẫn",
+    "c": [
+      "Nhảy xuống ngay",
+      "Chạy quanh bể",
+      "Đùa nghịch",
+      "Khởi động và nghe hướng dẫn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bơi và an toàn dưới nước – Chuẩn bị bơi an toàn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bơi và an toàn dưới nước",
+    "sourcePage": 85,
+    "explanation": "Theo nội dung “Bơi và an toàn dưới nước”, lựa chọn phù hợp là “Khởi động và nghe hướng dẫn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi thấy bạn gặp nguy hiểm dưới nước, em nên làm gì?",
+    "a": "Gọi người lớn hỗ trợ ngay",
+    "c": [
+      "Đứng xem",
+      "Trêu bạn",
+      "Gọi người lớn hỗ trợ ngay",
+      "Tự lao xuống khi chưa biết bơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bơi và an toàn dưới nước – Ứng phó nguy hiểm dưới nước",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bơi và an toàn dưới nước",
+    "sourcePage": 85,
+    "explanation": "Theo nội dung “Bơi và an toàn dưới nước”, lựa chọn phù hợp là “Gọi người lớn hỗ trợ ngay”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Học bơi đúng cách giúp gì?",
+    "a": "Tăng kĩ năng an toàn dưới nước",
+    "c": [
+      "Không cần khởi động",
+      "Tăng kĩ năng an toàn dưới nước",
+      "Không cần người hướng dẫn",
+      "Có thể bơi ở mọi nơi một mình"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bơi và an toàn dưới nước – Nhận biết lợi ích học bơi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 2 – Kết nối tri thức với cuộc sống (giaoducthechat2ketnoitrithucvoicuocsongba970_5120269.pdf) – Bơi và an toàn dưới nước",
+    "sourcePage": 85,
+    "explanation": "Theo nội dung “Bơi và an toàn dưới nước”, lựa chọn phù hợp là “Tăng kĩ năng an toàn dưới nước”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  }
+]

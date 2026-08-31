@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Trong câu chuyện Ước mơ của bạn Đô, nhạc cụ nào được nhắc đến?",
+    "a": "Kèn",
+    "c": [
+      "Kèn",
+      "Đàn bầu",
+      "Trống cơm",
+      "Sáo trúc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Ước mơ của bạn Đô – Nhận biết nhạc cụ trong câu chuyện",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Ước mơ của bạn Đô",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Ước mơ của bạn Đô”, lựa chọn phù hợp là “Kèn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi nghe Quốc ca trong lễ khai giảng, em nên có thái độ nào?",
+    "a": "Nghiêm trang",
+    "c": [
+      "Nói chuyện riêng",
+      "Chạy nhảy",
+      "Cười đùa",
+      "Nghiêm trang"
+    ],
+    "type": "multiple_choice",
+    "lo": "Ước mơ của bạn Đô – Ứng xử khi nghe nhạc nghi lễ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Ước mơ của bạn Đô",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Ước mơ của bạn Đô”, lựa chọn phù hợp là “Nghiêm trang”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi tập đọc nhạc, em cần làm gì?",
+    "a": "Đọc đúng tên nốt và nhịp",
+    "c": [
+      "Bỏ qua nhịp",
+      "Nói chuyện riêng",
+      "Đọc đúng tên nốt và nhịp",
+      "Đọc tùy ý"
+    ],
+    "type": "multiple_choice",
+    "lo": "Ước mơ của bạn Đô – Thực hành đọc nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Ước mơ của bạn Đô",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Ước mơ của bạn Đô”, lựa chọn phù hợp là “Đọc đúng tên nốt và nhịp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Vận động theo nhịp giúp ích gì?",
+    "a": "Cảm nhận tiết tấu tốt hơn",
+    "c": [
+      "Không cần lắng nghe",
+      "Cảm nhận tiết tấu tốt hơn",
+      "Không liên quan đến âm nhạc",
+      "Làm mất nhịp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Ước mơ của bạn Đô – Cảm nhận tiết tấu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Ước mơ của bạn Đô",
+    "sourcePage": 8,
+    "explanation": "Theo nội dung “Ước mơ của bạn Đô”, lựa chọn phù hợp là “Cảm nhận tiết tấu tốt hơn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Song loan là loại nhạc cụ gì?",
+    "a": "Nhạc cụ gõ",
+    "c": [
+      "Nhạc cụ gõ",
+      "Nhạc cụ dây",
+      "Nhạc cụ hơi",
+      "Nhạc cụ điện tử"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và nhạc cụ dân tộc – Nhận biết nhạc cụ gõ",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và nhạc cụ dân tộc",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hát và nhạc cụ dân tộc”, lựa chọn phù hợp là “Nhạc cụ gõ”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Đàn bầu có đặc điểm nổi bật nào?",
+    "a": "Có một dây",
+    "c": [
+      "Có mười dây",
+      "Không có dây",
+      "Chỉ dùng pin",
+      "Có một dây"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và nhạc cụ dân tộc – Nhận biết đàn bầu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và nhạc cụ dân tộc",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hát và nhạc cụ dân tộc”, lựa chọn phù hợp là “Có một dây”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi hát kết hợp gõ đệm, em cần chú ý điều gì?",
+    "a": "Giữ nhịp đều",
+    "c": [
+      "Không cần nghe nhạc",
+      "Gõ tùy ý",
+      "Giữ nhịp đều",
+      "Gõ thật mạnh không theo nhịp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và nhạc cụ dân tộc – Thực hành gõ đệm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và nhạc cụ dân tộc",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hát và nhạc cụ dân tộc”, lựa chọn phù hợp là “Giữ nhịp đều”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Bài Trống cơm thuộc loại hình âm nhạc nào?",
+    "a": "Dân ca quan họ Bắc Ninh",
+    "c": [
+      "Nhạc không lời",
+      "Dân ca quan họ Bắc Ninh",
+      "Nhạc nước ngoài",
+      "Nhạc điện tử"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và nhạc cụ dân tộc – Nhận biết dân ca",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và nhạc cụ dân tộc",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hát và nhạc cụ dân tộc”, lựa chọn phù hợp là “Dân ca quan họ Bắc Ninh”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi biểu diễn bài hát, em nên làm gì?",
+    "a": "Tự tin và phối hợp cùng bạn",
+    "c": [
+      "Tự tin và phối hợp cùng bạn",
+      "Trêu chọc bạn",
+      "Bỏ vị trí",
+      "Không nghe hướng dẫn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và vận động – Tham gia biểu diễn âm nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và vận động",
+    "sourcePage": 28,
+    "explanation": "Theo nội dung “Hát và vận động”, lựa chọn phù hợp là “Tự tin và phối hợp cùng bạn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Vận động phụ họa cần phù hợp với điều gì?",
+    "a": "Nội dung và nhịp điệu bài hát",
+    "c": [
+      "Trang phục đắt tiền",
+      "Sở thích riêng không cần nhạc",
+      "Âm lượng nói chuyện",
+      "Nội dung và nhịp điệu bài hát"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và vận động – Sáng tạo vận động theo nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và vận động",
+    "sourcePage": 28,
+    "explanation": "Theo nội dung “Hát và vận động”, lựa chọn phù hợp là “Nội dung và nhịp điệu bài hát”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi bạn đang biểu diễn, em nên làm gì?",
+    "a": "Lắng nghe và cổ vũ lịch sự",
+    "c": [
+      "Chế giễu",
+      "Chạy lên sân khấu",
+      "Lắng nghe và cổ vũ lịch sự",
+      "Làm ồn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và vận động – Tôn trọng người biểu diễn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và vận động",
+    "sourcePage": 28,
+    "explanation": "Theo nội dung “Hát và vận động”, lựa chọn phù hợp là “Lắng nghe và cổ vũ lịch sự”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Âm thanh mạnh và nhẹ giúp bài hát như thế nào?",
+    "a": "Có sắc thái rõ hơn",
+    "c": [
+      "Không cần nhịp",
+      "Có sắc thái rõ hơn",
+      "Không có thay đổi",
+      "Mất giai điệu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát và vận động – Cảm nhận sắc thái âm nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Hát và vận động",
+    "sourcePage": 28,
+    "explanation": "Theo nội dung “Hát và vận động”, lựa chọn phù hợp là “Có sắc thái rõ hơn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Kí hiệu bàn tay trong giờ âm nhạc giúp gì?",
+    "a": "Hỗ trợ đọc đúng cao độ nốt nhạc",
+    "c": [
+      "Hỗ trợ đọc đúng cao độ nốt nhạc",
+      "Đếm số trang",
+      "Vẽ tranh",
+      "Chơi thể thao"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc nhạc – Sử dụng kí hiệu hỗ trợ đọc nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Đọc nhạc",
+    "sourcePage": 51,
+    "explanation": "Theo nội dung “Đọc nhạc”, lựa chọn phù hợp là “Hỗ trợ đọc đúng cao độ nốt nhạc”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi đọc nhạc kết hợp vỗ tay, em cần làm gì?",
+    "a": "Giữ đều phách",
+    "c": [
+      "Vỗ ngẫu nhiên",
+      "Bỏ qua nhịp",
+      "Nói chuyện",
+      "Giữ đều phách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc nhạc – Thực hành tiết tấu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Đọc nhạc",
+    "sourcePage": 51,
+    "explanation": "Theo nội dung “Đọc nhạc”, lựa chọn phù hợp là “Giữ đều phách”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Muốn hát hay hơn, em nên làm gì?",
+    "a": "Lắng nghe và luyện tập thường xuyên",
+    "c": [
+      "Không luyện tập",
+      "Trêu bạn hát",
+      "Lắng nghe và luyện tập thường xuyên",
+      "Hét thật to"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc nhạc – Rèn luyện kĩ năng âm nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Đọc nhạc",
+    "sourcePage": 51,
+    "explanation": "Theo nội dung “Đọc nhạc”, lựa chọn phù hợp là “Lắng nghe và luyện tập thường xuyên”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Âm nhạc có thể giúp chúng ta làm gì?",
+    "a": "Thể hiện cảm xúc và gắn kết mọi người",
+    "c": [
+      "Làm hỏng đồ dùng",
+      "Thể hiện cảm xúc và gắn kết mọi người",
+      "Gây mất trật tự",
+      "Không cần lắng nghe"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc nhạc – Cảm nhận vai trò của âm nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Đọc nhạc",
+    "sourcePage": 51,
+    "explanation": "Theo nội dung “Đọc nhạc”, lựa chọn phù hợp là “Thể hiện cảm xúc và gắn kết mọi người”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi chuẩn bị biểu diễn, em cần làm gì?",
+    "a": "Tập luyện theo hướng dẫn",
+    "c": [
+      "Tập luyện theo hướng dẫn",
+      "Tự ý đổi bài giữa chừng",
+      "Không chuẩn bị",
+      "Làm ồn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Biểu diễn cuối năm – Chuẩn bị biểu diễn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Biểu diễn cuối năm",
+    "sourcePage": 60,
+    "explanation": "Theo nội dung “Biểu diễn cuối năm”, lựa chọn phù hợp là “Tập luyện theo hướng dẫn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Trang phục khi biểu diễn nên như thế nào?",
+    "a": "Gọn gàng, phù hợp",
+    "c": [
+      "Vướng víu, không an toàn",
+      "Bẩn và rách",
+      "Không theo hướng dẫn",
+      "Gọn gàng, phù hợp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Biểu diễn cuối năm – Giữ gìn hình ảnh khi biểu diễn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Biểu diễn cuối năm",
+    "sourcePage": 60,
+    "explanation": "Theo nội dung “Biểu diễn cuối năm”, lựa chọn phù hợp là “Gọn gàng, phù hợp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Sau khi biểu diễn xong, em nên làm gì?",
+    "a": "Cảm ơn khán giả và bạn cùng nhóm",
+    "c": [
+      "Chê bạn",
+      "Ném đạo cụ",
+      "Cảm ơn khán giả và bạn cùng nhóm",
+      "Bỏ đi ngay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Biểu diễn cuối năm – Ứng xử văn minh trong biểu diễn",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Biểu diễn cuối năm",
+    "sourcePage": 60,
+    "explanation": "Theo nội dung “Biểu diễn cuối năm”, lựa chọn phù hợp là “Cảm ơn khán giả và bạn cùng nhóm”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Hoạt động âm nhạc nhóm rèn cho em điều gì?",
+    "a": "Tinh thần hợp tác",
+    "c": [
+      "Sự thờ ơ",
+      "Tinh thần hợp tác",
+      "Thói quen tranh giành",
+      "Không cần lắng nghe"
+    ],
+    "type": "multiple_choice",
+    "lo": "Biểu diễn cuối năm – Hợp tác trong âm nhạc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 2 – Kết nối tri thức với cuộc sống (amnhac2ketnoitrithucvoicuocsongd7bf0_5120269.pdf) – Biểu diễn cuối năm",
+    "sourcePage": 60,
+    "explanation": "Theo nội dung “Biểu diễn cuối năm”, lựa chọn phù hợp là “Tinh thần hợp tác”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  }
+]

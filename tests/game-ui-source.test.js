@@ -23,11 +23,13 @@ describe('game exercise rendering', () => {
         expect(gameScript).toContain('candidate = pickQuizQuestion(bankKey)');
     });
 
-    test('loads English and includes it in maps, random play and treasure rounds', () => {
+    test('loads the expanded Grade 2 subjects for random play and treasure rounds', () => {
         expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_english`] = data.english || []');
+        expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_ethics`] = data.ethics || []');
+        expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_physical`] = data.physical || []');
         expect(gameScript).toContain('{ id: 4, type: "english", icon: "fa-language", name: "Tiếng Anh" }');
-        expect(gameScript).toContain("const subjects = ['math', 'viet', 'english', 'science', 'tech']");
-        expect(gameScript).toContain("shuffleArray(['math', 'viet', 'english', 'science', 'tech'])");
+        expect(gameScript).toContain("const allSubjects = ['math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience', 'music', 'art', 'physical']");
+        expect(gameScript).toContain('shuffleArray(getAvailableCurriculumSubjects(Number(selectedGrade)))');
     });
 
     test('uses explanations and hints carried by the textbook bank', () => {

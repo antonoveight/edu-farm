@@ -17,9 +17,9 @@ describe('question store', () => {
         const sync = questionStore.syncLegacyQuestions();
         const second = questionStore.getMetadataSnapshot();
 
-        expect(first.stats).toEqual({ total: 1343, published: 1343, draft: 0, archived: 0 });
-        expect(sync).toMatchObject({ discovered: 1343, inserted: 0, updated: 0 });
-        expect(second.stats.total).toBe(1343);
+        expect(first.stats).toEqual({ total: 1905, published: 1905, draft: 0, archived: 0 });
+        expect(sync).toMatchObject({ discovered: 1905, inserted: 0, updated: 0 });
+        expect(second.stats.total).toBe(1905);
     });
 
     test('creates, edits, filters and soft-deletes a question', () => {
@@ -38,7 +38,7 @@ describe('question store', () => {
             sourcePage: null
         });
         expect(created.subject).toBe('math');
-        expect(questionStore.listQuestions({ subject: 'math' }).pagination.total).toBe(401);
+        expect(questionStore.listQuestions({ subject: 'math' }).pagination.total).toBe(801);
 
         const updated = questionStore.updateQuestion(created.id, {
             ...created,
@@ -50,7 +50,7 @@ describe('question store', () => {
 
         expect(questionStore.deleteQuestion(created.id)).toBe(true);
         expect(questionStore.getQuestion(created.id)).toBeNull();
-        expect(questionStore.getMetadataSnapshot().stats.total).toBe(1343);
+        expect(questionStore.getMetadataSnapshot().stats.total).toBe(1905);
     });
 
     test('rejects duplicate question content in the same grade and subject', () => {

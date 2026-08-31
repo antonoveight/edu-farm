@@ -1,4 +1,7 @@
-const SUBJECTS = new Set(['math', 'viet', 'english', 'science', 'tech']);
+const SUBJECTS = new Set([
+    'math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience',
+    'music', 'art', 'physical'
+]);
 const QUESTION_TYPES = new Set([
     'multiple_choice',
     'fill_blank',

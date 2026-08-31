@@ -22,7 +22,10 @@ describe('GET /api/questions', () => {
         const body = await response.json();
 
         expect(response.status).toBe(200);
-        expect(Object.keys(body)).toEqual(['math', 'viet', 'english', 'science', 'tech']);
+        expect(Object.keys(body)).toEqual([
+            'math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience',
+            'music', 'art', 'physical'
+        ]);
         expect(body.math).toHaveLength(400);
         expect(body.viet).toHaveLength(338);
         expect(body.english).toHaveLength(124);
@@ -37,8 +40,13 @@ describe('GET /api/questions', () => {
         expect(gradeTwo.viet.length).toBeGreaterThan(gradeOne.viet.length);
         expect(gradeTwo.science.length).toBeGreaterThan(gradeOne.science.length);
         expect(gradeTwo.tech.length).toBeGreaterThan(gradeOne.tech.length);
-        expect(gradeTwo.math).toHaveLength(gradeOne.math.length);
+        expect(gradeTwo.math.length).toBeGreaterThan(gradeOne.math.length);
         expect(gradeTwo.english).toHaveLength(gradeOne.english.length);
+        expect(gradeTwo.ethics).toHaveLength(20);
+        expect(gradeTwo.experience).toHaveLength(20);
+        expect(gradeTwo.music).toHaveLength(20);
+        expect(gradeTwo.art).toHaveLength(20);
+        expect(gradeTwo.physical).toHaveLength(20);
     });
 
     test('preserves interaction data required by game question types', async () => {

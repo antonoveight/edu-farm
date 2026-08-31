@@ -8,7 +8,12 @@ const SUBJECTS = Object.freeze([
     { code: 'viet', name: 'Tiếng Việt', sortOrder: 2 },
     { code: 'english', name: 'Tiếng Anh', sortOrder: 3 },
     { code: 'science', name: 'Tự nhiên và Xã hội', sortOrder: 4 },
-    { code: 'tech', name: 'Tin học', sortOrder: 5 }
+    { code: 'tech', name: 'Tin học', sortOrder: 5 },
+    { code: 'ethics', name: 'Đạo đức', sortOrder: 6 },
+    { code: 'experience', name: 'Hoạt động trải nghiệm', sortOrder: 7 },
+    { code: 'music', name: 'Âm nhạc', sortOrder: 8 },
+    { code: 'art', name: 'Mĩ thuật', sortOrder: 9 },
+    { code: 'physical', name: 'Giáo dục thể chất', sortOrder: 10 }
 ]);
 const PUBLIC_SUBJECT_CODES = Object.freeze(SUBJECTS.map(({ code }) => code));
 const LEGACY_SUBJECT_CODES = Object.freeze(PUBLIC_SUBJECT_CODES);

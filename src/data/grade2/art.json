@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Nét thẳng, nét cong, nét gấp khúc là gì trong mĩ thuật?",
+    "a": "Các loại nét tạo hình",
+    "c": [
+      "Các loại nét tạo hình",
+      "Các loại nhạc cụ",
+      "Các môn thể thao",
+      "Các loại quả"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sự thú vị của nét – Nhận biết yếu tố tạo hình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sự thú vị của nét",
+    "sourcePage": 9,
+    "explanation": "Theo nội dung “Sự thú vị của nét”, lựa chọn phù hợp là “Các loại nét tạo hình”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi vẽ bằng nét, em có thể tạo hình ảnh gì?",
+    "a": "Hình dạng của đồ vật và sự vật",
+    "c": [
+      "Chỉ chữ số",
+      "Chỉ âm thanh",
+      "Chỉ mùi hương",
+      "Hình dạng của đồ vật và sự vật"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sự thú vị của nét – Sử dụng nét tạo hình",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sự thú vị của nét",
+    "sourcePage": 9,
+    "explanation": "Theo nội dung “Sự thú vị của nét”, lựa chọn phù hợp là “Hình dạng của đồ vật và sự vật”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Để bài vẽ sạch đẹp, em nên làm gì?",
+    "a": "Giữ giấy và dụng cụ gọn gàng",
+    "c": [
+      "Vẽ lên bàn",
+      "Ném bút màu",
+      "Giữ giấy và dụng cụ gọn gàng",
+      "Làm nhàu giấy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sự thú vị của nét – Giữ gìn dụng cụ học tập",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sự thú vị của nét",
+    "sourcePage": 9,
+    "explanation": "Theo nội dung “Sự thú vị của nét”, lựa chọn phù hợp là “Giữ giấy và dụng cụ gọn gàng”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi nhận xét bài của bạn, em nên nói thế nào?",
+    "a": "Nhẹ nhàng và tôn trọng",
+    "c": [
+      "Giật bài của bạn",
+      "Nhẹ nhàng và tôn trọng",
+      "Chê bai",
+      "Trêu chọc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sự thú vị của nét – Tôn trọng sản phẩm mĩ thuật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sự thú vị của nét",
+    "sourcePage": 9,
+    "explanation": "Theo nội dung “Sự thú vị của nét”, lựa chọn phù hợp là “Nhẹ nhàng và tôn trọng”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Màu sắc có thể giúp tranh như thế nào?",
+    "a": "Tạo cảm xúc và làm nổi bật hình ảnh",
+    "c": [
+      "Tạo cảm xúc và làm nổi bật hình ảnh",
+      "Không có tác dụng",
+      "Làm tranh biến mất",
+      "Chỉ để viết chữ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hình và màu – Cảm nhận màu sắc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Hình và màu",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hình và màu”, lựa chọn phù hợp là “Tạo cảm xúc và làm nổi bật hình ảnh”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi pha màu, em cần làm gì?",
+    "a": "Thử màu cẩn thận trên giấy",
+    "c": [
+      "Đổ màu bừa bãi",
+      "Dùng màu vẽ lên người bạn",
+      "Không cần quan sát",
+      "Thử màu cẩn thận trên giấy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hình và màu – Thực hành sử dụng màu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Hình và màu",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hình và màu”, lựa chọn phù hợp là “Thử màu cẩn thận trên giấy”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Hình tròn, hình vuông, hình tam giác có thể dùng để làm gì?",
+    "a": "Tạo hình đồ vật, con vật",
+    "c": [
+      "Chỉ đọc nhạc",
+      "Chỉ chạy bộ",
+      "Tạo hình đồ vật, con vật",
+      "Chỉ làm phép tính"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hình và màu – Sử dụng hình cơ bản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Hình và màu",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hình và màu”, lựa chọn phù hợp là “Tạo hình đồ vật, con vật”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi dùng kéo trong giờ mĩ thuật, em cần làm gì?",
+    "a": "Dùng cẩn thận theo hướng dẫn",
+    "c": [
+      "Tự ý cắt đồ vật",
+      "Dùng cẩn thận theo hướng dẫn",
+      "Chạy khi cầm kéo",
+      "Chĩa kéo vào bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hình và màu – An toàn khi thực hành",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Hình và màu",
+    "sourcePage": 16,
+    "explanation": "Theo nội dung “Hình và màu”, lựa chọn phù hợp là “Dùng cẩn thận theo hướng dẫn”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Vật liệu đã qua sử dụng có thể dùng để làm gì?",
+    "a": "Tạo sản phẩm mĩ thuật phù hợp",
+    "c": [
+      "Tạo sản phẩm mĩ thuật phù hợp",
+      "Vứt bừa bãi ngay",
+      "Dùng làm đồ nguy hiểm",
+      "Làm hỏng sản phẩm của bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sáng tạo từ vật liệu – Tái sử dụng vật liệu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sáng tạo từ vật liệu",
+    "sourcePage": 26,
+    "explanation": "Theo nội dung “Sáng tạo từ vật liệu”, lựa chọn phù hợp là “Tạo sản phẩm mĩ thuật phù hợp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi làm việc nhóm, em nên làm gì?",
+    "a": "Chia sẻ dụng cụ và hợp tác",
+    "c": [
+      "Giữ hết đồ dùng",
+      "Không lắng nghe",
+      "Tranh giành",
+      "Chia sẻ dụng cụ và hợp tác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sáng tạo từ vật liệu – Hợp tác sáng tạo",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sáng tạo từ vật liệu",
+    "sourcePage": 26,
+    "explanation": "Theo nội dung “Sáng tạo từ vật liệu”, lựa chọn phù hợp là “Chia sẻ dụng cụ và hợp tác”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Trước khi làm sản phẩm, em nên làm gì?",
+    "a": "Quan sát mẫu và lên ý tưởng",
+    "c": [
+      "Phá dụng cụ",
+      "Bỏ qua hướng dẫn",
+      "Quan sát mẫu và lên ý tưởng",
+      "Làm ngay không cần suy nghĩ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sáng tạo từ vật liệu – Lập kế hoạch sáng tạo",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sáng tạo từ vật liệu",
+    "sourcePage": 26,
+    "explanation": "Theo nội dung “Sáng tạo từ vật liệu”, lựa chọn phù hợp là “Quan sát mẫu và lên ý tưởng”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Một sản phẩm mĩ thuật có thể thể hiện điều gì?",
+    "a": "Ý tưởng và cảm xúc của người làm",
+    "c": [
+      "Chỉ thời tiết",
+      "Ý tưởng và cảm xúc của người làm",
+      "Chỉ giá tiền",
+      "Chỉ đáp án toán"
+    ],
+    "type": "multiple_choice",
+    "lo": "Sáng tạo từ vật liệu – Bày tỏ ý tưởng qua sản phẩm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Sáng tạo từ vật liệu",
+    "sourcePage": 26,
+    "explanation": "Theo nội dung “Sáng tạo từ vật liệu”, lựa chọn phù hợp là “Ý tưởng và cảm xúc của người làm”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi vẽ cây cối, em nên quan sát điều gì?",
+    "a": "Hình dáng, màu sắc và đặc điểm nổi bật",
+    "c": [
+      "Hình dáng, màu sắc và đặc điểm nổi bật",
+      "Chỉ tên cây",
+      "Chỉ số trang sách",
+      "Chỉ âm thanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên trong tranh – Quan sát thiên nhiên",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Thiên nhiên trong tranh",
+    "sourcePage": 41,
+    "explanation": "Theo nội dung “Thiên nhiên trong tranh”, lựa chọn phù hợp là “Hình dáng, màu sắc và đặc điểm nổi bật”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Tranh về thiên nhiên nhắc em điều gì?",
+    "a": "Yêu quý và bảo vệ môi trường",
+    "c": [
+      "Bẻ cây",
+      "Vứt rác",
+      "Làm hại con vật",
+      "Yêu quý và bảo vệ môi trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên trong tranh – Bày tỏ tình yêu thiên nhiên",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Thiên nhiên trong tranh",
+    "sourcePage": 41,
+    "explanation": "Theo nội dung “Thiên nhiên trong tranh”, lựa chọn phù hợp là “Yêu quý và bảo vệ môi trường”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Nền tranh có thể giúp gì?",
+    "a": "Làm rõ không gian của hình ảnh chính",
+    "c": [
+      "Làm tranh không có màu",
+      "Không có vai trò",
+      "Làm rõ không gian của hình ảnh chính",
+      "Che hết hình ảnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên trong tranh – Nhận biết bố cục đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Thiên nhiên trong tranh",
+    "sourcePage": 41,
+    "explanation": "Theo nội dung “Thiên nhiên trong tranh”, lựa chọn phù hợp là “Làm rõ không gian của hình ảnh chính”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi trưng bày tranh, em cần làm gì?",
+    "a": "Giữ gìn sản phẩm cẩn thận",
+    "c": [
+      "Ném tranh",
+      "Giữ gìn sản phẩm cẩn thận",
+      "Làm rách tranh",
+      "Vẽ bẩn lên tranh bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên trong tranh – Giữ gìn sản phẩm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Thiên nhiên trong tranh",
+    "sourcePage": 41,
+    "explanation": "Theo nội dung “Thiên nhiên trong tranh”, lựa chọn phù hợp là “Giữ gìn sản phẩm cẩn thận”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi giới thiệu sản phẩm, em nên nói gì?",
+    "a": "Ý tưởng và cách thực hiện của mình",
+    "c": [
+      "Ý tưởng và cách thực hiện của mình",
+      "Chê bai sản phẩm khác",
+      "Nói chuyện không liên quan",
+      "Giấu sản phẩm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chia sẻ sản phẩm – Giao tiếp về sản phẩm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Chia sẻ sản phẩm",
+    "sourcePage": 53,
+    "explanation": "Theo nội dung “Chia sẻ sản phẩm”, lựa chọn phù hợp là “Ý tưởng và cách thực hiện của mình”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Khi bạn góp ý cho bài vẽ, em nên làm gì?",
+    "a": "Lắng nghe và chọn góp ý phù hợp",
+    "c": [
+      "Giận dữ ngay",
+      "Xé bài",
+      "Không nghe ai",
+      "Lắng nghe và chọn góp ý phù hợp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chia sẻ sản phẩm – Tiếp nhận góp ý",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Chia sẻ sản phẩm",
+    "sourcePage": 53,
+    "explanation": "Theo nội dung “Chia sẻ sản phẩm”, lựa chọn phù hợp là “Lắng nghe và chọn góp ý phù hợp”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Một bài mĩ thuật tốt cần điều gì?",
+    "a": "Thể hiện được ý tưởng riêng và sự chăm chút",
+    "c": [
+      "Làm qua loa",
+      "Không cần hoàn thành",
+      "Thể hiện được ý tưởng riêng và sự chăm chút",
+      "Sao chép tùy tiện"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chia sẻ sản phẩm – Đánh giá sản phẩm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Chia sẻ sản phẩm",
+    "sourcePage": 53,
+    "explanation": "Theo nội dung “Chia sẻ sản phẩm”, lựa chọn phù hợp là “Thể hiện được ý tưởng riêng và sự chăm chút”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  },
+  {
+    "q": "Sau giờ học, em nên làm gì với dụng cụ?",
+    "a": "Thu dọn và cất đúng chỗ",
+    "c": [
+      "Làm hỏng",
+      "Thu dọn và cất đúng chỗ",
+      "Vứt bừa bãi",
+      "Mang nhầm của bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chia sẻ sản phẩm – Tự phục vụ sau thực hành",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 2 – Kết nối tri thức với cuộc sống (mithuat2ketnoitrithucvoicuocsong4102f_5120269.pdf) – Chia sẻ sản phẩm",
+    "sourcePage": 53,
+    "explanation": "Theo nội dung “Chia sẻ sản phẩm”, lựa chọn phù hợp là “Thu dọn và cất đúng chỗ”.",
+    "hints": [
+      "Chọn hành vi hoặc kiến thức phù hợp với bài học."
+    ]
+  }
+]

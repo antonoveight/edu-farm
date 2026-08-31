@@ -1,496 +1,2101 @@
 [
   {
-    "q": "Quy tắc chính tả đúng khi đi với âm 'e, ê, i' là gì?",
-    "a": "K",
+    "q": "Trước e, ê, i, âm /c/ thường viết bằng chữ nào?",
+    "a": "k",
     "c": [
-      "K",
-      "C",
-      "Q",
-      "P"
+      "k",
+      "c",
+      "q",
+      "g"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "lo": "Chính tả: c/k/q – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: c/k/q",
+    "sourcePage": 22,
+    "explanation": "Theo bài học chính tả: c/k/q, đáp án là “k”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
   },
   {
-    "q": "Từ nào sau đây là từ chỉ hoạt động?",
-    "a": "chạy bộ",
+    "q": "Trước e, ê, i, âm /g/ thường viết bằng chữ nào?",
+    "a": "gh",
     "c": [
-      "chạy bộ",
-      "học sinh",
-      "màu đỏ",
-      "bàn gỗ"
+      "g",
+      "ngh",
+      "k",
+      "gh"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "lo": "Chính tả: g/gh – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: g/gh",
+    "sourcePage": 30,
+    "explanation": "Theo bài học chính tả: g/gh, đáp án là “gh”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
   },
   {
-    "q": "Từ nào sau đây là từ chỉ sự vật?",
+    "q": "Tiếng nào viết đúng?",
+    "a": "nghỉ ngơi",
+    "c": [
+      "nghĩ ngơi",
+      "ngỉ nghơi",
+      "nghỉ ngơi",
+      "ngỉ ngơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: ng/ngh – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: ng/ngh",
+    "sourcePage": 42,
+    "explanation": "Theo bài học chính tả: ng/ngh, đáp án là “nghỉ ngơi”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ hoạt động?",
+    "a": "chạy nhảy",
+    "c": [
+      "lớp học",
+      "chạy nhảy",
+      "cây bàng",
+      "xanh mướt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ và câu – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ và câu",
+    "sourcePage": 52,
+    "explanation": "Theo bài học từ và câu, đáp án là “chạy nhảy”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ sự vật?",
+    "a": "quyển sách",
+    "c": [
+      "quyển sách",
+      "chăm chỉ",
+      "đọc to",
+      "xanh biếc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ và câu – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ và câu",
+    "sourcePage": 58,
+    "explanation": "Theo bài học từ và câu, đáp án là “quyển sách”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ đặc điểm?",
+    "a": "dũng cảm",
+    "c": [
+      "bút chì",
+      "học bài",
+      "sân trường",
+      "dũng cảm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ và câu – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ và câu",
+    "sourcePage": 66,
+    "explanation": "Theo bài học từ và câu, đáp án là “dũng cảm”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Câu nào là câu nêu hoạt động?",
+    "a": "Bạn Lan đang đọc sách.",
+    "c": [
+      "Ai đang trực nhật?",
+      "Ôi, bông hoa đẹp quá!",
+      "Bạn Lan đang đọc sách.",
+      "Sân trường rất rộng."
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu kể – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Câu kể",
+    "sourcePage": 74,
+    "explanation": "Theo bài học câu kể, đáp án là “Bạn Lan đang đọc sách.”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Cuối câu hỏi thường dùng dấu gì?",
+    "a": "Dấu chấm hỏi",
+    "c": [
+      "Dấu phẩy",
+      "Dấu chấm hỏi",
+      "Dấu chấm",
+      "Dấu chấm than"
+    ],
+    "type": "multiple_choice",
+    "lo": "Dấu câu – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Dấu câu",
+    "sourcePage": 82,
+    "explanation": "Theo bài học dấu câu, đáp án là “Dấu chấm hỏi”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Cuối câu bộc lộ cảm xúc thường dùng dấu gì?",
+    "a": "Dấu chấm than",
+    "c": [
+      "Dấu chấm than",
+      "Dấu chấm hỏi",
+      "Dấu phẩy",
+      "Dấu hai chấm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Dấu câu – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Dấu câu",
+    "sourcePage": 82,
+    "explanation": "Theo bài học dấu câu, đáp án là “Dấu chấm than”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ trái nghĩa với “cao” là từ nào?",
+    "a": "thấp",
+    "c": [
+      "dài",
+      "rộng",
+      "sáng",
+      "thấp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ trái nghĩa – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ trái nghĩa",
+    "sourcePage": 98,
+    "explanation": "Theo bài học từ trái nghĩa, đáp án là “thấp”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ nào gần nghĩa với “chăm chỉ”?",
+    "a": "siêng năng",
+    "c": [
+      "ồn ào",
+      "bé nhỏ",
+      "siêng năng",
+      "lười biếng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ đồng nghĩa – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ đồng nghĩa",
+    "sourcePage": 106,
+    "explanation": "Theo bài học từ đồng nghĩa, đáp án là “siêng năng”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Khi gặp người lớn, em nên nói gì?",
+    "a": "Cháu chào ạ.",
+    "c": [
+      "Nói trống không",
+      "Cháu chào ạ.",
+      "Không cần nói gì",
+      "Tránh đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Mở rộng vốn từ – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Mở rộng vốn từ",
+    "sourcePage": 116,
+    "explanation": "Theo bài học mở rộng vốn từ, đáp án là “Cháu chào ạ.”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Câu nào là câu nêu đặc điểm?",
+    "a": "Bầu trời hôm nay trong xanh.",
+    "c": [
+      "Bầu trời hôm nay trong xanh.",
+      "Các bạn xếp hàng vào lớp.",
+      "Em có thích đọc sách không?",
+      "Hãy giữ gìn sách vở!"
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu nêu đặc điểm – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Câu nêu đặc điểm",
+    "sourcePage": 12,
+    "explanation": "Theo bài học câu nêu đặc điểm, đáp án là “Bầu trời hôm nay trong xanh.”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Dấu phẩy trong câu “Sân trường, lớp học, thư viện đều sạch đẹp.” dùng để làm gì?",
+    "a": "Ngăn cách các bộ phận cùng loại",
+    "c": [
+      "Kết thúc câu hỏi",
+      "Bộc lộ cảm xúc",
+      "Nối hai tiếng",
+      "Ngăn cách các bộ phận cùng loại"
+    ],
+    "type": "multiple_choice",
+    "lo": "Dấu phẩy – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Dấu phẩy",
+    "sourcePage": 36,
+    "explanation": "Theo bài học dấu phẩy, đáp án là “Ngăn cách các bộ phận cùng loại”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Từ nào chỉ hiện tượng thời tiết?",
+    "a": "mưa",
+    "c": [
+      "bàn ghế",
+      "cô giáo",
+      "mưa",
+      "quyển vở"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ ngữ về thiên nhiên – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Từ ngữ về thiên nhiên",
+    "sourcePage": 48,
+    "explanation": "Theo bài học từ ngữ về thiên nhiên, đáp án là “mưa”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Tên riêng địa lí nào được viết hoa đúng?",
+    "a": "Hà Nội",
+    "c": [
+      "HÀ nội",
+      "Hà Nội",
+      "hà nội",
+      "hà Nội"
+    ],
+    "type": "multiple_choice",
+    "lo": "Viết tên riêng – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Viết tên riêng",
+    "sourcePage": 64,
+    "explanation": "Theo bài học viết tên riêng, đáp án là “Hà Nội”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Người chữa bệnh cho mọi người thường được gọi là gì?",
+    "a": "bác sĩ",
+    "c": [
+      "bác sĩ",
+      "ngư dân",
+      "nông dân",
+      "kiến trúc sư"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ chỉ nghề nghiệp – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Từ chỉ nghề nghiệp",
+    "sourcePage": 150,
+    "explanation": "Theo bài học từ chỉ nghề nghiệp, đáp án là “bác sĩ”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Việc nào thể hiện tình yêu quê hương?",
+    "a": "Giữ gìn cảnh đẹp nơi mình sống",
+    "c": [
+      "Vứt rác bừa bãi",
+      "Bẻ cành cây",
+      "Vẽ bẩn lên tường",
+      "Giữ gìn cảnh đẹp nơi mình sống"
+    ],
+    "type": "multiple_choice",
+    "lo": "Từ ngữ về quê hương – Vận dụng kiến thức tiếng Việt trong giao tiếp và viết",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Từ ngữ về quê hương",
+    "sourcePage": 156,
+    "explanation": "Theo bài học từ ngữ về quê hương, đáp án là “Giữ gìn cảnh đẹp nơi mình sống”.",
+    "hints": [
+      "Đọc kỹ yêu cầu và nhớ lại cách dùng từ, câu hoặc dấu câu."
+    ]
+  },
+  {
+    "q": "Bạn nhỏ háo hức đến trường vì điều gì?",
+    "a": "Muốn gặp lại thầy cô và bạn bè",
+    "c": [
+      "Muốn ở nhà cả ngày",
+      "Muốn đi mua đồ chơi",
+      "Muốn gặp lại thầy cô và bạn bè",
+      "Muốn nghỉ học"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Tôi là học sinh lớp 2 – Đọc hiểu và rút ra bài học từ bài “Tôi là học sinh lớp 2”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Tôi là học sinh lớp 2",
+    "sourcePage": 11,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Tôi là học sinh lớp 2”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Bài thơ nhắc bạn nhỏ cần làm gì để ngày hôm qua có ý nghĩa?",
+    "a": "Học hành chăm chỉ",
+    "c": [
+      "Lười biếng",
+      "Học hành chăm chỉ",
+      "Bỏ bài vở",
+      "Nói dối"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Ngày hôm qua đâu rồi? – Đọc hiểu và rút ra bài học từ bài “Ngày hôm qua đâu rồi?”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Ngày hôm qua đâu rồi?",
+    "sourcePage": 14,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Ngày hôm qua đâu rồi?”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi đọc thơ, em nên chú ý điều gì?",
+    "a": "Đọc rõ tiếng và thể hiện cảm xúc phù hợp",
+    "c": [
+      "Đọc rõ tiếng và thể hiện cảm xúc phù hợp",
+      "Đọc thật nhanh không cần hiểu",
+      "Nói chuyện riêng",
+      "Bỏ qua dấu câu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Mít làm thơ – Đọc hiểu và rút ra bài học từ bài “Mít làm thơ”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Mít làm thơ",
+    "sourcePage": 22,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Mít làm thơ”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi làm bạn buồn, em nên làm gì?",
+    "a": "Xin lỗi và sửa lỗi",
+    "c": [
+      "Chế giễu bạn",
+      "Bỏ mặc bạn",
+      "Đổ lỗi cho bạn",
+      "Xin lỗi và sửa lỗi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Bím tóc đuôi sam – Đọc hiểu và rút ra bài học từ bài “Bím tóc đuôi sam”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Bím tóc đuôi sam",
+    "sourcePage": 34,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Bím tóc đuôi sam”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Việc làm nào giúp lớp học sạch đẹp?",
+    "a": "Bỏ rác đúng nơi quy định",
+    "c": [
+      "Vẽ lên bàn",
+      "Làm hỏng đồ dùng",
+      "Bỏ rác đúng nơi quy định",
+      "Vứt giấy xuống sàn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Mẩu giấy vụn – Đọc hiểu và rút ra bài học từ bài “Mẩu giấy vụn”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Mẩu giấy vụn",
+    "sourcePage": 46,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Mẩu giấy vụn”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Em thể hiện sự kính trọng cô giáo bằng cách nào?",
+    "a": "Lễ phép và chăm học",
+    "c": [
+      "Trêu chọc bạn",
+      "Lễ phép và chăm học",
+      "Nói trống không",
+      "Không làm bài"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Cô giáo lớp em – Đọc hiểu và rút ra bài học từ bài “Cô giáo lớp em”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Cô giáo lớp em",
+    "sourcePage": 60,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Cô giáo lớp em”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi muốn giúp đỡ người thân, em cần làm gì?",
+    "a": "Làm việc phù hợp với khả năng của mình",
+    "c": [
+      "Làm việc phù hợp với khả năng của mình",
+      "Tự ý làm việc nguy hiểm",
+      "Đòi phần thưởng",
+      "Bỏ mặc mọi người"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Sáng kiến của bé Hà – Đọc hiểu và rút ra bài học từ bài “Sáng kiến của bé Hà”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Sáng kiến của bé Hà",
+    "sourcePage": 72,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Sáng kiến của bé Hà”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Bài học từ bó đũa là gì?",
+    "a": "Đoàn kết tạo nên sức mạnh",
+    "c": [
+      "Ai cũng nên làm một mình",
+      "Không cần giúp nhau",
+      "Nên tranh giành",
+      "Đoàn kết tạo nên sức mạnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Câu chuyện bó đũa – Đọc hiểu và rút ra bài học từ bài “Câu chuyện bó đũa”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Câu chuyện bó đũa",
+    "sourcePage": 86,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Câu chuyện bó đũa”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi chăm sóc vật nuôi, em cần làm gì?",
+    "a": "Yêu thương và chăm sóc đúng cách",
+    "c": [
+      "Bỏ đói con vật",
+      "Làm con vật sợ",
+      "Yêu thương và chăm sóc đúng cách",
+      "Chọc phá con vật"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Con chó nhà hàng xóm – Đọc hiểu và rút ra bài học từ bài “Con chó nhà hàng xóm”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Con chó nhà hàng xóm",
+    "sourcePage": 104,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Con chó nhà hàng xóm”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Tình cảm của em với người thân nên được thể hiện như thế nào?",
+    "a": "Bằng lời nói và việc làm yêu thương",
+    "c": [
+      "Không cần thể hiện",
+      "Bằng lời nói và việc làm yêu thương",
+      "Bằng lời nói thiếu lễ phép",
+      "Bằng việc làm người thân buồn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Mẹ – Đọc hiểu và rút ra bài học từ bài “Mẹ”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Đọc: Mẹ",
+    "sourcePage": 122,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Mẹ”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Bốn nàng tiên trong câu chuyện tượng trưng cho điều gì?",
+    "a": "Bốn mùa trong năm",
+    "c": [
+      "Bốn mùa trong năm",
+      "Bốn ngày trong tuần",
+      "Bốn loại cây",
+      "Bốn môn học"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Chuyện bốn mùa – Đọc hiểu và rút ra bài học từ bài “Chuyện bốn mùa”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Chuyện bốn mùa",
+    "sourcePage": 10,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Chuyện bốn mùa”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi quan sát thiên nhiên, em nên làm gì?",
+    "a": "Giữ an toàn và tôn trọng môi trường",
+    "c": [
+      "Tự ý đến nơi nguy hiểm",
+      "Vứt rác xuống nước",
+      "Phá tổ chim",
+      "Giữ an toàn và tôn trọng môi trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Mùa nước nổi – Đọc hiểu và rút ra bài học từ bài “Mùa nước nổi”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Mùa nước nổi",
+    "sourcePage": 22,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Mùa nước nổi”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Câu chuyện giúp em hiểu cần làm gì khi có thiên tai?",
+    "a": "Thực hiện hướng dẫn an toàn của người lớn",
+    "c": [
+      "Tự ý đi qua vùng nguy hiểm",
+      "Không cần chuẩn bị",
+      "Thực hiện hướng dẫn an toàn của người lớn",
+      "Chủ quan khi trời mưa bão"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Sơn Tinh, Thủy Tinh – Đọc hiểu và rút ra bài học từ bài “Sơn Tinh, Thủy Tinh”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Sơn Tinh, Thủy Tinh",
+    "sourcePage": 42,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Sơn Tinh, Thủy Tinh”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi bị ốm, em nên làm gì?",
+    "a": "Báo cho người lớn và làm theo hướng dẫn",
+    "c": [
+      "Chạy nhảy quá sức",
+      "Báo cho người lớn và làm theo hướng dẫn",
+      "Tự uống thuốc không rõ loại",
+      "Giấu bệnh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Bác sĩ Sói – Đọc hiểu và rút ra bài học từ bài “Bác sĩ Sói”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Bác sĩ Sói",
+    "sourcePage": 58,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Bác sĩ Sói”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Trong tình bạn, em cần cư xử như thế nào?",
+    "a": "Chân thành và không lừa dối",
+    "c": [
+      "Chân thành và không lừa dối",
+      "Ích kỉ",
+      "Nói dối bạn",
+      "Trêu chọc bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Quả tim khỉ – Đọc hiểu và rút ra bài học từ bài “Quả tim khỉ”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Quả tim khỉ",
+    "sourcePage": 76,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Quả tim khỉ”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Để được khen, học sinh cần làm gì?",
+    "a": "Ngoan ngoãn và cố gắng học tập",
+    "c": [
+      "Không nghe lời",
+      "Phá đồ dùng",
+      "Làm việc nguy hiểm",
+      "Ngoan ngoãn và cố gắng học tập"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Ai ngoan sẽ được thưởng – Đọc hiểu và rút ra bài học từ bài “Ai ngoan sẽ được thưởng”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Ai ngoan sẽ được thưởng",
+    "sourcePage": 94,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Ai ngoan sẽ được thưởng”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Cảnh đẹp quê hương cần được làm gì?",
+    "a": "Giữ gìn và bảo vệ",
+    "c": [
+      "Vứt rác bừa bãi",
+      "Bẻ cành cây",
+      "Giữ gìn và bảo vệ",
+      "Làm hư hại"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Cây đa quê hương – Đọc hiểu và rút ra bài học từ bài “Cây đa quê hương”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Cây đa quê hương",
+    "sourcePage": 112,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Cây đa quê hương”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi nhận quà từ người thân, em nên làm gì?",
+    "a": "Biết ơn và trân trọng",
+    "c": [
+      "Vứt đi",
+      "Biết ơn và trân trọng",
+      "Chê bai món quà",
+      "Đòi thêm ngay"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Những quả đào – Đọc hiểu và rút ra bài học từ bài “Những quả đào”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Những quả đào",
+    "sourcePage": 130,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Những quả đào”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Để bảo vệ chim, em nên làm gì?",
+    "a": "Không phá tổ và không săn bắt chim",
+    "c": [
+      "Không phá tổ và không săn bắt chim",
+      "Ném đá vào chim",
+      "Lấy trứng chim",
+      "Phá tổ chim"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Bảo vệ như thế là rất tốt – Đọc hiểu và rút ra bài học từ bài “Bảo vệ như thế là rất tốt”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Bảo vệ như thế là rất tốt",
+    "sourcePage": 146,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Bảo vệ như thế là rất tốt”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Khi đi biển, em cần làm gì để an toàn?",
+    "a": "Tuân theo hướng dẫn của người lớn",
+    "c": [
+      "Tự bơi ra xa",
+      "Chạy vào nơi cấm",
+      "Xả rác xuống biển",
+      "Tuân theo hướng dẫn của người lớn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Du lịch biển Việt Nam – Đọc hiểu và rút ra bài học từ bài “Du lịch biển Việt Nam”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Đọc: Du lịch biển Việt Nam",
+    "sourcePage": 158,
+    "explanation": "Chi tiết và bài học này được khai thác từ bài đọc “Du lịch biển Việt Nam”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (con kiến)",
+    "a": "con kiến",
+    "c": [
+      "con yến",
+      "con khiến",
+      "con kiến",
+      "con kiếng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: âm đầu – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: âm đầu",
+    "sourcePage": 26,
+    "explanation": "Từ viết đúng là “con kiến”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (ngôi trường)",
     "a": "ngôi trường",
     "c": [
+      "nghôi trường",
       "ngôi trường",
-      "xanh biếc",
-      "học bài",
-      "thơm tho"
+      "ngôi chường",
+      "ngồi trường"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "lo": "Chính tả: âm đầu – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: âm đầu",
+    "sourcePage": 34,
+    "explanation": "Từ viết đúng là “ngôi trường”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
   },
   {
-    "q": "Từ nào sau đây là từ chỉ đặc điểm?",
+    "q": "Từ nào viết đúng chính tả? (sạch sẽ)",
+    "a": "sạch sẽ",
+    "c": [
+      "sạch sẽ",
+      "xạch sẽ",
+      "sạch xẽ",
+      "xạch xẽ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: s/x – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: s/x",
+    "sourcePage": 46,
+    "explanation": "Từ viết đúng là “sạch sẽ”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (chăm chỉ)",
     "a": "chăm chỉ",
     "c": [
-      "chăm chỉ",
-      "quét nhà",
-      "con mèo",
+      "trăm chỉ",
+      "chăm trỉ",
+      "trăm trỉ",
+      "chăm chỉ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: ch/tr – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: ch/tr",
+    "sourcePage": 54,
+    "explanation": "Từ viết đúng là “chăm chỉ”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (rực rỡ)",
+    "a": "rực rỡ",
+    "c": [
+      "giực rỡ",
+      "rực dỡ",
+      "rực rỡ",
+      "dực dỡ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: r/d/gi – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: r/d/gi",
+    "sourcePage": 68,
+    "explanation": "Từ viết đúng là “rực rỡ”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (bầu trời)",
+    "a": "bầu trời",
+    "c": [
+      "bầu chời",
+      "bầu lời",
+      "bầu trời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: tr/ch – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: tr/ch",
+    "sourcePage": 78,
+    "explanation": "Từ viết đúng là “bầu trời”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (dòng sông)",
+    "a": "dòng sông",
+    "c": [
+      "dòng sông",
+      "ròng sông",
+      "giòng sông",
+      "dòng xông"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: r/d/gi – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: r/d/gi",
+    "sourcePage": 92,
+    "explanation": "Từ viết đúng là “dòng sông”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (cây xanh)",
+    "a": "cây xanh",
+    "c": [
+      "cây sanh",
+      "cây xang",
+      "cây chanh",
+      "cây xanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: s/x – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: s/x",
+    "sourcePage": 104,
+    "explanation": "Từ viết đúng là “cây xanh”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (tiếng chim)",
+    "a": "tiếng chim",
+    "c": [
+      "tiếng trym",
+      "tiếng chym",
+      "tiếng chim",
+      "tiến chim"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần tiếng – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: vần tiếng",
+    "sourcePage": 118,
+    "explanation": "Từ viết đúng là “tiếng chim”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (mùa xuân)",
+    "a": "mùa xuân",
+    "c": [
+      "mùa chuân",
+      "mùa xuân",
+      "mùa xuan",
+      "mùa suân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 18,
+    "explanation": "Từ viết đúng là “mùa xuân”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (bông hoa)",
+    "a": "bông hoa",
+    "c": [
+      "bông hoa",
+      "bôn hoa",
+      "bông qua",
+      "bông hoà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 30,
+    "explanation": "Từ viết đúng là “bông hoa”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (cánh đồng)",
+    "a": "cánh đồng",
+    "c": [
+      "cánh đòng",
+      "cánh đồngg",
+      "cảnh đồng",
+      "cánh đồng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 44,
+    "explanation": "Từ viết đúng là “cánh đồng”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (ngọn núi)",
+    "a": "ngọn núi",
+    "c": [
+      "ngọn nũi",
+      "ngọn núy",
+      "ngọn núi",
+      "ngọn lúi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 56,
+    "explanation": "Từ viết đúng là “ngọn núi”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (thành phố)",
+    "a": "thành phố",
+    "c": [
+      "thành phỗ",
+      "thành phố",
+      "thành bố",
+      "thành phó"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: thanh điệu – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: thanh điệu",
+    "sourcePage": 72,
+    "explanation": "Từ viết đúng là “thành phố”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (yêu thương)",
+    "a": "yêu thương",
+    "c": [
+      "yêu thương",
+      "iêu thương",
+      "yêu thươn",
+      "yêu thưởng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 88,
+    "explanation": "Từ viết đúng là “yêu thương”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (dũng cảm)",
+    "a": "dũng cảm",
+    "c": [
+      "rũng cảm",
+      "giũng cảm",
+      "dũng kảm",
+      "dũng cảm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: r/d/gi – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: r/d/gi",
+    "sourcePage": 102,
+    "explanation": "Từ viết đúng là “dũng cảm”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (câu chuyện)",
+    "a": "câu chuyện",
+    "c": [
+      "câu chuyền",
+      "cầu chuyện",
+      "câu chuyện",
+      "câu truyện"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: ch/tr – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: ch/tr",
+    "sourcePage": 120,
+    "explanation": "Từ viết đúng là “câu chuyện”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (quê hương)",
+    "a": "quê hương",
+    "c": [
+      "quê hươn",
+      "quê hương",
+      "quê hường",
+      "quề hương"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: vần – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: vần",
+    "sourcePage": 136,
+    "explanation": "Từ viết đúng là “quê hương”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào viết đúng chính tả? (sân trường)",
+    "a": "sân trường",
+    "c": [
+      "sân trường",
+      "xân trường",
+      "sân chường",
+      "sân trườn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chính tả: s/x, ch/tr – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Chính tả: s/x, ch/tr",
+    "sourcePage": 152,
+    "explanation": "Từ viết đúng là “sân trường”.",
+    "hints": [
+      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ sự vật? (câu 1)",
+    "a": "cơn mưa",
+    "c": [
+      "vui vẻ",
+      "nhảy múa",
+      "rất nhanh",
+      "cơn mưa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 40,
+    "explanation": "“cơn mưa” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ sự vật? (câu 2)",
+    "a": "con đường",
+    "c": [
+      "học bài",
+      "rất đẹp",
+      "con đường",
+      "chăm ngoan"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 50,
+    "explanation": "“con đường” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ sự vật? (câu 3)",
+    "a": "bác nông dân",
+    "c": [
+      "xanh mướt",
+      "bác nông dân",
+      "siêng năng",
+      "đang cười"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 60,
+    "explanation": "“bác nông dân” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ hoạt động? (câu 4)",
+    "a": "tưới cây",
+    "c": [
+      "tưới cây",
+      "bông hoa",
+      "đỏ thắm",
+      "sân trường"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 70,
+    "explanation": "“tưới cây” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ hoạt động? (câu 5)",
+    "a": "xếp hàng",
+    "c": [
+      "học sinh",
+      "ngoan ngoãn",
+      "cây bàng",
+      "xếp hàng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 80,
+    "explanation": "“xếp hàng” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ hoạt động? (câu 6)",
+    "a": "vẽ tranh",
+    "c": [
+      "rực rỡ",
+      "cơn gió",
+      "vẽ tranh",
+      "bút màu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 90,
+    "explanation": "“vẽ tranh” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ đặc điểm? (câu 7)",
+    "a": "cao lớn",
+    "c": [
+      "sân trường",
+      "cao lớn",
+      "đọc sách",
+      "quyển vở"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 100,
+    "explanation": "“cao lớn” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ đặc điểm? (câu 8)",
+    "a": "hiền lành",
+    "c": [
+      "hiền lành",
+      "cô giáo",
+      "chạy nhảy",
+      "bông hoa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 110,
+    "explanation": "“hiền lành” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào là từ chỉ đặc điểm? (câu 9)",
+    "a": "lấp lánh",
+    "c": [
+      "ngôi sao",
+      "học bài",
+      "xe đạp",
+      "lấp lánh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 120,
+    "explanation": "“lấp lánh” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào nói về tình cảm? (câu 10)",
+    "a": "yêu quý",
+    "c": [
+      "đi bộ",
+      "màu xanh",
+      "yêu quý",
+      "bàn học"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 40,
+    "explanation": "“yêu quý” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào nói về tình cảm? (câu 11)",
+    "a": "biết ơn",
+    "c": [
+      "to lớn",
+      "biết ơn",
+      "trường lớp",
       "viết bài"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 50,
+    "explanation": "“biết ơn” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
   },
   {
-    "q": "Trong câu 'Bé quét dọn phòng sạch sẽ', từ nào chỉ hoạt động?",
-    "a": "quét dọn",
+    "q": "Từ nào nói về tình cảm? (câu 12)",
+    "a": "vui mừng",
     "c": [
-      "quét dọn",
-      "Bé",
-      "sạch sẽ",
-      "phòng"
+      "vui mừng",
+      "quả bóng",
+      "chạy nhanh",
+      "màu đỏ"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 60,
+    "explanation": "“vui mừng” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
   },
   {
-    "q": "Chữ 'gh' đứng trước âm nào sau đây?",
-    "a": "e, ê, i",
+    "q": "Từ nào trái nghĩa với “nhanh”? (câu 13)",
+    "a": "chậm",
     "c": [
-      "e, ê, i",
-      "a, ă, â",
-      "o, ô, ơ",
-      "u, ư, uy"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Tiếng 'nghề' viết đúng chính tả với âm đầu nào?",
-    "a": "ngh",
-    "c": [
-      "ngh",
-      "ng",
-      "n",
-      "nh"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ 'cao' và từ 'thấp' có quan hệ thế nào?",
-    "a": "Từ trái nghĩa",
-    "c": [
-      "Từ trái nghĩa",
-      "Từ đồng nghĩa",
-      "Từ đồng âm",
-      "Từ láy"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào sau đây là từ láy?",
-    "a": "lung linh",
-    "c": [
-      "lung linh",
-      "ngôi nhà",
-      "học bài",
-      "trời xanh"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Dấu phẩy (,) dùng để làm gì trong câu?",
-    "a": "Ngăn cách các bộ phận của câu",
-    "c": [
-      "Ngăn cách các bộ phận của câu",
-      "Kết thúc câu hỏi",
-      "Kết thúc câu kể",
-      "Bày tỏ tình cảm"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Bé chọn từ thích hợp: Chim chao ___ trên bầu trời rộng lớn.",
-    "a": "lượn",
-    "c": [
-      "lượn",
-      "chạy",
-      "bò",
-      "ngủ"
-    ],
-    "type": "fill_blank",
-    "sentence": "Chim chao ___ trên bầu trời rộng lớn.",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Điền từ chỉ đặc điểm: Nụ hoa hồng nở đỏ ___ trong vườn.",
-    "a": "thắm",
-    "c": [
-      "thắm",
-      "nhạt",
-      "đen",
-      "vàng"
-    ],
-    "type": "fill_blank",
-    "sentence": "Nụ hoa hồng nở đỏ ___ trong vườn.",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Chọn từ chỉ hoạt động phù hợp:",
-    "a": "rửa",
-    "c": [
-      "rửa",
-      "ăn",
-      "ngủ",
-      "chạy"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Chọn từ trái nghĩa thích hợp: Người tốt không làm việc ___.",
-    "a": "xấu",
-    "c": [
-      "xấu",
-      "đẹp",
       "cao",
-      "to"
+      "rộng",
+      "sáng",
+      "chậm"
     ],
-    "type": "fill_blank",
-    "sentence": "Người tốt không làm việc ___.",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 70,
+    "explanation": "“chậm” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
   },
   {
-    "q": "Sắp xếp lại câu thành ngữ sau:",
-    "a": "Ăn quả nhớ kẻ trồng cây",
+    "q": "Từ nào trái nghĩa với “sạch”? (câu 14)",
+    "a": "bẩn",
     "c": [
-      "Ăn quả nhớ kẻ trồng cây"
+      "nhỏ",
+      "vui",
+      "bẩn",
+      "mát"
     ],
-    "type": "reorder",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2",
-    "words": [
-      "Ăn",
-      "quả",
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 80,
+    "explanation": "“bẩn” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
+    ]
+  },
+  {
+    "q": "Từ nào trái nghĩa với “yêu”? (câu 15)",
+    "a": "ghét",
+    "c": [
+      "quý",
+      "ghét",
       "nhớ",
-      "kẻ",
-      "trồng",
-      "cây"
+      "thương"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 90,
+    "explanation": "“ghét” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
     ]
   },
   {
-    "q": "Sắp xếp thành câu hoàn chỉnh:",
-    "a": "Học sinh cần chăm chỉ học bài",
+    "q": "Câu nào là câu hỏi? (câu 16)",
+    "a": "Bạn đã làm bài tập chưa?",
     "c": [
-      "Học sinh cần chăm chỉ học bài"
+      "Bạn đã làm bài tập chưa?",
+      "Em đã làm bài tập.",
+      "Hãy làm bài tập!",
+      "Ôi, bài tập khó quá!"
     ],
-    "type": "reorder",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2",
-    "words": [
-      "Học",
-      "sinh",
-      "cần",
-      "chăm",
-      "chỉ",
-      "học",
-      "bài"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 100,
+    "explanation": "“Bạn đã làm bài tập chưa?” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
     ]
   },
   {
-    "q": "Luyện gõ từ ghép sau:",
-    "a": "truong hoc",
+    "q": "Câu nào là câu khiến? (câu 17)",
+    "a": "Hãy xếp hàng ngay ngắn!",
     "c": [
-      "truong hoc"
-    ],
-    "type": "typing",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Luyện gõ từ tiếng Anh:",
-    "a": "mother",
-    "c": [
-      "mother"
-    ],
-    "type": "typing",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào viết đúng chính tả: 'chăm chỉ' hay 'trăm trỉ'?",
-    "a": "CHĂM CHỈ",
-    "c": [
-      "CHĂM CHỈ",
-      "TRĂM TRỈ",
-      "CHĂM TRỈ",
-      "TRĂM CHỈ"
+      "Các bạn đang xếp hàng.",
+      "Bạn có xếp hàng không?",
+      "Ôi, hàng dài quá!",
+      "Hãy xếp hàng ngay ngắn!"
     ],
     "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào viết đúng: 'sáng tạo' hay 'xáng tạo'?",
-    "a": "SÁNG TẠO",
-    "c": [
-      "SÁNG TẠO",
-      "XÁNG TẠO",
-      "XÁNG TẠU",
-      "SÁNG TẠU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ trái nghĩa với 'vui' là từ nào?",
-    "a": "BUỒN",
-    "c": [
-      "BUỒN",
-      "VUI VẺ",
-      "HẠNH PHÚC",
-      "PHẤN KHỞI"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ trái nghĩa với 'to' là từ nào?",
-    "a": "NHỎ",
-    "c": [
-      "NHỎ",
-      "DÀI",
-      "CAO",
-      "RỘNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào viết đúng chính tả: 'giếng nước' hay 'diếng nước'?",
-    "a": "GIẾNG NƯỚC",
-    "c": [
-      "GIẾNG NƯỚC",
-      "DIẾNG NƯỚC",
-      "ZIẾNG NƯỚC",
-      "JIẾNG NƯỚC"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Điền từ thích hợp: Con ___ là loài vật có cánh, biết bay và cho trứng.",
-    "a": "GÀ",
-    "c": [
-      "GÀ",
-      "MÈO",
-      "CÁ",
-      "CHÓ"
-    ],
-    "type": "fill_blank",
-    "sentence": "Con ___ là loài vật có cánh, biết bay và cho trứng.",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ trái nghĩa với 'nhanh' là?",
-    "a": "CHẬM",
-    "c": [
-      "CHẬM",
-      "NHANH NHẸN",
-      "TỐC ĐỘ",
-      "VỘI VÃ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào viết đúng: 'loài người' hay 'loài ngừời'?",
-    "a": "LOÀI NGƯỜI",
-    "c": [
-      "LOÀI NGƯỜI",
-      "LOÀI NGỪỜI",
-      "LOẠI NGƯỜI",
-      "LOẠI NGỪỜI"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Từ nào là từ chỉ người trong câu: 'Bác sĩ đang khám bệnh cho bệnh nhân'?",
-    "a": "Bác sĩ, bệnh nhân",
-    "c": [
-      "Bác sĩ, bệnh nhân",
-      "Khám bệnh",
-      "Cho",
-      "Đang"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Cặp từ nào dưới đây là cặp từ trái nghĩa?",
-    "a": "Chăm chỉ - Lười biếng",
-    "c": [
-      "Chăm chỉ - Lười biếng",
-      "Siêng năng - Cần cù",
-      "Hiền lành - Tốt bụng",
-      "Thông minh - Sáng dạ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Câu nào dưới đây là câu nêu hoạt động?",
-    "a": "Đàn chim đang bay về tổ.",
-    "c": [
-      "Đàn chim đang bay về tổ.",
-      "Bầu trời xanh bao la.",
-      "Hoa hồng rất thơm.",
-      "Em là học sinh lớp 2."
-    ],
-    "type": "multiple_choice",
-    "lo": "Rèn luyện từ ngữ, câu văn và chính tả tiếng Việt lớp 2"
-  },
-  {
-    "q": "Ghép từ với nghĩa phù hợp (từ đồng nghĩa):",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Nhận biết và phân biệt từ đồng nghĩa trong Tiếng Việt",
-    "pairs": [
-      {
-        "left": "Vui",
-        "right": "Mừng"
-      },
-      {
-        "left": "Buồn",
-        "right": "Đau khổ"
-      },
-      {
-        "left": "Đẹp",
-        "right": "Xinh"
-      },
-      {
-        "left": "To",
-        "right": "Lớn"
-      }
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 110,
+    "explanation": "“Hãy xếp hàng ngay ngắn!” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
     ]
   },
   {
-    "q": "Sắp xếp các từ thành câu hoàn chỉnh:",
-    "a": "Chúng em học bài chăm chỉ",
+    "q": "Câu nào là câu cảm? (câu 18)",
+    "a": "Ôi, bầu trời đẹp quá!",
     "c": [
-      "Chúng em học bài chăm chỉ"
+      "Bầu trời có đẹp không?",
+      "Hãy nhìn bầu trời.",
+      "Ôi, bầu trời đẹp quá!",
+      "Bầu trời rất đẹp."
     ],
-    "words": [
-      "Chúng",
-      "em",
-      "học",
-      "bài",
-      "chăm",
-      "chỉ"
-    ],
-    "type": "reorder",
-    "lo": "Rèn luyện kỹ năng đặt câu đúng ngữ pháp"
-  },
-  {
-    "q": "Điền từ thích hợp: Trời ___ ướt hết sân trường, học sinh phải ở trong lớp.",
-    "a": "mưa",
-    "c": [
-      "mưa",
-      "nắng",
-      "gió",
-      "bão"
-    ],
-    "type": "fill_blank",
-    "sentence": "Trời ___ ướt hết sân trường, học sinh phải ở trong lớp.",
-    "lo": "Rèn luyện sử dụng từ ngữ đúng ngữ cảnh câu văn"
-  },
-  {
-    "q": "Ghép vế đầu và vế sau của câu tục ngữ:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Nhận biết và hiểu ý nghĩa các câu tục ngữ về học tập và thiên nhiên",
-    "pairs": [
-      {
-        "left": "Học ăn",
-        "right": "học nói"
-      },
-      {
-        "left": "Đi một ngày đàng",
-        "right": "học một sàng khôn"
-      },
-      {
-        "left": "Thương người",
-        "right": "như thể thương thân"
-      },
-      {
-        "left": "Cần cù",
-        "right": "bù thông minh"
-      }
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ ngữ và kiểu câu đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 120,
+    "explanation": "“Ôi, bầu trời đẹp quá!” là đáp án phù hợp với yêu cầu về từ hoặc câu.",
+    "hints": [
+      "Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu."
     ]
   },
   {
-    "q": "Từ \"xinh xắn\" viết đúng chính tả.",
-    "a": "Sai",
+    "q": "Điền dấu câu phù hợp: “Bạn tên là gì___”",
+    "a": "?",
     "c": [
-      "Đúng",
-      "Sai"
+      ",",
+      "?",
+      ".",
+      "!"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng dấu chấm hỏi ở cuối câu hỏi",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 70,
+    "explanation": "Đáp án phù hợp là “?”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
   },
   {
-    "q": "Từ \"xuất sắc\" viết sai chính tả thành \"xuất xắc\".",
-    "a": "Sai",
+    "q": "Điền dấu câu phù hợp: “Em rất yêu mái trường___”",
+    "a": "!",
     "c": [
-      "Đúng",
-      "Sai"
+      "!",
+      ".",
+      "?",
+      ","
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng dấu chấm than để bộc lộ cảm xúc",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 77,
+    "explanation": "Đáp án phù hợp là “!”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
   },
   {
-    "q": "Bé học giỏi triếng Việt.",
-    "a": "triếng",
-    "words": [
-      "Bé",
-      "học",
-      "giỏi",
-      "triếng",
-      "Việt."
+    "q": "Điền dấu câu phù hợp: “Buổi sáng, em đến trường___”",
+    "a": ".",
+    "c": [
+      "?",
+      "!",
+      ",",
+      "."
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng dấu chấm kết thúc câu kể",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 84,
+    "explanation": "Đáp án phù hợp là “.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
   },
   {
-    "q": "Chạy bộ",
-    "a": "Động từ",
+    "q": "Trong câu “Lan, Mai và Hoa cùng trồng cây.”, dấu phẩy dùng để làm gì?",
+    "a": "Ngăn cách các từ cùng loại",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "Bộc lộ cảm xúc",
+      "Nối hai tiếng",
+      "Ngăn cách các từ cùng loại",
+      "Kết thúc câu hỏi"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng dấu phẩy đúng cách",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 91,
+    "explanation": "Đáp án phù hợp là “Ngăn cách các từ cùng loại”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
   },
   {
-    "q": "Ngôi trường",
-    "a": "Danh từ",
+    "q": "Từ nào có thể dùng để xưng hô lễ phép với người lớn?",
+    "a": "ạ",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "nhé",
+      "ạ",
+      "này",
+      "đấy"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Sử dụng từ ngữ lễ phép",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 98,
+    "explanation": "Đáp án phù hợp là “ạ”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Khi viết đầu câu, chữ cái đầu tiên cần viết như thế nào?",
+    "a": "Viết hoa",
+    "c": [
+      "Viết hoa",
+      "Viết thường",
+      "Viết thật nhỏ",
+      "Không cần viết"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Viết hoa đầu câu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 105,
+    "explanation": "Đáp án phù hợp là “Viết hoa”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Tên người Việt Nam cần được viết như thế nào?",
+    "a": "Viết hoa chữ cái đầu mỗi tiếng",
+    "c": [
+      "Viết toàn chữ thường",
+      "Viết không dấu",
+      "Viết tùy ý",
+      "Viết hoa chữ cái đầu mỗi tiếng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Viết tên riêng",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 112,
+    "explanation": "Đáp án phù hợp là “Viết hoa chữ cái đầu mỗi tiếng”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào phù hợp để hoàn thành câu: “Chúng em ___ thầy cô.”",
+    "a": "kính trọng",
+    "c": [
+      "chạy nhảy",
+      "cái bàn",
+      "kính trọng",
+      "kính mời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ phù hợp trong câu",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 119,
+    "explanation": "Đáp án phù hợp là “kính trọng”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào phù hợp để hoàn thành câu: “Buổi trưa, nắng ___.”",
+    "a": "chói chang",
+    "c": [
+      "cái bút",
+      "chói chang",
+      "đọc sách",
+      "con mèo"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ chỉ đặc điểm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 126,
+    "explanation": "Đáp án phù hợp là “chói chang”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào phù hợp để hoàn thành câu: “Bạn Nam đang ___ bài.”",
+    "a": "làm",
+    "c": [
+      "làm",
+      "xanh",
+      "quyển",
+      "sân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ chỉ hoạt động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 133,
+    "explanation": "Đáp án phù hợp là “làm”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Câu nào thể hiện lời đề nghị lịch sự?",
+    "a": "Bạn cho mình mượn bút nhé.",
+    "c": [
+      "Đưa bút đây!",
+      "Không cho thì thôi!",
+      "Bạn thật dở!",
+      "Bạn cho mình mượn bút nhé."
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Giao tiếp lịch sự",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 70,
+    "explanation": "Đáp án phù hợp là “Bạn cho mình mượn bút nhé.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Câu nào thể hiện lời cảm ơn?",
+    "a": "Em cảm ơn bác ạ.",
+    "c": [
+      "Con không cần.",
+      "Đi chỗ khác.",
+      "Em cảm ơn bác ạ.",
+      "Bác làm đi."
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Giao tiếp lễ phép",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 77,
+    "explanation": "Đáp án phù hợp là “Em cảm ơn bác ạ.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “ươn”?",
+    "a": "vươn vai",
+    "c": [
+      "đi học",
+      "vươn vai",
+      "bàn ghế",
+      "con mèo"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 84,
+    "explanation": "Đáp án phù hợp là “vươn vai”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “iêng”?",
+    "a": "tiếng chim",
+    "c": [
+      "tiếng chim",
+      "hoa sen",
+      "cây bàng",
+      "quả cam"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 91,
+    "explanation": "Đáp án phù hợp là “tiếng chim”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “uôn”?",
+    "a": "buồn bã",
+    "c": [
+      "vui vẻ",
+      "cây xanh",
+      "đi học",
+      "buồn bã"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 98,
+    "explanation": "Đáp án phù hợp là “buồn bã”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “uy”?",
+    "a": "ngày mai",
+    "c": [
+      "bông lúa",
+      "cái bàn",
+      "ngày mai",
+      "hoa hồng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 105,
+    "explanation": "Đáp án phù hợp là “ngày mai”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “iêu”?",
+    "a": "yêu quý",
+    "c": [
+      "con đường",
+      "yêu quý",
+      "mùa hè",
+      "bầu trời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 112,
+    "explanation": "Đáp án phù hợp là “yêu quý”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “oang”?",
+    "a": "rộng ràng",
+    "c": [
+      "rộng ràng",
+      "xinh xắn",
+      "chăm ngoan",
+      "vui vẻ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 119,
+    "explanation": "Đáp án phù hợp là “rộng ràng”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “uông”?",
+    "a": "ruộng lúa",
+    "c": [
+      "cây cối",
+      "bút chì",
+      "sân trường",
+      "ruộng lúa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 126,
+    "explanation": "Đáp án phù hợp là “ruộng lúa”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “iêt”?",
+    "a": "tiết học",
+    "c": [
+      "đi chơi",
+      "mưa rơi",
+      "tiết học",
+      "bông hoa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 133,
+    "explanation": "Đáp án phù hợp là “tiết học”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “uyên”?",
+    "a": "khuyên bảo",
+    "c": [
+      "cây xanh",
+      "khuyên bảo",
+      "yêu thương",
+      "bầu trời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 70,
+    "explanation": "Đáp án phù hợp là “khuyên bảo”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Từ nào có tiếng chứa vần “uynh”?",
+    "a": "phụ huynh",
+    "c": [
+      "phụ huynh",
+      "học sinh",
+      "thầy giáo",
+      "bạn bè"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Nhận biết vần đã học",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 77,
+    "explanation": "Đáp án phù hợp là “phụ huynh”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Câu nào dùng từ chỉ hoạt động đúng?",
+    "a": "Các bạn đang đá cầu.",
+    "c": [
+      "Các bạn rất đá cầu.",
+      "Đá cầu rất các bạn.",
+      "Các bạn cái đá cầu.",
+      "Các bạn đang đá cầu."
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ chỉ hoạt động",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 84,
+    "explanation": "Đáp án phù hợp là “Các bạn đang đá cầu.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Câu nào dùng từ chỉ đặc điểm đúng?",
+    "a": "Bông hoa rất thơm.",
+    "c": [
+      "Bông hoa là thơm.",
+      "Thơm bông hoa rất.",
+      "Bông hoa rất thơm.",
+      "Bông hoa đang thơm."
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ chỉ đặc điểm",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 91,
+    "explanation": "Đáp án phù hợp là “Bông hoa rất thơm.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
+  },
+  {
+    "q": "Câu nào dùng từ chỉ sự vật đúng?",
+    "a": "Cây bàng ở sân trường.",
+    "c": [
+      "Cây bàng học bài.",
+      "Cây bàng ở sân trường.",
+      "Cây bàng rất chạy.",
+      "Cây bàng đang xanh bút."
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành tiếng Việt – Dùng từ chỉ sự vật",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 2, Tập hai – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-2-ket-noi-tri-thuc-voi-cuoc-songeddfb_5120269.pdf) – Thực hành tiếng Việt",
+    "sourcePage": 98,
+    "explanation": "Đáp án phù hợp là “Cây bàng ở sân trường.”.",
+    "hints": [
+      "Đọc cả câu để chọn từ, vần hoặc dấu câu đúng."
+    ]
   }
 ]
