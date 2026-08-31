@@ -2239,7 +2239,7 @@ function updateMarketPrices() {
             const qText = document.getElementById("quest-text");
             if (qText) qText.style.display = "";
             const qBadge = document.getElementById("quest-lo-badge");
-            if (qBadge) qBadge.style.display = "";
+            if (qBadge) qBadge.style.display = "none";
             const qHearts = document.getElementById("quest-hearts-container");
             if (qHearts) qHearts.style.display = "";
             activeTask = null;
@@ -5110,16 +5110,10 @@ function generateSpecificSubjectQuestion(subject, mode) {
     activeTask.correctAnswer = ans;
     activeTask.questionText = question;
     
-    // Set context for NPC & Learning Objective
+    // Set context for NPC & Learning Objective (ẩn LO badge trong lúc làm bài để học sinh tự suy luận)
     const loBadge = document.getElementById("quest-lo-badge");
-    const loText = document.getElementById("quest-lo-text");
-    if (loBadge && loText) {
-        if (candidate && candidate.lo) {
-            loText.innerText = candidate.lo;
-            loBadge.style.display = "block";
-        } else {
-            loBadge.style.display = "none";
-        }
+    if (loBadge) {
+        loBadge.style.display = "none";
     }
 
     if (candidate) {
