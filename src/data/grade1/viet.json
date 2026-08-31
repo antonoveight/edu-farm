@@ -1,6 +1,6 @@
 [
   {
-    "q": "Ở Bài 1, tiếng nào bắt đầu bằng “a”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “a”?",
     "a": "áo",
     "c": [
       "áo",
@@ -19,7 +19,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 1:",
+    "q": "Bé hãy gõ lại tiếng “áo” (chứa âm/vần a):",
     "a": "áo",
     "c": [],
     "type": "typing",
@@ -33,7 +33,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 2, tiếng nào bắt đầu bằng “b”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “b”?",
     "a": "bà",
     "c": [
       "ong",
@@ -52,7 +52,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 2:",
+    "q": "Bé hãy gõ lại tiếng “bà” (chứa âm/vần b):",
     "a": "bà",
     "c": [],
     "type": "typing",
@@ -66,7 +66,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 3, tiếng nào bắt đầu bằng “c”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “c”?",
     "a": "cá",
     "c": [
       "cá",
@@ -85,7 +85,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 3:",
+    "q": "Bé hãy gõ lại tiếng “cá” (chứa âm/vần c):",
     "a": "cá",
     "c": [],
     "type": "typing",
@@ -99,7 +99,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 4, tiếng nào bắt đầu bằng “e”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “e”?",
     "a": "em",
     "c": [
       "dê",
@@ -118,7 +118,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 4, tiếng nào bắt đầu bằng “ê”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ê”?",
     "a": "ếch",
     "c": [
       "đò",
@@ -137,7 +137,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 4:",
+    "q": "Bé hãy gõ lại tiếng “em” (chứa âm/vần e):",
     "a": "em",
     "c": [],
     "type": "typing",
@@ -151,7 +151,7 @@
     "hints": []
   },
   {
-    "q": "Bài 5 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (a, b, c, e, ê và các dấu thanh đã học)?",
     "a": "a, b, c, e, ê và các dấu thanh đã học",
     "c": [
       "chỉ các chữ số",
@@ -170,7 +170,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 5:",
+    "q": "Bé hãy gõ lại từ ngữ “bé”:",
     "a": "bé",
     "c": [],
     "type": "typing",
@@ -184,7 +184,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 6, tiếng nào bắt đầu bằng “o”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “o”?",
     "a": "ong",
     "c": [
       "in",
@@ -203,7 +203,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 6:",
+    "q": "Bé hãy gõ lại tiếng “ong” (chứa âm/vần o):",
     "a": "ong",
     "c": [],
     "type": "typing",
@@ -217,7 +217,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 7, tiếng nào bắt đầu bằng “ô”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ô”?",
     "a": "ô",
     "c": [
       "ớt",
@@ -236,7 +236,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 7:",
+    "q": "Bé hãy gõ lại tiếng “ô” (chứa âm/vần ô):",
     "a": "ô",
     "c": [],
     "type": "typing",
@@ -250,7 +250,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 8, tiếng nào bắt đầu bằng “d”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “d”?",
     "a": "dê",
     "c": [
       "hè",
@@ -269,7 +269,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 8, tiếng nào bắt đầu bằng “đ”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “đ”?",
     "a": "đò",
     "c": [
       "đò",
@@ -288,7 +288,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 8:",
+    "q": "Bé hãy gõ lại tiếng “dê” (chứa âm/vần d):",
     "a": "dê",
     "c": [],
     "type": "typing",
@@ -302,7 +302,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 9, tiếng nào bắt đầu bằng “ơ”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ơ”?",
     "a": "ớt",
     "c": [
       "hè",
@@ -321,7 +321,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 9:",
+    "q": "Bé hãy gõ lại tiếng “ớt” (chứa âm/vần ơ):",
     "a": "ớt",
     "c": [],
     "type": "typing",
@@ -335,7 +335,7 @@
     "hints": []
   },
   {
-    "q": "Bài 10 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (o, ô, ơ, d, đ và các dấu thanh đã học)?",
     "a": "o, ô, ơ, d, đ và các dấu thanh đã học",
     "c": [
       "o, ô, ơ, d, đ và các dấu thanh đã học",
@@ -354,7 +354,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 10:",
+    "q": "Bé hãy gõ lại từ ngữ “đỏ”:",
     "a": "đỏ",
     "c": [],
     "type": "typing",
@@ -368,7 +368,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 11, tiếng nào bắt đầu bằng “i”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “i”?",
     "a": "in",
     "c": [
       "ủ",
@@ -387,7 +387,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 11, tiếng nào bắt đầu bằng “k”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “k”?",
     "a": "kẻ",
     "c": [
       "ừ",
@@ -406,7 +406,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 11:",
+    "q": "Bé hãy gõ lại tiếng “in” (chứa âm/vần i):",
     "a": "in",
     "c": [],
     "type": "typing",
@@ -420,7 +420,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 12, tiếng nào bắt đầu bằng “h”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “h”?",
     "a": "hè",
     "c": [
       "ủ",
@@ -439,7 +439,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 12, tiếng nào bắt đầu bằng “l”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “l”?",
     "a": "lá",
     "c": [
       "ừ",
@@ -458,7 +458,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 12:",
+    "q": "Bé hãy gõ lại tiếng “hè” (chứa âm/vần h):",
     "a": "hè",
     "c": [],
     "type": "typing",
@@ -472,7 +472,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 13, tiếng nào bắt đầu bằng “u”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “u”?",
     "a": "ủ",
     "c": [
       "ủ",
@@ -491,7 +491,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 13, tiếng nào bắt đầu bằng “ư”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ư”?",
     "a": "ừ",
     "c": [
       "ủ",
@@ -510,7 +510,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 13:",
+    "q": "Bé hãy gõ lại tiếng “ủ” (chứa âm/vần u):",
     "a": "ủ",
     "c": [],
     "type": "typing",
@@ -524,7 +524,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 14, tiếng nào bắt đầu bằng “ch”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ch”?",
     "a": "chim",
     "c": [
       "na",
@@ -543,7 +543,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 14, tiếng nào bắt đầu bằng “kh”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “kh”?",
     "a": "khế",
     "c": [
       "khế",
@@ -562,7 +562,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 14:",
+    "q": "Bé hãy gõ lại tiếng “chim” (chứa âm/vần ch):",
     "a": "chim",
     "c": [],
     "type": "typing",
@@ -576,7 +576,7 @@
     "hints": []
   },
   {
-    "q": "Bài 15 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (i, k, h, l, u, ư, ch, kh)?",
     "a": "i, k, h, l, u, ư, ch, kh",
     "c": [
       "chỉ phép cộng",
@@ -595,7 +595,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 15:",
+    "q": "Bé hãy gõ lại từ ngữ “chú khỉ”:",
     "a": "chú khỉ",
     "c": [],
     "type": "typing",
@@ -609,7 +609,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 16, tiếng nào bắt đầu bằng “m”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “m”?",
     "a": "mẹ",
     "c": [
       "mẹ",
@@ -628,7 +628,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 16, tiếng nào bắt đầu bằng “n”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “n”?",
     "a": "na",
     "c": [
       "khế",
@@ -647,7 +647,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 16:",
+    "q": "Bé hãy gõ lại tiếng “mẹ” (chứa âm/vần m):",
     "a": "mẹ",
     "c": [],
     "type": "typing",
@@ -661,7 +661,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 17, tiếng nào bắt đầu bằng “g”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “g”?",
     "a": "gà",
     "c": [
       "nhà",
@@ -680,7 +680,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 17, tiếng nào bắt đầu bằng “gi”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “gi”?",
     "a": "giỏ",
     "c": [
       "giỏ",
@@ -699,7 +699,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 17:",
+    "q": "Bé hãy gõ lại tiếng “gà” (chứa âm/vần g):",
     "a": "gà",
     "c": [],
     "type": "typing",
@@ -713,7 +713,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 18, tiếng nào bắt đầu bằng “gh”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “gh”?",
     "a": "ghế",
     "c": [
       "bà",
@@ -732,7 +732,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 18, tiếng nào bắt đầu bằng “nh”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “nh”?",
     "a": "nhà",
     "c": [
       "cá",
@@ -751,7 +751,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 18:",
+    "q": "Bé hãy gõ lại tiếng “ghế” (chứa âm/vần gh):",
     "a": "ghế",
     "c": [],
     "type": "typing",
@@ -765,7 +765,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 19, tiếng nào bắt đầu bằng “ng”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ng”?",
     "a": "ngõ",
     "c": [
       "bà",
@@ -784,7 +784,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 19, tiếng nào bắt đầu bằng “ngh”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ngh”?",
     "a": "nghé",
     "c": [
       "em",
@@ -803,7 +803,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 19:",
+    "q": "Bé hãy gõ lại tiếng “ngõ” (chứa âm/vần ng):",
     "a": "ngõ",
     "c": [],
     "type": "typing",
@@ -817,7 +817,7 @@
     "hints": []
   },
   {
-    "q": "Bài 20 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (m, n, g, gi, gh, nh, ng, ngh)?",
     "a": "m, n, g, gi, gh, nh, ng, ngh",
     "c": [
       "m, n, g, gi, gh, nh, ng, ngh",
@@ -836,7 +836,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 20:",
+    "q": "Bé hãy gõ lại từ ngữ “nghỉ hè”:",
     "a": "nghỉ hè",
     "c": [],
     "type": "typing",
@@ -850,7 +850,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 21, tiếng nào bắt đầu bằng “r”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “r”?",
     "a": "rổ",
     "c": [
       "em",
@@ -869,7 +869,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 21, tiếng nào bắt đầu bằng “s”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “s”?",
     "a": "sẻ",
     "c": [
       "ếch",
@@ -888,7 +888,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 21:",
+    "q": "Bé hãy gõ lại tiếng “rổ” (chứa âm/vần r):",
     "a": "rổ",
     "c": [],
     "type": "typing",
@@ -902,7 +902,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 22, tiếng nào bắt đầu bằng “t”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “t”?",
     "a": "táo",
     "c": [
       "em",
@@ -921,7 +921,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 22, tiếng nào bắt đầu bằng “tr”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “tr”?",
     "a": "trâu",
     "c": [
       "ong",
@@ -940,7 +940,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 22:",
+    "q": "Bé hãy gõ lại tiếng “táo” (chứa âm/vần t):",
     "a": "táo",
     "c": [],
     "type": "typing",
@@ -954,7 +954,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 23, tiếng nào bắt đầu bằng “th”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “th”?",
     "a": "thỏ",
     "c": [
       "thỏ",
@@ -973,7 +973,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 23, tiếng nào chứa vần “ia”?",
+    "q": "Tiếng nào dưới đây chứa vần “ia”?",
     "a": "tia",
     "c": [
       "ong",
@@ -992,7 +992,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 23:",
+    "q": "Bé hãy gõ lại tiếng “thỏ” (chứa âm/vần th):",
     "a": "thỏ",
     "c": [],
     "type": "typing",
@@ -1006,7 +1006,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 24, tiếng nào chứa vần “ua”?",
+    "q": "Tiếng nào dưới đây chứa vần “ua”?",
     "a": "cua",
     "c": [
       "đò",
@@ -1025,7 +1025,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 24, tiếng nào chứa vần “ưa”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưa”?",
     "a": "dưa",
     "c": [
       "dưa",
@@ -1044,7 +1044,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 24:",
+    "q": "Bé hãy gõ lại tiếng “cua” (chứa âm/vần ua):",
     "a": "cua",
     "c": [],
     "type": "typing",
@@ -1058,7 +1058,7 @@
     "hints": []
   },
   {
-    "q": "Bài 25 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (r, s, t, tr, th, ia, ua, ưa)?",
     "a": "r, s, t, tr, th, ia, ua, ưa",
     "c": [
       "chỉ phép cộng",
@@ -1077,7 +1077,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 25:",
+    "q": "Bé hãy gõ lại từ ngữ “con thỏ”:",
     "a": "con thỏ",
     "c": [],
     "type": "typing",
@@ -1091,7 +1091,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 26, tiếng nào bắt đầu bằng “ph”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “ph”?",
     "a": "phố",
     "c": [
       "phố",
@@ -1110,7 +1110,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 26, tiếng nào bắt đầu bằng “qu”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “qu”?",
     "a": "quà",
     "c": [
       "đò",
@@ -1129,7 +1129,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 26:",
+    "q": "Bé hãy gõ lại tiếng “phố” (chứa âm/vần ph):",
     "a": "phố",
     "c": [],
     "type": "typing",
@@ -1143,7 +1143,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 27, tiếng nào bắt đầu bằng “v”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “v”?",
     "a": "voi",
     "c": [
       "in",
@@ -1162,7 +1162,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 27, tiếng nào bắt đầu bằng “x”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “x”?",
     "a": "xe",
     "c": [
       "xe",
@@ -1181,7 +1181,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 27:",
+    "q": "Bé hãy gõ lại tiếng “voi” (chứa âm/vần v):",
     "a": "voi",
     "c": [],
     "type": "typing",
@@ -1195,7 +1195,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 28, tiếng nào bắt đầu bằng “y”?",
+    "q": "Tiếng nào dưới đây bắt đầu bằng âm “y”?",
     "a": "y tá",
     "c": [
       "in",
@@ -1214,7 +1214,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 28:",
+    "q": "Bé hãy gõ lại tiếng “y tá” (chứa âm/vần y):",
     "a": "y tá",
     "c": [],
     "type": "typing",
@@ -1228,7 +1228,7 @@
     "hints": []
   },
   {
-    "q": "Bài 29 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (các chữ ghi âm dễ lẫn đã học)?",
     "a": "các chữ ghi âm dễ lẫn đã học",
     "c": [
       "các chữ ghi âm dễ lẫn đã học",
@@ -1247,7 +1247,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 29:",
+    "q": "Bé hãy gõ lại từ ngữ “quả táo”:",
     "a": "quả táo",
     "c": [],
     "type": "typing",
@@ -1261,7 +1261,7 @@
     "hints": []
   },
   {
-    "q": "Bài 30 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ph, qu, v, x, y và chính tả)?",
     "a": "ph, qu, v, x, y và chính tả",
     "c": [
       "chỉ phép cộng",
@@ -1280,7 +1280,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 30:",
+    "q": "Bé hãy gõ lại từ ngữ “y tá”:",
     "a": "y tá",
     "c": [],
     "type": "typing",
@@ -1294,7 +1294,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 31, tiếng nào chứa vần “an”?",
+    "q": "Tiếng nào dưới đây chứa vần “an”?",
     "a": "bàn",
     "c": [
       "bàn",
@@ -1313,7 +1313,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 31, tiếng nào chứa vần “ăn”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăn”?",
     "a": "khăn",
     "c": [
       "lá",
@@ -1332,7 +1332,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 31, tiếng nào chứa vần “ân”?",
+    "q": "Tiếng nào dưới đây chứa vần “ân”?",
     "a": "cân",
     "c": [
       "ủ",
@@ -1351,7 +1351,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 31:",
+    "q": "Bé hãy gõ lại tiếng “bàn” (chứa âm/vần an):",
     "a": "bàn",
     "c": [],
     "type": "typing",
@@ -1365,7 +1365,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 32, tiếng nào chứa vần “on”?",
+    "q": "Tiếng nào dưới đây chứa vần “on”?",
     "a": "con",
     "c": [
       "con",
@@ -1384,7 +1384,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 32, tiếng nào chứa vần “ôn”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôn”?",
     "a": "ôn bài",
     "c": [
       "ủ",
@@ -1403,7 +1403,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 32, tiếng nào chứa vần “ơn”?",
+    "q": "Tiếng nào dưới đây chứa vần “ơn”?",
     "a": "sơn",
     "c": [
       "ừ",
@@ -1422,7 +1422,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 32:",
+    "q": "Bé hãy gõ lại tiếng “con” (chứa âm/vần on):",
     "a": "con",
     "c": [],
     "type": "typing",
@@ -1436,7 +1436,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 33, tiếng nào chứa vần “en”?",
+    "q": "Tiếng nào dưới đây chứa vần “en”?",
     "a": "sen",
     "c": [
       "sen",
@@ -1455,7 +1455,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 33, tiếng nào chứa vần “ên”?",
+    "q": "Tiếng nào dưới đây chứa vần “ên”?",
     "a": "tên",
     "c": [
       "ừ",
@@ -1474,7 +1474,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 33, tiếng nào chứa vần “in”?",
+    "q": "Tiếng nào dưới đây chứa vần “in”?",
     "a": "pin",
     "c": [
       "khế",
@@ -1493,7 +1493,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 33, tiếng nào chứa vần “un”?",
+    "q": "Tiếng nào dưới đây chứa vần “un”?",
     "a": "vun",
     "c": [
       "khế",
@@ -1512,7 +1512,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 33:",
+    "q": "Bé hãy gõ lại tiếng “sen” (chứa âm/vần en):",
     "a": "sen",
     "c": [],
     "type": "typing",
@@ -1526,7 +1526,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 34, tiếng nào chứa vần “am”?",
+    "q": "Tiếng nào dưới đây chứa vần “am”?",
     "a": "cam",
     "c": [
       "chim",
@@ -1545,7 +1545,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 34, tiếng nào chứa vần “ăm”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăm”?",
     "a": "tăm",
     "c": [
       "khế",
@@ -1564,7 +1564,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 34, tiếng nào chứa vần “âm”?",
+    "q": "Tiếng nào dưới đây chứa vần “âm”?",
     "a": "mâm",
     "c": [
       "mẹ",
@@ -1583,7 +1583,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 34:",
+    "q": "Bé hãy gõ lại tiếng “cam” (chứa âm/vần am):",
     "a": "cam",
     "c": [],
     "type": "typing",
@@ -1597,7 +1597,7 @@
     "hints": []
   },
   {
-    "q": "Bài 35 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm)?",
     "a": "an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm",
     "c": [
       "chỉ các chữ số",
@@ -1616,7 +1616,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 35:",
+    "q": "Bé hãy gõ lại từ ngữ “mâm cơm”:",
     "a": "mâm cơm",
     "c": [],
     "type": "typing",
@@ -1630,7 +1630,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 36, tiếng nào chứa vần “om”?",
+    "q": "Tiếng nào dưới đây chứa vần “om”?",
     "a": "lom khom",
     "c": [
       "gà",
@@ -1649,7 +1649,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 36, tiếng nào chứa vần “ôm”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôm”?",
     "a": "ôm",
     "c": [
       "ôm",
@@ -1668,7 +1668,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 36, tiếng nào chứa vần “ơm”?",
+    "q": "Tiếng nào dưới đây chứa vần “ơm”?",
     "a": "cơm",
     "c": [
       "mẹ",
@@ -1687,7 +1687,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 36:",
+    "q": "Bé hãy gõ lại tiếng “lom khom” (chứa âm/vần om):",
     "a": "lom khom",
     "c": [],
     "type": "typing",
@@ -1701,7 +1701,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 37, tiếng nào chứa vần “em”?",
+    "q": "Tiếng nào dưới đây chứa vần “em”?",
     "a": "kem",
     "c": [
       "ghế",
@@ -1720,7 +1720,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 37, tiếng nào chứa vần “êm”?",
+    "q": "Tiếng nào dưới đây chứa vần “êm”?",
     "a": "êm",
     "c": [
       "êm",
@@ -1739,7 +1739,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 37, tiếng nào chứa vần “im”?",
+    "q": "Tiếng nào dưới đây chứa vần “im”?",
     "a": "chim",
     "c": [
       "gà",
@@ -1758,7 +1758,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 37, tiếng nào chứa vần “um”?",
+    "q": "Tiếng nào dưới đây chứa vần “um”?",
     "a": "chùm",
     "c": [
       "gà",
@@ -1777,7 +1777,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 37:",
+    "q": "Bé hãy gõ lại tiếng “kem” (chứa âm/vần em):",
     "a": "kem",
     "c": [],
     "type": "typing",
@@ -1791,7 +1791,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 38, tiếng nào chứa vần “ai”?",
+    "q": "Tiếng nào dưới đây chứa vần “ai”?",
     "a": "mai",
     "c": [
       "mai",
@@ -1810,7 +1810,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 38, tiếng nào chứa vần “ay”?",
+    "q": "Tiếng nào dưới đây chứa vần “ay”?",
     "a": "tay",
     "c": [
       "áo",
@@ -1829,7 +1829,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 38, tiếng nào chứa vần “ây”?",
+    "q": "Tiếng nào dưới đây chứa vần “ây”?",
     "a": "cây",
     "c": [
       "bà",
@@ -1848,7 +1848,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 38:",
+    "q": "Bé hãy gõ lại tiếng “mai” (chứa âm/vần ai):",
     "a": "mai",
     "c": [],
     "type": "typing",
@@ -1862,7 +1862,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 39, tiếng nào chứa vần “oi”?",
+    "q": "Tiếng nào dưới đây chứa vần “oi”?",
     "a": "voi",
     "c": [
       "voi",
@@ -1881,7 +1881,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 39, tiếng nào chứa vần “ôi”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôi”?",
     "a": "ổi",
     "c": [
       "bà",
@@ -1900,7 +1900,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 39, tiếng nào chứa vần “ơi”?",
+    "q": "Tiếng nào dưới đây chứa vần “ơi”?",
     "a": "chơi",
     "c": [
       "cá",
@@ -1919,7 +1919,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 39:",
+    "q": "Bé hãy gõ lại tiếng “voi” (chứa âm/vần oi):",
     "a": "voi",
     "c": [],
     "type": "typing",
@@ -1933,7 +1933,7 @@
     "hints": []
   },
   {
-    "q": "Bài 40 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi)?",
     "a": "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
     "c": [
       "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
@@ -1952,7 +1952,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 40:",
+    "q": "Bé hãy gõ lại từ ngữ “chùm ổi”:",
     "a": "chùm ổi",
     "c": [],
     "type": "typing",
@@ -1966,7 +1966,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 41, tiếng nào chứa vần “ui”?",
+    "q": "Tiếng nào dưới đây chứa vần “ui”?",
     "a": "túi",
     "c": [
       "ếch",
@@ -1985,7 +1985,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 41, tiếng nào chứa vần “ưi”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưi”?",
     "a": "gửi",
     "c": [
       "ong",
@@ -2004,7 +2004,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 41:",
+    "q": "Bé hãy gõ lại tiếng “túi” (chứa âm/vần ui):",
     "a": "túi",
     "c": [],
     "type": "typing",
@@ -2018,7 +2018,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 42, tiếng nào chứa vần “ao”?",
+    "q": "Tiếng nào dưới đây chứa vần “ao”?",
     "a": "sao",
     "c": [
       "ong",
@@ -2037,7 +2037,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 42, tiếng nào chứa vần “eo”?",
+    "q": "Tiếng nào dưới đây chứa vần “eo”?",
     "a": "mèo",
     "c": [
       "ong",
@@ -2056,7 +2056,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 42:",
+    "q": "Bé hãy gõ lại tiếng “sao” (chứa âm/vần ao):",
     "a": "sao",
     "c": [],
     "type": "typing",
@@ -2070,7 +2070,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 43, tiếng nào chứa vần “au”?",
+    "q": "Tiếng nào dưới đây chứa vần “au”?",
     "a": "rau",
     "c": [
       "rau",
@@ -2089,7 +2089,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 43, tiếng nào chứa vần “âu”?",
+    "q": "Tiếng nào dưới đây chứa vần “âu”?",
     "a": "trâu",
     "c": [
       "ong",
@@ -2108,7 +2108,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 43, tiếng nào chứa vần “êu”?",
+    "q": "Tiếng nào dưới đây chứa vần “êu”?",
     "a": "kêu",
     "c": [
       "ô",
@@ -2127,7 +2127,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 43:",
+    "q": "Bé hãy gõ lại tiếng “rau” (chứa âm/vần au):",
     "a": "rau",
     "c": [],
     "type": "typing",
@@ -2141,7 +2141,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 44, tiếng nào chứa vần “iu”?",
+    "q": "Tiếng nào dưới đây chứa vần “iu”?",
     "a": "dịu",
     "c": [
       "dịu",
@@ -2160,7 +2160,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 44, tiếng nào chứa vần “ưu”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưu”?",
     "a": "bưu thiếp",
     "c": [
       "ô",
@@ -2179,7 +2179,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 44:",
+    "q": "Bé hãy gõ lại tiếng “dịu” (chứa âm/vần iu):",
     "a": "dịu",
     "c": [],
     "type": "typing",
@@ -2193,7 +2193,7 @@
     "hints": []
   },
   {
-    "q": "Bài 45 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ui, ưi, ao, eo, au, âu, êu, iu, ưu)?",
     "a": "ui, ưi, ao, eo, au, âu, êu, iu, ưu",
     "c": [
       "chỉ hình học",
@@ -2212,7 +2212,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 45:",
+    "q": "Bé hãy gõ lại từ ngữ “con mèo”:",
     "a": "con mèo",
     "c": [],
     "type": "typing",
@@ -2226,7 +2226,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 46, tiếng nào chứa vần “ac”?",
+    "q": "Tiếng nào dưới đây chứa vần “ac”?",
     "a": "bác",
     "c": [
       "đò",
@@ -2245,7 +2245,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 46, tiếng nào chứa vần “ăc”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăc”?",
     "a": "mắc",
     "c": [
       "ớt",
@@ -2264,7 +2264,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 46, tiếng nào chứa vần “âc”?",
+    "q": "Tiếng nào dưới đây chứa vần “âc”?",
     "a": "gấc",
     "c": [
       "in",
@@ -2283,7 +2283,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 46:",
+    "q": "Bé hãy gõ lại tiếng “bác” (chứa âm/vần ac):",
     "a": "bác",
     "c": [],
     "type": "typing",
@@ -2297,7 +2297,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 47, tiếng nào chứa vần “oc”?",
+    "q": "Tiếng nào dưới đây chứa vần “oc”?",
     "a": "học",
     "c": [
       "ớt",
@@ -2316,7 +2316,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 47, tiếng nào chứa vần “ôc”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôc”?",
     "a": "ốc",
     "c": [
       "in",
@@ -2335,7 +2335,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 47, tiếng nào chứa vần “uc”?",
+    "q": "Tiếng nào dưới đây chứa vần “uc”?",
     "a": "cúc",
     "c": [
       "kẻ",
@@ -2354,7 +2354,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 47, tiếng nào chứa vần “ưc”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưc”?",
     "a": "mực",
     "c": [
       "mực",
@@ -2373,7 +2373,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 47:",
+    "q": "Bé hãy gõ lại tiếng “học” (chứa âm/vần oc):",
     "a": "học",
     "c": [],
     "type": "typing",
@@ -2387,7 +2387,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 48, tiếng nào chứa vần “at”?",
+    "q": "Tiếng nào dưới đây chứa vần “at”?",
     "a": "hát",
     "c": [
       "kẻ",
@@ -2406,7 +2406,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 48, tiếng nào chứa vần “ăt”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăt”?",
     "a": "mắt",
     "c": [
       "hè",
@@ -2425,7 +2425,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 48, tiếng nào chứa vần “ât”?",
+    "q": "Tiếng nào dưới đây chứa vần “ât”?",
     "a": "đất",
     "c": [
       "đất",
@@ -2444,7 +2444,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 48:",
+    "q": "Bé hãy gõ lại tiếng “hát” (chứa âm/vần at):",
     "a": "hát",
     "c": [],
     "type": "typing",
@@ -2458,7 +2458,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 49, tiếng nào chứa vần “ot”?",
+    "q": "Tiếng nào dưới đây chứa vần “ot”?",
     "a": "ngọt",
     "c": [
       "hè",
@@ -2477,7 +2477,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 49, tiếng nào chứa vần “ôt”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôt”?",
     "a": "tốt",
     "c": [
       "lá",
@@ -2496,7 +2496,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 49, tiếng nào chứa vần “ơt”?",
+    "q": "Tiếng nào dưới đây chứa vần “ơt”?",
     "a": "vợt",
     "c": [
       "vợt",
@@ -2515,7 +2515,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 49:",
+    "q": "Bé hãy gõ lại tiếng “ngọt” (chứa âm/vần ot):",
     "a": "ngọt",
     "c": [],
     "type": "typing",
@@ -2529,7 +2529,7 @@
     "hints": []
   },
   {
-    "q": "Bài 50 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt)?",
     "a": "ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
     "c": [
       "chỉ phép cộng",
@@ -2548,7 +2548,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 50:",
+    "q": "Bé hãy gõ lại từ ngữ “quả gấc”:",
     "a": "quả gấc",
     "c": [],
     "type": "typing",
@@ -2562,7 +2562,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 51, tiếng nào chứa vần “et”?",
+    "q": "Tiếng nào dưới đây chứa vần “et”?",
     "a": "nét",
     "c": [
       "nét",
@@ -2581,7 +2581,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 51, tiếng nào chứa vần “êt”?",
+    "q": "Tiếng nào dưới đây chứa vần “êt”?",
     "a": "Tết",
     "c": [
       "lá",
@@ -2600,7 +2600,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 51, tiếng nào chứa vần “it”?",
+    "q": "Tiếng nào dưới đây chứa vần “it”?",
     "a": "mít",
     "c": [
       "ủ",
@@ -2619,7 +2619,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 51:",
+    "q": "Bé hãy gõ lại tiếng “nét” (chứa âm/vần et):",
     "a": "nét",
     "c": [],
     "type": "typing",
@@ -2633,7 +2633,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 52, tiếng nào chứa vần “ut”?",
+    "q": "Tiếng nào dưới đây chứa vần “ut”?",
     "a": "bút",
     "c": [
       "bút",
@@ -2652,7 +2652,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 52, tiếng nào chứa vần “ưt”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưt”?",
     "a": "mứt",
     "c": [
       "ủ",
@@ -2671,7 +2671,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 52:",
+    "q": "Bé hãy gõ lại tiếng “bút” (chứa âm/vần ut):",
     "a": "bút",
     "c": [],
     "type": "typing",
@@ -2685,7 +2685,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 53, tiếng nào chứa vần “ap”?",
+    "q": "Tiếng nào dưới đây chứa vần “ap”?",
     "a": "đạp",
     "c": [
       "khế",
@@ -2704,7 +2704,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 53, tiếng nào chứa vần “ăp”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăp”?",
     "a": "bắp",
     "c": [
       "bắp",
@@ -2723,7 +2723,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 53, tiếng nào chứa vần “âp”?",
+    "q": "Tiếng nào dưới đây chứa vần “âp”?",
     "a": "tập",
     "c": [
       "ừ",
@@ -2742,7 +2742,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 53:",
+    "q": "Bé hãy gõ lại tiếng “đạp” (chứa âm/vần ap):",
     "a": "đạp",
     "c": [],
     "type": "typing",
@@ -2756,7 +2756,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 54, tiếng nào chứa vần “op”?",
+    "q": "Tiếng nào dưới đây chứa vần “op”?",
     "a": "họp",
     "c": [
       "mẹ",
@@ -2775,7 +2775,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 54, tiếng nào chứa vần “ôp”?",
+    "q": "Tiếng nào dưới đây chứa vần “ôp”?",
     "a": "hộp",
     "c": [
       "hộp",
@@ -2794,7 +2794,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 54, tiếng nào chứa vần “ơp”?",
+    "q": "Tiếng nào dưới đây chứa vần “ơp”?",
     "a": "lớp",
     "c": [
       "chim",
@@ -2813,7 +2813,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 54:",
+    "q": "Bé hãy gõ lại tiếng “họp” (chứa âm/vần op):",
     "a": "họp",
     "c": [],
     "type": "typing",
@@ -2827,7 +2827,7 @@
     "hints": []
   },
   {
-    "q": "Bài 55 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp)?",
     "a": "et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
     "c": [
       "chỉ hình học",
@@ -2846,7 +2846,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 55:",
+    "q": "Bé hãy gõ lại từ ngữ “hộp mứt”:",
     "a": "hộp mứt",
     "c": [],
     "type": "typing",
@@ -2860,7 +2860,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 56, tiếng nào chứa vần “ep”?",
+    "q": "Tiếng nào dưới đây chứa vần “ep”?",
     "a": "dép",
     "c": [
       "mẹ",
@@ -2879,7 +2879,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 56, tiếng nào chứa vần “êp”?",
+    "q": "Tiếng nào dưới đây chứa vần “êp”?",
     "a": "bếp",
     "c": [
       "na",
@@ -2898,7 +2898,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 56, tiếng nào chứa vần “ip”?",
+    "q": "Tiếng nào dưới đây chứa vần “ip”?",
     "a": "nhịp",
     "c": [
       "gà",
@@ -2917,7 +2917,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 56, tiếng nào chứa vần “up”?",
+    "q": "Tiếng nào dưới đây chứa vần “up”?",
     "a": "búp",
     "c": [
       "búp",
@@ -2936,7 +2936,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 56:",
+    "q": "Bé hãy gõ lại tiếng “dép” (chứa âm/vần ep):",
     "a": "dép",
     "c": [],
     "type": "typing",
@@ -2950,7 +2950,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 57, tiếng nào chứa vần “anh”?",
+    "q": "Tiếng nào dưới đây chứa vần “anh”?",
     "a": "chanh",
     "c": [
       "bà",
@@ -2969,7 +2969,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 57, tiếng nào chứa vần “ênh”?",
+    "q": "Tiếng nào dưới đây chứa vần “ênh”?",
     "a": "bệnh",
     "c": [
       "cá",
@@ -2988,7 +2988,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 57, tiếng nào chứa vần “inh”?",
+    "q": "Tiếng nào dưới đây chứa vần “inh”?",
     "a": "kính",
     "c": [
       "kính",
@@ -3007,7 +3007,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 57:",
+    "q": "Bé hãy gõ lại tiếng “chanh” (chứa âm/vần anh):",
     "a": "chanh",
     "c": [],
     "type": "typing",
@@ -3021,7 +3021,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 58, tiếng nào chứa vần “ach”?",
+    "q": "Tiếng nào dưới đây chứa vần “ach”?",
     "a": "sách",
     "c": [
       "cá",
@@ -3040,7 +3040,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 58, tiếng nào chứa vần “êch”?",
+    "q": "Tiếng nào dưới đây chứa vần “êch”?",
     "a": "ếch",
     "c": [
       "em",
@@ -3059,7 +3059,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 58, tiếng nào chứa vần “ich”?",
+    "q": "Tiếng nào dưới đây chứa vần “ich”?",
     "a": "lịch",
     "c": [
       "lịch",
@@ -3078,7 +3078,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 58:",
+    "q": "Bé hãy gõ lại tiếng “sách” (chứa âm/vần ach):",
     "a": "sách",
     "c": [],
     "type": "typing",
@@ -3092,7 +3092,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 59, tiếng nào chứa vần “ang”?",
+    "q": "Tiếng nào dưới đây chứa vần “ang”?",
     "a": "làng",
     "c": [
       "em",
@@ -3111,7 +3111,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 59, tiếng nào chứa vần “ăng”?",
+    "q": "Tiếng nào dưới đây chứa vần “ăng”?",
     "a": "trăng",
     "c": [
       "ếch",
@@ -3130,7 +3130,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 59, tiếng nào chứa vần “âng”?",
+    "q": "Tiếng nào dưới đây chứa vần “âng”?",
     "a": "tầng",
     "c": [
       "tầng",
@@ -3149,7 +3149,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 59:",
+    "q": "Bé hãy gõ lại tiếng “làng” (chứa âm/vần ang):",
     "a": "làng",
     "c": [],
     "type": "typing",
@@ -3163,7 +3163,7 @@
     "hints": []
   },
   {
-    "q": "Bài 60 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng)?",
     "a": "ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
     "c": [
       "chỉ phép cộng",
@@ -3182,7 +3182,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 60:",
+    "q": "Bé hãy gõ lại từ ngữ “trăng sáng”:",
     "a": "trăng sáng",
     "c": [],
     "type": "typing",
@@ -3196,7 +3196,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 61, tiếng nào chứa vần “ong”?",
+    "q": "Tiếng nào dưới đây chứa vần “ong”?",
     "a": "ong",
     "c": [
       "ong",
@@ -3215,7 +3215,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 61, tiếng nào chứa vần “ông”?",
+    "q": "Tiếng nào dưới đây chứa vần “ông”?",
     "a": "sông",
     "c": [
       "ếch",
@@ -3234,7 +3234,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 61, tiếng nào chứa vần “ung”?",
+    "q": "Tiếng nào dưới đây chứa vần “ung”?",
     "a": "nhung",
     "c": [
       "ong",
@@ -3253,7 +3253,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 61, tiếng nào chứa vần “ưng”?",
+    "q": "Tiếng nào dưới đây chứa vần “ưng”?",
     "a": "trứng",
     "c": [
       "ô",
@@ -3272,7 +3272,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 61:",
+    "q": "Bé hãy gõ lại tiếng “ong” (chứa âm/vần ong):",
     "a": "ong",
     "c": [],
     "type": "typing",
@@ -3286,7 +3286,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 62, tiếng nào chứa vần “iêc”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêc”?",
     "a": "xiếc",
     "c": [
       "ong",
@@ -3305,7 +3305,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 62, tiếng nào chứa vần “iên”?",
+    "q": "Tiếng nào dưới đây chứa vần “iên”?",
     "a": "biển",
     "c": [
       "ô",
@@ -3324,7 +3324,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 62, tiếng nào chứa vần “iêp”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêp”?",
     "a": "thiệp",
     "c": [
       "dê",
@@ -3343,7 +3343,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 62:",
+    "q": "Bé hãy gõ lại tiếng “xiếc” (chứa âm/vần iêc):",
     "a": "xiếc",
     "c": [],
     "type": "typing",
@@ -3357,7 +3357,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 63, tiếng nào chứa vần “iêng”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêng”?",
     "a": "tiếng",
     "c": [
       "dê",
@@ -3376,7 +3376,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 63, tiếng nào chứa vần “iêm”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêm”?",
     "a": "điểm",
     "c": [
       "dê",
@@ -3395,7 +3395,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 63, tiếng nào chứa vần “yên”?",
+    "q": "Tiếng nào dưới đây chứa vần “yên”?",
     "a": "yên",
     "c": [
       "đò",
@@ -3414,7 +3414,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 63:",
+    "q": "Bé hãy gõ lại tiếng “tiếng” (chứa âm/vần iêng):",
     "a": "tiếng",
     "c": [],
     "type": "typing",
@@ -3428,7 +3428,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 64, tiếng nào chứa vần “iêt”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêt”?",
     "a": "viết",
     "c": [
       "dê",
@@ -3447,7 +3447,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 64, tiếng nào chứa vần “iêu”?",
+    "q": "Tiếng nào dưới đây chứa vần “iêu”?",
     "a": "diều",
     "c": [
       "đò",
@@ -3466,7 +3466,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 64, tiếng nào chứa vần “yêu”?",
+    "q": "Tiếng nào dưới đây chứa vần “yêu”?",
     "a": "yêu",
     "c": [
       "ớt",
@@ -3485,7 +3485,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 64:",
+    "q": "Bé hãy gõ lại tiếng “viết” (chứa âm/vần iêt):",
     "a": "viết",
     "c": [],
     "type": "typing",
@@ -3499,7 +3499,7 @@
     "hints": []
   },
   {
-    "q": "Bài 65 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu)?",
     "a": "ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu",
     "c": [
       "chỉ các chữ số",
@@ -3518,7 +3518,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 65:",
+    "q": "Bé hãy gõ lại từ ngữ “yêu biển”:",
     "a": "yêu biển",
     "c": [],
     "type": "typing",
@@ -3532,7 +3532,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 66, tiếng nào chứa vần “uôi”?",
+    "q": "Tiếng nào dưới đây chứa vần “uôi”?",
     "a": "chuối",
     "c": [
       "kẻ",
@@ -3551,7 +3551,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 66, tiếng nào chứa vần “uôm”?",
+    "q": "Tiếng nào dưới đây chứa vần “uôm”?",
     "a": "buồm",
     "c": [
       "buồm",
@@ -3570,7 +3570,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 66:",
+    "q": "Bé hãy gõ lại tiếng “chuối” (chứa âm/vần uôi):",
     "a": "chuối",
     "c": [],
     "type": "typing",
@@ -3584,7 +3584,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 67, tiếng nào chứa vần “uôc”?",
+    "q": "Tiếng nào dưới đây chứa vần “uôc”?",
     "a": "thuốc",
     "c": [
       "kẻ",
@@ -3603,7 +3603,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 67, tiếng nào chứa vần “uôt”?",
+    "q": "Tiếng nào dưới đây chứa vần “uôt”?",
     "a": "chuột",
     "c": [
       "hè",
@@ -3622,7 +3622,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 67:",
+    "q": "Bé hãy gõ lại tiếng “thuốc” (chứa âm/vần uôc):",
     "a": "thuốc",
     "c": [],
     "type": "typing",
@@ -3636,7 +3636,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 68, tiếng nào chứa vần “uôn”?",
+    "q": "Tiếng nào dưới đây chứa vần “uôn”?",
     "a": "cuốn",
     "c": [
       "kẻ",
@@ -3655,7 +3655,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 68, tiếng nào chứa vần “uông”?",
+    "q": "Tiếng nào dưới đây chứa vần “uông”?",
     "a": "chuông",
     "c": [
       "lá",
@@ -3674,7 +3674,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 68:",
+    "q": "Bé hãy gõ lại tiếng “cuốn” (chứa âm/vần uôn):",
     "a": "cuốn",
     "c": [],
     "type": "typing",
@@ -3688,7 +3688,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 69, tiếng nào chứa vần “ươi”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươi”?",
     "a": "tươi",
     "c": [
       "tươi",
@@ -3707,7 +3707,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 69, tiếng nào chứa vần “ươu”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươu”?",
     "a": "hươu",
     "c": [
       "hè",
@@ -3726,7 +3726,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 69:",
+    "q": "Bé hãy gõ lại tiếng “tươi” (chứa âm/vần ươi):",
     "a": "tươi",
     "c": [],
     "type": "typing",
@@ -3740,7 +3740,7 @@
     "hints": []
   },
   {
-    "q": "Bài 70 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu)?",
     "a": "uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
     "c": [
       "chỉ hình học",
@@ -3759,7 +3759,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 70:",
+    "q": "Bé hãy gõ lại từ ngữ “quả chuối”:",
     "a": "quả chuối",
     "c": [],
     "type": "typing",
@@ -3773,7 +3773,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 71, tiếng nào chứa vần “ươc”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươc”?",
     "a": "nước",
     "c": [
       "ủ",
@@ -3792,7 +3792,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 71, tiếng nào chứa vần “ươt”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươt”?",
     "a": "trượt",
     "c": [
       "ừ",
@@ -3811,7 +3811,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 71:",
+    "q": "Bé hãy gõ lại tiếng “nước” (chứa âm/vần ươc):",
     "a": "nước",
     "c": [],
     "type": "typing",
@@ -3825,7 +3825,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 72, tiếng nào chứa vần “ươm”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươm”?",
     "a": "bướm",
     "c": [
       "bướm",
@@ -3844,7 +3844,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 72, tiếng nào chứa vần “ươp”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươp”?",
     "a": "mướp",
     "c": [
       "ừ",
@@ -3863,7 +3863,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 72:",
+    "q": "Bé hãy gõ lại tiếng “bướm” (chứa âm/vần ươm):",
     "a": "bướm",
     "c": [],
     "type": "typing",
@@ -3877,7 +3877,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 73, tiếng nào chứa vần “ươn”?",
+    "q": "Tiếng nào dưới đây chứa vần “ươn”?",
     "a": "lươn",
     "c": [
       "mẹ",
@@ -3896,7 +3896,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 73, tiếng nào chứa vần “ương”?",
+    "q": "Tiếng nào dưới đây chứa vần “ương”?",
     "a": "trường",
     "c": [
       "trường",
@@ -3915,7 +3915,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 73:",
+    "q": "Bé hãy gõ lại tiếng “lươn” (chứa âm/vần ươn):",
     "a": "lươn",
     "c": [],
     "type": "typing",
@@ -3929,7 +3929,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 74, tiếng nào chứa vần “oa”?",
+    "q": "Tiếng nào dưới đây chứa vần “oa”?",
     "a": "hoa",
     "c": [
       "khế",
@@ -3948,7 +3948,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 74, tiếng nào chứa vần “oe”?",
+    "q": "Tiếng nào dưới đây chứa vần “oe”?",
     "a": "xoè",
     "c": [
       "mẹ",
@@ -3967,7 +3967,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 74:",
+    "q": "Bé hãy gõ lại tiếng “hoa” (chứa âm/vần oa):",
     "a": "hoa",
     "c": [],
     "type": "typing",
@@ -3981,7 +3981,7 @@
     "hints": []
   },
   {
-    "q": "Bài 75 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ươc, ươt, ươm, ươp, ươn, ương, oa, oe)?",
     "a": "ươc, ươt, ươm, ươp, ươn, ương, oa, oe",
     "c": [
       "chỉ các chữ số",
@@ -4000,7 +4000,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 75:",
+    "q": "Bé hãy gõ lại từ ngữ “hoa mướp”:",
     "a": "hoa mướp",
     "c": [],
     "type": "typing",
@@ -4014,7 +4014,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 76, tiếng nào chứa vần “oan”?",
+    "q": "Tiếng nào dưới đây chứa vần “oan”?",
     "a": "ngoan",
     "c": [
       "giỏ",
@@ -4033,7 +4033,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 76, tiếng nào chứa vần “oăn”?",
+    "q": "Tiếng nào dưới đây chứa vần “oăn”?",
     "a": "xoăn",
     "c": [
       "xoăn",
@@ -4052,7 +4052,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 76, tiếng nào chứa vần “oat”?",
+    "q": "Tiếng nào dưới đây chứa vần “oat”?",
     "a": "hoạt",
     "c": [
       "na",
@@ -4071,7 +4071,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 76, tiếng nào chứa vần “oăt”?",
+    "q": "Tiếng nào dưới đây chứa vần “oăt”?",
     "a": "choắt",
     "c": [
       "gà",
@@ -4090,7 +4090,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 76:",
+    "q": "Bé hãy gõ lại tiếng “ngoan” (chứa âm/vần oan):",
     "a": "ngoan",
     "c": [],
     "type": "typing",
@@ -4104,7 +4104,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 77, tiếng nào chứa vần “oai”?",
+    "q": "Tiếng nào dưới đây chứa vần “oai”?",
     "a": "xoài",
     "c": [
       "xoài",
@@ -4123,7 +4123,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 77, tiếng nào chứa vần “uê”?",
+    "q": "Tiếng nào dưới đây chứa vần “uê”?",
     "a": "quê",
     "c": [
       "na",
@@ -4142,7 +4142,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 77, tiếng nào chứa vần “uy”?",
+    "q": "Tiếng nào dưới đây chứa vần “uy”?",
     "a": "huy",
     "c": [
       "gà",
@@ -4161,7 +4161,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 77:",
+    "q": "Bé hãy gõ lại tiếng “xoài” (chứa âm/vần oai):",
     "a": "xoài",
     "c": [],
     "type": "typing",
@@ -4175,7 +4175,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 78, tiếng nào chứa vần “uân”?",
+    "q": "Tiếng nào dưới đây chứa vần “uân”?",
     "a": "xuân",
     "c": [
       "xuân",
@@ -4194,7 +4194,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 78, tiếng nào chứa vần “uât”?",
+    "q": "Tiếng nào dưới đây chứa vần “uât”?",
     "a": "luật",
     "c": [
       "bà",
@@ -4213,7 +4213,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 78:",
+    "q": "Bé hãy gõ lại tiếng “xuân” (chứa âm/vần uân):",
     "a": "xuân",
     "c": [],
     "type": "typing",
@@ -4227,7 +4227,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 79, tiếng nào chứa vần “uyên”?",
+    "q": "Tiếng nào dưới đây chứa vần “uyên”?",
     "a": "thuyền",
     "c": [
       "ong",
@@ -4246,7 +4246,7 @@
     "hints": []
   },
   {
-    "q": "Ở Bài 79, tiếng nào chứa vần “uyêt”?",
+    "q": "Tiếng nào dưới đây chứa vần “uyêt”?",
     "a": "tuyết",
     "c": [
       "tuyết",
@@ -4265,7 +4265,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại tiếng chứa nội dung trọng tâm của Bài 79:",
+    "q": "Bé hãy gõ lại tiếng “thuyền” (chứa âm/vần uyên):",
     "a": "thuyền",
     "c": [],
     "type": "typing",
@@ -4279,7 +4279,7 @@
     "hints": []
   },
   {
-    "q": "Bài 80 ôn tập những nội dung nào?",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt)?",
     "a": "oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
     "c": [
       "chỉ phép cộng",
@@ -4298,7 +4298,7 @@
     "hints": []
   },
   {
-    "q": "Gõ lại từ ngữ ôn tập ở Bài 80:",
+    "q": "Bé hãy gõ lại từ ngữ “thuyền buồm”:",
     "a": "thuyền buồm",
     "c": [],
     "type": "typing",

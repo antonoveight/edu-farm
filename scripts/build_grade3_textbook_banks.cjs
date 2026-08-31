@@ -179,8 +179,8 @@ function buildEnglish() {
         const source = i < 10 ? BOOKS.english1 : BOOKS.english2;
         const distractors = topics.filter((_, j) => j !== i).slice(i % 8, i % 8 + 3).map((item) => item[1]);
         add({ q: `Từ tiếng Anh nào có nghĩa là “${meaning}”?`, a: word, c: distractors, lo: `Nhận biết từ vựng chủ đề ${lesson}`, book: source, page, lesson: `Unit: ${lesson}`, explanation: `“${word}” có nghĩa là “${meaning}”.`, hints: ['Nhớ lại từ vựng của chủ đề.'] });
-        add({ q: `Gặp một người bạn, em có thể nói gì để chào? (${lesson})`, a: 'Hello', c: ['Goodbye', 'Thank you', 'Sorry'], lo: 'Sử dụng mẫu câu giao tiếp đơn giản', book: source, page, lesson: `Unit: ${lesson}`, explanation: '“Hello” là lời chào thông dụng.', hints: ['Đây là câu dùng khi gặp nhau.'] });
-        add({ q: `Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: ${word}?`, a: word[0].toUpperCase(), c: ['A', 'B', 'C'].filter((item) => item !== word[0].toUpperCase()), lo: `Nhận biết chữ cái đầu của từ ${word}`, book: source, page, lesson: `Unit: ${lesson}`, explanation: `Từ “${word}” bắt đầu bằng chữ ${word[0].toUpperCase()}.`, hints: ['Nhìn chữ cái đầu tiên của từ.'] });
+        add({ q: `Trong giao tiếp tiếng Anh chủ đề “${lesson}”, câu nào dùng để chào hỏi?`, a: 'Hello', c: ['Goodbye', 'Thank you', 'Sorry'], lo: 'Sử dụng mẫu câu giao tiếp đơn giản', book: source, page, lesson: `Unit: ${lesson}`, explanation: '“Hello” là lời chào thông dụng.', hints: ['Đây là câu dùng khi gặp nhau.'] });
+        add({ q: `Chữ cái đầu của từ “${word}” là gì?`, a: word[0].toUpperCase(), c: ['A', 'B', 'C'].filter((item) => item !== word[0].toUpperCase()), lo: `Nhận biết chữ cái đầu của từ ${word}`, book: source, page, lesson: `Unit: ${lesson}`, explanation: `Từ “${word}” bắt đầu bằng chữ ${word[0].toUpperCase()}.`, hints: ['Nhìn chữ cái đầu tiên của từ.'] });
     }
     write('english.json', questions);
 }

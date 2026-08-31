@@ -118,7 +118,7 @@ function buildEnglishBank() {
         const lesson = `Unit ${spec.unit}: ${spec.title}`;
         const unitWords = spec.words.map(([word]) => word);
         add({
-            q: `Unit ${spec.unit} luyện âm và chữ nào?`,
+            q: `Chữ cái nào sau đây xuất hiện trong bài học (${spec.title})?`,
             a: spec.phonics,
             c: [spec.phonics, ...units.filter((unit) => unit.unit !== spec.unit).slice(spec.unit % 5, spec.unit % 5 + 3).map((unit) => unit.phonics)],
             lo: `Nhận biết âm và chữ ${spec.phonics}`,
@@ -131,7 +131,7 @@ function buildEnglishBank() {
         for (const [word, meaning] of spec.words) {
             const otherWords = [...unitWords.filter((item) => item !== word), ...distractorWords.filter((item) => !unitWords.includes(item))];
             add({
-                q: `Từ tiếng Anh nào ở Unit ${spec.unit} có nghĩa là “${meaning}”?`,
+                q: `Từ tiếng Anh nào có nghĩa là “${meaning}”?`,
                 a: word,
                 c: [word, ...otherWords.slice(0, 3)],
                 lo: `Nhận biết từ vựng ${word}`,
@@ -144,7 +144,7 @@ function buildEnglishBank() {
         }
 
         add({
-            q: `Hoàn thành mẫu câu của Unit ${spec.unit}: ${spec.fill[0]}`,
+            q: `Hoàn thành câu sau: ${spec.fill[0]}`,
             a: spec.fill[1],
             c: spec.fill[2],
             type: 'fill_blank',
@@ -158,7 +158,7 @@ function buildEnglishBank() {
         });
 
         add({
-            q: `Gõ lại từ trọng tâm của Unit ${spec.unit}:`,
+            q: `Bé hãy gõ lại từ tiếng Anh “${spec.words[0][0]}”:`,
             a: spec.words[0][0],
             c: [],
             type: 'typing',
@@ -170,7 +170,7 @@ function buildEnglishBank() {
         });
 
         add({
-            q: `Mẫu câu nào thuộc Unit ${spec.unit}?`,
+            q: `Mẫu câu tiếng Anh nào dùng trong chủ đề “${spec.title}”?`,
             a: spec.pattern,
             c: [spec.pattern, ...units.filter((unit) => unit.unit !== spec.unit).slice((spec.unit + 3) % 8, (spec.unit + 3) % 8 + 3).map((unit) => unit.pattern)],
             lo: `Nhận biết mẫu câu giao tiếp của Unit ${spec.unit}`,
@@ -481,7 +481,7 @@ function buildVietnameseBank() {
         const lesson = `Bài ${spec.n}: ${spec.title}`;
         if (spec.review) {
             add({
-                q: `Bài ${spec.n} ôn tập những nội dung nào?`,
+                q: `Nhóm âm vần nào dưới đây xuất hiện trong bài học (${spec.review})?`,
                 a: spec.review,
                 c: [spec.review, 'chỉ các chữ số', 'chỉ phép cộng', 'chỉ hình học'],
                 lo: `Củng cố ${spec.review}`,
@@ -491,7 +491,7 @@ function buildVietnameseBank() {
                 explanation: `Mục lục xác định ${lesson} là bài ôn tập các nội dung: ${spec.review}.`
             });
             add({
-                q: `Gõ lại từ ngữ ôn tập ở Bài ${spec.n}:`,
+                q: `Bé hãy gõ lại từ ngữ “${spec.sample}”:`,
                 a: spec.sample,
                 c: [],
                 type: 'typing',
@@ -516,8 +516,8 @@ function buildVietnameseBank() {
             });
             add({
                 q: unitMode === 'initial'
-                    ? `Ở Bài ${spec.n}, tiếng nào bắt đầu bằng “${unit}”?`
-                    : `Ở Bài ${spec.n}, tiếng nào chứa vần “${unit}”?`,
+                    ? `Tiếng nào dưới đây bắt đầu bằng âm “${unit}”?`
+                    : `Tiếng nào dưới đây chứa vần “${unit}”?`,
                 a: word,
                 c: [word, ...candidates.slice((spec.n + unit.length) % 20, (spec.n + unit.length) % 20 + 3)],
                 lo: unitMode === 'initial' ? `Nhận biết chữ/âm ${unit}` : `Nhận biết vần ${unit}`,
@@ -528,7 +528,7 @@ function buildVietnameseBank() {
             });
         }
         add({
-            q: `Gõ lại tiếng chứa nội dung trọng tâm của Bài ${spec.n}:`,
+            q: `Bé hãy gõ lại tiếng “${spec.examples[0][1]}” (chứa âm/vần ${spec.examples[0][0]}):`,
             a: spec.examples[0][1],
             c: [],
             type: 'typing',

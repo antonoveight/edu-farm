@@ -223,8 +223,8 @@ function buildEnglish() {
         const source = index < 10 ? BOOKS.english1 : BOOKS.english2;
         const distractors = topics.filter((_, position) => position !== index).slice(index % 12, index % 12 + 3).map((item) => item[1]);
         add({ q: `Từ tiếng Anh nào có nghĩa là “${meaning}”?`, a: word, c: distractors, lo: `Nhận biết từ vựng chủ đề ${lesson}`, book: source, page, lesson: `Unit: ${lesson}`, hints: ['Nhớ lại từ vựng trong bài học.'] });
-        add({ q: `Trong chủ đề “${lesson}”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?`, a: 'When did you go there?', c: ['What is your name?', 'How old are you?', 'Can you swim?'], lo: 'Sử dụng mẫu câu giao tiếp', book: source, page, lesson: `Unit: ${lesson}`, hints: ['Chú ý từ để hỏi về thời điểm trong quá khứ.'] });
-        add({ q: `Chữ cái đầu của từ “${word}” là gì? (${lesson})`, a: word[0].toUpperCase(), c: ['A', 'B', 'C'].filter((item) => item !== word[0].toUpperCase()), lo: `Nhận biết chữ cái đầu của từ ${word}`, book: source, page, lesson: `Unit: ${lesson}`, hints: ['Quan sát chữ cái đầu tiên của từ.'] });
+        add({ q: `Trong chủ đề “${lesson}”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?`, a: 'When did you go there?', c: ['What is your name?', 'How old are you?', 'Can you swim?'], lo: 'Sử dụng mẫu câu giao tiếp', book: source, page, lesson: `Unit: ${lesson}`, hints: ['Chú ý từ để hỏi về thời điểm trong quá khứ.'] });
+        add({ q: `Chữ cái đầu của từ “${word}” là gì?`, a: word[0].toUpperCase(), c: ['A', 'B', 'C'].filter((item) => item !== word[0].toUpperCase()), lo: `Nhận biết chữ cái đầu của từ ${word}`, book: source, page, lesson: `Unit: ${lesson}`, hints: ['Quan sát chữ cái đầu tiên của từ.'] });
     });
     write('english.json', questions);
 }

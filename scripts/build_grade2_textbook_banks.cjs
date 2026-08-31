@@ -259,43 +259,44 @@ function buildVietnamese() {
     }
 
     const spellingDrills = [
-        ['Từ nào viết đúng chính tả?', 'con kiến', ['con kiếng', 'con yến', 'con khiến'], BOOKS.viet1, 26, 'Chính tả: âm đầu'],
-        ['Từ nào viết đúng chính tả?', 'ngôi trường', ['ngôi chường', 'ngồi trường', 'nghôi trường'], BOOKS.viet1, 34, 'Chính tả: âm đầu'],
-        ['Từ nào viết đúng chính tả?', 'sạch sẽ', ['xạch sẽ', 'sạch xẽ', 'xạch xẽ'], BOOKS.viet1, 46, 'Chính tả: s/x'],
-        ['Từ nào viết đúng chính tả?', 'chăm chỉ', ['trăm chỉ', 'chăm trỉ', 'trăm trỉ'], BOOKS.viet1, 54, 'Chính tả: ch/tr'],
-        ['Từ nào viết đúng chính tả?', 'rực rỡ', ['dực dỡ', 'giực rỡ', 'rực dỡ'], BOOKS.viet1, 68, 'Chính tả: r/d/gi'],
-        ['Từ nào viết đúng chính tả?', 'bầu trời', ['bầu chời', 'bầu chời', 'bầu lời'], BOOKS.viet1, 78, 'Chính tả: tr/ch'],
-        ['Từ nào viết đúng chính tả?', 'dòng sông', ['ròng sông', 'giòng sông', 'dòng xông'], BOOKS.viet1, 92, 'Chính tả: r/d/gi'],
-        ['Từ nào viết đúng chính tả?', 'cây xanh', ['cây sanh', 'cây xang', 'cây chanh'], BOOKS.viet1, 104, 'Chính tả: s/x'],
-        ['Từ nào viết đúng chính tả?', 'tiếng chim', ['tiến chim', 'tiếng trym', 'tiếng chym'], BOOKS.viet1, 118, 'Chính tả: vần tiếng'],
-        ['Từ nào viết đúng chính tả?', 'mùa xuân', ['mùa xuan', 'mùa suân', 'mùa chuân'], BOOKS.viet2, 18, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'bông hoa', ['bôn hoa', 'bông qua', 'bông hoà'], BOOKS.viet2, 30, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'cánh đồng', ['cánh đòng', 'cánh đồngg', 'cảnh đồng'], BOOKS.viet2, 44, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'ngọn núi', ['ngọn lúi', 'ngọn nũi', 'ngọn núy'], BOOKS.viet2, 56, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'thành phố', ['thành bố', 'thành phó', 'thành phỗ'], BOOKS.viet2, 72, 'Chính tả: thanh điệu'],
-        ['Từ nào viết đúng chính tả?', 'yêu thương', ['iêu thương', 'yêu thươn', 'yêu thưởng'], BOOKS.viet2, 88, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'dũng cảm', ['rũng cảm', 'giũng cảm', 'dũng kảm'], BOOKS.viet2, 102, 'Chính tả: r/d/gi'],
-        ['Từ nào viết đúng chính tả?', 'câu chuyện', ['câu truyện', 'câu chuyền', 'cầu chuyện'], BOOKS.viet2, 120, 'Chính tả: ch/tr'],
-        ['Từ nào viết đúng chính tả?', 'quê hương', ['quê hường', 'quề hương', 'quê hươn'], BOOKS.viet2, 136, 'Chính tả: vần'],
-        ['Từ nào viết đúng chính tả?', 'sân trường', ['xân trường', 'sân chường', 'sân trườn'], BOOKS.viet2, 152, 'Chính tả: s/x, ch/tr']
+        ['Từ nào dưới đây viết đúng chính tả âm vần?', 'tiếng chim', ["tiến chim","tiếng trym","tiếng chym"], BOOKS.viet1, 118, 'Chính tả: vần tiếng'],
+        ['Từ nào viết đúng chính tả vần “uan/uân”?', 'mùa xuân', ["mùa xuan","mùa suân","mùa chuân"], BOOKS.viet2, 18, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả vần “oa/ua”?', 'bông hoa', ["bôn hoa","bông qua","bông hoà"], BOOKS.viet2, 30, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả có dấu thanh?', 'cánh đồng', ["cánh đòng","cánh đồngg","cảnh đồng"], BOOKS.viet2, 44, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả phân biệt n/l?', 'ngọn núi', ["ngọn lúi","ngọn nũi","ngọn núy"], BOOKS.viet2, 56, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả về dấu thanh điệu?', 'thành phố', ["thành bố","thành phó","thành phỗ"], BOOKS.viet2, 72, 'Chính tả: thanh điệu'],
+        ['Từ nào viết đúng chính tả vần “iêu/yêu”?', 'yêu thương', ["iêu thương","yêu thươn","yêu thưởng"], BOOKS.viet2, 88, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả phân biệt r/d/gi?', 'dũng cảm', ["rũng cảm","giũng cảm","dũng kảm"], BOOKS.viet2, 102, 'Chính tả: r/d/gi'],
+        ['Từ nào viết đúng chính tả phân biệt ch/tr?', 'câu chuyện', ["câu truyện","câu chuyền","cầu chuyện"], BOOKS.viet2, 120, 'Chính tả: ch/tr'],
+        ['Từ nào viết đúng chính tả có vần “ương”?', 'quê hương', ["quê hường","quề hương","quê hươn"], BOOKS.viet2, 136, 'Chính tả: vần'],
+        ['Từ nào viết đúng chính tả phân biệt s/x và ch/tr?', 'sân trường', ["xân trường","sân chường","sân trườn"], BOOKS.viet2, 152, 'Chính tả: s/x, ch/tr']
     ];
-    for (const [q, a, c, book, page, lesson] of spellingDrills) add({ q: `${q} (${a})`, a, c, lo: 'Viết đúng từ có âm, vần hoặc thanh điệu đã học', book, page, lesson, explanation: `Từ viết đúng là “${a}”.`, hints: ['Đọc chậm từng tiếng và nhớ quy tắc chính tả.'] });
+    for (const [q, a, c, book, page, lesson] of spellingDrills) add({ q, a, c, lo: 'Viết đúng từ có âm, vần hoặc thanh điệu đã học', book, page, lesson, explanation: `Từ viết đúng là “${a}”.`, hints: ['Đọc chậm từng tiếng và nhớ quy tắc chính tả.'] });
 
     const wordDrills = [
-        ['Từ nào là từ chỉ sự vật?', 'cơn mưa', ['vui vẻ', 'nhảy múa', 'rất nhanh']], ['Từ nào là từ chỉ sự vật?', 'con đường', ['chăm ngoan', 'học bài', 'rất đẹp']],
-        ['Từ nào là từ chỉ sự vật?', 'bác nông dân', ['siêng năng', 'đang cười', 'xanh mướt']], ['Từ nào là từ chỉ hoạt động?', 'tưới cây', ['bông hoa', 'đỏ thắm', 'sân trường']],
-        ['Từ nào là từ chỉ hoạt động?', 'xếp hàng', ['học sinh', 'ngoan ngoãn', 'cây bàng']], ['Từ nào là từ chỉ hoạt động?', 'vẽ tranh', ['bút màu', 'rực rỡ', 'cơn gió']],
-        ['Từ nào là từ chỉ đặc điểm?', 'cao lớn', ['đọc sách', 'quyển vở', 'sân trường']], ['Từ nào là từ chỉ đặc điểm?', 'hiền lành', ['cô giáo', 'chạy nhảy', 'bông hoa']],
-        ['Từ nào là từ chỉ đặc điểm?', 'lấp lánh', ['ngôi sao', 'học bài', 'xe đạp']], ['Từ nào nói về tình cảm?', 'yêu quý', ['bàn học', 'đi bộ', 'màu xanh']],
-        ['Từ nào nói về tình cảm?', 'biết ơn', ['trường lớp', 'viết bài', 'to lớn']], ['Từ nào nói về tình cảm?', 'vui mừng', ['quả bóng', 'chạy nhanh', 'màu đỏ']],
-        ['Từ nào trái nghĩa với “nhanh”?', 'chậm', ['cao', 'rộng', 'sáng']], ['Từ nào trái nghĩa với “sạch”?', 'bẩn', ['mát', 'nhỏ', 'vui']],
-        ['Từ nào trái nghĩa với “yêu”?', 'ghét', ['nhớ', 'thương', 'quý']], ['Câu nào là câu hỏi?', 'Bạn đã làm bài tập chưa?', ['Em đã làm bài tập.', 'Hãy làm bài tập!', 'Ôi, bài tập khó quá!']],
-        ['Câu nào là câu khiến?', 'Hãy xếp hàng ngay ngắn!', ['Các bạn đang xếp hàng.', 'Bạn có xếp hàng không?', 'Ôi, hàng dài quá!']], ['Câu nào là câu cảm?', 'Ôi, bầu trời đẹp quá!', ['Bầu trời rất đẹp.', 'Bầu trời có đẹp không?', 'Hãy nhìn bầu trời.']]
+        ['Trong các từ sau, từ nào là từ chỉ hiện tượng tự nhiên (sự vật)?', 'cơn mưa', ['vui vẻ', 'nhảy múa', 'rất nhanh']],
+        ['Từ nào dưới đây là từ chỉ đồ vật/cảnh vật (sự vật)?', 'con đường', ['chăm ngoan', 'học bài', 'rất đẹp']],
+        ['Từ nào dưới đây là từ chỉ người (sự vật)?', 'bác nông dân', ['siêng năng', 'đang cười', 'xanh mướt']],
+        ['Từ nào dưới đây là từ chỉ hoạt động chăm sóc cây?', 'tưới cây', ['bông hoa', 'đỏ thắm', 'sân trường']],
+        ['Từ nào dưới đây là từ chỉ hoạt động của học sinh?', 'xếp hàng', ['học sinh', 'ngoan ngoãn', 'cây bàng']],
+        ['Từ nào dưới đây là từ chỉ hoạt động sáng tạo nghệ thuật?', 'vẽ tranh', ['bút màu', 'rực rỡ', 'cơn gió']],
+        ['Từ nào dưới đây là từ chỉ đặc điểm hình dáng?', 'cao lớn', ['đọc sách', 'quyển vở', 'sân trường']],
+        ['Từ nào dưới đây là từ chỉ tính nết, đặc điểm tính cách?', 'hiền lành', ['cô giáo', 'chạy nhảy', 'bông hoa']],
+        ['Từ nào dưới đây là từ chỉ đặc điểm ánh sáng?', 'lấp lánh', ['ngôi sao', 'học bài', 'xe đạp']],
+        ['Từ nào dưới đây là từ chỉ tình cảm yêu thương?', 'yêu quý', ['bàn học', 'đi bộ', 'màu xanh']],
+        ['Từ nào dưới đây là từ chỉ lòng biết ơn?', 'biết ơn', ['trường lớp', 'viết bài', 'to lớn']],
+        ['Từ nào dưới đây là từ chỉ cảm xúc vui mừng?', 'vui mừng', ['quả bóng', 'chạy nhanh', 'màu đỏ']],
+        ['Từ nào trái nghĩa với “nhanh”?', 'chậm', ['cao', 'rộng', 'sáng']],
+        ['Từ nào trái nghĩa với “sạch”?', 'bẩn', ['mát', 'nhỏ', 'vui']],
+        ['Từ nào trái nghĩa với “yêu”?', 'ghét', ['nhớ', 'thương', 'quý']],
+        ['Câu nào dưới đây là câu dùng để hỏi (câu hỏi)?', 'Bạn đã làm bài tập chưa?', ['Em đã làm bài tập.', 'Hãy làm bài tập!', 'Ôi, bài tập khó quá!']],
+        ['Câu nào dưới đây là câu yêu cầu, đề nghị (câu khiến)?', 'Hãy xếp hàng ngay ngắn!', ['Các bạn đang xếp hàng.', 'Bạn có xếp hàng không?', 'Ôi, hàng dài quá!']],
+        ['Câu nào dưới đây là câu bộc lộ cảm xúc (câu cảm)?', 'Ôi, bầu trời đẹp quá!', ['Bầu trời rất đẹp.', 'Bầu trời có đẹp không?', 'Hãy nhìn bầu trời.']]
     ];
     for (let index = 0; index < wordDrills.length; index += 1) {
         const [q, a, c] = wordDrills[index];
         const book = index < 9 ? BOOKS.viet1 : BOOKS.viet2;
-        add({ q: `${q} (câu ${index + 1})`, a, c, lo: 'Nhận biết từ ngữ và kiểu câu đã học', book, page: 40 + (index % 9) * 10, lesson: 'Luyện từ và câu', explanation: `“${a}” là đáp án phù hợp với yêu cầu về từ hoặc câu.`, hints: ['Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu.'] });
+        add({ q, a, c, lo: 'Nhận biết từ ngữ và kiểu câu đã học', book, page: 40 + (index % 9) * 10, lesson: 'Luyện từ và câu', explanation: `“${a}” là đáp án phù hợp với yêu cầu về từ hoặc câu.`, hints: ['Xác định từ chỉ người, vật, hoạt động, đặc điểm hoặc mục đích câu.'] });
     }
     const sentenceDrills = [
         ['Điền dấu câu phù hợp: “Bạn tên là gì___”', '?', ['.', '!', ','], 'Dùng dấu chấm hỏi ở cuối câu hỏi'],

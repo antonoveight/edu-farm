@@ -798,174 +798,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (con kiến)",
-    "a": "con kiến",
-    "c": [
-      "con yến",
-      "con khiến",
-      "con kiến",
-      "con kiếng"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: âm đầu – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: âm đầu",
-    "sourcePage": 26,
-    "explanation": "Từ viết đúng là “con kiến”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (ngôi trường)",
-    "a": "ngôi trường",
-    "c": [
-      "nghôi trường",
-      "ngôi trường",
-      "ngôi chường",
-      "ngồi trường"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: âm đầu – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: âm đầu",
-    "sourcePage": 34,
-    "explanation": "Từ viết đúng là “ngôi trường”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (sạch sẽ)",
-    "a": "sạch sẽ",
-    "c": [
-      "sạch sẽ",
-      "xạch sẽ",
-      "sạch xẽ",
-      "xạch xẽ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: s/x – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: s/x",
-    "sourcePage": 46,
-    "explanation": "Từ viết đúng là “sạch sẽ”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (chăm chỉ)",
-    "a": "chăm chỉ",
-    "c": [
-      "trăm chỉ",
-      "chăm trỉ",
-      "trăm trỉ",
-      "chăm chỉ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: ch/tr – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: ch/tr",
-    "sourcePage": 54,
-    "explanation": "Từ viết đúng là “chăm chỉ”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (rực rỡ)",
-    "a": "rực rỡ",
-    "c": [
-      "giực rỡ",
-      "rực dỡ",
-      "rực rỡ",
-      "dực dỡ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: r/d/gi – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: r/d/gi",
-    "sourcePage": 68,
-    "explanation": "Từ viết đúng là “rực rỡ”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (bầu trời)",
-    "a": "bầu trời",
-    "c": [
-      "bầu chời",
-      "bầu lời",
-      "bầu trời"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: tr/ch – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: tr/ch",
-    "sourcePage": 78,
-    "explanation": "Từ viết đúng là “bầu trời”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (dòng sông)",
-    "a": "dòng sông",
-    "c": [
-      "dòng sông",
-      "ròng sông",
-      "giòng sông",
-      "dòng xông"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: r/d/gi – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: r/d/gi",
-    "sourcePage": 92,
-    "explanation": "Từ viết đúng là “dòng sông”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (cây xanh)",
-    "a": "cây xanh",
-    "c": [
-      "cây sanh",
-      "cây xang",
-      "cây chanh",
-      "cây xanh"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chính tả: s/x – Viết đúng từ có âm, vần hoặc thanh điệu đã học",
-    "difficulty": "easy",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 2, Tập một – Kết nối tri thức với cuộc sống (tieng-viet-2-tap-1-ket-noi-tri-thuc-voi-cuoc-song6167f_5120269.pdf) – Chính tả: s/x",
-    "sourcePage": 104,
-    "explanation": "Từ viết đúng là “cây xanh”.",
-    "hints": [
-      "Đọc chậm từng tiếng và nhớ quy tắc chính tả."
-    ]
-  },
-  {
-    "q": "Từ nào viết đúng chính tả? (tiếng chim)",
+    "q": "Từ nào dưới đây viết đúng chính tả âm vần?",
     "a": "tiếng chim",
     "c": [
       "tiếng trym",
@@ -986,7 +819,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (mùa xuân)",
+    "q": "Từ nào viết đúng chính tả vần “uan/uân”?",
     "a": "mùa xuân",
     "c": [
       "mùa chuân",
@@ -1007,7 +840,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (bông hoa)",
+    "q": "Từ nào viết đúng chính tả vần “oa/ua”?",
     "a": "bông hoa",
     "c": [
       "bông hoa",
@@ -1028,7 +861,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (cánh đồng)",
+    "q": "Từ nào viết đúng chính tả có dấu thanh?",
     "a": "cánh đồng",
     "c": [
       "cánh đòng",
@@ -1049,7 +882,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (ngọn núi)",
+    "q": "Từ nào viết đúng chính tả phân biệt n/l?",
     "a": "ngọn núi",
     "c": [
       "ngọn nũi",
@@ -1070,7 +903,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (thành phố)",
+    "q": "Từ nào viết đúng chính tả về dấu thanh điệu?",
     "a": "thành phố",
     "c": [
       "thành phỗ",
@@ -1091,7 +924,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (yêu thương)",
+    "q": "Từ nào viết đúng chính tả vần “iêu/yêu”?",
     "a": "yêu thương",
     "c": [
       "yêu thương",
@@ -1112,7 +945,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (dũng cảm)",
+    "q": "Từ nào viết đúng chính tả phân biệt r/d/gi?",
     "a": "dũng cảm",
     "c": [
       "rũng cảm",
@@ -1133,7 +966,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (câu chuyện)",
+    "q": "Từ nào viết đúng chính tả phân biệt ch/tr?",
     "a": "câu chuyện",
     "c": [
       "câu chuyền",
@@ -1154,7 +987,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (quê hương)",
+    "q": "Từ nào viết đúng chính tả có vần “ương”?",
     "a": "quê hương",
     "c": [
       "quê hươn",
@@ -1175,7 +1008,7 @@
     ]
   },
   {
-    "q": "Từ nào viết đúng chính tả? (sân trường)",
+    "q": "Từ nào viết đúng chính tả phân biệt s/x và ch/tr?",
     "a": "sân trường",
     "c": [
       "sân trường",
@@ -1196,7 +1029,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ sự vật? (câu 1)",
+    "q": "Trong các từ sau, từ nào là từ chỉ hiện tượng tự nhiên (sự vật)?",
     "a": "cơn mưa",
     "c": [
       "vui vẻ",
@@ -1217,7 +1050,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ sự vật? (câu 2)",
+    "q": "Từ nào dưới đây là từ chỉ đồ vật/cảnh vật (sự vật)?",
     "a": "con đường",
     "c": [
       "học bài",
@@ -1238,7 +1071,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ sự vật? (câu 3)",
+    "q": "Từ nào dưới đây là từ chỉ người (sự vật)?",
     "a": "bác nông dân",
     "c": [
       "xanh mướt",
@@ -1259,7 +1092,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ hoạt động? (câu 4)",
+    "q": "Từ nào dưới đây là từ chỉ hoạt động chăm sóc cây?",
     "a": "tưới cây",
     "c": [
       "tưới cây",
@@ -1280,7 +1113,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ hoạt động? (câu 5)",
+    "q": "Từ nào dưới đây là từ chỉ hoạt động của học sinh?",
     "a": "xếp hàng",
     "c": [
       "học sinh",
@@ -1301,7 +1134,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ hoạt động? (câu 6)",
+    "q": "Từ nào dưới đây là từ chỉ hoạt động sáng tạo nghệ thuật?",
     "a": "vẽ tranh",
     "c": [
       "rực rỡ",
@@ -1322,7 +1155,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ đặc điểm? (câu 7)",
+    "q": "Từ nào dưới đây là từ chỉ đặc điểm hình dáng?",
     "a": "cao lớn",
     "c": [
       "sân trường",
@@ -1343,7 +1176,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ đặc điểm? (câu 8)",
+    "q": "Từ nào dưới đây là từ chỉ tính nết, đặc điểm tính cách?",
     "a": "hiền lành",
     "c": [
       "hiền lành",
@@ -1364,7 +1197,7 @@
     ]
   },
   {
-    "q": "Từ nào là từ chỉ đặc điểm? (câu 9)",
+    "q": "Từ nào dưới đây là từ chỉ đặc điểm ánh sáng?",
     "a": "lấp lánh",
     "c": [
       "ngôi sao",
@@ -1385,7 +1218,7 @@
     ]
   },
   {
-    "q": "Từ nào nói về tình cảm? (câu 10)",
+    "q": "Từ nào dưới đây là từ chỉ tình cảm yêu thương?",
     "a": "yêu quý",
     "c": [
       "đi bộ",
@@ -1406,7 +1239,7 @@
     ]
   },
   {
-    "q": "Từ nào nói về tình cảm? (câu 11)",
+    "q": "Từ nào dưới đây là từ chỉ lòng biết ơn?",
     "a": "biết ơn",
     "c": [
       "to lớn",
@@ -1427,7 +1260,7 @@
     ]
   },
   {
-    "q": "Từ nào nói về tình cảm? (câu 12)",
+    "q": "Từ nào dưới đây là từ chỉ cảm xúc vui mừng?",
     "a": "vui mừng",
     "c": [
       "vui mừng",
@@ -1448,7 +1281,7 @@
     ]
   },
   {
-    "q": "Từ nào trái nghĩa với “nhanh”? (câu 13)",
+    "q": "Từ nào trái nghĩa với “nhanh”?",
     "a": "chậm",
     "c": [
       "cao",
@@ -1469,7 +1302,7 @@
     ]
   },
   {
-    "q": "Từ nào trái nghĩa với “sạch”? (câu 14)",
+    "q": "Từ nào trái nghĩa với “sạch”?",
     "a": "bẩn",
     "c": [
       "nhỏ",
@@ -1490,7 +1323,7 @@
     ]
   },
   {
-    "q": "Từ nào trái nghĩa với “yêu”? (câu 15)",
+    "q": "Từ nào trái nghĩa với “yêu”?",
     "a": "ghét",
     "c": [
       "quý",
@@ -1511,7 +1344,7 @@
     ]
   },
   {
-    "q": "Câu nào là câu hỏi? (câu 16)",
+    "q": "Câu nào dưới đây là câu dùng để hỏi (câu hỏi)?",
     "a": "Bạn đã làm bài tập chưa?",
     "c": [
       "Bạn đã làm bài tập chưa?",
@@ -1532,7 +1365,7 @@
     ]
   },
   {
-    "q": "Câu nào là câu khiến? (câu 17)",
+    "q": "Câu nào dưới đây là câu yêu cầu, đề nghị (câu khiến)?",
     "a": "Hãy xếp hàng ngay ngắn!",
     "c": [
       "Các bạn đang xếp hàng.",
@@ -1553,7 +1386,7 @@
     ]
   },
   {
-    "q": "Câu nào là câu cảm? (câu 18)",
+    "q": "Câu nào dưới đây là câu bộc lộ cảm xúc (câu cảm)?",
     "a": "Ôi, bầu trời đẹp quá!",
     "c": [
       "Bầu trời có đẹp không?",

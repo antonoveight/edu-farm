@@ -21,7 +21,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Hello)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Hello”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Goodbye",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: Hello?",
+    "q": "Chữ cái đầu của từ “Hello” là gì?",
     "a": "H",
     "c": [
       "B",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (My name)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “My name”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Hello",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: My name is Nam.?",
+    "q": "Chữ cái đầu của từ “My name is Nam.” là gì?",
     "a": "M",
     "c": [
       "A",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Our friends)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Our friends”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Sorry",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: friend?",
+    "q": "Chữ cái đầu của từ “friend” là gì?",
     "a": "F",
     "c": [
       "F",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (My body)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “My body”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Thank you",
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: hand?",
+    "q": "Chữ cái đầu của từ “hand” là gì?",
     "a": "H",
     "c": [
       "C",
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (My hobbies)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “My hobbies”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Goodbye",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: music?",
+    "q": "Chữ cái đầu của từ “music” là gì?",
     "a": "M",
     "c": [
       "B",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Our school)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Our school”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Hello",
@@ -357,7 +357,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: school?",
+    "q": "Chữ cái đầu của từ “school” là gì?",
     "a": "S",
     "c": [
       "A",
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Classroom objects)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Classroom objects”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Sorry",
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: book?",
+    "q": "Chữ cái đầu của từ “book” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -461,7 +461,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Toys)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Toys”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Thank you",
@@ -482,7 +482,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: kite?",
+    "q": "Chữ cái đầu của từ “kite” là gì?",
     "a": "K",
     "c": [
       "C",
@@ -524,7 +524,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Colours)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Colours”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Goodbye",
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: blue?",
+    "q": "Chữ cái đầu của từ “blue” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Animals)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Animals”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Hello",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: dog?",
+    "q": "Chữ cái đầu của từ “dog” là gì?",
     "a": "D",
     "c": [
       "A",
@@ -649,7 +649,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Family)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Family”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Sorry",
@@ -670,7 +670,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: mother?",
+    "q": "Chữ cái đầu của từ “mother” là gì?",
     "a": "M",
     "c": [
       "M",
@@ -712,7 +712,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Food)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Food”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Thank you",
@@ -733,7 +733,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: rice?",
+    "q": "Chữ cái đầu của từ “rice” là gì?",
     "a": "R",
     "c": [
       "C",
@@ -775,7 +775,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Weather)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Weather”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Goodbye",
@@ -796,7 +796,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: sunny?",
+    "q": "Chữ cái đầu của từ “sunny” là gì?",
     "a": "S",
     "c": [
       "B",
@@ -838,7 +838,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Rooms)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Rooms”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Hello",
@@ -859,7 +859,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: bedroom?",
+    "q": "Chữ cái đầu của từ “bedroom” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -900,7 +900,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Clothes)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Clothes”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Sorry",
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: shirt?",
+    "q": "Chữ cái đầu của từ “shirt” là gì?",
     "a": "S",
     "c": [
       "S",
@@ -963,7 +963,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Daily activities)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Daily activities”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Thank you",
@@ -984,7 +984,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: read?",
+    "q": "Chữ cái đầu của từ “read” là gì?",
     "a": "R",
     "c": [
       "C",
@@ -1026,7 +1026,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Numbers)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Numbers”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Goodbye",
@@ -1047,7 +1047,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: twenty?",
+    "q": "Chữ cái đầu của từ “twenty” là gì?",
     "a": "T",
     "c": [
       "B",
@@ -1089,7 +1089,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Places)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Places”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Hello",
@@ -1110,7 +1110,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: park?",
+    "q": "Chữ cái đầu của từ “park” là gì?",
     "a": "P",
     "c": [
       "A",
@@ -1152,7 +1152,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Transport)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Transport”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Sorry",
@@ -1173,7 +1173,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: bus?",
+    "q": "Chữ cái đầu của từ “bus” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -1214,7 +1214,7 @@
     ]
   },
   {
-    "q": "Gặp một người bạn, em có thể nói gì để chào? (Review)",
+    "q": "Trong giao tiếp tiếng Anh chủ đề “Review”, câu nào dùng để chào hỏi?",
     "a": "Hello",
     "c": [
       "Thank you",
@@ -1235,7 +1235,7 @@
     ]
   },
   {
-    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: thank you?",
+    "q": "Chữ cái đầu của từ “thank you” là gì?",
     "a": "T",
     "c": [
       "C",

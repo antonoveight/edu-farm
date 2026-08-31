@@ -106,7 +106,7 @@ describe('Grade 1 textbook-authored banks', () => {
 
     test('keeps checked textbook details in their canonical lessons', () => {
         expect(viet).toContainEqual(expect.objectContaining({
-            q: 'Ở Bài 23, tiếng nào chứa vần “ia”?',
+            q: 'Tiếng nào dưới đây chứa vần “ia”?',
             a: 'tia',
             sourcePage: 58
         }));

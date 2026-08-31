@@ -21,7 +21,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Back to school”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Back to school”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "What is your name?",
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “friends” là gì? (Back to school)",
+    "q": "Chữ cái đầu của từ “friends” là gì?",
     "a": "F",
     "c": [
       "B",
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Birthday”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Birthday”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "When did you go there?",
@@ -105,7 +105,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “January” là gì? (Birthday)",
+    "q": "Chữ cái đầu của từ “January” là gì?",
     "a": "J",
     "c": [
       "A",
@@ -147,7 +147,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Our appearance”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Our appearance”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "Can you swim?",
@@ -168,7 +168,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “tall” là gì? (Our appearance)",
+    "q": "Chữ cái đầu của từ “tall” là gì?",
     "a": "T",
     "c": [
       "T",
@@ -210,7 +210,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Our bodies”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Our bodies”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "How old are you?",
@@ -231,7 +231,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “shoulder” là gì? (Our bodies)",
+    "q": "Chữ cái đầu của từ “shoulder” là gì?",
     "a": "S",
     "c": [
       "C",
@@ -273,7 +273,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Future jobs”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Future jobs”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "What is your name?",
@@ -294,7 +294,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “doctor” là gì? (Future jobs)",
+    "q": "Chữ cái đầu của từ “doctor” là gì?",
     "a": "D",
     "c": [
       "B",
@@ -336,7 +336,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Our school rooms”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Our school rooms”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "When did you go there?",
@@ -357,7 +357,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “library” là gì? (Our school rooms)",
+    "q": "Chữ cái đầu của từ “library” là gì?",
     "a": "L",
     "c": [
       "A",
@@ -399,7 +399,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “School activities”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “School activities”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "Can you swim?",
@@ -420,7 +420,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “read books” là gì? (School activities)",
+    "q": "Chữ cái đầu của từ “read books” là gì?",
     "a": "R",
     "c": [
       "R",
@@ -462,7 +462,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “In our classroom”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “In our classroom”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "How old are you?",
@@ -483,7 +483,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “board” là gì? (In our classroom)",
+    "q": "Chữ cái đầu của từ “board” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -524,7 +524,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Our outdoor activities”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Our outdoor activities”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "What is your name?",
@@ -545,7 +545,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “badminton” là gì? (Our outdoor activities)",
+    "q": "Chữ cái đầu của từ “badminton” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -586,7 +586,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Our summer holidays”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Our summer holidays”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "When did you go there?",
@@ -607,7 +607,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “beach” là gì? (Our summer holidays)",
+    "q": "Chữ cái đầu của từ “beach” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -648,7 +648,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Travel”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Travel”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "Can you swim?",
@@ -669,7 +669,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “boat trip” là gì? (Travel)",
+    "q": "Chữ cái đầu của từ “boat trip” là gì?",
     "a": "B",
     "c": [
       "C",
@@ -710,7 +710,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Weekend”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Weekend”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "How old are you?",
@@ -731,7 +731,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “last weekend” là gì? (Weekend)",
+    "q": "Chữ cái đầu của từ “last weekend” là gì?",
     "a": "L",
     "c": [
       "C",
@@ -773,7 +773,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Food and drink”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Food and drink”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "What is your name?",
@@ -794,7 +794,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “noodles” là gì? (Food and drink)",
+    "q": "Chữ cái đầu của từ “noodles” là gì?",
     "a": "N",
     "c": [
       "B",
@@ -836,7 +836,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Shopping”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Shopping”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "When did you go there?",
@@ -857,7 +857,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “shop” là gì? (Shopping)",
+    "q": "Chữ cái đầu của từ “shop” là gì?",
     "a": "S",
     "c": [
       "A",
@@ -899,7 +899,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Weather”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Weather”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "Can you swim?",
@@ -920,7 +920,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “sunny” là gì? (Weather)",
+    "q": "Chữ cái đầu của từ “sunny” là gì?",
     "a": "S",
     "c": [
       "S",
@@ -962,7 +962,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Directions”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Directions”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "How old are you?",
@@ -983,7 +983,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “turn left” là gì? (Directions)",
+    "q": "Chữ cái đầu của từ “turn left” là gì?",
     "a": "T",
     "c": [
       "C",
@@ -1025,7 +1025,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Health”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Health”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "What is your name?",
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “headache” là gì? (Health)",
+    "q": "Chữ cái đầu của từ “headache” là gì?",
     "a": "H",
     "c": [
       "B",
@@ -1088,7 +1088,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Nature”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Nature”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "When did you go there?",
@@ -1109,7 +1109,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “forest” là gì? (Nature)",
+    "q": "Chữ cái đầu của từ “forest” là gì?",
     "a": "F",
     "c": [
       "A",
@@ -1151,7 +1151,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Hobbies”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Hobbies”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "Can you swim?",
@@ -1172,7 +1172,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “drawing” là gì? (Hobbies)",
+    "q": "Chữ cái đầu của từ “drawing” là gì?",
     "a": "D",
     "c": [
       "D",
@@ -1214,7 +1214,7 @@
     ]
   },
   {
-    "q": "Trong chủ đề “Review”, mẫu câu nào phù hợp để hỏi về một sự việc trong quá khứ?",
+    "q": "Trong chủ đề “Review”, mẫu câu nào hỏi về thời điểm diễn ra sự việc?",
     "a": "When did you go there?",
     "c": [
       "How old are you?",
@@ -1235,7 +1235,7 @@
     ]
   },
   {
-    "q": "Chữ cái đầu của từ “thank you” là gì? (Review)",
+    "q": "Chữ cái đầu của từ “thank you” là gì?",
     "a": "T",
     "c": [
       "C",
