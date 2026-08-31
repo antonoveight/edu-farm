@@ -1,3 +1,41 @@
+
+// Kho từ vựng & câu có nghĩa cho dạng bài luyện gõ (Typing) trong Farm
+const MEANINGFUL_TYPING_BANK = {
+    1: [
+        { q: "Bé hãy gõ lại từ sau:", a: "hoa sen", explanation: "Hoa sen là loài hoa giản dị, thanh khiết của Việt Nam." },
+        { q: "Bé hãy gõ lại từ sau:", a: "cây xanh", explanation: "Cây xanh giúp lọc sạch không khí cho trái đất." },
+        { q: "Bé hãy gõ lại từ sau:", a: "con mèo", explanation: "Con mèo là loài vật nuôi đáng yêu và bắt chuột giỏi." },
+        { q: "Bé hãy gõ lại từ sau:", a: "bạn bè", explanation: "Bạn bè luôn giúp đỡ và chia sẻ cùng nhau trong học tập." },
+        { q: "Bé hãy gõ lại từ sau:", a: "chăm chỉ", explanation: "Chăm chỉ học tập sẽ giúp bé tiến bộ mỗi ngày." },
+        { q: "Bé hãy gõ lại từ sau:", a: "trường học", explanation: "Trường học là ngôi nhà thứ hai của chúng ta." },
+        { q: "Bé hãy gõ lại từ sau:", a: "mặt trời", explanation: "Mặt trời đem lại ánh sáng và sự sống cho muôn loài." },
+        { q: "Bé hãy gõ lại từ sau:", a: "nông trại", explanation: "Nông trại trồng rất nhiều loại rau củ tươi ngon." }
+    ],
+    2: [
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "dòng sông xanh", explanation: "Dòng sông xanh mang dòng nước tưới mát cho ruộng đồng." },
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "bác nông dân", explanation: "Bác nông dân chăm chỉ cày cấy làm ra hạt gạo trắng trong." },
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "sách vở mới", explanation: "Giữ gìn sách vở sạch đẹp là đức tính tốt của học sinh." },
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "chuột máy tính", explanation: "Chuột máy tính giúp bé điều khiển con trỏ dễ dàng." },
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "bàn phím gõ", explanation: "Bàn phím dùng để nhập chữ và số vào máy tính." },
+        { q: "Bé hãy gõ lại cụm từ sau:", a: "màn hình sáng", explanation: "Màn hình hiển thị hình ảnh và thông tin của máy tính." }
+    ],
+    3: [
+        { q: "Bé hãy gõ lại câu ngắn sau:", a: "chăm chỉ học tập", explanation: "Học tập kiên trì sẽ mang lại kết quả tốt đẹp." },
+        { q: "Bé hãy gõ lại câu ngắn sau:", a: "bảo vệ môi trường", explanation: "Giữ gìn vệ sinh chung là góp phần bảo vệ môi trường." },
+        { q: "Bé hãy gõ lại câu ngắn sau:", a: "thực vật quang hợp", explanation: "Cây xanh quang hợp để tạo ra khí oxy nuôi dưỡng sự sống." },
+        { q: "Bé hãy gõ lại câu ngắn sau:", a: "thư mục tệp tin", explanation: "Thư mục dùng để sắp xếp và lưu trữ các tệp tin gọn gàng." }
+    ],
+    4: [
+        { q: "Bé hãy gõ lại câu sau:", a: "bảo vệ nguồn nước sạch", explanation: "Nước sạch là tài nguyên quý giá cần được tiết kiệm." },
+        { q: "Bé hãy gõ lại câu sau:", a: "kỹ năng dùng máy tính", explanation: "Thành thạo máy tính giúp ích rất nhiều cho việc học." },
+        { q: "Bé hãy gõ lại câu sau:", a: "công nghệ thông tin", explanation: "Công nghệ thông tin kết nối mọi người trên toàn cầu." }
+    ],
+    5: [
+        { q: "Bé hãy gõ lại câu sau:", a: "tinh thần đoàn kết", explanation: "Đoàn kết tạo nên sức mạnh to lớn vượt qua khó khăn." },
+        { q: "Bé hãy gõ lại câu sau:", a: "an toàn không gian mạng", explanation: "Luôn bảo mật mật khẩu và cẩn trọng trên môi trường mạng." },
+        { q: "Bé hãy gõ lại câu sau:", a: "tự hào quê hương việt nam", explanation: "Yêu quê hương đất nước là truyền thống tốt đẹp của dân tộc." }
+    ]
+};
 const gameAssets = {
     eco: {
         name: "Đảo Sinh Thái", styleClass: "theme-eco",
@@ -106,7 +144,7 @@ function getSeedConfig() {
                 borderColor: "#10b981",
                 textColor: "text-emerald-400",
                 dialogues: {
-                    welcome: "Chào bé! Hãy chọn hạt giống và gieo xuống đất nhé! 🌱",
+                    welcome: "Chào bé! Hãy chọn 1 trong 3 nhiệm vụ lấy hạt giống hoặc gieo hạt xuống đất nhé! 🌱",
                     dry: "Cây bị khát rồi! Bé chọn Bình Nước để tưới nhé! 💧",
                     pest: "Có sâu phá hoại! Nhấn vào để tiêu diệt sâu nhé! 🐛",
                     locked: "Tích đủ xu và giải đố để mở khóa ô đất nhé! 🔓",
@@ -129,7 +167,7 @@ function getSeedConfig() {
                 borderColor: "#06b6d4",
                 textColor: "text-cyan-400",
                 dialogues: {
-                    welcome: "Hệ thống sẵn sàng! Chọn hạt giống để gieo trồng! 🔋",
+                    welcome: "Hệ thống sẵn sàng! Hãy chọn 1 trong 3 nhiệm vụ nhận hạt giống để gieo trồng nhé! 🔋",
                     dry: "Độ ẩm thấp! Chọn Bình Nước để tưới ngay! 💧",
                     pest: "Phát hiện mã độc! Nhấn vào sâu để diệt virus! 🐛",
                     locked: "Giải đố và dùng xu để mở cổng liên kết nhé! 🔓",
@@ -152,7 +190,7 @@ function getSeedConfig() {
                 borderColor: "#d946ef",
                 textColor: "text-fuchsia-400",
                 dialogues: {
-                    welcome: "Chào hoàng tử, công chúa! Chọn hạt gieo phép nhé! 🌸",
+                    welcome: "Chào bạn nhỏ! Hãy chọn 1 trong 3 nhiệm vụ phép thuật để nhận hạt giống gieo trồng nhé! 🌸",
                     dry: "Cạn linh lực! Bé tưới nước thiêng cho cây đi! 💧",
                     pest: "Yêu quái quấy phá! Nhấp vào để tung ma pháp diệt! 🐛",
                     locked: "Giải ma thuật cổ xưa để khai hoang đất nhé! 🔓",
@@ -639,10 +677,10 @@ function getSeedConfig() {
                                     targetElement = document.getElementById(`inv-card-${firstSeedId}`);
                                 }
                             } else {
-                                // Hướng dẫn làm nhiệm vụ lấy hạt giống s1
+                                // Hướng dẫn làm nhiệm vụ lấy hạt giống (chọn 1 trong 3 nhiệm vụ Dễ/Vừa/Khó)
                                 guideId = "seed_task";
-                                speechText = "Hết hạt rồi! Làm nhiệm vụ lấy hạt giống nhé! 🌱";
-                                targetElement = document.getElementById("task-btn-s1");
+                                speechText = "Hết hạt giống rồi! Bé hãy chọn 1 trong 3 nhiệm vụ bên phải để nhận hạt giống nhé! 🌱";
+                                targetElement = document.getElementById("task-list-container") || document.getElementById("task-btn-s1");
                             }
                         }
                     }
@@ -954,6 +992,7 @@ function getSeedConfig() {
 
         function switchTab(tabId) {
             activeTab = tabId;
+            updateWeatherUI(); // Cập nhật hiển thị thời tiết theo tab (chỉ hiện ở Farm)
             if (typeof dqOnTabVisit === 'function') dqOnTabVisit(tabId); // Daily Quest: all_tabs_3
             document.querySelectorAll(".btn-tab").forEach(b => b.classList.remove("active"));
             document.getElementById(`tab-${tabId}`).classList.add("active");
@@ -1615,6 +1654,13 @@ function updateMarketPrices() {
             const badge = document.getElementById("display-weather");
             if (!badge) return;
 
+            // Đảm bảo widget thời tiết CHỈ HIỂN THỊ khi ở tab Nông Trại ('farm')
+            if (typeof activeTab !== 'undefined' && activeTab !== 'farm') {
+                badge.style.display = 'none';
+                return;
+            }
+            badge.style.display = 'inline-flex';
+
             if (gameState.weather === "sunny") {
                 badge.innerHTML = `<i class="fa-solid fa-sun text-yellow-400"></i> &nbsp;<span id="weather-text">Nắng ấm</span>`;
                 badge.style.color = "#facc15";
@@ -2250,49 +2296,10 @@ function updateMarketPrices() {
                 renderInventory();
 
                 activeTask.isFailed = false;
-
                 hideNpcBanner();
-                const questLayout = document.querySelector(".quest-layout");
-                if (questLayout) questLayout.style.display = "none";
-
-                const ctx = activeTask ? activeTask.ctx : null;
-                const icon = (ctx && ctx.npc_icon) ? ctx.npc_icon : "👩‍🏫";
-                const msg = (ctx && ctx.success) ? ctx.success : "Bé đã trả lời rất xuất sắc!";
-                const exp = (activeTask && activeTask.explanation) ? activeTask.explanation : "";
-
-                // Kiểm tra xem có giải thích thực tế hữu ích từ ngân hàng câu hỏi hay không
-                let hasRealExplanation = false;
-                if (exp && exp.trim() !== "") {
-                    const cleanExp = exp.trim().toLowerCase();
-                    // Loại bỏ các câu giải thích mặc định tự sinh
-                    if (!cleanExp.startsWith("đáp án đúng là") && !cleanExp.includes("đáp án đúng là:")) {
-                        hasRealExplanation = true;
-                    }
-                }
-
-                if (hasRealExplanation) {
-                    const expContainer = document.getElementById("quest-explanation-container");
-                    if (expContainer) {
-                        expContainer.className = "w-full max-w-md mx-auto my-4";
-                        expContainer.innerHTML = `
-                            <div class="text-center p-6 bg-slate-800/95 rounded-2xl border-2 border-emerald-500/50 shadow-2xl">
-                                <div class="text-6xl mb-3 animate-bounce">${icon}</div>
-                                <h3 class="text-2xl text-emerald-400 font-black mb-2 tracking-wide">CHÍNH XÁC! 🎉</h3>
-                                <p class="text-white text-base mb-4 leading-relaxed font-semibold">${msg}</p>
-                                <div class="bg-slate-900/80 p-3.5 rounded-xl border border-slate-700 mb-5 text-left text-xs text-slate-300">💡 <b>Ghi nhớ kiến thức:</b> ${exp}</div>
-                                <button class="btn-primary w-full py-3 font-bold text-base flex items-center justify-center gap-2 shadow-lg" onclick="continueAfterExplanation()">
-                                    TIẾP TỤC <i class="fa-solid fa-arrow-right"></i>
-                                </button>
-                            </div>
-                        `;
-                        expContainer.style.display = "block";
-                    } else {
-                        continueAfterExplanation();
-                    }
-                } else {
-                    // Không có giải thích thực tế -> bỏ qua bước trung gian này để đỡ mất 1 thao tác click của bé
-                    continueAfterExplanation();
-                }
+                // Hoàn thành nhiệm vụ -> Đóng modal ngay lập tức và cập nhật trạng thái
+                closeTaskModal();
+                updateGuide();
             } else {
                 handleQuestError();
             }
@@ -5088,6 +5095,17 @@ function generateSpecificSubjectQuestion(subject, mode) {
             } else {
                 qType = 'multiple_choice';
             }
+        }
+    }
+
+    // Đảm bảo nếu qType là typing thì luôn có câu/từ có nghĩa từ ngân hàng
+    if (qType === 'typing') {
+        const typingList = MEANINGFUL_TYPING_BANK[grade] || MEANINGFUL_TYPING_BANK[1];
+        const randomItem = typingList[Math.floor(Math.random() * typingList.length)];
+        if (!ans || ans.length < 2 || candidate?.type !== 'typing') {
+            question = randomItem.q;
+            ans = randomItem.a;
+            activeTask.explanation = randomItem.explanation;
         }
     }
 
