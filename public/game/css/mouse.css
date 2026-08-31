@@ -85,7 +85,7 @@
     width: 100%;
     display: flex;
     flex-direction: column;
-    gap: 16px;
+    gap: 14px;
 }
 
 .mouse-hud-card {
@@ -129,6 +129,7 @@
     color: #e0f2fe;
     display: flex;
     align-items: center;
+    justify-content: space-between;
     gap: 10px;
 }
 
@@ -137,7 +138,7 @@
     background: linear-gradient(180deg, #132742 0%, #0c1728 100%);
     border: 2px solid rgba(56, 189, 248, 0.35);
     border-radius: 24px;
-    height: 480px;
+    height: 490px;
     width: 100%;
     position: relative;
     overflow: hidden;
@@ -163,8 +164,6 @@
 }
 
 .mouse-target-bubble {
-    width: 64px;
-    height: 64px;
     border-radius: 50%;
     background: rgba(30, 41, 59, 0.85);
     border: 2px solid #38bdf8;
@@ -172,7 +171,6 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 32px;
 }
 
 .mouse-target-label {
@@ -184,43 +182,47 @@
     border-radius: 6px;
     margin-top: 4px;
     border: 1px solid rgba(255,255,255,0.1);
+    white-space: nowrap;
 }
 
 /* DRAG AND DROP ZONE */
 .drag-baskets-container {
     position: absolute;
-    bottom: 20px;
+    bottom: 16px;
     left: 0;
     right: 0;
     display: flex;
-    justify-content: space-around;
-    padding: 0 40px;
-    gap: 20px;
+    justify-content: center;
+    padding: 0 20px;
+    gap: 16px;
+    z-index: 5;
 }
 
 .drag-basket-slot {
     flex: 1;
-    max-width: 220px;
-    height: 120px;
-    border-radius: 18px;
-    background: rgba(15, 23, 42, 0.8);
-    border: 2px dashed #94a3b8;
+    max-width: 210px;
+    height: 125px;
+    border-radius: 20px;
+    background: rgba(15, 23, 42, 0.9);
+    border: 2.5px dashed #94a3b8;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     gap: 6px;
     transition: all 0.2s ease;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.4);
+    position: relative;
 }
 
 .drag-basket-slot.basket-hover {
-    transform: scale(1.05);
+    transform: scale(1.06);
     border-style: solid;
-    box-shadow: 0 0 25px currentColor;
+    box-shadow: 0 0 30px currentColor;
 }
 
 .drag-basket-icon {
-    font-size: 36px;
+    font-size: 38px;
 }
 
 .drag-basket-title {
@@ -228,27 +230,36 @@
     font-size: 14px;
 }
 
+.drag-basket-tag {
+    font-size: 11px;
+    font-weight: 800;
+    padding: 2px 8px;
+    border-radius: 6px;
+    background: rgba(255, 255, 255, 0.1);
+}
+
 .draggable-produce {
     position: absolute;
-    width: 60px;
-    height: 60px;
+    width: 68px;
+    height: 68px;
     border-radius: 50%;
     background: rgba(30, 41, 59, 0.95);
-    border: 2px solid #38bdf8;
+    border: 3px solid #38bdf8;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 30px;
+    font-size: 34px;
     cursor: grab;
     transform: translate(-50%, -50%);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.5);
     z-index: 20;
+    transition: transform 0.08s ease;
 }
 
 .draggable-produce:active {
     cursor: grabbing;
-    transform: translate(-50%, -50%) scale(1.2);
-    box-shadow: 0 12px 30px rgba(56, 189, 248, 0.6);
+    transform: translate(-50%, -50%) scale(1.22);
+    box-shadow: 0 14px 35px rgba(56, 189, 248, 0.7);
 }
 
 /* MAZE FOR HOVER TRACKING */
@@ -263,23 +274,48 @@
 
 .bee-cursor-follower {
     position: absolute;
-    width: 38px;
-    height: 38px;
-    font-size: 30px;
+    width: 44px;
+    height: 44px;
+    font-size: 34px;
     pointer-events: none;
     transform: translate(-50%, -50%);
     z-index: 50;
-    transition: transform 0.05s ease-out;
+    transition: transform 0.04s ease-out;
+}
+
+.bee-offroad-warning {
+    position: absolute;
+    top: 14px;
+    left: 50%;
+    transform: translateX(-50%);
+    background: rgba(239, 68, 68, 0.9);
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 14px;
+    padding: 6px 16px;
+    border-radius: 12px;
+    box-shadow: 0 4px 15px rgba(239, 68, 68, 0.5);
+    display: none;
+    z-index: 60;
+    animation: pulseWarn 0.5s infinite alternate;
+}
+
+@keyframes pulseWarn {
+    0% { transform: translateX(-50%) scale(1); }
+    100% { transform: translateX(-50%) scale(1.06); }
 }
 
 /* POP ANIMATIONS */
 .mouse-pop-fx {
     position: absolute;
     font-weight: 900;
-    font-size: 22px;
+    font-size: 20px;
     pointer-events: none;
     animation: mousePopUp 0.6s forwards ease-out;
     z-index: 100;
+    transform: translate(-50%, -50%);
+    text-shadow: 0 2px 10px rgba(0,0,0,0.8);
+    white-space: nowrap;
 }
 
 @keyframes mousePopUp {
@@ -288,7 +324,7 @@
     100% { opacity: 0; transform: translate(-50%, -130%) scale(1.4); }
 }
 
-/* MODAL SELECTION & RESULT */
+/* MODAL SELECTION & DIFFICULTY FILTER */
 .mouse-modal-overlay {
     position: fixed;
     top: 0;
@@ -309,10 +345,62 @@
     border: 1px solid rgba(255, 255, 255, 0.1);
     border-radius: 24px;
     width: 100%;
-    max-width: 600px;
-    padding: 28px;
+    max-width: 720px;
+    max-height: 85vh;
+    padding: 24px;
     box-shadow: 0 20px 50px rgba(0, 0, 0, 0.6);
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 16px;
+    overflow: hidden;
+}
+
+.mouse-diff-filter-bar {
+    display: flex;
+    gap: 8px;
+    background: #0f172a;
+    padding: 4px;
+    border-radius: 12px;
+    border: 1px solid rgba(255,255,255,0.06);
+}
+
+.mouse-diff-filter-btn {
+    flex: 1;
+    padding: 8px 12px;
+    border-radius: 8px;
+    font-size: 13px;
+    font-weight: 800;
+    color: #94a3b8;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+}
+
+.mouse-diff-filter-btn.active {
+    background: #0284c7;
+    color: #ffffff;
+    box-shadow: 0 2px 8px rgba(2, 132, 199, 0.4);
+}
+
+.mouse-level-row-item {
+    background: #1e293b;
+    border-radius: 14px;
+    padding: 12px 16px;
+    border: 1px solid rgba(255,255,255,0.06);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.mouse-level-row-item:hover {
+    background: #273549;
+    border-color: #38bdf8;
+    transform: translateY(-2px);
 }
