@@ -3,6 +3,7 @@ const path = require('path');
 
 const DATA_DIR = path.join(process.cwd(), 'src', 'data', 'grade5');
 const BOOKS = {
+    math1: ['SGK Toán 5, Tập một – Kết nối tri thức với cuộc sống', 'toan-lop-5-tap-1-kntt_27720240.pdf'],
     viet1: ['SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống', 'sgk-tieng-viet-5-tap-1-kntt_5120269.pdf'],
     viet2: ['SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống', 'sgk-tieng-viet-5-tap-2-kntt_5120269.pdf'],
     english1: ['SGK Tiếng Anh 5, Tập một – Global Success', 'sgk-tieng-anh-5-tap-1-globalsuccess_5120269.pdf'],
@@ -50,6 +51,136 @@ function buildFacts(file, source, entries) {
         q, a, c, lo, book: book || source, page, lesson, hints: ['Đọc kỹ nội dung bài học và từng phương án.']
     }));
     write(file, questions);
+}
+
+function numericChoices(value) {
+    const number = Number(value);
+    return [...new Set([number, number + 1, Math.max(0, number - 1), number + 10, Math.max(0, number - 10), number + 0.1])]
+        .slice(0, 4)
+        .map((item) => String(Number.isInteger(item) ? item : Number(item.toFixed(3))));
+}
+
+function buildMath() {
+    const { questions, add } = bank();
+    const addNumeric = (q, a, lo, page, lesson, difficulty = 'medium', explanation) => add({
+        q, a, c: numericChoices(a), lo, book: BOOKS.math1, page, lesson, difficulty,
+        explanation: explanation || `Thực hiện phép tính, ta được ${a}.`, hints: ['Ước lượng kết quả trước rồi tính cẩn thận.']
+    });
+
+    for (let index = 0; index < 20; index += 1) {
+        const n = 100_000 + index * 43_217;
+        const digit = Math.floor(n / 10_000) % 10;
+        add({
+            q: `Trong số ${n.toLocaleString('vi-VN')}, chữ số hàng chục nghìn là số nào?`, a: String(digit), c: numericChoices(digit),
+            lo: 'Nhận biết giá trị các hàng của số tự nhiên', book: BOOKS.math1, page: 6, lesson: 'Bài 1. Ôn tập số tự nhiên',
+            hints: ['Đếm các hàng từ phải sang trái: đơn vị, chục, trăm, nghìn, chục nghìn.']
+        });
+    }
+    for (let index = 0; index < 60; index += 1) {
+        const left = 125_630 + index * 7_109;
+        const right = 34_275 + (index * 4_371 % 180_000);
+        addNumeric(`${left.toLocaleString('vi-VN')} + ${right.toLocaleString('vi-VN')} = ?`, left + right,
+            'Cộng các số tự nhiên', 9, 'Bài 2. Ôn tập các phép tính với số tự nhiên');
+        addNumeric(`${(left + right).toLocaleString('vi-VN')} − ${left.toLocaleString('vi-VN')} = ?`, right,
+            'Trừ các số tự nhiên', 9, 'Bài 2. Ôn tập các phép tính với số tự nhiên');
+    }
+    for (let factor = 16; factor <= 35; factor += 1) {
+        for (const multiplier of [4, 6, 7, 8]) {
+            addNumeric(`${factor} × ${multiplier} = ?`, factor * multiplier, 'Nhân số tự nhiên', 9,
+                'Bài 2. Ôn tập các phép tính với số tự nhiên');
+        }
+    }
+    for (let divisor = 2; divisor <= 9; divisor += 1) {
+        for (let quotient = 18; quotient <= 25; quotient += 1) {
+            const dividend = divisor * quotient;
+            addNumeric(`${dividend} : ${divisor} = ?`, quotient, 'Chia số tự nhiên', 9,
+                'Bài 2. Ôn tập các phép tính với số tự nhiên');
+        }
+    }
+    const fractionFacts = [
+        ['Phân số nào bằng một phần hai?', '1/2', ['2/1', '1/3', '2/3'], 'Nhận biết phân số', 11, 'Bài 3. Ôn tập phân số'],
+        ['Phân số nào lớn hơn?', '3/4', ['2/4', '1/4', '3/5'], 'So sánh phân số cùng mẫu', 11, 'Bài 3. Ôn tập phân số'],
+        ['Phân số nào bằng 2/4?', '1/2', ['1/4', '2/2', '3/4'], 'Nhận biết phân số bằng nhau', 11, 'Bài 3. Ôn tập phân số'],
+        ['5/7 + 1/7 = ?', '6/7', ['5/14', '6/14', '4/7'], 'Cộng hai phân số cùng mẫu', 20, 'Bài 5. Ôn tập các phép tính với phân số'],
+        ['7/9 − 2/9 = ?', '5/9', ['5/18', '9/5', '4/9'], 'Trừ hai phân số cùng mẫu', 20, 'Bài 5. Ôn tập các phép tính với phân số'],
+        ['1/3 + 1/6 = ?', '1/2', ['2/9', '1/9', '2/6'], 'Cộng hai phân số khác mẫu', 22, 'Bài 6. Cộng, trừ hai phân số'],
+        ['3/4 − 1/2 = ?', '1/4', ['2/4', '1/2', '3/8'], 'Trừ hai phân số khác mẫu', 22, 'Bài 6. Cộng, trừ hai phân số'],
+        ['Hỗn số 2 1/3 gồm mấy đơn vị và phần phân số nào?', '2 đơn vị và 1/3', ['1 đơn vị và 2/3', '3 đơn vị', '2 đơn vị và 3/1'], 'Nhận biết hỗn số', 23, 'Bài 7. Hỗn số'],
+        ['Hình nào có ba cạnh?', 'Hình tam giác', ['Hình tròn', 'Hình thang', 'Hình chữ nhật'], 'Nhận biết hình học', 26, 'Bài 8. Ôn tập hình học và đo lường'],
+        ['1 km bằng bao nhiêu mét?', '1000', ['100', '10', '10000'], 'Đổi đơn vị độ dài', 26, 'Bài 8. Ôn tập hình học và đo lường']
+    ];
+    fractionFacts.forEach(([q, a, c, lo, page, lesson]) => add({ q, a, c, lo, book: BOOKS.math1, page, lesson, hints: ['Xác định mẫu số, tử số hoặc đơn vị đo trước khi chọn đáp án.'] }));
+
+    for (let index = 0; index < 24; index += 1) {
+        const integer = 2 + index;
+        const tenths = (index * 3 + 1) % 10;
+        const value = Number(`${integer}.${tenths}`);
+        add({
+            q: `Số thập phân nào được đọc là “${integer} phẩy ${tenths}”?`, a: String(value).replace('.', ','),
+            c: [String(Number(`${tenths}.${integer}`)).replace('.', ','), `${integer}${tenths}`, `${integer},${(tenths + 1) % 10}`],
+            lo: 'Đọc và viết số thập phân', book: BOOKS.math1, page: 32, lesson: 'Bài 10. Khái niệm số thập phân',
+            hints: ['Phần nguyên đứng trước dấu phẩy; phần thập phân đứng sau dấu phẩy.']
+        });
+    }
+    for (let index = 0; index < 20; index += 1) {
+        const left = Number((2.1 + index * 0.37).toFixed(2));
+        const right = Number((1.2 + index * 0.23).toFixed(2));
+        const result = Number((left + right).toFixed(2));
+        addNumeric(`${String(left).replace('.', ',')} + ${String(right).replace('.', ',')} = ?`, result,
+            'Cộng số thập phân', 65, 'Bài 19. Phép cộng số thập phân');
+        addNumeric(`${String(result).replace('.', ',')} − ${String(left).replace('.', ',')} = ?`, right,
+            'Trừ số thập phân', 68, 'Bài 20. Phép trừ số thập phân');
+    }
+    for (let index = 0; index < 20; index += 1) {
+        const left = Number((1.2 + index * 0.2).toFixed(1));
+        const multiplier = 2 + index % 5;
+        const result = Number((left * multiplier).toFixed(1));
+        addNumeric(`${String(left).replace('.', ',')} × ${multiplier} = ?`, result,
+            'Nhân số thập phân', 71, 'Bài 21. Phép nhân số thập phân');
+    }
+    for (let index = 0; index < 20; index += 1) {
+        const divisor = 2 + index % 5;
+        const quotient = Number((1.5 + index * 0.2).toFixed(1));
+        const dividend = Number((divisor * quotient).toFixed(1));
+        addNumeric(`${String(dividend).replace('.', ',')} : ${divisor} = ?`, quotient,
+            'Chia số thập phân', 76, 'Bài 22. Phép chia số thập phân');
+    }
+    for (let index = 0; index < 18; index += 1) {
+        const value = Number((1.234 + index * 0.111).toFixed(3));
+        const multiplier = [10, 100, 1000][index % 3];
+        addNumeric(`${String(value).replace('.', ',')} × ${multiplier} = ?`, value * multiplier,
+            'Nhân số thập phân với 10, 100, 1 000', 83, 'Bài 23. Nhân, chia số thập phân với 10; 100; 1 000; …');
+    }
+    const geometry = [
+        ['1 ha bằng bao nhiêu mét vuông?', 10000, 'Đổi đơn vị héc-ta', 53, 'Bài 15. Ki-lô-mét vuông. Héc-ta'],
+        ['1 km² bằng bao nhiêu mét vuông?', 1000000, 'Đổi đơn vị ki-lô-mét vuông', 53, 'Bài 15. Ki-lô-mét vuông. Héc-ta'],
+        ['1 m² bằng bao nhiêu dm²?', 100, 'Đổi đơn vị diện tích', 56, 'Bài 16. Các đơn vị đo diện tích'],
+        ['Một tam giác có đáy 8 cm và chiều cao 5 cm. Diện tích là bao nhiêu xăng-ti-mét vuông?', 20, 'Tính diện tích tam giác', 91, 'Bài 25. Hình tam giác. Diện tích hình tam giác'],
+        ['Một tam giác có đáy 12 cm và chiều cao 6 cm. Diện tích là bao nhiêu xăng-ti-mét vuông?', 36, 'Tính diện tích tam giác', 91, 'Bài 25. Hình tam giác. Diện tích hình tam giác'],
+        ['Một hình thang có hai đáy 8 cm, 12 cm và chiều cao 5 cm. Diện tích là bao nhiêu xăng-ti-mét vuông?', 50, 'Tính diện tích hình thang', 98, 'Bài 26. Hình thang. Diện tích hình thang'],
+        ['Một hình thang có hai đáy 10 cm, 14 cm và chiều cao 4 cm. Diện tích là bao nhiêu xăng-ti-mét vuông?', 48, 'Tính diện tích hình thang', 98, 'Bài 26. Hình thang. Diện tích hình thang'],
+        ['Chu vi hình tròn được tính bằng cách nào?', 'Lấy đường kính nhân với 3,14', ['Lấy bán kính cộng đường kính', 'Lấy bán kính nhân bán kính', 'Lấy đường kính chia 2'], 'Nhận biết công thức chu vi hình tròn', 105, 'Bài 27. Đường tròn. Chu vi và diện tích hình tròn'],
+        ['Hình tròn có bán kính 5 cm. Diện tích hình tròn là bao nhiêu xăng-ti-mét vuông? (lấy π = 3,14)', 78.5, 'Tính diện tích hình tròn', 105, 'Bài 27. Đường tròn. Chu vi và diện tích hình tròn'],
+        ['Hình tròn có đường kính 10 cm. Chu vi hình tròn là bao nhiêu xăng-ti-mét? (lấy π = 3,14)', 31.4, 'Tính chu vi hình tròn', 105, 'Bài 27. Đường tròn. Chu vi và diện tích hình tròn']
+    ];
+    geometry.forEach(([q, a, lo, page, lesson]) => {
+        if (typeof a === 'number') addNumeric(q, a, lo, page, lesson);
+        else add({ q, a, c: ['Lấy bán kính nhân bán kính', 'Lấy đường kính cộng bán kính', 'Lấy bán kính chia 3,14'], lo, book: BOOKS.math1, page, lesson, hints: ['Nhớ lại công thức của hình tròn.'] });
+    });
+    const applications = [
+        ['Một cửa hàng có 25,6 kg gạo, đã bán 8,75 kg. Cửa hàng còn lại bao nhiêu ki-lô-gam gạo?', 16.85, 'Giải bài toán bằng phép trừ số thập phân', 68, 'Bài 20. Phép trừ số thập phân'],
+        ['Một hộp có 12,5 kg cam. 4 hộp như thế có bao nhiêu ki-lô-gam cam?', 50, 'Giải bài toán bằng phép nhân số thập phân', 71, 'Bài 21. Phép nhân số thập phân'],
+        ['Một mảnh đất rộng 0,5 ha. Đổi mảnh đất đó ra mét vuông.', 5000, 'Vận dụng đổi đơn vị diện tích', 53, 'Bài 15. Ki-lô-mét vuông. Héc-ta'],
+        ['Một sợi dây dài 12,6 m được cắt đều thành 3 đoạn. Mỗi đoạn dài bao nhiêu mét?', 4.2, 'Giải bài toán bằng phép chia số thập phân', 76, 'Bài 22. Phép chia số thập phân'],
+        ['Một khu vườn hình tam giác có đáy 20 m, chiều cao 12 m. Diện tích khu vườn là bao nhiêu mét vuông?', 120, 'Vận dụng diện tích tam giác', 91, 'Bài 25. Hình tam giác. Diện tích hình tam giác'],
+        ['Làm tròn số 12,67 đến hàng phần mười được số nào?', '12,7', 'Làm tròn số thập phân', 47, 'Bài 13. Làm tròn số thập phân'],
+        ['Làm tròn số 25,43 đến hàng đơn vị được số nào?', '25', 'Làm tròn số thập phân', 47, 'Bài 13. Làm tròn số thập phân']
+    ];
+    applications.forEach(([q, a, lo, page, lesson]) => {
+        if (typeof a === 'number') addNumeric(q, a, lo, page, lesson);
+        else add({ q, a, c: a === '12,7' ? ['12,6', '13,7', '12'] : ['24', '26', '25,4'], lo, book: BOOKS.math1, page, lesson, hints: ['Xem chữ số ngay bên phải hàng cần làm tròn.'] });
+    });
+    return questions;
 }
 
 function buildVietnamese() {
@@ -167,6 +298,7 @@ function buildMusic() {
 }
 
 fs.mkdirSync(DATA_DIR, { recursive: true });
+write('math.json', buildMath());
 buildVietnamese();
 buildEnglish();
 buildTech(buildIT());
