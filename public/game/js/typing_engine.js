@@ -290,10 +290,19 @@ window.TypingEngine = (function() {
             const screenTyping = document.getElementById("screen-typing");
             if (!screenTyping || screenTyping.style.display !== "flex") return;
 
-            // Nếu đang chơi Mini-game Farm Drop, chuyển event cho mini-game xử lý
+            // Nếu đang chơi Mini-game, chuyển event cho mini-game xử lý
             if (TypingFarmGame.isActive()) {
-                if (e.key.length === 1) {
+                if (e.key === "Backspace") {
                     e.preventDefault();
+                    TypingFarmGame.handleBackspace();
+                    return;
+                }
+                if (e.key === " ") {
+                    e.preventDefault();
+                    TypingFarmGame.handleKey(" ");
+                    return;
+                }
+                if (e.key.length === 1) {
                     TypingFarmGame.handleKey(e.key);
                 }
                 return;
@@ -495,6 +504,12 @@ window.TypingEngine = (function() {
         });
     }
 
+    // Hàm loại bỏ dấu tiếng Việt để so khớp linh hoạt
+    function removeVietnameseDiacritics(str) {
+        if (!str) return "";
+        return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/đ/g, "d").replace(/Đ/g, "D");
+    }
+
     // ================= 6 MINI GAMES NÔNG TRẠI ĐỘC ĐÁO CHO 6 CẤP ĐỘ =================
     const TypingFarmGame = (function() {
         let isRunning = false;
@@ -686,19 +701,22 @@ window.TypingEngine = (function() {
                 // 5. Sâu bọ bò ngang mang từ Tiếng Việt
                 const wordObj = cfg.words[Math.floor(Math.random() * cfg.words.length)];
                 const topPercent = 15 + Math.random() * 55;
+                const rawWord = wordObj.word.toLowerCase();
+                const rawNoTone = removeVietnameseDiacritics(rawWord);
 
                 const el = document.createElement("div");
                 el.className = "pest-crawler";
                 el.style.right = `-120px`;
                 el.style.top = `${topPercent}%`;
                 el.innerHTML = `
-                    <div class="pest-crawler-icon">🐛</div>
+                    <div class="pest-crawler-icon">${wordObj.icon || '🐛'}</div>
                     <div class="pest-word-target">${wordObj.word}</div>
                 `;
                 field.appendChild(el);
                 activeEntities.push({
                     type: 'pest',
-                    word: wordObj.word.toLowerCase(),
+                    word: rawWord,
+                    rawNoTone: rawNoTone,
                     typed: "",
                     el: el,
                     pos: -120,
@@ -838,20 +856,55 @@ window.TypingEngine = (function() {
             if (lives <= 0) endGame(false);
         }
 
-        // ================= XỬ LÝ PHÍM BẤM =================
+        function handleBackspace() {
+            if (!isRunning) return;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            const cfg = cat.miniGame;
+            const theme = cfg.theme;
+
+            if (theme === 'tractor_rush') {
+                if (currentPhraseTyped.length > 0) {
+                    currentPhraseTyped = currentPhraseTyped.slice(0, -1);
+                    renderTractorCard();
+                }
+            } else if (theme === 'pest_defense') {
+                for (let ent of activeEntities) {
+                    if (ent.type === 'pest' && ent.typed.length > 0) {
+                        ent.typed = ent.typed.slice(0, -1);
+                        const wordEl = ent.el.querySelector('.pest-word-target');
+                        if (wordEl) {
+                            wordEl.innerHTML = `<span style="color:#4ade80;background:#15803d;padding:0 2px;border-radius:3px;">${ent.typed}</span>${ent.word.substring(ent.typed.length)}`;
+                        }
+                    }
+                }
+            }
+        }
+
+        // ================= XỬ LÝ PHÍM BẤM THÔNG MINH =================
         function handleKey(char) {
             if (!isRunning) return;
             const cat = window.TYPING_DATA.categories[catIndex];
             const cfg = cat.miniGame;
             const theme = cfg.theme;
             const k = char.toLowerCase();
+            const kNoTone = removeVietnameseDiacritics(k);
 
             if (theme === 'tractor_rush') {
-                // Chế độ đua xe máy cày (so khớp từng ký tự của câu)
+                // Chế độ đua xe máy cày (so khớp từng ký tự của câu tiếng Việt linh hoạt)
                 const expectedChar = currentPhrase[currentPhraseTyped.length];
-                if (char === expectedChar || (expectedChar && char.toLowerCase() === expectedChar.toLowerCase())) {
+                if (!expectedChar) return;
+
+                const expLow = expectedChar.toLowerCase();
+                const expNoTone = removeVietnameseDiacritics(expLow);
+
+                const isMatch = (char === expectedChar) || 
+                                (k === expLow) || 
+                                (kNoTone === expNoTone) ||
+                                (char === ' ' && expectedChar === ' ');
+
+                if (isMatch) {
                     currentPhraseTyped += expectedChar;
-                    playTone(600 + currentPhraseTyped.length * 20, 'sine', 0.05, 0.05);
+                    playTone(550 + currentPhraseTyped.length * 15, 'sine', 0.05, 0.05);
                     renderTractorCard();
 
                     if (currentPhraseTyped.length >= currentPhrase.length) {
@@ -864,7 +917,7 @@ window.TypingEngine = (function() {
                         if (caughtCount >= cfg.targetCount) {
                             endGame(true);
                         } else {
-                            setTimeout(startNextTractorPhrase, 400);
+                            setTimeout(startNextTractorPhrase, 350);
                         }
                     }
                 } else {
@@ -874,36 +927,43 @@ window.TypingEngine = (function() {
             }
 
             if (theme === 'pest_defense') {
-                // Chế độ trừ sâu: Tìm con sâu đang có từ bắt đầu khớp
-                let target = null;
+                // Chế độ trừ sâu: So khớp từ vựng tiếng Việt linh hoạt (cả có dấu lẫn không dấu/Telex)
+                let matchedEntity = null;
+
                 for (let ent of activeEntities) {
                     if (ent.type === 'pest') {
-                        const nextChar = ent.word[ent.typed.length];
-                        if (nextChar === k) {
-                            target = ent;
+                        const targetWord = ent.word;
+                        const targetNoTone = ent.rawNoTone;
+                        const curTyped = ent.typed;
+                        const nextIndex = curTyped.length;
+
+                        const expectedCharWithTone = targetWord[nextIndex];
+                        const expectedCharNoTone = targetNoTone[nextIndex];
+
+                        if (expectedCharWithTone && (k === expectedCharWithTone || k === expectedCharNoTone || kNoTone === expectedCharNoTone)) {
+                            matchedEntity = ent;
                             break;
                         }
                     }
                 }
 
-                if (target) {
-                    target.typed += k;
-                    playTone(750, 'triangle', 0.05, 0.05);
+                if (matchedEntity) {
+                    matchedEntity.typed += matchedEntity.word[matchedEntity.typed.length];
+                    playTone(720 + matchedEntity.typed.length * 40, 'triangle', 0.05, 0.05);
 
-                    // Cập nhật giao diện từ
-                    const wordEl = target.el.querySelector('.pest-word-target');
+                    const wordEl = matchedEntity.el.querySelector('.pest-word-target');
                     if (wordEl) {
-                        wordEl.innerHTML = `<span style="color:#ffffff;background:#15803d;padding:0 2px;border-radius:3px;">${target.typed}</span>${target.word.substring(target.typed.length)}`;
+                        wordEl.innerHTML = `<span style="color:#ffffff;background:#15803d;padding:0 2px;border-radius:3px;">${matchedEntity.typed}</span>${matchedEntity.word.substring(matchedEntity.typed.length)}`;
                     }
 
-                    if (target.typed.length >= target.word.length) {
+                    if (matchedEntity.typed.length >= matchedEntity.word.length) {
                         // Diệt sâu thành công!
                         score += 15;
                         caughtCount++;
                         playHarvestPop();
-                        showSplat(target.el.offsetLeft, target.el.offsetTop, "💦 XỊT NƯỚC!");
-                        target.el.remove();
-                        activeEntities = activeEntities.filter(x => x !== target);
+                        showSplat(matchedEntity.el.offsetLeft, matchedEntity.el.offsetTop, "💦 XỊT NƯỚC!");
+                        matchedEntity.el.remove();
+                        activeEntities = activeEntities.filter(x => x !== matchedEntity);
                         updateGameHUD();
 
                         if (caughtCount >= cfg.targetCount) endGame(true);
@@ -917,7 +977,7 @@ window.TypingEngine = (function() {
             // Chế độ Farm Drop, Balloon Rise, Whack Mole, Truck Loading
             let targetIdx = -1;
             for (let i = 0; i < activeEntities.length; i++) {
-                if (activeEntities[i].key === k) {
+                if (activeEntities[i].key === k || activeEntities[i].key === kNoTone) {
                     targetIdx = i;
                     break;
                 }
@@ -995,7 +1055,8 @@ window.TypingEngine = (function() {
             start: start,
             stop: stop,
             isActive: () => isRunning,
-            handleKey: handleKey
+            handleKey: handleKey,
+            handleBackspace: handleBackspace
         };
     })();
 

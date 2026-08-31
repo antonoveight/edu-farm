@@ -536,14 +536,14 @@ window.MouseEngine = (function() {
         tipEl.style.left = `${lvl.pathPoints[0].x}px`;
         tipEl.style.top = `${lvl.pathPoints[0].y - 38}px`;
         tipEl.style.transform = "translateX(-50%)";
-        tipEl.style.background = "rgba(15, 23, 42, 0.9)";
+        tipEl.style.background = "rgba(15, 23, 42, 0.95)";
         tipEl.style.color = "#fbbf24";
         tipEl.style.fontWeight = "800";
-        tipEl.style.fontSize = "12px";
-        tipEl.style.padding = "4px 10px";
+        tipEl.style.fontSize = "13px";
+        tipEl.style.padding = "5px 12px";
         tipEl.style.borderRadius = "8px";
-        tipEl.style.border = "1px solid #fbbf24";
-        tipEl.style.boxShadow = "0 4px 12px rgba(251, 191, 36, 0.3)";
+        tipEl.style.border = "1.5px solid #fbbf24";
+        tipEl.style.boxShadow = "0 4px 15px rgba(251, 191, 36, 0.4)";
         tipEl.style.pointerEvents = "none";
         tipEl.style.zIndex = "40";
         tipEl.innerText = "👆 Giữ chuột vào Ong để dắt đi!";
@@ -557,14 +557,24 @@ window.MouseEngine = (function() {
         // Sinh chuỗi điểm cong spline
         const splinePoints = getSplineSampledPoints(pathPoints, 30);
 
+        // Vị trí con ong với nội suy FPS mượt mà
+        let currentBeeX = pathPoints[0].x;
+        let currentBeeY = pathPoints[0].y;
+        let targetBeeX = pathPoints[0].x;
+        let targetBeeY = pathPoints[0].y;
+        let beeAnimLoopId = null;
+
         let beeEl = document.createElement("div");
         beeEl.className = "bee-cursor-follower";
         beeEl.innerText = "🐝";
-        beeEl.style.left = `${pathPoints[0].x}px`;
-        beeEl.style.top = `${pathPoints[0].y}px`;
+        beeEl.style.position = "absolute";
+        beeEl.style.left = "0px";
+        beeEl.style.top = "0px";
+        beeEl.style.transform = `translate3d(${currentBeeX}px, ${currentBeeY}px, 0) translate(-50%, -50%)`;
+        beeEl.style.willChange = "transform";
         beeEl.style.cursor = "grab";
         beeEl.style.pointerEvents = "auto";
-        beeEl.style.transition = "none";
+        beeEl.style.zIndex = "50";
         arena.appendChild(beeEl);
 
         function drawCurvedMaze() {
@@ -608,7 +618,7 @@ window.MouseEngine = (function() {
                 ctx.lineTo(splinePoints[i].x, splinePoints[i].y);
             }
             ctx.stroke();
-            ctx.setLineDash([]); // Reset dash
+            ctx.setLineDash([]);
 
             // 4. Vẽ các trạm hoa mật
             pathPoints.forEach((p, idx) => {
@@ -625,20 +635,33 @@ window.MouseEngine = (function() {
         let lastWarnTime = 0;
         let isHoldingBee = false;
 
+        // Vòng lặp 60 FPS mượt mà cho Chú Ong
+        function renderBeeFrame() {
+            if (!state.isRunning) return;
+
+            // Nội suy vị trí êm ái (Lerp 60 FPS)
+            currentBeeX += (targetBeeX - currentBeeX) * 0.4;
+            currentBeeY += (targetBeeY - currentBeeY) * 0.4;
+
+            beeEl.style.transform = `translate3d(${currentBeeX}px, ${currentBeeY}px, 0) translate(-50%, -50%)`;
+
+            beeAnimLoopId = requestAnimationFrame(renderBeeFrame);
+        }
+
+        beeAnimLoopId = requestAnimationFrame(renderBeeFrame);
+
         function resetBeeToStart() {
             isHoldingBee = false;
             currentCheckpoint = 0;
-            beeEl.style.transition = "all 0.45s cubic-bezier(0.34, 1.56, 0.64, 1)";
-            beeEl.style.left = `${pathPoints[0].x}px`;
-            beeEl.style.top = `${pathPoints[0].y}px`;
+            targetBeeX = pathPoints[0].x;
+            targetBeeY = pathPoints[0].y;
+            currentBeeX = pathPoints[0].x;
+            currentBeeY = pathPoints[0].y;
+            beeEl.style.transform = `translate3d(${targetBeeX}px, ${targetBeeY}px, 0) translate(-50%, -50%)`;
             beeEl.style.cursor = "grab";
             warnEl.style.display = "none";
             tipEl.style.display = "block";
             tipEl.innerText = `👆 Giữ chuột vào Ong để bắt đầu chặng ${state.completedCount + 1}!`;
-
-            setTimeout(() => {
-                beeEl.style.transition = "none";
-            }, 460);
         }
 
         beeEl.onmousedown = function(e) {
@@ -657,11 +680,8 @@ window.MouseEngine = (function() {
             const mouseX = e.clientX - rect.left;
             const mouseY = e.clientY - rect.top;
 
-            const curBeeX = parseFloat(beeEl.style.left) || pathPoints[0].x;
-            const curBeeY = parseFloat(beeEl.style.top) || pathPoints[0].y;
-            const dist = Math.hypot(mouseX - curBeeX, mouseY - curBeeY);
-
-            if (dist <= 48) {
+            const dist = Math.hypot(mouseX - currentBeeX, mouseY - currentBeeY);
+            if (dist <= 52) {
                 e.preventDefault();
                 isHoldingBee = true;
                 beeEl.style.cursor = "grabbing";
@@ -679,13 +699,13 @@ window.MouseEngine = (function() {
 
         canvas.onmousemove = function(e) {
             if (!state.isRunning) return;
-            if (!isHoldingBee) return; // Chỉ khi bé click và giữ chuột, con ong mới di chuyển!
+            if (!isHoldingBee) return; // Chỉ khi bé giữ chuột, con ong mới di chuyển!
 
             const rect = canvas.getBoundingClientRect();
             const mouseX = e.clientX - rect.left;
             const mouseY = e.clientY - rect.top;
 
-            // Tìm đoạn cong nhỏ gần con trỏ chuột nhất
+            // Tìm đoạn cong gần con trỏ chuột nhất
             let minDistance = 9999;
             let nearestProjectedPoint = { x: splinePoints[0].x, y: splinePoints[0].y };
 
@@ -699,16 +719,15 @@ window.MouseEngine = (function() {
 
             // RÀNG BUỘC CON ONG BÁM TRONG ĐƯỜNG CONG
             if (minDistance <= roadRadius) {
-                // Chuột nằm trong lòng đường cong
-                beeEl.style.left = `${mouseX}px`;
-                beeEl.style.top = `${mouseY}px`;
+                targetBeeX = mouseX;
+                targetBeeY = mouseY;
                 warnEl.style.display = "none";
 
                 // Kiểm tra chạm checkpoint trạm mật tiếp theo
                 const targetPoint = pathPoints[currentCheckpoint + 1];
                 if (targetPoint) {
                     const distToTarget = Math.hypot(mouseX - targetPoint.x, mouseY - targetPoint.y);
-                    if (distToTarget < Math.max(32, roadRadius)) {
+                    if (distToTarget < Math.max(34, roadRadius)) {
                         currentCheckpoint++;
                         playSuccess();
                         state.score += 20;
@@ -724,16 +743,15 @@ window.MouseEngine = (function() {
                                 finishGame(true);
                             } else {
                                 showPopEffect(canvas.width / 2, canvas.height / 2, `🎉 HOÀN THÀNH CHẶNG ${state.completedCount}!`);
-                                // CON ONG MẶC ĐỊNH QUAY VỀ VỊ TRÍ XUẤT PHÁT BAN ĐẦU
                                 resetBeeToStart();
                             }
                         }
                     }
                 }
             } else {
-                // Chuột lệch ra ngoài đường cong ➔ Giữ con ong ở mép đường chiếu
-                beeEl.style.left = `${nearestProjectedPoint.x}px`;
-                beeEl.style.top = `${nearestProjectedPoint.y}px`;
+                // Chuột lệch ra ngoài đường cong ➔ Giữ mục tiêu ở mép đường chiếu
+                targetBeeX = nearestProjectedPoint.x;
+                targetBeeY = nearestProjectedPoint.y;
                 warnEl.style.display = "block";
 
                 const now = Date.now();

@@ -278,9 +278,13 @@
     height: 44px;
     font-size: 34px;
     pointer-events: none;
-    transform: translate(-50%, -50%);
     z-index: 50;
-    transition: transform 0.04s ease-out;
+    transition: none !important;
+    will-change: transform;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    user-select: none;
 }
 
 .bee-offroad-warning {
