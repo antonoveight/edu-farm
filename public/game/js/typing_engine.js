@@ -495,17 +495,22 @@ window.TypingEngine = (function() {
         });
     }
 
-    // ================= MINI GAME: FARM DROP HARVEST =================
+    // ================= 6 MINI GAMES NÔNG TRẠI ĐỘC ĐÁO CHO 6 CẤP ĐỘ =================
     const TypingFarmGame = (function() {
         let isRunning = false;
         let catIndex = 0;
         let score = 0;
         let caughtCount = 0;
         let lives = 3;
-        let activeFruits = [];
+        let activeEntities = [];
         let spawnTimer = null;
         let animFrame = null;
         let lastTime = 0;
+
+        // Trạng thái riêng cho Cấp 5 (Pest Defense - Từ vựng) và Cấp 6 (Tractor Rush - Ca dao)
+        let currentPhrase = "";
+        let currentPhraseTyped = "";
+        let tractorPosPercent = 5;
 
         function start(catIdx = 0) {
             catIndex = catIdx;
@@ -516,7 +521,10 @@ window.TypingEngine = (function() {
             score = 0;
             caughtCount = 0;
             lives = 3;
-            activeFruits = [];
+            activeEntities = [];
+            currentPhrase = "";
+            currentPhraseTyped = "";
+            tractorPosPercent = 5;
 
             const modal = document.getElementById("modal-typing-minigame");
             if (modal) modal.style.display = "flex";
@@ -525,12 +533,21 @@ window.TypingEngine = (function() {
             if (titleEl) titleEl.innerHTML = `🌾 ${cat.miniGame.title}`;
 
             updateGameHUD();
-            clearField();
+            setupArenaLayout(cat.miniGame);
 
             lastTime = performance.now();
-            spawnFruit();
-            spawnTimer = setInterval(spawnFruit, 1800);
-            animFrame = requestAnimationFrame(gameLoop);
+            const theme = cat.miniGame.theme;
+
+            if (theme === 'farm_drop' || theme === 'balloon_rise' || theme === 'truck_loading' || theme === 'pest_defense') {
+                spawnEntity();
+                spawnTimer = setInterval(spawnEntity, 1800);
+                animFrame = requestAnimationFrame(gameLoop);
+            } else if (theme === 'whack_mole') {
+                spawnMole();
+                spawnTimer = setInterval(spawnMole, 1600);
+            } else if (theme === 'tractor_rush') {
+                startNextTractorPhrase();
+            }
         }
 
         function stop() {
@@ -544,66 +561,269 @@ window.TypingEngine = (function() {
 
         function clearField() {
             const field = document.getElementById("minigame-playfield-arena");
-            if (field) field.innerHTML = `<div class="minigame-ground">🧺 HỨNG NÔNG SẢN VÀO GIỎ BẰNG CÁCH GÕ ĐÚNG PHÍM</div>`;
-            activeFruits = [];
+            if (field) field.innerHTML = "";
+            activeEntities = [];
         }
 
-        function spawnFruit() {
+        function setupArenaLayout(cfg) {
+            const field = document.getElementById("minigame-playfield-arena");
+            if (!field) return;
+            field.innerHTML = "";
+            activeEntities = [];
+
+            const theme = cfg.theme;
+            if (theme === 'farm_drop') {
+                field.innerHTML = `<div class="minigame-ground">${cfg.groundText || '🧺 HỨNG NÔNG SẢN VÀO GIỎ'}</div>`;
+            } else if (theme === 'balloon_rise') {
+                field.innerHTML = `<div class="minigame-ground" style="background: linear-gradient(180deg, #0284c7 0%, #0369a1 100%); border-color: #38bdf8;">${cfg.groundText || '🎈 BẮN NỔ BÓNG BAY LÊN TRỜI'}</div>`;
+            } else if (theme === 'whack_mole') {
+                const grid = document.createElement("div");
+                grid.className = "mole-burrow-grid";
+                for (let i = 0; i < 6; i++) {
+                    const hole = document.createElement("div");
+                    hole.className = "mole-burrow-hole";
+                    hole.id = `mole-hole-${i}`;
+                    grid.appendChild(hole);
+                }
+                field.appendChild(grid);
+                field.innerHTML += `<div class="minigame-ground" style="background: linear-gradient(180deg, #78350f 0%, #451a03 100%); border-color: #d97706;">${cfg.groundText || '🕳️ ĐẬP CHUỘT CHŨI ĐÀO KHOAI'}</div>`;
+            } else if (theme === 'truck_loading') {
+                field.innerHTML = `
+                    <div class="truck-conveyor-belt"></div>
+                    <div class="truck-target-bay">🚚</div>
+                    <div class="minigame-ground">${cfg.groundText || '🚚 XẾP HÀNG LÊN XE TẢI'}</div>
+                `;
+            } else if (theme === 'pest_defense') {
+                field.innerHTML = `<div class="minigame-ground" style="background: linear-gradient(180deg, #15803d 0%, #166534 100%); border-color: #4ade80;">${cfg.groundText || '🐛 GÕ TỪ TIẾNG VIỆT ĐỂ XỊT NƯỚC'}</div>`;
+            } else if (theme === 'tractor_rush') {
+                field.innerHTML = `
+                    <div class="tractor-rush-field">
+                        <div class="tractor-phrase-card" id="tractor-phrase-display">Chuẩn bị xuất phát...</div>
+                        <div class="tractor-track-lane">
+                            <div class="tractor-avatar" id="tractor-racer-car">🚜</div>
+                        </div>
+                    </div>
+                    <div class="minigame-ground">${cfg.groundText || '🚜 ĐUA XE MÁY CÀY VỀ ĐÍCH'}</div>
+                `;
+            }
+        }
+
+        // ================= SPAWN CHO CÁC CHỦ ĐỀ =================
+        function spawnEntity() {
             if (!isRunning) return;
             const cat = window.TYPING_DATA.categories[catIndex];
             const cfg = cat.miniGame;
             const field = document.getElementById("minigame-playfield-arena");
             if (!field) return;
 
-            const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
-            const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
-            const leftPercent = 10 + Math.random() * 80;
+            const theme = cfg.theme;
 
-            const fruitEl = document.createElement("div");
-            fruitEl.className = "falling-fruit";
-            fruitEl.style.left = `${leftPercent}%`;
-            fruitEl.style.top = `-60px`;
+            if (theme === 'farm_drop') {
+                // 1. Củ quả rơi từ trên xuống
+                const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
+                const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
+                const leftPercent = 10 + Math.random() * 80;
 
-            fruitEl.innerHTML = `
-                <div class="falling-fruit-bubble">${randomItem.icon}</div>
-                <div class="falling-fruit-key">${randomKey}</div>
-            `;
+                const el = document.createElement("div");
+                el.className = "falling-fruit";
+                el.style.left = `${leftPercent}%`;
+                el.style.top = `-60px`;
+                el.innerHTML = `
+                    <div class="falling-fruit-bubble">${randomItem.icon}</div>
+                    <div class="falling-fruit-key">${randomKey}</div>
+                `;
+                field.appendChild(el);
+                activeEntities.push({
+                    type: 'drop',
+                    key: randomKey.toLowerCase(),
+                    el: el,
+                    pos: -60,
+                    speed: 1.3 + Math.random() * 0.5
+                });
+            } else if (theme === 'balloon_rise') {
+                // 2. Bóng bay khinh khí cầu bay từ dưới lên
+                const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
+                const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
+                const leftPercent = 10 + Math.random() * 80;
 
-            field.appendChild(fruitEl);
+                const el = document.createElement("div");
+                el.className = "rising-balloon";
+                el.style.left = `${leftPercent}%`;
+                el.style.bottom = `-80px`;
+                el.innerHTML = `
+                    <div class="rising-balloon-bubble">${randomItem.icon}</div>
+                    <div class="rising-balloon-key">${randomKey}</div>
+                `;
+                field.appendChild(el);
+                activeEntities.push({
+                    type: 'rise',
+                    key: randomKey.toLowerCase(),
+                    el: el,
+                    pos: -80,
+                    speed: 1.3 + Math.random() * 0.5
+                });
+            } else if (theme === 'truck_loading') {
+                // 4. Thùng hàng xe tải chạy ngang
+                const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
+                const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
 
-            activeFruits.push({
-                key: randomKey.toLowerCase(),
-                icon: randomItem.icon,
-                el: fruitEl,
-                top: -60,
-                speed: 1.2 + Math.random() * 0.6
-            });
+                const el = document.createElement("div");
+                el.className = "crate-item-moving";
+                el.style.left = `-70px`;
+                el.innerHTML = `
+                    <div class="crate-box">${randomItem.icon}</div>
+                    <div class="crate-key-badge">${randomKey}</div>
+                `;
+                field.appendChild(el);
+                activeEntities.push({
+                    type: 'truck_crate',
+                    key: randomKey.toLowerCase(),
+                    el: el,
+                    pos: -70,
+                    speed: 1.4 + Math.random() * 0.6
+                });
+            } else if (theme === 'pest_defense') {
+                // 5. Sâu bọ bò ngang mang từ Tiếng Việt
+                const wordObj = cfg.words[Math.floor(Math.random() * cfg.words.length)];
+                const topPercent = 15 + Math.random() * 55;
+
+                const el = document.createElement("div");
+                el.className = "pest-crawler";
+                el.style.right = `-120px`;
+                el.style.top = `${topPercent}%`;
+                el.innerHTML = `
+                    <div class="pest-crawler-icon">🐛</div>
+                    <div class="pest-word-target">${wordObj.word}</div>
+                `;
+                field.appendChild(el);
+                activeEntities.push({
+                    type: 'pest',
+                    word: wordObj.word.toLowerCase(),
+                    typed: "",
+                    el: el,
+                    pos: -120,
+                    speed: 1.1 + Math.random() * 0.4
+                });
+            }
         }
 
+        function spawnMole() {
+            if (!isRunning) return;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            const cfg = cat.miniGame;
+            const randomHoleIdx = Math.floor(Math.random() * 6);
+            const holeEl = document.getElementById(`mole-hole-${randomHoleIdx}`);
+            if (!holeEl || holeEl.querySelector('.mole-entity-popup')) return;
+
+            const randomKey = cfg.keys[Math.floor(Math.random() * cfg.keys.length)];
+            const randomItem = cfg.items[Math.floor(Math.random() * cfg.items.length)];
+
+            const moleEl = document.createElement("div");
+            moleEl.className = "mole-entity-popup";
+            moleEl.innerHTML = `
+                <div class="mole-icon">${randomItem.icon}</div>
+                <div class="mole-key-badge">${randomKey}</div>
+            `;
+            holeEl.appendChild(moleEl);
+
+            const entity = {
+                type: 'mole',
+                key: randomKey.toLowerCase(),
+                el: moleEl,
+                hole: holeEl
+            };
+            activeEntities.push(entity);
+
+            setTimeout(() => {
+                if (moleEl.parentNode) {
+                    moleEl.remove();
+                    activeEntities = activeEntities.filter(x => x !== entity);
+                    lives--;
+                    playError();
+                    updateGameHUD();
+                    if (lives <= 0) endGame(false);
+                }
+            }, cfg.stayDuration || 2600);
+        }
+
+        function startNextTractorPhrase() {
+            if (!isRunning) return;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            const cfg = cat.miniGame;
+            currentPhrase = cfg.phrases[caughtCount % cfg.phrases.length];
+            currentPhraseTyped = "";
+            tractorPosPercent = 5 + (caughtCount / cfg.targetCount) * 80;
+
+            renderTractorCard();
+        }
+
+        function renderTractorCard() {
+            const card = document.getElementById("tractor-phrase-display");
+            const avatar = document.getElementById("tractor-racer-car");
+            if (!card || !currentPhrase) return;
+
+            let html = "";
+            for (let i = 0; i < currentPhrase.length; i++) {
+                if (i < currentPhraseTyped.length) {
+                    html += `<span style="color: #4ade80; background: rgba(74, 222, 128, 0.2); border-radius: 4px;">${currentPhrase[i]}</span>`;
+                } else if (i === currentPhraseTyped.length) {
+                    html += `<span style="color: #ffffff; background: #0284c7; border-radius: 4px; padding: 0 2px;">${currentPhrase[i]}</span>`;
+                } else {
+                    html += `<span style="color: #94a3b8;">${currentPhrase[i]}</span>`;
+                }
+            }
+            card.innerHTML = html;
+
+            if (avatar) {
+                const subProgress = currentPhrase.length > 0 ? (currentPhraseTyped.length / currentPhrase.length) * 15 : 0;
+                avatar.style.left = `${Math.min(88, tractorPosPercent + subProgress)}%`;
+            }
+        }
+
+        // ================= GAME LOOP ĐỘNG LỰC =================
         function gameLoop(time) {
             if (!isRunning) return;
             const delta = (time - lastTime) / 16;
             lastTime = time;
 
             const field = document.getElementById("minigame-playfield-arena");
-            const groundY = field ? field.clientHeight - 80 : 450;
+            const groundY = field ? field.clientHeight - 70 : 450;
+            const arenaWidth = field ? field.clientWidth : 800;
 
-            for (let i = activeFruits.length - 1; i >= 0; i--) {
-                const fruit = activeFruits[i];
-                fruit.top += fruit.speed * delta;
-                fruit.el.style.top = `${fruit.top}px`;
+            for (let i = activeEntities.length - 1; i >= 0; i--) {
+                const item = activeEntities[i];
 
-                if (fruit.top >= groundY) {
-                    // Chạm đất
-                    fruit.el.remove();
-                    activeFruits.splice(i, 1);
-                    lives--;
-                    playError();
-                    updateGameHUD();
-
-                    if (lives <= 0) {
-                        endGame(false);
-                        return;
+                if (item.type === 'drop') {
+                    item.pos += item.speed * delta;
+                    item.el.style.top = `${item.pos}px`;
+                    if (item.pos >= groundY) {
+                        item.el.remove();
+                        activeEntities.splice(i, 1);
+                        handleMiss();
+                    }
+                } else if (item.type === 'rise') {
+                    item.pos += item.speed * delta;
+                    item.el.style.bottom = `${item.pos}px`;
+                    if (item.pos >= groundY) {
+                        item.el.remove();
+                        activeEntities.splice(i, 1);
+                        handleMiss();
+                    }
+                } else if (item.type === 'truck_crate') {
+                    item.pos += item.speed * delta * 1.3;
+                    item.el.style.left = `${item.pos}px`;
+                    if (item.pos >= arenaWidth - 170) {
+                        item.el.remove();
+                        activeEntities.splice(i, 1);
+                        handleMiss();
+                    }
+                } else if (item.type === 'pest') {
+                    item.pos += item.speed * delta;
+                    item.el.style.right = `${item.pos}px`;
+                    if (item.pos >= arenaWidth - 80) {
+                        item.el.remove();
+                        activeEntities.splice(i, 1);
+                        handleMiss();
                     }
                 }
             }
@@ -611,34 +831,113 @@ window.TypingEngine = (function() {
             animFrame = requestAnimationFrame(gameLoop);
         }
 
+        function handleMiss() {
+            lives--;
+            playError();
+            updateGameHUD();
+            if (lives <= 0) endGame(false);
+        }
+
+        // ================= XỬ LÝ PHÍM BẤM =================
         function handleKey(char) {
             if (!isRunning) return;
+            const cat = window.TYPING_DATA.categories[catIndex];
+            const cfg = cat.miniGame;
+            const theme = cfg.theme;
             const k = char.toLowerCase();
 
-            // Tìm quả thấp nhất có phím trùng khớp
+            if (theme === 'tractor_rush') {
+                // Chế độ đua xe máy cày (so khớp từng ký tự của câu)
+                const expectedChar = currentPhrase[currentPhraseTyped.length];
+                if (char === expectedChar || (expectedChar && char.toLowerCase() === expectedChar.toLowerCase())) {
+                    currentPhraseTyped += expectedChar;
+                    playTone(600 + currentPhraseTyped.length * 20, 'sine', 0.05, 0.05);
+                    renderTractorCard();
+
+                    if (currentPhraseTyped.length >= currentPhrase.length) {
+                        caughtCount++;
+                        score += 25;
+                        playHarvestPop();
+                        showSplat(300, 200, "💨 NITRO TURBO!");
+                        updateGameHUD();
+
+                        if (caughtCount >= cfg.targetCount) {
+                            endGame(true);
+                        } else {
+                            setTimeout(startNextTractorPhrase, 400);
+                        }
+                    }
+                } else {
+                    playError();
+                }
+                return;
+            }
+
+            if (theme === 'pest_defense') {
+                // Chế độ trừ sâu: Tìm con sâu đang có từ bắt đầu khớp
+                let target = null;
+                for (let ent of activeEntities) {
+                    if (ent.type === 'pest') {
+                        const nextChar = ent.word[ent.typed.length];
+                        if (nextChar === k) {
+                            target = ent;
+                            break;
+                        }
+                    }
+                }
+
+                if (target) {
+                    target.typed += k;
+                    playTone(750, 'triangle', 0.05, 0.05);
+
+                    // Cập nhật giao diện từ
+                    const wordEl = target.el.querySelector('.pest-word-target');
+                    if (wordEl) {
+                        wordEl.innerHTML = `<span style="color:#ffffff;background:#15803d;padding:0 2px;border-radius:3px;">${target.typed}</span>${target.word.substring(target.typed.length)}`;
+                    }
+
+                    if (target.typed.length >= target.word.length) {
+                        // Diệt sâu thành công!
+                        score += 15;
+                        caughtCount++;
+                        playHarvestPop();
+                        showSplat(target.el.offsetLeft, target.el.offsetTop, "💦 XỊT NƯỚC!");
+                        target.el.remove();
+                        activeEntities = activeEntities.filter(x => x !== target);
+                        updateGameHUD();
+
+                        if (caughtCount >= cfg.targetCount) endGame(true);
+                    }
+                } else {
+                    playClick();
+                }
+                return;
+            }
+
+            // Chế độ Farm Drop, Balloon Rise, Whack Mole, Truck Loading
             let targetIdx = -1;
-            let maxTop = -999;
-            for (let i = 0; i < activeFruits.length; i++) {
-                if (activeFruits[i].key === k && activeFruits[i].top > maxTop) {
-                    maxTop = activeFruits[i].top;
+            for (let i = 0; i < activeEntities.length; i++) {
+                if (activeEntities[i].key === k) {
                     targetIdx = i;
+                    break;
                 }
             }
 
             if (targetIdx !== -1) {
-                // Thu hoạch thành công!
-                const fruit = activeFruits[targetIdx];
+                const item = activeEntities[targetIdx];
                 score += 10;
                 caughtCount++;
                 playHarvestPop();
 
-                showSplat(fruit.el.offsetLeft, fruit.top, `+10 🧺`);
-                fruit.el.remove();
-                activeFruits.splice(targetIdx, 1);
+                const splatX = item.el.offsetLeft || 300;
+                const splatY = item.el.offsetTop || 200;
+                showSplat(splatX, splatY, `+10 ⭐`);
+
+                item.el.remove();
+                activeEntities.splice(targetIdx, 1);
                 updateGameHUD();
 
-                const cat = window.TYPING_DATA.categories[catIndex];
-                if (caughtCount >= cat.miniGame.targetCount) {
+                if (caughtCount >= cfg.targetCount) {
                     endGame(true);
                 }
             } else {
@@ -651,8 +950,8 @@ window.TypingEngine = (function() {
             if (!field) return;
             const splat = document.createElement("div");
             splat.className = "fruit-splat";
-            splat.style.left = `${x}px`;
-            splat.style.top = `${y}px`;
+            splat.style.left = `${Math.max(40, Math.min(field.clientWidth - 40, x))}px`;
+            splat.style.top = `${Math.max(30, Math.min(field.clientHeight - 40, y))}px`;
             splat.style.color = "#fbbf24";
             splat.innerText = text;
             field.appendChild(splat);
@@ -668,7 +967,7 @@ window.TypingEngine = (function() {
             if (scoreEl) scoreEl.innerText = `⭐ ${score}`;
             if (livesEl) livesEl.innerText = `❤️`.repeat(Math.max(0, lives)) + `🖤`.repeat(Math.max(0, 3 - lives));
             if (progressEl && cat && cat.miniGame) {
-                progressEl.innerText = `🧺 ${caughtCount}/${cat.miniGame.targetCount}`;
+                progressEl.innerText = `🎯 ${caughtCount}/${cat.miniGame.targetCount}`;
             }
         }
 
@@ -677,8 +976,8 @@ window.TypingEngine = (function() {
             const cat = window.TYPING_DATA.categories[catIndex];
             if (won) {
                 playVictory();
-                const coins = cat.miniGame.rewardCoins;
-                const xp = cat.miniGame.rewardXp;
+                const coins = cat.miniGame.rewardCoins || 30;
+                const xp = cat.miniGame.rewardXp || 60;
                 giveFarmReward(coins, xp);
 
                 if (typeof showFloatingToast === 'function') {

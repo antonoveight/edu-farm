@@ -1,7 +1,7 @@
 /**
  * TYPING ACADEMY DATA
  * Ngân hàng bài tập luyện gõ 10 ngón chuẩn hóa & Bản đồ phân công ngón tay cho học sinh
- * Tích hợp bài tập lũy tiến và dữ liệu Mini-game Ôn tập Nông Trại
+ * Tích hợp 6 Mini-game Nông Trại Độc Đáo cho 6 Cấp Độ Luyện Gõ
  */
 
 window.TYPING_DATA = {
@@ -73,8 +73,9 @@ window.TYPING_DATA = {
         vowels: { "6": "Nón (â, ê, ô)", "7": "Móc (ơ, ư)", "8": "Trăng (ă)", "9": "Gạch (đ)" }
     },
 
-    // Danh sách các cấp độ & bài học
+    // Danh sách 6 cấp độ luyện gõ & 6 Mini-game Nông Trại tương ứng
     categories: [
+        // ================= CẤP 1: HÀNG CƠ SỞ (HOME ROW) =================
         {
             id: "cat_home_row",
             title: "Cấp 1: Hàng Phím Cơ Sở (Home Row)",
@@ -82,8 +83,9 @@ window.TYPING_DATA = {
             desc: "Làm quen vị trí 2 ngón trỏ F và J cùng hàng phím cơ sở A-S-D-F J-K-L-;",
             rewardCoins: 10,
             miniGame: {
-                title: "Thu Hoạch Nông Sản Hàng Cơ Sở",
+                title: "Thu Hoạch Nông Sản Rơi",
                 theme: "farm_drop",
+                groundText: "🧺 HỨNG NÔNG SẢN VÀO GIỎ BẰNG CÁCH GÕ ĐÚNG PHÍM",
                 keys: ["a", "s", "d", "f", "g", "h", "j", "k", "l", ";"],
                 items: [
                     { icon: "🍎", name: "Táo đỏ" },
@@ -92,56 +94,59 @@ window.TYPING_DATA = {
                     { icon: "🥕", name: "Cà rốt" }
                 ],
                 targetCount: 20,
-                speed: 3.5, // Giây rơi từ đỉnh xuống đất
+                speed: 3.5,
                 rewardCoins: 25,
                 rewardXp: 50
             },
             lessons: [
                 {
                     id: "h1",
-                    name: "Hai ngón trỏ F và J",
-                    text: "f j f j ff jj fj jf ff jj f f j j fj jf fjj fff jjj fjf jfj f j ff jj fj"
+                    name: "2 Phím mốc quan trọng: F và J",
+                    text: "f j fj jf ff jj fff jjj fjf jfj ffj jjf fjj jff fjfj jfjf fj fj jf jf f f j j"
                 },
                 {
                     id: "h2",
-                    name: "Ngón giữa D và K",
-                    text: "d k d k dd kk dk kd f d j k fj dk df jk fd jk dd kk fkd jdf d k dk kd"
+                    name: "Ngón giữa: D và K",
+                    text: "d k dk kd dd kk df jk fd kj fdk jkd dkk kdd dfjk jkfd d k d k dk kd dkfd jkdf"
                 },
                 {
                     id: "h3",
-                    name: "Ngón áp út S và L",
-                    text: "s l s l ss ll sl ls as df jk l; sad lad sal fas las fads slad ss ll sl"
+                    name: "Ngón áp út: S và L",
+                    text: "s l sl ls ss ll sd lk ds kl asdf jkl; slad laks fall lass flask lads glad slat"
                 },
                 {
                     id: "h4",
-                    name: "Ngón út A và Dấu chấm phẩy ;",
-                    text: "a ; a ; aa ;; a; ;a as df jk l; all fall dad ask flash glad lad; ask; all;"
+                    name: "Ngón út: A và Chấm phẩy ;",
+                    text: "a ; a; ;a aa ;; as l; sa ;l asdf ;lkj fall glad salad asks flask flak shall"
                 },
                 {
                     id: "h5",
-                    name: "Mở rộng ngón trỏ G và H",
-                    text: "g h g h gg hh gh hg fg hj gh asdf gh jkl; half flag glad dash hall gash"
+                    name: "Ngón trỏ vươn ngang: G và H",
+                    text: "g h gh hg fg jh gf hj fgjh hjgf glad half hash flag flash dash half gash gala"
                 },
                 {
                     id: "h6",
-                    name: "Tổng hợp từ ghép Hàng Cơ Sở",
-                    text: "dad sad fad lad had ask flash glad hall fall flag half dash莎 asdf jkl; gh"
+                    name: "Tổng hợp từ có nghĩa hàng Cơ sở",
+                    text: "a lad had a salad; all lads had flags; dad glad as a flash; fall as a leaf"
                 }
             ]
         },
+
+        // ================= CẤP 2: HÀNG TRÊN (TOP ROW) =================
         {
             id: "cat_top_row",
             title: "Cấp 2: Hàng Phím Trên (Top Row)",
             icon: "fa-solid fa-arrow-up",
-            desc: "Vươn các ngón tay lên hàng trên Q-W-E-R-T Y-U-I-O-P",
+            desc: "Vươn ngón tay lên hàng phím trên Q-W-E-R-T Y-U-I-O-P",
             rewardCoins: 12,
             miniGame: {
-                title: "Cơn Mưa Hạt Giống Hàng Trên",
-                theme: "farm_drop",
+                title: "Bắn Bóng Bay Mây Trời Nông Trại",
+                theme: "balloon_rise",
+                groundText: "🎈 GÕ PHÍM ĐỂ BẮN NỔ BÓNG BAY TRƯỚC KHI BAY LÊN TRỜI MÂY",
                 keys: ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p"],
                 items: [
-                    { icon: "🌽", name: "Bắp ngô" },
                     { icon: "🍇", name: "Chùm nho" },
+                    { icon: "🌽", name: "Bắp ngô" },
                     { icon: "🥦", name: "Bông cải" },
                     { icon: "🍉", name: "Dưa hấu" }
                 ],
@@ -178,6 +183,8 @@ window.TYPING_DATA = {
                 }
             ]
         },
+
+        // ================= CẤP 3: HÀNG DƯỚI (BOTTOM ROW) =================
         {
             id: "cat_bottom_row",
             title: "Cấp 3: Hàng Phím Dưới (Bottom Row)",
@@ -185,17 +192,18 @@ window.TYPING_DATA = {
             desc: "Kéo ngón tay xuống hàng dưới Z-X-C-V-B N-M-,-.-/",
             rewardCoins: 15,
             miniGame: {
-                title: "Bảo Vệ Củ Quả Hàng Dưới",
-                theme: "farm_drop",
+                title: "Đào Khoai & Đập Chuột Chũi",
+                theme: "whack_mole",
+                groundText: "🕳️ GÕ PHÍM ĐỂ ĐẬP CHUỘT CHŨI & THU HOẠCH KHOAI DƯỚI HANG",
                 keys: ["z", "x", "c", "v", "b", "n", "m", ",", "."],
                 items: [
                     { icon: "🥔", name: "Khoai tây" },
-                    { icon: "🧅", name: "Củ hành" },
+                    { icon: "🦔", name: "Chuột chũi" },
                     { icon: "🥜", name: "Củ lạc" },
                     { icon: "🍠", name: "Khoai lang" }
                 ],
-                targetCount: 24,
-                speed: 3.0,
+                targetCount: 20,
+                stayDuration: 2600,
                 rewardCoins: 35,
                 rewardXp: 70
             },
@@ -227,6 +235,8 @@ window.TYPING_DATA = {
                 }
             ]
         },
+
+        // ================= CẤP 4: HÀNG SỐ & KÝ TỰ =================
         {
             id: "cat_numbers",
             title: "Cấp 4: Hàng Phím Số & Ký Tự",
@@ -234,17 +244,18 @@ window.TYPING_DATA = {
             desc: "Luyện hàng phím số 1-9, 0 và các phép tính toán học cơ bản",
             rewardCoins: 18,
             miniGame: {
-                title: "Đếm Nông Sản Thần Tốc",
-                theme: "farm_drop",
+                title: "Xếp Thùng Hàng Xe Tải Nông Sản",
+                theme: "truck_loading",
+                groundText: "🚚 GÕ ĐÚNG SỐ ĐỂ ĐÓNG THÙNG NÔNG SẢN LÊN XE TẢI",
                 keys: ["1", "2", "3", "4", "5", "6", "7", "8", "9", "0", "+", "-"],
                 items: [
-                    { icon: "🌻", name: "Hoa hướng dương" },
-                    { icon: "🌾", name: "Bông lúa" },
-                    { icon: "🍄", name: "Nấm tươi" },
-                    { icon: "🥚", name: "Trứng gà" }
+                    { icon: "🌾", name: "Bao lúa" },
+                    { icon: "🌻", name: "Bao hạt" },
+                    { icon: "🍄", name: "Hộp nấm" },
+                    { icon: "🥚", name: "Khay trứng" }
                 ],
-                targetCount: 25,
-                speed: 2.8,
+                targetCount: 22,
+                speed: 3.0,
                 rewardCoins: 40,
                 rewardXp: 80
             },
@@ -271,6 +282,8 @@ window.TYPING_DATA = {
                 }
             ]
         },
+
+        // ================= CẤP 5: TIẾNG VIỆT DẤU THANH (TELEX / VNI) =================
         {
             id: "cat_viet_words",
             title: "Cấp 5: Tiếng Việt Có Dấu (Telex / VNI)",
@@ -278,17 +291,25 @@ window.TYPING_DATA = {
             desc: "Rèn luyện gõ dấu thanh sắc huyền hỏi ngã nặng và các nguyên âm tiếng Việt",
             rewardCoins: 20,
             miniGame: {
-                title: "Thu Hoạch Vườn Tiếng Việt",
-                theme: "farm_drop",
-                keys: ["a", "e", "o", "u", "i", "s", "f", "r", "x", "j", "w", "d"],
-                items: [
-                    { icon: "🌸", name: "Hoa sen" },
-                    { icon: "🍊", name: "Quả cam" },
-                    { icon: "🥥", name: "Trái dừa" },
-                    { icon: "🍍", name: "Quả dứa" }
+                title: "Bảo Vệ Vườn Rau Khỏi Đàn Sâu Bọ",
+                theme: "pest_defense",
+                groundText: "🐛 GÕ ĐÚNG TỪ TIẾNG VIỆT ĐỂ PHUN NƯỚC TRỪ SÂU BẢO VỆ VƯỜN",
+                words: [
+                    { word: "cây", icon: "🌱" },
+                    { word: "lá", icon: "🍃" },
+                    { word: "hoa", icon: "🌸" },
+                    { word: "quả", icon: "🍎" },
+                    { word: "rau", icon: "🥦" },
+                    { word: "bắp", icon: "🌽" },
+                    { word: "nước", icon: "💧" },
+                    { word: "đất", icon: "🟫" },
+                    { word: "lúa", icon: "🌾" },
+                    { word: "cà", icon: "🍅" },
+                    { word: "cam", icon: "🍊" },
+                    { word: "sen", icon: "🪷" }
                 ],
-                targetCount: 25,
-                speed: 2.8,
+                targetCount: 15,
+                speed: 3.4,
                 rewardCoins: 45,
                 rewardXp: 90
             },
@@ -320,6 +341,8 @@ window.TYPING_DATA = {
                 }
             ]
         },
+
+        // ================= CẤP 6: CA DAO & ĐOẠN VĂN SIÊU TỐC =================
         {
             id: "cat_sentences",
             title: "Cấp 6: Ca Dao, Tục Ngữ & Đoạn Văn SGK",
@@ -327,17 +350,21 @@ window.TYPING_DATA = {
             desc: "Nâng cao tốc độ và độ chính xác với các câu ca dao và bài học hay",
             rewardCoins: 25,
             miniGame: {
-                title: "Thử Thách Nông Dân Xuất Sắc",
-                theme: "farm_drop",
-                keys: ["a", "b", "c", "d", "e", "g", "h", "i", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "x", "y"],
-                items: [
-                    { icon: "🏆", name: "Cúp Vàng" },
-                    { icon: "👑", name: "Vương Miện" },
-                    { icon: "💎", name: "Kim Cương" },
-                    { icon: "🌟", name: "Ngôi Sao" }
+                title: "Đua Xe Máy Cày Gặt Lúa Bội Thu",
+                theme: "tractor_rush",
+                groundText: "🚜 GÕ NHANH CÂU CA DAO ĐỂ TĂNG TỐC NITRO MÁY CÀY VỀ ĐÍCH",
+                phrases: [
+                    "Cày đồng đang buổi ban trưa",
+                    "Mồ hôi thánh thót như mưa ruộng cày",
+                    "Ai ơi bưng bát cơm đầy",
+                    "Dẻo thơm một hạt đắng cay muôn phần",
+                    "Học thầy không tày học bạn",
+                    "Có công mài sắt có ngày nên kim",
+                    "Đi một ngày đàng học một sàng khôn",
+                    "Việt Nam đất nước ta ơi",
+                    "Mênh mông biển lúa đâu trời đẹp hơn"
                 ],
-                targetCount: 30,
-                speed: 2.5,
+                targetCount: 6,
                 rewardCoins: 50,
                 rewardXp: 100
             },
