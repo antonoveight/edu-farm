@@ -1,0 +1,170 @@
+[
+  {
+    "q": "Vạch nhịp là gì?",
+    "a": "Vạch thẳng đứng cắt ngang khuông nhạc để phân chia ô nhịp",
+    "c": [
+      "Vạch thẳng đứng cắt ngang khuông nhạc để phân chia ô nhịp",
+      "Dòng kẻ ngang của khuông nhạc",
+      "Lời bài hát",
+      "Tên một nốt nhạc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vạch nhịp và ô nhịp – Nhận biết vạch nhịp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Vạch nhịp và ô nhịp",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Vạch thẳng đứng cắt ngang khuông nhạc để phân chia ô nhịp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Vạch nhịp kép dùng để làm gì?",
+    "a": "Kết thúc bản nhạc",
+    "c": [
+      "Bắt đầu bài hát",
+      "Đổi lời bài hát",
+      "Vẽ tranh",
+      "Kết thúc bản nhạc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vạch nhịp và ô nhịp – Nhận biết vạch nhịp kép",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Vạch nhịp và ô nhịp",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Kết thúc bản nhạc”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Ô nhịp là khoảng cách giữa những gì?",
+    "a": "Hai vạch nhịp liên tiếp",
+    "c": [
+      "Hai nốt Đô",
+      "Hai lời bài hát",
+      "Hai vạch nhịp liên tiếp",
+      "Hai dòng kẻ bất kì"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vạch nhịp và ô nhịp – Nhận biết ô nhịp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Vạch nhịp và ô nhịp",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Hai vạch nhịp liên tiếp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi vỗ tay theo nhịp, em cần làm gì?",
+    "a": "Giữ đều nhịp",
+    "c": [
+      "Nói chuyện riêng",
+      "Giữ đều nhịp",
+      "Vỗ tùy ý",
+      "Không nghe nhạc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện tập nhịp – Thực hành nhịp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Luyện tập nhịp",
+    "sourcePage": 9,
+    "explanation": "Đáp án đúng là “Giữ đều nhịp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi hát với nhạc đệm, em cần chú ý gì?",
+    "a": "Đúng giai điệu và nhịp",
+    "c": [
+      "Đúng giai điệu và nhịp",
+      "Hát thật nhanh bất kì",
+      "Bỏ qua nhịp",
+      "Không nghe nhạc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát – Thực hành hát",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Hát",
+    "sourcePage": 12,
+    "explanation": "Đáp án đúng là “Đúng giai điệu và nhịp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi nghe bạn biểu diễn, em nên làm gì?",
+    "a": "Lắng nghe và cổ vũ lịch sự",
+    "c": [
+      "Chế giễu",
+      "Gây ồn",
+      "Bỏ về giữa chừng",
+      "Lắng nghe và cổ vũ lịch sự"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thường thức âm nhạc – Ứng xử trong âm nhạc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Thường thức âm nhạc",
+    "sourcePage": 26,
+    "explanation": "Đáp án đúng là “Lắng nghe và cổ vũ lịch sự”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Trước khi biểu diễn, em nên làm gì?",
+    "a": "Luyện tập và chuẩn bị tự tin",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Luyện tập và chuẩn bị tự tin",
+      "Không cần luyện tập"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành âm nhạc – Chuẩn bị biểu diễn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Thực hành âm nhạc",
+    "sourcePage": 44,
+    "explanation": "Đáp án đúng là “Luyện tập và chuẩn bị tự tin”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi sử dụng nhạc cụ, em cần làm gì?",
+    "a": "Dùng đúng cách và giữ gìn nhạc cụ",
+    "c": [
+      "Dùng để đùa nghịch",
+      "Dùng đúng cách và giữ gìn nhạc cụ",
+      "Ném nhạc cụ",
+      "Tự ý tháo rời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành âm nhạc – Giữ gìn nhạc cụ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 5 – Kết nối tri thức với cuộc sống (sgk-am-nhac-5-kntt_5120269.pdf) – Thực hành âm nhạc",
+    "sourcePage": 58,
+    "explanation": "Đáp án đúng là “Dùng đúng cách và giữ gìn nhạc cụ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  }
+]

@@ -1,0 +1,464 @@
+[
+  {
+    "q": "Lược đồ là gì?",
+    "a": "Hình vẽ thu nhỏ một khu vực theo tỉ lệ nhất định",
+    "c": [
+      "Hình vẽ thu nhỏ một khu vực theo tỉ lệ nhất định",
+      "Một bài thơ",
+      "Một phép tính",
+      "Một loại nhạc cụ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bản đồ và lược đồ – Nhận biết lược đồ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bản đồ và lược đồ",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Hình vẽ thu nhỏ một khu vực theo tỉ lệ nhất định”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để biết bản đồ thể hiện nội dung gì, trước hết cần đọc gì?",
+    "a": "Tên bản đồ",
+    "c": [
+      "Số trang",
+      "Màu bìa",
+      "Tên người đọc",
+      "Tên bản đồ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bản đồ và lược đồ – Sử dụng bản đồ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bản đồ và lược đồ",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Tên bản đồ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Chú giải trên bản đồ giúp em biết điều gì?",
+    "a": "Ý nghĩa của các kí hiệu",
+    "c": [
+      "Tên tác giả bài thơ",
+      "Thời gian ra chơi",
+      "Ý nghĩa của các kí hiệu",
+      "Giá tiền bản đồ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bản đồ và lược đồ – Sử dụng bản đồ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bản đồ và lược đồ",
+    "sourcePage": 9,
+    "explanation": "Đáp án đúng là “Ý nghĩa của các kí hiệu”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Bảng số liệu là gì?",
+    "a": "Tập hợp số liệu được sắp xếp có hệ thống",
+    "c": [
+      "Một câu chuyện",
+      "Tập hợp số liệu được sắp xếp có hệ thống",
+      "Một bài hát",
+      "Một bức tranh không có số"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bảng số liệu và biểu đồ – Đọc bảng số liệu",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bảng số liệu và biểu đồ",
+    "sourcePage": 12,
+    "explanation": "Đáp án đúng là “Tập hợp số liệu được sắp xếp có hệ thống”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Biểu đồ giúp thể hiện điều gì?",
+    "a": "Số liệu một cách trực quan",
+    "c": [
+      "Số liệu một cách trực quan",
+      "Chỉ lời bài hát",
+      "Chỉ tên địa phương",
+      "Chỉ màu sắc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bảng số liệu và biểu đồ – Đọc biểu đồ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bảng số liệu và biểu đồ",
+    "sourcePage": 12,
+    "explanation": "Đáp án đúng là “Số liệu một cách trực quan”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Trục thời gian thể hiện điều gì?",
+    "a": "Chuỗi sự kiện theo thời gian",
+    "c": [
+      "Các phép tính",
+      "Các nốt nhạc",
+      "Các loại cây",
+      "Chuỗi sự kiện theo thời gian"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bảng số liệu và biểu đồ – Đọc trục thời gian",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Bảng số liệu và biểu đồ",
+    "sourcePage": 13,
+    "explanation": "Đáp án đúng là “Chuỗi sự kiện theo thời gian”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Việt Nam nằm ở châu lục nào?",
+    "a": "Châu Á",
+    "c": [
+      "Châu Phi",
+      "Châu Mĩ",
+      "Châu Á",
+      "Châu Âu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên Việt Nam – Xác định vị trí Việt Nam",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thiên nhiên Việt Nam",
+    "sourcePage": 28,
+    "explanation": "Đáp án đúng là “Châu Á”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Dạng địa hình nào chiếm phần lớn diện tích nước ta?",
+    "a": "Đồi núi",
+    "c": [
+      "Đồng cỏ savan",
+      "Đồi núi",
+      "Hoang mạc",
+      "Băng hà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên Việt Nam – Nhận biết địa hình Việt Nam",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thiên nhiên Việt Nam",
+    "sourcePage": 31,
+    "explanation": "Đáp án đúng là “Đồi núi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Đồng bằng lớn nhất nước ta là đồng bằng nào?",
+    "a": "Đồng bằng sông Cửu Long",
+    "c": [
+      "Đồng bằng sông Cửu Long",
+      "Đồng bằng Bắc Bộ",
+      "Đồng bằng ven biển miền Trung",
+      "Đồng bằng Tây Nguyên"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên Việt Nam – Nhận biết đồng bằng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thiên nhiên Việt Nam",
+    "sourcePage": 34,
+    "explanation": "Đáp án đúng là “Đồng bằng sông Cửu Long”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Con sông dài nhất ở Việt Nam là sông nào?",
+    "a": "Sông Hồng",
+    "c": [
+      "Sông Thames",
+      "Sông Nin",
+      "Sông Volga",
+      "Sông Hồng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên Việt Nam – Nhận biết sông ngòi",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thiên nhiên Việt Nam",
+    "sourcePage": 38,
+    "explanation": "Đáp án đúng là “Sông Hồng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để bảo vệ tài nguyên thiên nhiên, em nên làm gì?",
+    "a": "Sử dụng tiết kiệm và không xả rác",
+    "c": [
+      "Đốt rừng",
+      "Vứt rác xuống sông",
+      "Sử dụng tiết kiệm và không xả rác",
+      "Khai thác bừa bãi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiên nhiên Việt Nam – Bảo vệ môi trường",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thiên nhiên Việt Nam",
+    "sourcePage": 44,
+    "explanation": "Đáp án đúng là “Sử dụng tiết kiệm và không xả rác”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Người dân vùng đồng bằng thường thuận lợi phát triển hoạt động nào?",
+    "a": "Trồng lúa",
+    "c": [
+      "Khai thác băng",
+      "Trồng lúa",
+      "Đánh bắt cá voi ở đại dương",
+      "Trượt tuyết"
+    ],
+    "type": "multiple_choice",
+    "lo": "Dân cư và hoạt động sản xuất – Nhận biết hoạt động sản xuất",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Dân cư và hoạt động sản xuất",
+    "sourcePage": 52,
+    "explanation": "Đáp án đúng là “Trồng lúa”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Nghề nào thuộc hoạt động dịch vụ?",
+    "a": "Bán hàng",
+    "c": [
+      "Bán hàng",
+      "Trồng lúa",
+      "Nuôi gà",
+      "Khai thác gỗ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Dân cư và hoạt động sản xuất – Phân biệt hoạt động kinh tế",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Dân cư và hoạt động sản xuất",
+    "sourcePage": 57,
+    "explanation": "Đáp án đúng là “Bán hàng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Nhà nước đầu tiên của người Việt cổ có tên là gì?",
+    "a": "Văn Lang",
+    "c": [
+      "Đại Việt",
+      "Việt Nam Dân chủ Cộng hòa",
+      "Cộng hòa Xã hội chủ nghĩa Việt Nam",
+      "Văn Lang"
+    ],
+    "type": "multiple_choice",
+    "lo": "Lịch sử dựng nước – Nhận biết nhà nước Văn Lang",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Lịch sử dựng nước",
+    "sourcePage": 68,
+    "explanation": "Đáp án đúng là “Văn Lang”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Ai là người đứng đầu nhà nước Văn Lang?",
+    "a": "Hùng Vương",
+    "c": [
+      "Lý Thái Tổ",
+      "Quang Trung",
+      "Hùng Vương",
+      "Ngô Quyền"
+    ],
+    "type": "multiple_choice",
+    "lo": "Lịch sử dựng nước – Nhận biết Hùng Vương",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Lịch sử dựng nước",
+    "sourcePage": 70,
+    "explanation": "Đáp án đúng là “Hùng Vương”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Hai Bà Trưng khởi nghĩa để làm gì?",
+    "a": "Chống ách đô hộ của nhà Hán",
+    "c": [
+      "Tìm vàng",
+      "Chống ách đô hộ của nhà Hán",
+      "Xây thành phố mới",
+      "Mở trường học"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thời kì Bắc thuộc – Nhận biết khởi nghĩa Hai Bà Trưng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thời kì Bắc thuộc",
+    "sourcePage": 78,
+    "explanation": "Đáp án đúng là “Chống ách đô hộ của nhà Hán”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Ngô Quyền chiến thắng quân Nam Hán trên sông nào?",
+    "a": "Sông Bạch Đằng",
+    "c": [
+      "Sông Bạch Đằng",
+      "Sông Hồng",
+      "Sông Đà",
+      "Sông Mã"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thời kì Bắc thuộc – Nhận biết chiến thắng Bạch Đằng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Thời kì Bắc thuộc",
+    "sourcePage": 81,
+    "explanation": "Đáp án đúng là “Sông Bạch Đằng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Lý Công Uẩn dời đô về đâu?",
+    "a": "Thăng Long",
+    "c": [
+      "Hoa Lư",
+      "Huế",
+      "Phú Xuân",
+      "Thăng Long"
+    ],
+    "type": "multiple_choice",
+    "lo": "Buổi đầu độc lập – Nhận biết sự kiện dời đô",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Buổi đầu độc lập",
+    "sourcePage": 90,
+    "explanation": "Đáp án đúng là “Thăng Long”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Tên gọi Thăng Long có nghĩa là gì?",
+    "a": "Rồng bay lên",
+    "c": [
+      "Núi cao",
+      "Biển lớn",
+      "Rồng bay lên",
+      "Sông đỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Buổi đầu độc lập – Hiểu tên gọi Thăng Long",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Buổi đầu độc lập",
+    "sourcePage": 94,
+    "explanation": "Đáp án đúng là “Rồng bay lên”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Trần Hưng Đạo gắn với cuộc kháng chiến chống quân nào?",
+    "a": "Quân Mông - Nguyên",
+    "c": [
+      "Quân Pháp",
+      "Quân Mông - Nguyên",
+      "Quân Nam Hán",
+      "Quân Thanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nhà Trần – Nhận biết nhân vật lịch sử",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Nhà Trần",
+    "sourcePage": 104,
+    "explanation": "Đáp án đúng là “Quân Mông - Nguyên”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Ai là lãnh tụ cuộc khởi nghĩa Lam Sơn?",
+    "a": "Lê Lợi",
+    "c": [
+      "Lê Lợi",
+      "Quang Trung",
+      "Hùng Vương",
+      "Ngô Quyền"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khởi nghĩa Lam Sơn – Nhận biết khởi nghĩa Lam Sơn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Khởi nghĩa Lam Sơn",
+    "sourcePage": 112,
+    "explanation": "Đáp án đúng là “Lê Lợi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi tham quan di tích lịch sử, em cần làm gì?",
+    "a": "Giữ gìn, tôn trọng và không vẽ bậy",
+    "c": [
+      "Leo trèo phá hoại",
+      "Vứt rác",
+      "Lấy hiện vật về nhà",
+      "Giữ gìn, tôn trọng và không vẽ bậy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Văn hóa và di sản – Bảo vệ di sản",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Lịch sử và Địa lí 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-lich-su-va-dia-li-lop-4-ket-noi-tri-thuc-pdfd98aa_5120269.pdf) – Văn hóa và di sản",
+    "sourcePage": 121,
+    "explanation": "Đáp án đúng là “Giữ gìn, tôn trọng và không vẽ bậy”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  }
+]

@@ -1,401 +1,506 @@
 [
   {
-    "q": "Trong câu 'Cây bàng xòe tán lá rộng lớn', từ nào đóng vai trò là Chủ ngữ?",
-    "a": "CÂY BÀNG",
+    "q": "Trong bài thơ “Mỗi người một vẻ”, sự khác biệt của mỗi bạn được ví với điều gì?",
+    "a": "Những bông hoa trong vườn",
     "c": [
-      "CÂY BÀNG",
-      "XÒE TÁN LÁ",
-      "RỘNG LỚN",
-      "LÁ"
+      "Những bông hoa trong vườn",
+      "Những hòn đá",
+      "Những chiếc lá khô",
+      "Những quyển vở"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+    "lo": "Đọc: Mỗi người một vẻ – Hiểu hình ảnh so sánh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Đọc: Mỗi người một vẻ",
+    "sourcePage": 12,
+    "explanation": "Đáp án đúng là “Những bông hoa trong vườn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ nào sau đây là Danh từ chỉ người?",
-    "a": "giáo viên",
+    "q": "Thông điệp phù hợp của bài “Mỗi người một vẻ” là gì?",
+    "a": "Tôn trọng sự khác biệt của mỗi người",
     "c": [
-      "giáo viên",
-      "bút chì",
-      "học tập",
-      "đẹp đẽ"
+      "Chỉ chơi với người giống mình",
+      "Chê bai bạn khác mình",
+      "Không cần hợp tác",
+      "Tôn trọng sự khác biệt của mỗi người"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
+    "lo": "Đọc: Mỗi người một vẻ – Rút ra ý nghĩa bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Đọc: Mỗi người một vẻ",
+    "sourcePage": 12,
+    "explanation": "Đáp án đúng là “Tôn trọng sự khác biệt của mỗi người”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ nào sau đây là Động từ?",
-    "a": "suy nghĩ",
+    "q": "Từ nào là danh từ?",
+    "a": "cây phượng",
     "c": [
-      "suy nghĩ",
+      "chạy nhanh",
+      "rất đẹp",
+      "cây phượng",
+      "xanh mướt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết danh từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “cây phượng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Từ nào là động từ?",
+    "a": "đọc sách",
+    "c": [
+      "sân trường",
+      "đọc sách",
+      "quyển sách",
+      "xinh xắn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết động từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “đọc sách”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Từ nào là tính từ?",
+    "a": "chăm chỉ",
+    "c": [
+      "chăm chỉ",
       "học sinh",
-      "tròn xoe",
-      "bút mực"
+      "học bài",
+      "lớp học"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Thành phần trạng ngữ trong câu 'Sáng nay, em đi học sớm.' chỉ ý gì?",
-    "a": "THỜI GIAN",
-    "c": [
-      "THỜI GIAN",
-      "NƠI CHỐN",
-      "MỤC ĐÍCH",
-      "NGUYÊN NHÂN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Từ nào sau đây là Tính từ?",
-    "a": "xinh đẹp",
-    "c": [
-      "xinh đẹp",
-      "con mèo",
-      "chạy nhảy",
-      "ngôi trường"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Câu ghép là câu như thế nào?",
-    "a": "CÂU CÓ HAI VẾ TRỞ LÊN",
-    "c": [
-      "CÂU CÓ HAI VẾ TRỞ LÊN",
-      "CÂU CHỈ CÓ MỘT VẾ",
-      "CÂU ĐẶT DẤU HỎI",
-      "CÂU RẤT DÀI"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Trợ từ 'đã' trong câu 'Bé đã học xong bài.' cho biết hành động ở thời điểm nào?",
-    "a": "ĐÃ XẢY RA TRONG QUÁ KHỨ",
-    "c": [
-      "ĐÃ XẢY RA TRONG QUÁ KHỨ",
-      "ĐANG XẢY RA",
-      "SẼ XẢY RA",
-      "CHƯA XẢY RA"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Chọn quan hệ từ thích hợp:",
-    "a": "nhưng",
-    "c": [
-      "nhưng",
-      "và",
-      "hoặc",
-      "vì"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Điền quan hệ từ: Vì trời mưa to ___ chúng em phải ở trong nhà.",
-    "a": "nên",
-    "c": [
-      "nên",
-      "nhưng",
-      "hoặc",
-      "bởi"
-    ],
-    "type": "fill_blank",
-    "sentence": "Vì trời mưa to ___ chúng em phải ở trong nhà.",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Chọn từ thích hợp:",
-    "a": "sa mạc",
-    "c": [
-      "sa mạc",
-      "đại dương",
-      "sông ngòi",
-      "rừng rậm"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Điền từ thích hợp: Mọi sinh vật đều cần ___ để hít thở và duy trì sự sống.",
-    "a": "không khí",
-    "c": [
-      "không khí",
-      "nước biển",
-      "ánh sáng",
-      "đất cát"
-    ],
-    "type": "fill_blank",
-    "sentence": "Mọi sinh vật đều cần ___ để hít thở và duy trì sự sống.",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Sắp xếp lại câu tục ngữ sau:",
-    "a": "Lá lành đùm lá rách",
-    "c": [
-      "Lá lành đùm lá rách"
-    ],
-    "type": "reorder",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4",
-    "words": [
-      "Lá",
-      "lành",
-      "đùm",
-      "lá",
-      "rách"
+    "lo": "Luyện từ và câu – Nhận biết tính từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “chăm chỉ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Sắp xếp thành câu hoàn chỉnh:",
-    "a": "Có công mài sắt có ngày nên kim",
+    "q": "Câu nào là câu hỏi?",
+    "a": "Bạn đã làm bài tập chưa?",
     "c": [
-      "Có công mài sắt có ngày nên kim"
+      "Em đã làm bài tập.",
+      "Hãy làm bài tập!",
+      "Ôi, bài tập khó quá!",
+      "Bạn đã làm bài tập chưa?"
     ],
-    "type": "reorder",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4",
-    "words": [
-      "Có",
-      "công",
-      "mài",
-      "sắt",
-      "có",
-      "ngày",
-      "nên",
-      "kim"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết câu hỏi",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 39,
+    "explanation": "Đáp án đúng là “Bạn đã làm bài tập chưa?”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Luyện gõ cụm từ sau tiếng Việt không dấu:",
-    "a": "la lanh dum la rach",
+    "q": "Cuối câu hỏi thường dùng dấu gì?",
+    "a": "Dấu chấm hỏi",
     "c": [
-      "la lanh dum la rach"
-    ],
-    "type": "typing",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Trong câu 'Bông hoa hồng đỏ rực.', từ nào là tính từ?",
-    "a": "ĐỎ RỰC",
-    "c": [
-      "ĐỎ RỰC",
-      "BÔNG",
-      "HOA HỒNG",
-      "LÀ"
+      "Dấu phẩy",
+      "Dấu chấm than",
+      "Dấu chấm hỏi",
+      "Dấu chấm"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Trong câu 'Bé gái đang học bài.', từ nào là động từ?",
-    "a": "HỌC",
-    "c": [
-      "HỌC",
-      "BÉ GÁI",
-      "BÀI",
-      "ĐANG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "'Sách vở' là từ ghép hay từ láy?",
-    "a": "TỪ GHÉP",
-    "c": [
-      "TỪ GHÉP",
-      "TỪ LÁY",
-      "TỪ ĐƠN",
-      "THÀNH NGỮ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "'Lung linh' là từ ghép hay từ láy?",
-    "a": "TỪ LÁY",
-    "c": [
-      "TỪ LÁY",
-      "TỪ GHÉP",
-      "TỪ ĐƠN",
-      "TỪ PHỨC"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Trong câu 'Con trâu kéo cày.', từ nào là danh từ?",
-    "a": "CON TRÂU",
-    "c": [
-      "CON TRÂU",
-      "KÉO",
-      "CÀY",
-      "CON TRÂU VÀ CÀY"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "'Nhà cửa' thuộc từ loại gì?",
-    "a": "DANH TỪ",
-    "c": [
-      "DANH TỪ",
-      "ĐỘNG TỪ",
-      "TÍNH TỪ",
-      "TRẠNG TỪ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Dấu gạch ngang (-) đặt ở đầu dòng trong đoạn đối thoại có tác dụng gì?",
-    "a": "Đánh dấu lời nói trực tiếp của nhân vật",
-    "c": [
-      "Đánh dấu lời nói trực tiếp của nhân vật",
-      "Đánh dấu phần chú thích",
-      "Nối các từ trong câu ghép",
-      "Kết thúc một câu kể"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Thành ngữ nào nói về lòng tự trọng và trung thực?",
-    "a": "Đói cho sạch, rách cho thơm",
-    "c": [
-      "Đói cho sạch, rách cho thơm",
-      "Uống nước nhớ nguồn",
-      "Kề vai sát cánh",
-      "Lên thác xuống ghềnh"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Trong câu: 'Ánh trăng sáng vằng vặc chiếu xuống dòng sông', từ nào là chủ ngữ?",
-    "a": "Ánh trăng",
-    "c": [
-      "Ánh trăng",
-      "Sáng vằng vặc",
-      "Chiếu xuống",
-      "Dòng sông"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, phân tích văn bản và vận dụng từ ngữ lớp 4"
-  },
-  {
-    "q": "Ghép từ Hán-Việt với nghĩa tiếng Việt tương ứng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Hiểu nghĩa từ Hán-Việt thường gặp trong văn bản lớp 4",
-    "pairs": [
-      {
-        "left": "Sơn hà",
-        "right": "Núi sông, đất nước"
-      },
-      {
-        "left": "Quốc gia",
-        "right": "Đất nước"
-      },
-      {
-        "left": "Hải đảo",
-        "right": "Vùng đất giữa biển"
-      },
-      {
-        "left": "Tinh thần",
-        "right": "Ý chí, tư tưởng"
-      }
+    "lo": "Luyện từ và câu – Sử dụng dấu câu",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 39,
+    "explanation": "Đáp án đúng là “Dấu chấm hỏi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Sắp xếp các từ thành câu ghép đúng ngữ pháp:",
-    "a": "Vì trời mưa to nên đường phố ngập nước",
+    "q": "Câu nào là câu khiến?",
+    "a": "Em hãy giữ trật tự trong lớp.",
     "c": [
-      "Vì trời mưa to nên đường phố ngập nước"
+      "Lớp học yên tĩnh quá!",
+      "Em hãy giữ trật tự trong lớp.",
+      "Em giữ trật tự trong lớp.",
+      "Em có giữ trật tự không?"
     ],
-    "words": [
-      "Vì",
-      "trời",
-      "mưa",
-      "to",
-      "nên",
-      "đường",
-      "phố",
-      "ngập",
-      "nước"
-    ],
-    "type": "reorder",
-    "lo": "Sử dụng đúng quan hệ từ trong câu ghép Tiếng Việt"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết câu khiến",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 55,
+    "explanation": "Đáp án đúng là “Em hãy giữ trật tự trong lớp.”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Điền quan hệ từ phù hợp: Bé học rất chăm chỉ ___ bé luôn đứng đầu lớp.",
-    "a": "nên",
+    "q": "Trong câu “Lan, Mai và Hoa cùng trực nhật.”, dấu phẩy dùng để làm gì?",
+    "a": "Ngăn cách các từ cùng loại",
     "c": [
-      "nên",
-      "nhưng",
-      "hoặc",
-      "vì"
+      "Ngăn cách các từ cùng loại",
+      "Kết thúc câu",
+      "Nêu cảm xúc",
+      "Nối hai câu"
     ],
-    "type": "fill_blank",
-    "sentence": "Bé học rất chăm chỉ ___ bé luôn đứng đầu lớp.",
-    "lo": "Sử dụng đúng quan hệ từ trong câu ghép Tiếng Việt"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Sử dụng dấu phẩy",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 68,
+    "explanation": "Đáp án đúng là “Ngăn cách các từ cùng loại”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ \"xinh xắn\" viết đúng chính tả.",
-    "a": "Sai",
+    "q": "Từ nào viết đúng chính tả?",
+    "a": "trung thực",
     "c": [
-      "Đúng",
-      "Sai"
+      "chung thực",
+      "trung thựt",
+      "chung thựt",
+      "trung thực"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Chính tả – Phân biệt tr/ch",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Chính tả",
+    "sourcePage": 73,
+    "explanation": "Đáp án đúng là “trung thực”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ \"xuất sắc\" viết sai chính tả thành \"xuất xắc\".",
-    "a": "Sai",
+    "q": "Từ nào viết đúng chính tả với âm đầu s/x?",
+    "a": "sáng sủa",
     "c": [
-      "Đúng",
-      "Sai"
+      "sáng xủa",
+      "xáng sủa",
+      "sáng sủa",
+      "xáng xủa"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Chính tả – Phân biệt s/x",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Chính tả",
+    "sourcePage": 80,
+    "explanation": "Đáp án đúng là “sáng sủa”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Bé học giỏi triếng Việt.",
-    "a": "triếng",
-    "words": [
-      "Bé",
-      "học",
-      "giỏi",
-      "triếng",
-      "Việt."
+    "q": "Tên riêng nào viết hoa đúng?",
+    "a": "Thành phố Hà Nội",
+    "c": [
+      "thành phố hà nội",
+      "Thành phố Hà Nội",
+      "thành phố Hà Nội",
+      "Thành phố hà nội"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Chính tả – Viết tên riêng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Chính tả",
+    "sourcePage": 95,
+    "explanation": "Đáp án đúng là “Thành phố Hà Nội”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Chạy bộ",
-    "a": "Động từ",
+    "q": "Bài văn kể chuyện cần có những phần nào?",
+    "a": "Mở bài, thân bài, kết bài",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "Mở bài, thân bài, kết bài",
+      "Chỉ mở bài",
+      "Chỉ thân bài",
+      "Chỉ kết bài"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Viết – Nhận biết cấu tạo bài văn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Viết",
+    "sourcePage": 109,
+    "explanation": "Đáp án đúng là “Mở bài, thân bài, kết bài”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Ngôi trường",
-    "a": "Danh từ",
+    "q": "Khi miêu tả đồ vật, em cần quan sát điều gì?",
+    "a": "Đặc điểm nổi bật của đồ vật",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "Chỉ giá tiền",
+      "Chỉ tên người mua",
+      "Chỉ số trang",
+      "Đặc điểm nổi bật của đồ vật"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Viết – Viết đoạn văn miêu tả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập một – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-1-ket-noi-tri-thuc-pdfe60b1_5120269.pdf) – Viết",
+    "sourcePage": 122,
+    "explanation": "Đáp án đúng là “Đặc điểm nổi bật của đồ vật”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Hải Thượng Lãn Ông có tên thật là gì?",
+    "a": "Lê Hữu Trác",
+    "c": [
+      "Chu Văn An",
+      "Lê Lợi",
+      "Lê Hữu Trác",
+      "Nguyễn Trãi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Hải Thượng Lãn Ông – Nhận biết nhân vật lịch sử trong bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Đọc: Hải Thượng Lãn Ông",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Lê Hữu Trác”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Hải Thượng Lãn Ông học nghề y vì điều gì?",
+    "a": "Muốn chữa bệnh giúp người",
+    "c": [
+      "Muốn tránh học sách",
+      "Muốn chữa bệnh giúp người",
+      "Muốn trở nên giàu có",
+      "Muốn đi du lịch"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Hải Thượng Lãn Ông – Hiểu nội dung bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Đọc: Hải Thượng Lãn Ông",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Muốn chữa bệnh giúp người”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Chi tiết nào cho thấy Hải Thượng Lãn Ông thương người nghèo?",
+    "a": "Khám bệnh và cho thuốc không lấy tiền",
+    "c": [
+      "Khám bệnh và cho thuốc không lấy tiền",
+      "Chỉ chữa cho người giàu",
+      "Không nhận bệnh nhân",
+      "Bắt người nghèo trả nhiều tiền"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Hải Thượng Lãn Ông – Rút ra phẩm chất nhân vật",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Đọc: Hải Thượng Lãn Ông",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Khám bệnh và cho thuốc không lấy tiền”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Chủ ngữ trong câu “Các bạn học sinh đang đọc sách.” là bộ phận nào?",
+    "a": "Các bạn học sinh",
+    "c": [
+      "đang đọc sách",
+      "đọc sách",
+      "sách",
+      "Các bạn học sinh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết chủ ngữ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 35,
+    "explanation": "Đáp án đúng là “Các bạn học sinh”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Vị ngữ trong câu “Các bạn học sinh đang đọc sách.” là bộ phận nào?",
+    "a": "đang đọc sách",
+    "c": [
+      "học sinh",
+      "Các bạn",
+      "đang đọc sách",
+      "Các bạn học sinh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết vị ngữ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 35,
+    "explanation": "Đáp án đúng là “đang đọc sách”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Từ nào đồng nghĩa với “dũng cảm”?",
+    "a": "can đảm",
+    "c": [
+      "ồn ào",
+      "can đảm",
+      "nhút nhát",
+      "lười biếng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Mở rộng vốn từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 51,
+    "explanation": "Đáp án đúng là “can đảm”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Từ nào trái nghĩa với “đoàn kết”?",
+    "a": "chia rẽ",
+    "c": [
+      "chia rẽ",
+      "gắn bó",
+      "hợp tác",
+      "yêu thương"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Mở rộng vốn từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 64,
+    "explanation": "Đáp án đúng là “chia rẽ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi viết thư, phần đầu thư thường có gì?",
+    "a": "Lời chào người nhận",
+    "c": [
+      "Chỉ chữ kí",
+      "Chỉ số trang",
+      "Chỉ hình minh họa",
+      "Lời chào người nhận"
+    ],
+    "type": "multiple_choice",
+    "lo": "Viết – Viết thư",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Viết",
+    "sourcePage": 88,
+    "explanation": "Đáp án đúng là “Lời chào người nhận”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi trình bày ý kiến trước lớp, em nên làm gì?",
+    "a": "Nói rõ ràng và tôn trọng người nghe",
+    "c": [
+      "Trêu chọc bạn",
+      "Không lắng nghe ai",
+      "Nói rõ ràng và tôn trọng người nghe",
+      "Nói chen"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nói và nghe – Kĩ năng giao tiếp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Nói và nghe",
+    "sourcePage": 103,
+    "explanation": "Đáp án đúng là “Nói rõ ràng và tôn trọng người nghe”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi đọc một văn bản thông tin, em cần chú ý điều gì?",
+    "a": "Các ý chính và chi tiết quan trọng",
+    "c": [
+      "Chỉ tên sách",
+      "Các ý chính và chi tiết quan trọng",
+      "Chỉ tranh minh họa",
+      "Chỉ số trang"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu – Đọc hiểu văn bản",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 4, Tập hai – Kết nối tri thức với cuộc sống (sach-giao-khoa-tieng-viet-lop-4-tap-2-ket-noi-tri-thuc-pdfc509e_5120269.pdf) – Đọc hiểu",
+    "sourcePage": 118,
+    "explanation": "Đáp án đúng là “Các ý chính và chi tiết quan trọng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   }
 ]

@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Hoa văn trên trang phục giúp gì?",
+    "a": "Làm trang phục thêm đẹp và có nét riêng",
+    "c": [
+      "Làm trang phục thêm đẹp và có nét riêng",
+      "Làm mất màu",
+      "Không có tác dụng",
+      "Chỉ để tính toán"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hoa văn trên trang phục – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Hoa văn trên trang phục",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Hoa văn trên trang phục”, đáp án phù hợp là “Làm trang phục thêm đẹp và có nét riêng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Hoa văn trên trang phục”, hành động nào không phù hợp?",
+    "a": "Làm mất màu",
+    "c": [
+      "Làm trang phục thêm đẹp và có nét riêng",
+      "Không có tác dụng",
+      "Chỉ để tính toán",
+      "Làm mất màu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hoa văn trên trang phục – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Hoa văn trên trang phục",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Hoa văn trên trang phục”, đáp án phù hợp là “Làm mất màu”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Hoa văn trên trang phục”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hoa văn trên trang phục – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Hoa văn trên trang phục",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Hoa văn trên trang phục”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Hoa văn trên trang phục”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hoa văn trên trang phục – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Hoa văn trên trang phục",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Hoa văn trên trang phục”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Vật liệu đã qua sử dụng có thể dùng để làm gì?",
+    "a": "Tạo sản phẩm mĩ thuật phù hợp",
+    "c": [
+      "Tạo sản phẩm mĩ thuật phù hợp",
+      "Vứt bừa bãi",
+      "Làm đồ nguy hiểm",
+      "Phá sản phẩm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo hình từ vật liệu – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Tạo hình từ vật liệu",
+    "sourcePage": 29,
+    "explanation": "Theo bài “Tạo hình từ vật liệu”, đáp án phù hợp là “Tạo sản phẩm mĩ thuật phù hợp”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Tạo hình từ vật liệu”, hành động nào không phù hợp?",
+    "a": "Vứt bừa bãi",
+    "c": [
+      "Tạo sản phẩm mĩ thuật phù hợp",
+      "Làm đồ nguy hiểm",
+      "Phá sản phẩm",
+      "Vứt bừa bãi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo hình từ vật liệu – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Tạo hình từ vật liệu",
+    "sourcePage": 29,
+    "explanation": "Theo bài “Tạo hình từ vật liệu”, đáp án phù hợp là “Vứt bừa bãi”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Tạo hình từ vật liệu”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo hình từ vật liệu – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Tạo hình từ vật liệu",
+    "sourcePage": 29,
+    "explanation": "Theo bài “Tạo hình từ vật liệu”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Tạo hình từ vật liệu”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo hình từ vật liệu – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Tạo hình từ vật liệu",
+    "sourcePage": 29,
+    "explanation": "Theo bài “Tạo hình từ vật liệu”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi vẽ chân dung, em nên quan sát điều gì?",
+    "a": "Đặc điểm khuôn mặt và biểu cảm",
+    "c": [
+      "Đặc điểm khuôn mặt và biểu cảm",
+      "Chỉ màu giấy",
+      "Chỉ số trang",
+      "Chỉ tên bài"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chân dung người thân – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Chân dung người thân",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Chân dung người thân”, đáp án phù hợp là “Đặc điểm khuôn mặt và biểu cảm”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Chân dung người thân”, hành động nào không phù hợp?",
+    "a": "Chỉ màu giấy",
+    "c": [
+      "Đặc điểm khuôn mặt và biểu cảm",
+      "Chỉ số trang",
+      "Chỉ tên bài",
+      "Chỉ màu giấy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chân dung người thân – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Chân dung người thân",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Chân dung người thân”, đáp án phù hợp là “Chỉ màu giấy”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Chân dung người thân”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chân dung người thân – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Chân dung người thân",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Chân dung người thân”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Chân dung người thân”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chân dung người thân – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Chân dung người thân",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Chân dung người thân”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi nhận xét bài của bạn, em nên làm gì?",
+    "a": "Góp ý nhẹ nhàng và tôn trọng",
+    "c": [
+      "Góp ý nhẹ nhàng và tôn trọng",
+      "Chê bai",
+      "Xé bài",
+      "Giật dụng cụ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trưng bày sản phẩm – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Trưng bày sản phẩm",
+    "sourcePage": 59,
+    "explanation": "Theo bài “Trưng bày sản phẩm”, đáp án phù hợp là “Góp ý nhẹ nhàng và tôn trọng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Trưng bày sản phẩm”, hành động nào không phù hợp?",
+    "a": "Chê bai",
+    "c": [
+      "Góp ý nhẹ nhàng và tôn trọng",
+      "Xé bài",
+      "Giật dụng cụ",
+      "Chê bai"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trưng bày sản phẩm – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Trưng bày sản phẩm",
+    "sourcePage": 59,
+    "explanation": "Theo bài “Trưng bày sản phẩm”, đáp án phù hợp là “Chê bai”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Trưng bày sản phẩm”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trưng bày sản phẩm – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Trưng bày sản phẩm",
+    "sourcePage": 59,
+    "explanation": "Theo bài “Trưng bày sản phẩm”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Trưng bày sản phẩm”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trưng bày sản phẩm – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Trưng bày sản phẩm",
+    "sourcePage": 59,
+    "explanation": "Theo bài “Trưng bày sản phẩm”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau giờ mĩ thuật, em cần làm gì?",
+    "a": "Thu dọn dụng cụ gọn gàng",
+    "c": [
+      "Thu dọn dụng cụ gọn gàng",
+      "Vứt màu bừa bãi",
+      "Làm bẩn bàn",
+      "Mang nhầm đồ bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành mĩ thuật – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Thực hành mĩ thuật",
+    "sourcePage": 63,
+    "explanation": "Theo bài “Thực hành mĩ thuật”, đáp án phù hợp là “Thu dọn dụng cụ gọn gàng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Thực hành mĩ thuật”, hành động nào không phù hợp?",
+    "a": "Vứt màu bừa bãi",
+    "c": [
+      "Thu dọn dụng cụ gọn gàng",
+      "Làm bẩn bàn",
+      "Mang nhầm đồ bạn",
+      "Vứt màu bừa bãi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành mĩ thuật – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Thực hành mĩ thuật",
+    "sourcePage": 63,
+    "explanation": "Theo bài “Thực hành mĩ thuật”, đáp án phù hợp là “Vứt màu bừa bãi”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Thực hành mĩ thuật”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành mĩ thuật – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Thực hành mĩ thuật",
+    "sourcePage": 63,
+    "explanation": "Theo bài “Thực hành mĩ thuật”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Thực hành mĩ thuật”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành mĩ thuật – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Mĩ thuật 3 – Kết nối tri thức với cuộc sống (mithuat3-ketnoitrithucvoicuocsong6d553_5120269.pdf) – Thực hành mĩ thuật",
+    "sourcePage": 63,
+    "explanation": "Theo bài “Thực hành mĩ thuật”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  }
+]

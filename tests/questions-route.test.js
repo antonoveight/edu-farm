@@ -24,7 +24,7 @@ describe('GET /api/questions', () => {
         expect(response.status).toBe(200);
         expect(Object.keys(body)).toEqual([
             'math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience',
-            'music', 'art', 'physical'
+            'music', 'art', 'physical', 'history_geo'
         ]);
         expect(body.math).toHaveLength(400);
         expect(body.viet).toHaveLength(338);

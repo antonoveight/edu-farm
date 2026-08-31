@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Trước khi tập thể dục, em cần làm gì?",
+    "a": "Khởi động cơ thể",
+    "c": [
+      "Khởi động cơ thể",
+      "Chạy ngay thật nhanh",
+      "Ngồi yên cả giờ",
+      "Ăn quá no"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vận động cơ bản – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Vận động cơ bản",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Vận động cơ bản”, đáp án phù hợp là “Khởi động cơ thể”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Vận động cơ bản”, hành động nào không phù hợp?",
+    "a": "Chạy ngay thật nhanh",
+    "c": [
+      "Khởi động cơ thể",
+      "Ngồi yên cả giờ",
+      "Ăn quá no",
+      "Chạy ngay thật nhanh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vận động cơ bản – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Vận động cơ bản",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Vận động cơ bản”, đáp án phù hợp là “Chạy ngay thật nhanh”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Vận động cơ bản”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vận động cơ bản – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Vận động cơ bản",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Vận động cơ bản”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Vận động cơ bản”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Vận động cơ bản – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Vận động cơ bản",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Vận động cơ bản”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi tập đội hình, em cần làm gì?",
+    "a": "Lắng nghe khẩu lệnh và giữ khoảng cách",
+    "c": [
+      "Lắng nghe khẩu lệnh và giữ khoảng cách",
+      "Xô đẩy",
+      "Nói chuyện riêng",
+      "Tự ý rời hàng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 16,
+    "explanation": "Theo bài “Đội hình đội ngũ”, đáp án phù hợp là “Lắng nghe khẩu lệnh và giữ khoảng cách”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Đội hình đội ngũ”, hành động nào không phù hợp?",
+    "a": "Xô đẩy",
+    "c": [
+      "Lắng nghe khẩu lệnh và giữ khoảng cách",
+      "Nói chuyện riêng",
+      "Tự ý rời hàng",
+      "Xô đẩy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 16,
+    "explanation": "Theo bài “Đội hình đội ngũ”, đáp án phù hợp là “Xô đẩy”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Đội hình đội ngũ”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 16,
+    "explanation": "Theo bài “Đội hình đội ngũ”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Đội hình đội ngũ”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đội hình đội ngũ – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Đội hình đội ngũ",
+    "sourcePage": 16,
+    "explanation": "Theo bài “Đội hình đội ngũ”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi tập động tác chân, em cần chú ý gì?",
+    "a": "Giữ tư thế an toàn",
+    "c": [
+      "Giữ tư thế an toàn",
+      "Đá gần bạn",
+      "Tập trên nền trơn",
+      "Đùa nghịch"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Bài thể dục",
+    "sourcePage": 31,
+    "explanation": "Theo bài “Bài thể dục”, đáp án phù hợp là “Giữ tư thế an toàn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Bài thể dục”, hành động nào không phù hợp?",
+    "a": "Đá gần bạn",
+    "c": [
+      "Giữ tư thế an toàn",
+      "Tập trên nền trơn",
+      "Đùa nghịch",
+      "Đá gần bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Bài thể dục",
+    "sourcePage": 31,
+    "explanation": "Theo bài “Bài thể dục”, đáp án phù hợp là “Đá gần bạn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Bài thể dục”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Bài thể dục",
+    "sourcePage": 31,
+    "explanation": "Theo bài “Bài thể dục”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Bài thể dục”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Bài thể dục – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Bài thể dục",
+    "sourcePage": 31,
+    "explanation": "Theo bài “Bài thể dục”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi chơi thể thao, em cần làm gì?",
+    "a": "Tuân thủ luật chơi",
+    "c": [
+      "Tuân thủ luật chơi",
+      "Gian lận",
+      "Tranh cãi",
+      "Xô đẩy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 52,
+    "explanation": "Theo bài “Trò chơi vận động”, đáp án phù hợp là “Tuân thủ luật chơi”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Trò chơi vận động”, hành động nào không phù hợp?",
+    "a": "Gian lận",
+    "c": [
+      "Tuân thủ luật chơi",
+      "Tranh cãi",
+      "Xô đẩy",
+      "Gian lận"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 52,
+    "explanation": "Theo bài “Trò chơi vận động”, đáp án phù hợp là “Gian lận”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Trò chơi vận động”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 52,
+    "explanation": "Theo bài “Trò chơi vận động”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Trò chơi vận động”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trò chơi vận động – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – Trò chơi vận động",
+    "sourcePage": 52,
+    "explanation": "Theo bài “Trò chơi vận động”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi thấy bạn gặp nguy hiểm dưới nước, em nên làm gì?",
+    "a": "Gọi người lớn hỗ trợ ngay",
+    "c": [
+      "Gọi người lớn hỗ trợ ngay",
+      "Tự lao xuống khi chưa biết bơi",
+      "Đứng xem",
+      "Trêu bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "An toàn dưới nước – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – An toàn dưới nước",
+    "sourcePage": 83,
+    "explanation": "Theo bài “An toàn dưới nước”, đáp án phù hợp là “Gọi người lớn hỗ trợ ngay”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “An toàn dưới nước”, hành động nào không phù hợp?",
+    "a": "Tự lao xuống khi chưa biết bơi",
+    "c": [
+      "Gọi người lớn hỗ trợ ngay",
+      "Đứng xem",
+      "Trêu bạn",
+      "Tự lao xuống khi chưa biết bơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "An toàn dưới nước – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – An toàn dưới nước",
+    "sourcePage": 83,
+    "explanation": "Theo bài “An toàn dưới nước”, đáp án phù hợp là “Tự lao xuống khi chưa biết bơi”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “An toàn dưới nước”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "An toàn dưới nước – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – An toàn dưới nước",
+    "sourcePage": 83,
+    "explanation": "Theo bài “An toàn dưới nước”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “An toàn dưới nước”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "An toàn dưới nước – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Giáo dục thể chất 3 – Kết nối tri thức với cuộc sống (giaoducthechat3ketnoitrithucvoicuocsonga224b_5120269.pdf) – An toàn dưới nước",
+    "sourcePage": 83,
+    "explanation": "Theo bài “An toàn dưới nước”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  }
+]

@@ -760,6 +760,7 @@ function getSeedConfig() {
                 QUIZ_BANK[`g${selectedGrade}_music`] = data.music || [];
                 QUIZ_BANK[`g${selectedGrade}_art`] = data.art || [];
                 QUIZ_BANK[`g${selectedGrade}_physical`] = data.physical || [];
+                QUIZ_BANK[`g${selectedGrade}_history_geo`] = data.history_geo || [];
             } catch (e) {
                 console.error("Lỗi tải câu hỏi từ API:", e);
             }
@@ -4586,7 +4587,7 @@ function generateCurriculumQuestion(mode) {
 }
 
 function getAvailableCurriculumSubjects(grade) {
-    const allSubjects = ['math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience', 'music', 'art', 'physical'];
+    const allSubjects = ['math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience', 'music', 'art', 'physical', 'history_geo'];
     const available = allSubjects.filter((subject) => Array.isArray(QUIZ_BANK[`g${grade}_${subject}`]) && QUIZ_BANK[`g${grade}_${subject}`].length > 0);
     return available.length ? available : ['math'];
 }
@@ -4842,7 +4843,7 @@ function generateSpecificSubjectQuestion(subject, mode) {
     else if (subject === 'english' || subject === 'en') normSubject = 'english';
     else if (subject === 'tech' || subject === 'it' || subject === 'magic') normSubject = 'tech';
     else if (subject === 'science' || subject === 'alchemy' || subject === 'geometry') normSubject = 'science';
-    else if (['ethics', 'experience', 'music', 'art', 'physical'].includes(subject)) normSubject = subject;
+    else if (['ethics', 'experience', 'music', 'art', 'physical', 'history_geo'].includes(subject)) normSubject = subject;
     else if (subject === 'math') normSubject = 'math';
     else if (subject === 'boss') {
         const pool = getAvailableCurriculumSubjects(baseGrade);
@@ -4903,7 +4904,8 @@ function generateSpecificSubjectQuestion(subject, mode) {
             experience: `Hoạt Động Trải Nghiệm Lớp ${grade}`,
             music: `Âm Nhạc Lớp ${grade}`,
             art: `Mĩ Thuật Lớp ${grade}`,
-            physical: `Giáo Dục Thể Chất Lớp ${grade}`
+            physical: `Giáo Dục Thể Chất Lớp ${grade}`,
+            history_geo: `Lịch Sử và Địa Lí Lớp ${grade}`
         };
         labelPrefix = subjectNames[normSubject] || `Môn Lớp ${grade}`;
 

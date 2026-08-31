@@ -12,6 +12,9 @@
     "questions:build:math1": "node scripts/build_grade1_math_bank.cjs",
     "questions:build:grade1": "node scripts/build_grade1_math_bank.cjs && node scripts/build_grade1_textbook_banks.cjs",
     "questions:build:grade2": "node scripts/build_grade2_textbook_banks.cjs",
+    "questions:build:grade3": "node scripts/build_grade3_textbook_banks.cjs",
+    "questions:build:grade4": "node scripts/build_grade4_textbook_banks.cjs",
+    "questions:build:grade5": "node scripts/build_grade5_textbook_banks.cjs",
     "questions:validate": "node scripts/validate_questions.js",
     "db:sync": "node scripts/sync_questions_db.cjs"
   },

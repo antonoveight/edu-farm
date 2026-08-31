@@ -1,0 +1,422 @@
+[
+  {
+    "q": "Khi tham gia câu lạc bộ, em nên làm gì?",
+    "a": "Tôn trọng quy định và hợp tác",
+    "c": [
+      "Tôn trọng quy định và hợp tác",
+      "Gây mất trật tự",
+      "Bỏ mặc nhóm",
+      "Trêu chọc bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu lạc bộ theo sở thích – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Câu lạc bộ theo sở thích",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Câu lạc bộ theo sở thích”, đáp án phù hợp là “Tôn trọng quy định và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Câu lạc bộ theo sở thích”, hành động nào không phù hợp?",
+    "a": "Gây mất trật tự",
+    "c": [
+      "Tôn trọng quy định và hợp tác",
+      "Bỏ mặc nhóm",
+      "Trêu chọc bạn",
+      "Gây mất trật tự"
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu lạc bộ theo sở thích – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Câu lạc bộ theo sở thích",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Câu lạc bộ theo sở thích”, đáp án phù hợp là “Gây mất trật tự”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Câu lạc bộ theo sở thích”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu lạc bộ theo sở thích – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Câu lạc bộ theo sở thích",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Câu lạc bộ theo sở thích”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Câu lạc bộ theo sở thích”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Câu lạc bộ theo sở thích – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Câu lạc bộ theo sở thích",
+    "sourcePage": 9,
+    "explanation": "Theo bài “Câu lạc bộ theo sở thích”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để giữ gìn tủ sách lớp học, em nên làm gì?",
+    "a": "Mượn và trả sách đúng quy định",
+    "c": [
+      "Mượn và trả sách đúng quy định",
+      "Làm rách sách",
+      "Vẽ lên sách",
+      "Giấu sách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tủ sách lớp học – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Tủ sách lớp học",
+    "sourcePage": 30,
+    "explanation": "Theo bài “Tủ sách lớp học”, đáp án phù hợp là “Mượn và trả sách đúng quy định”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Tủ sách lớp học”, hành động nào không phù hợp?",
+    "a": "Làm rách sách",
+    "c": [
+      "Mượn và trả sách đúng quy định",
+      "Vẽ lên sách",
+      "Giấu sách",
+      "Làm rách sách"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tủ sách lớp học – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Tủ sách lớp học",
+    "sourcePage": 30,
+    "explanation": "Theo bài “Tủ sách lớp học”, đáp án phù hợp là “Làm rách sách”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Tủ sách lớp học”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tủ sách lớp học – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Tủ sách lớp học",
+    "sourcePage": 30,
+    "explanation": "Theo bài “Tủ sách lớp học”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Tủ sách lớp học”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tủ sách lớp học – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Tủ sách lớp học",
+    "sourcePage": 30,
+    "explanation": "Theo bài “Tủ sách lớp học”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để trở thành đội viên tốt, em cần làm gì?",
+    "a": "Chăm ngoan và có trách nhiệm",
+    "c": [
+      "Chăm ngoan và có trách nhiệm",
+      "Không nghe lời",
+      "Bỏ nhiệm vụ",
+      "Nói dối"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phấn đấu thành đội viên – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Phấn đấu thành đội viên",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Phấn đấu thành đội viên”, đáp án phù hợp là “Chăm ngoan và có trách nhiệm”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Phấn đấu thành đội viên”, hành động nào không phù hợp?",
+    "a": "Không nghe lời",
+    "c": [
+      "Chăm ngoan và có trách nhiệm",
+      "Bỏ nhiệm vụ",
+      "Nói dối",
+      "Không nghe lời"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phấn đấu thành đội viên – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Phấn đấu thành đội viên",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Phấn đấu thành đội viên”, đáp án phù hợp là “Không nghe lời”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Phấn đấu thành đội viên”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phấn đấu thành đội viên – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Phấn đấu thành đội viên",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Phấn đấu thành đội viên”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Phấn đấu thành đội viên”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phấn đấu thành đội viên – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Phấn đấu thành đội viên",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Phấn đấu thành đội viên”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi người thân mệt, em nên làm gì?",
+    "a": "Hỏi thăm và giúp việc phù hợp",
+    "c": [
+      "Hỏi thăm và giúp việc phù hợp",
+      "Làm ồn",
+      "Trêu chọc",
+      "Bỏ mặc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 61,
+    "explanation": "Theo bài “Gia đình yêu thương”, đáp án phù hợp là “Hỏi thăm và giúp việc phù hợp”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Gia đình yêu thương”, hành động nào không phù hợp?",
+    "a": "Làm ồn",
+    "c": [
+      "Hỏi thăm và giúp việc phù hợp",
+      "Trêu chọc",
+      "Bỏ mặc",
+      "Làm ồn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 61,
+    "explanation": "Theo bài “Gia đình yêu thương”, đáp án phù hợp là “Làm ồn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Gia đình yêu thương”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 61,
+    "explanation": "Theo bài “Gia đình yêu thương”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Gia đình yêu thương”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Gia đình yêu thương – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Gia đình yêu thương",
+    "sourcePage": 61,
+    "explanation": "Theo bài “Gia đình yêu thương”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi tìm hiểu nghề truyền thống địa phương, em nên làm gì?",
+    "a": "Lắng nghe và tôn trọng nghệ nhân",
+    "c": [
+      "Lắng nghe và tôn trọng nghệ nhân",
+      "Chế giễu",
+      "Tự ý làm nguy hiểm",
+      "Phá sản phẩm"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề truyền thống – Thực hành kỹ năng phù hợp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Nghề truyền thống",
+    "sourcePage": 75,
+    "explanation": "Theo bài “Nghề truyền thống”, đáp án phù hợp là “Lắng nghe và tôn trọng nghệ nhân”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Trong bài “Nghề truyền thống”, hành động nào không phù hợp?",
+    "a": "Chế giễu",
+    "c": [
+      "Lắng nghe và tôn trọng nghệ nhân",
+      "Tự ý làm nguy hiểm",
+      "Phá sản phẩm",
+      "Chế giễu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề truyền thống – Nhận biết hành vi cần tránh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Nghề truyền thống",
+    "sourcePage": 75,
+    "explanation": "Theo bài “Nghề truyền thống”, đáp án phù hợp là “Chế giễu”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để thực hiện tốt nội dung “Nghề truyền thống”, em cần có thái độ nào?",
+    "a": "Nghiêm túc và hợp tác",
+    "c": [
+      "Trêu chọc bạn",
+      "Bỏ qua hướng dẫn",
+      "Nghiêm túc và hợp tác",
+      "Thờ ơ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề truyền thống – Rèn luyện thái độ học tập",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Nghề truyền thống",
+    "sourcePage": 75,
+    "explanation": "Theo bài “Nghề truyền thống”, đáp án phù hợp là “Nghiêm túc và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Sau hoạt động “Nghề truyền thống”, em nên làm gì?",
+    "a": "Chia sẻ điều đã học được",
+    "c": [
+      "Chê bạn",
+      "Chia sẻ điều đã học được",
+      "Vứt dụng cụ bừa bãi",
+      "Không cần nhớ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nghề truyền thống – Tự đánh giá sau hoạt động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Hoạt động trải nghiệm 3 – Kết nối tri thức với cuộc sống (hoatdongtrainghiem3-ketnoitrithucvoicuocsong59c05_5120269.pdf) – Nghề truyền thống",
+    "sourcePage": 75,
+    "explanation": "Theo bài “Nghề truyền thống”, đáp án phù hợp là “Chia sẻ điều đã học được”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  }
+]

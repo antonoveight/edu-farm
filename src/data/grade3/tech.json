@@ -1,331 +1,422 @@
 [
   {
-    "q": "Để lưu trữ tài liệu ngăn nắp trên máy tính, chúng ta tạo ra thư mục gọi là gì?",
-    "a": "FOLDER (THƯ MỤC)",
+    "q": "Thiết bị nào dùng để nhập chữ vào máy tính?",
+    "a": "Bàn phím",
     "c": [
-      "FOLDER (THƯ MỤC)",
-      "FILE (TỆP TIN)",
-      "DESKTOP",
-      "ICON"
+      "Bàn phím",
+      "Màn hình",
+      "Loa",
+      "Máy in"
     ],
     "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Khi muốn mở một trang web trên internet, phần mềm nào được gọi là trình duyệt web?",
-    "a": "GOOGLE CHROME",
-    "c": [
-      "GOOGLE CHROME",
-      "MICROSOFT WORD",
-      "SCRATCH",
-      "PAINT"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Để xóa một thư mục bị sai, ta nhấp chuột phải và chọn lệnh nào?",
-    "a": "DELETE",
-    "c": [
-      "DELETE",
-      "RENAME",
-      "COPY",
-      "NEW FOLDER"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Biểu tượng màn hình Desktop thường được gọi là gì?",
-    "a": "ICON (BIỂU TƯỢNG)",
-    "c": [
-      "ICON (BIỂU TƯỢNG)",
-      "FOLDER",
-      "FILE",
-      "SHORTCUT"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Để thoát khỏi một chương trình đang chạy, ta nhấn tổ hợp phím nào?",
-    "a": "ALT + F4",
-    "c": [
-      "ALT + F4",
-      "CTRL + S",
-      "CTRL + Z",
-      "CTRL + C"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Nhấn tổ hợp phím để CẮT (Cut) dữ liệu:",
-    "a": "ctrl+x",
-    "c": [
-      "ctrl+x"
-    ],
-    "type": "shortcut",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Nhấn tổ hợp phím để CHỌN TẤT CẢ (Select All):",
-    "a": "ctrl+a",
-    "c": [
-      "ctrl+a"
-    ],
-    "type": "shortcut",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Luyện gõ lệnh cơ bản của Scratch:",
-    "a": "move 10 steps",
-    "c": [
-      "move 10 steps"
-    ],
-    "type": "typing",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Phím nào giúp gõ được chữ HOA khi giữ cùng lúc?",
-    "a": "SHIFT",
-    "c": [
-      "SHIFT",
-      "ENTER",
-      "SPACE",
-      "BACKSPACE"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Ngón tay cái dùng để nhấn phím nào?",
-    "a": "PHÍM SPACE BAR",
-    "c": [
-      "PHÍM SPACE BAR",
-      "PHÍM ENTER",
-      "PHÍM SHIFT",
-      "PHÍM CAPS LOCK"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Bộ phận nào của máy tính hiển thị hình ảnh?",
-    "a": "MÀN HÌNH",
-    "c": [
-      "MÀN HÌNH",
-      "CHUỘT",
-      "BÀN PHÍM",
-      "LOA"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Tư thế ngồi học máy tính đúng cần đảm bảo điều gì?",
-    "a": "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
-    "c": [
-      "LƯNG THẲNG, MẮT CÁCH MÀN HÌNH 50-70CM",
-      "NGỒI KHOM LƯNG",
-      "MẮT SÁT MÀN HÌNH",
-      "NẰM KHI GÕ PHÍM",
-      "NGỒI NGHIÊNG SANG PHẢI"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Phím nào dài nhất trên bàn phím?",
-    "a": "PHÍM SPACE BAR",
-    "c": [
-      "PHÍM SPACE BAR",
-      "PHÍM ENTER",
-      "PHÍM SHIFT",
-      "PHÍM BACKSPACE"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Thiết bị nào dưới đây là thiết bị vào của máy tính?",
-    "a": "Bàn phím và chuột",
-    "c": [
-      "Bàn phím và chuột",
-      "Màn hình và máy in",
-      "Loa và tai nghe",
-      "Thân máy và nguồn điện"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Khi sử dụng Internet, em cần làm gì để bảo vệ thông tin cá nhân của mình?",
-    "a": "Không chia sẻ mật khẩu và thông tin gia đình cho người lạ",
-    "c": [
-      "Không chia sẻ mật khẩu và thông tin gia đình cho người lạ",
-      "Chia sẻ địa chỉ nhà công khai",
-      "Cho người lạ mượn tài khoản học tập",
-      "Đăng ảnh cá nhân kèm số điện thoại"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Phép nhân nào có kết quả bằng 24?",
-    "a": "6 x 4",
-    "c": [
-      "6 x 4",
-      "5 x 5",
-      "7 x 3",
-      "8 x 2"
-    ],
-    "type": "multiple_choice",
-    "lo": "Sử dụng phần mềm cơ bản và thực hành trên máy tính lớp 3"
-  },
-  {
-    "q": "Ghép phần mềm với công dụng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Nhận biết các phần mềm ứng dụng cơ bản và công dụng trong học tập",
-    "pairs": [
-      {
-        "left": "Microsoft Word",
-        "right": "Soạn thảo văn bản"
-      },
-      {
-        "left": "Microsoft Paint",
-        "right": "Vẽ và tô màu"
-      },
-      {
-        "left": "Calculator",
-        "right": "Tính toán"
-      },
-      {
-        "left": "File Explorer",
-        "right": "Quản lý tập tin"
-      }
+    "lo": "Sử dụng máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Sử dụng máy tính",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Sử dụng máy tính”, đáp án phù hợp là “Bàn phím”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
     ]
   },
   {
-    "q": "Luyện gõ cụm từ thực hành:",
-    "a": "tin hoc vui",
+    "q": "Con chuột máy tính dùng để làm gì?",
+    "a": "Điều khiển con trỏ và chọn đối tượng",
     "c": [
-      "tin hoc vui"
+      "In giấy",
+      "Phát nhạc",
+      "Sạc pin",
+      "Điều khiển con trỏ và chọn đối tượng"
     ],
-    "type": "typing",
-    "lo": "Rèn luyện kỹ năng gõ phím tiếng Việt không dấu"
-  },
-  {
-    "q": "Bé hãy nhấn tổ hợp phím để TÌM KIẾM (Find) trong tài liệu:",
-    "a": "ctrl+f",
-    "c": [
-      "ctrl+f"
-    ],
-    "type": "shortcut",
-    "lo": "Thành thạo phím tắt tìm kiếm Ctrl+F trong soạn thảo văn bản"
-  },
-  {
-    "q": "Bé hãy nhấn tổ hợp phím để IN TÀI LIỆU (Print):",
-    "a": "ctrl+p",
-    "c": [
-      "ctrl+p"
-    ],
-    "type": "shortcut",
-    "lo": "Thành thạo phím tắt in tài liệu Ctrl+P"
-  },
-  {
-    "q": "Ghép loại tập tin với đuôi mở rộng tương ứng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Phân biệt các định dạng tập tin phổ biến và biết cách sử dụng",
-    "pairs": [
-      {
-        "left": "Văn bản Word",
-        "right": ".docx"
-      },
-      {
-        "left": "Hình ảnh",
-        "right": ".jpg"
-      },
-      {
-        "left": "Trang Web",
-        "right": ".html"
-      },
-      {
-        "left": "Bảng tính Excel",
-        "right": ".xlsx"
-      }
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Sử dụng máy tính",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Sử dụng máy tính”, đáp án phù hợp là “Điều khiển con trỏ và chọn đối tượng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
     ]
   },
   {
-    "q": "RAM là bộ nhớ vĩnh viễn của máy tính.",
-    "a": "Sai",
+    "q": "Khi ngồi máy tính, em cần làm gì?",
+    "a": "Ngồi đúng tư thế",
     "c": [
-      "Đúng",
-      "Sai"
+      "Ngồi quá lâu không nghỉ",
+      "Để tay ướt dùng máy",
+      "Ngồi đúng tư thế",
+      "Cúi sát màn hình"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Sử dụng máy tính",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Sử dụng máy tính”, đáp án phù hợp là “Ngồi đúng tư thế”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Ổ cứng là thiết bị xuất dữ liệu.",
-    "a": "Sai",
+    "q": "Khi dùng xong máy tính, em nên làm gì?",
+    "a": "Tắt theo hướng dẫn",
     "c": [
-      "Đúng",
-      "Sai"
+      "Để máy chạy mãi",
+      "Tắt theo hướng dẫn",
+      "Rút điện tùy ý",
+      "Đập bàn phím"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Sử dụng máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Sử dụng máy tính",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Sử dụng máy tính”, đáp án phù hợp là “Tắt theo hướng dẫn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Bàn phín dùng để gõ chữ.",
-    "a": "phín",
-    "words": [
-      "Bàn",
-      "phín",
-      "dùng",
-      "để",
-      "gõ",
-      "chữ."
+    "q": "Tệp là gì?",
+    "a": "Đơn vị lưu trữ thông tin trong máy tính",
+    "c": [
+      "Đơn vị lưu trữ thông tin trong máy tính",
+      "Một loại chuột",
+      "Một loại màn hình",
+      "Một bàn học"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Tổ chức, lưu trữ và tìm kiếm – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Tổ chức, lưu trữ và tìm kiếm",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Tổ chức, lưu trữ và tìm kiếm”, đáp án phù hợp là “Đơn vị lưu trữ thông tin trong máy tính”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Chuột máy tính",
-    "a": "Phần cứng",
+    "q": "Thư mục dùng để làm gì?",
+    "a": "Sắp xếp các tệp có liên quan",
     "c": [
-      "Phần cứng",
-      "Phần mềm"
+      "Chụp ảnh",
+      "Tăng âm lượng",
+      "In giấy",
+      "Sắp xếp các tệp có liên quan"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Tổ chức, lưu trữ và tìm kiếm – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Tổ chức, lưu trữ và tìm kiếm",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Tổ chức, lưu trữ và tìm kiếm”, đáp án phù hợp là “Sắp xếp các tệp có liên quan”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Trình duyệt web",
-    "a": "Phần mềm",
+    "q": "Tên tệp nên như thế nào?",
+    "a": "Dễ hiểu và phù hợp nội dung",
     "c": [
-      "Phần cứng",
-      "Phần mềm"
+      "Quá dài vô nghĩa",
+      "Giống mọi tệp khác",
+      "Dễ hiểu và phù hợp nội dung",
+      "Ngẫu nhiên khó nhớ"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Tổ chức, lưu trữ và tìm kiếm – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Tổ chức, lưu trữ và tìm kiếm",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Tổ chức, lưu trữ và tìm kiếm”, đáp án phù hợp là “Dễ hiểu và phù hợp nội dung”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "RAM là bộ nhớ tạm thời của máy tính.",
-    "a": "Đúng",
+    "q": "Khi tìm thông tin, em cần làm gì?",
+    "a": "Dùng từ khóa phù hợp",
     "c": [
-      "Đúng",
-      "Sai"
+      "Chia sẻ ngay",
+      "Dùng từ khóa phù hợp",
+      "Bấm ngẫu nhiên",
+      "Tin mọi thông tin"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Tổ chức, lưu trữ và tìm kiếm – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Tổ chức, lưu trữ và tìm kiếm",
+    "sourcePage": 35,
+    "explanation": "Theo bài “Tổ chức, lưu trữ và tìm kiếm”, đáp án phù hợp là “Dùng từ khóa phù hợp”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Thông tin cá nhân cần được làm gì?",
+    "a": "Giữ kín và chỉ chia sẻ khi người lớn đồng ý",
+    "c": [
+      "Giữ kín và chỉ chia sẻ khi người lớn đồng ý",
+      "Đăng công khai mọi nơi",
+      "Cho người lạ",
+      "Đổi lấy quà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đạo đức, pháp luật và văn hóa số – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Đạo đức, pháp luật và văn hóa số",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Đạo đức, pháp luật và văn hóa số”, đáp án phù hợp là “Giữ kín và chỉ chia sẻ khi người lớn đồng ý”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi gặp nội dung đáng sợ trên mạng, em nên làm gì?",
+    "a": "Báo người lớn",
+    "c": [
+      "Xem tiếp một mình",
+      "Chia sẻ cho bạn",
+      "Tự gặp người lạ",
+      "Báo người lớn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đạo đức, pháp luật và văn hóa số – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Đạo đức, pháp luật và văn hóa số",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Đạo đức, pháp luật và văn hóa số”, đáp án phù hợp là “Báo người lớn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Mật khẩu tốt cần thế nào?",
+    "a": "Không cho người khác biết",
+    "c": [
+      "Nói cho người lạ",
+      "Dùng chung với mọi người",
+      "Không cho người khác biết",
+      "Dán ngoài màn hình"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đạo đức, pháp luật và văn hóa số – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Đạo đức, pháp luật và văn hóa số",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Đạo đức, pháp luật và văn hóa số”, đáp án phù hợp là “Không cho người khác biết”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi nhận tin nhắn lạ, em nên làm gì?",
+    "a": "Hỏi người lớn trước khi trả lời",
+    "c": [
+      "Tin ngay",
+      "Hỏi người lớn trước khi trả lời",
+      "Bấm mọi đường link",
+      "Gửi ảnh cá nhân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đạo đức, pháp luật và văn hóa số – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Đạo đức, pháp luật và văn hóa số",
+    "sourcePage": 47,
+    "explanation": "Theo bài “Đạo đức, pháp luật và văn hóa số”, đáp án phù hợp là “Hỏi người lớn trước khi trả lời”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Phần mềm trình chiếu dùng để làm gì?",
+    "a": "Tạo các trang trình bày thông tin",
+    "c": [
+      "Tạo các trang trình bày thông tin",
+      "Nấu ăn",
+      "Tưới cây",
+      "Đo nhiệt độ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phần mềm và trình chiếu – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Phần mềm và trình chiếu",
+    "sourcePage": 51,
+    "explanation": "Theo bài “Phần mềm và trình chiếu”, đáp án phù hợp là “Tạo các trang trình bày thông tin”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Một bài trình chiếu gồm những gì?",
+    "a": "Các trang chiếu",
+    "c": [
+      "Chỉ một bàn phím",
+      "Các con chuột",
+      "Các dây điện",
+      "Các trang chiếu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phần mềm và trình chiếu – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Phần mềm và trình chiếu",
+    "sourcePage": 51,
+    "explanation": "Theo bài “Phần mềm và trình chiếu”, đáp án phù hợp là “Các trang chiếu”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi làm trang chiếu, em nên làm gì?",
+    "a": "Chọn chữ và hình rõ ràng",
+    "c": [
+      "Chọn màu khó đọc",
+      "Không cần tiêu đề",
+      "Chọn chữ và hình rõ ràng",
+      "Dùng quá nhiều chữ nhỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phần mềm và trình chiếu – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Phần mềm và trình chiếu",
+    "sourcePage": 51,
+    "explanation": "Theo bài “Phần mềm và trình chiếu”, đáp án phù hợp là “Chọn chữ và hình rõ ràng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi trình bày trước lớp, em nên làm gì?",
+    "a": "Nói rõ ràng và tự tin",
+    "c": [
+      "Trêu bạn",
+      "Nói rõ ràng và tự tin",
+      "Quay lưng liên tục",
+      "Nói quá nhỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Phần mềm và trình chiếu – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Phần mềm và trình chiếu",
+    "sourcePage": 51,
+    "explanation": "Theo bài “Phần mềm và trình chiếu”, đáp án phù hợp là “Nói rõ ràng và tự tin”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Câu “Nếu trời mưa thì em mang áo mưa.” thể hiện điều gì?",
+    "a": "Một điều kiện và việc cần làm",
+    "c": [
+      "Một điều kiện và việc cần làm",
+      "Một bài hát",
+      "Một phép tính",
+      "Một bức tranh"
+    ],
+    "type": "multiple_choice",
+    "lo": "Giải quyết vấn đề với máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Giải quyết vấn đề với máy tính",
+    "sourcePage": 69,
+    "explanation": "Theo bài “Giải quyết vấn đề với máy tính”, đáp án phù hợp là “Một điều kiện và việc cần làm”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi giải quyết vấn đề, bước đầu tiên là gì?",
+    "a": "Xác định vấn đề",
+    "c": [
+      "Bỏ qua vấn đề",
+      "Đổ lỗi cho bạn",
+      "Làm ngẫu nhiên",
+      "Xác định vấn đề"
+    ],
+    "type": "multiple_choice",
+    "lo": "Giải quyết vấn đề với máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Giải quyết vấn đề với máy tính",
+    "sourcePage": 69,
+    "explanation": "Theo bài “Giải quyết vấn đề với máy tính”, đáp án phù hợp là “Xác định vấn đề”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Phân loại rác giúp ích gì?",
+    "a": "Tái chế và bảo vệ môi trường",
+    "c": [
+      "Không có tác dụng",
+      "Làm bẩn nơi ở",
+      "Tái chế và bảo vệ môi trường",
+      "Tạo thêm rác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Giải quyết vấn đề với máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Giải quyết vấn đề với máy tính",
+    "sourcePage": 69,
+    "explanation": "Theo bài “Giải quyết vấn đề với máy tính”, đáp án phù hợp là “Tái chế và bảo vệ môi trường”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Làm việc nhóm để giải quyết vấn đề cần gì?",
+    "a": "Phân công và hợp tác",
+    "c": [
+      "Bỏ việc",
+      "Phân công và hợp tác",
+      "Tranh giành",
+      "Không lắng nghe"
+    ],
+    "type": "multiple_choice",
+    "lo": "Giải quyết vấn đề với máy tính – Sử dụng công nghệ an toàn và hiệu quả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 3 – Kết nối tri thức với cuộc sống (tinhoc3-ketnoitrithucvoicuocsongf436c_5120269.pdf) – Giải quyết vấn đề với máy tính",
+    "sourcePage": 69,
+    "explanation": "Theo bài “Giải quyết vấn đề với máy tính”, đáp án phù hợp là “Phân công và hợp tác”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   }
 ]

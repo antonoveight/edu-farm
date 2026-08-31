@@ -1,330 +1,422 @@
 [
   {
-    "q": "Cơ quan nào điều khiển mọi hoạt động, suy nghĩ của con người?",
-    "a": "NÃO BỘ",
+    "q": "Việc nào giúp giữ gìn nhà ở sạch đẹp?",
+    "a": "Sắp xếp đồ dùng gọn gàng",
     "c": [
-      "NÃO BỘ",
-      "TIM VÀ MẠCH MÁU",
-      "PHỔI VÀ ĐƯỜNG THỞ",
-      "DẠ DÀY"
+      "Sắp xếp đồ dùng gọn gàng",
+      "Vứt đồ bừa bãi",
+      "Vẽ lên tường",
+      "Để rác trên sàn"
     ],
     "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Trái Đất quay xung quanh thiên thể nào trong hệ Mặt Trời?",
-    "a": "MẶT TRỜI",
-    "c": [
-      "MẶT TRỜI",
-      "MẶT TRĂNG",
-      "SAO HỎA",
-      "SAO KIM"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Quá trình lá cây tự hấp thụ ánh sáng mặt trời để tạo ra chất dinh dưỡng gọi là gì?",
-    "a": "QUANG HỢP",
-    "c": [
-      "QUANG HỢP",
-      "HÔ HẤP",
-      "THOÁT NƯỚC",
-      "HÚT NƯỚC VÀ MUỐI KHOÁNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Cơ quan bài tiết nước tiểu bao gồm những bộ phận nào?",
-    "a": "THẬN, ỐNG DẪN NƯỚC TIỂU, BÓNG ĐÁI, ỐNG ĐÁI",
-    "c": [
-      "THẬN, ỐNG DẪN NƯỚC TIỂU, BÓNG ĐÁI, ỐNG ĐÁI",
-      "DẠ DÀY VÀ RUỘT NON",
-      "PHỔI VÀ KHÍ QUẢN",
-      "TIM VÀ MẠCH MÁU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Một ngày (1 ngày) có bao nhiêu giờ?",
-    "a": "24 GIỜ",
-    "c": [
-      "24 GIỜ",
-      "12 GIỜ",
-      "48 GIỜ",
-      "60 GIỜ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Mùa nào trong năm thường có tuyết rơi ở các nước ôn đới?",
-    "a": "MÙA ĐÔNG",
-    "c": [
-      "MÙA ĐÔNG",
-      "MÙA HẠ",
-      "MÙA XUÂN",
-      "MÙA THU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Điền từ thích hợp: Không xả ___ thải trực tiếp xuống sông hồ.",
-    "a": "rác",
-    "c": [
-      "rác",
-      "cây",
-      "nước sạch",
-      "hạt giống"
-    ],
-    "type": "fill_blank",
-    "sentence": "Không xả ___ thải trực tiếp xuống sông hồ.",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Điền từ thích hợp: Quả chín thường chuyển sang màu ___ tươi.",
-    "a": "cam",
-    "c": [
-      "cam",
-      "xanh",
-      "trắng",
-      "đen"
-    ],
-    "type": "fill_blank",
-    "sentence": "Quả chín thường chuyển sang màu ___ tươi.",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Cơ quan nào trong cơ thể người thực hiện hô hấp?",
-    "a": "PHỔI",
-    "c": [
-      "PHỔI",
-      "TIM",
-      "DẠ DÀY",
-      "GAN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Cơ quan nào trong cơ thể người bơm máu đi khắp cơ thể?",
-    "a": "TIM",
-    "c": [
-      "TIM",
-      "PHỔI",
-      "DẠ DÀY",
-      "THẬN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Nước tồn tại ở mấy thể?",
-    "a": "3 THỂ",
-    "c": [
-      "3 THỂ",
-      "2 THỂ",
-      "4 THỂ",
-      "1 THỂ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Mặt trời mọc hướng nào?",
-    "a": "HƯỚNG ĐÔNG",
-    "c": [
-      "HƯỚNG ĐÔNG",
-      "HƯỚNG TÂY",
-      "HƯỚNG NAM",
-      "HƯỚNG BẮC"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Nước đá khi gặp nhiệt sẽ chuyển thành?",
-    "a": "NƯỚC LỎNG",
-    "c": [
-      "NƯỚC LỎNG",
-      "HƠI NƯỚC",
-      "BĂNG ĐÁ",
-      "TUYẾT"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Con người thở vào hít khí gì?",
-    "a": "OXY",
-    "c": [
-      "OXY",
-      "CO2",
-      "NI-TƠ",
-      "HYDRO"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Gia đình họ hàng bên nội gồm những ai?",
-    "a": "Cô, chú, bác bên bố",
-    "c": [
-      "Cô, chú, bác bên bố",
-      "Cậu, dì bên mẹ",
-      "Bác bên mẹ",
-      "Dì dượng bên mẹ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Để tìm hiểu về truyền thống lịch sử của trường học, em có thể thu thập thông tin qua đâu?",
-    "a": "Phòng truyền thống và cựu học sinh",
-    "c": [
-      "Phòng truyền thống và cựu học sinh",
-      "Sân bóng đá",
-      "Nhà xe",
-      "Cổng trường"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Đâu là biện pháp bảo vệ nguồn nước sạch xung quanh nơi em sống?",
-    "a": "Không vứt rác, xác động vật xuống sông, hồ",
-    "c": [
-      "Không vứt rác, xác động vật xuống sông, hồ",
-      "Đổ nước thải sinh hoạt ra ngõ",
-      "Sử dụng nhiều túi nilon",
-      "Vứt pin cũ ra vườn"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Bộ phận nào của cây có chức năng hút nước và chất dinh dưỡng từ đất?",
-    "a": "Rễ cây",
-    "c": [
-      "Rễ cây",
-      "Thân cây",
-      "Lá cây",
-      "Hoa"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học tự nhiên: động vật, thực vật và môi trường lớp 3"
-  },
-  {
-    "q": "Ghép loài vật với môi trường sống phù hợp:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Phân loại sinh vật theo môi trường sống trong tự nhiên",
-    "pairs": [
-      {
-        "left": "Cá voi",
-        "right": "Đại dương"
-      },
-      {
-        "left": "Đại bàng",
-        "right": "Bầu trời và vách núi"
-      },
-      {
-        "left": "Sư tử",
-        "right": "Đồng cỏ"
-      },
-      {
-        "left": "Ếch",
-        "right": "Ao hồ và đồng ruộng"
-      }
+    "lo": "Gia đình và nhà trường – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Gia đình và nhà trường",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Gia đình và nhà trường”, đáp án phù hợp là “Sắp xếp đồ dùng gọn gàng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
     ]
   },
   {
-    "q": "Sắp xếp vòng đời của bướm theo đúng thứ tự:",
-    "a": "Trứng Sâu bướm Nhộng Bướm trưởng thành",
+    "q": "Khi sử dụng thiết bị điện, em cần làm gì?",
+    "a": "Làm theo hướng dẫn của người lớn",
     "c": [
-      "Trứng Sâu bướm Nhộng Bướm trưởng thành"
+      "Dùng tay ướt chạm ổ điện",
+      "Tự sửa dây điện",
+      "Đùa nghịch gần ổ điện",
+      "Làm theo hướng dẫn của người lớn"
     ],
-    "words": [
-      "Trứng",
-      "Sâu",
-      "bướm",
-      "Nhộng",
-      "Bướm",
-      "trưởng",
-      "thành"
-    ],
-    "type": "reorder",
-    "lo": "Hiểu vòng đời của côn trùng và quá trình biến thái"
+    "type": "multiple_choice",
+    "lo": "Gia đình và nhà trường – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Gia đình và nhà trường",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Gia đình và nhà trường”, đáp án phù hợp là “Làm theo hướng dẫn của người lớn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Trái Đất đứng im Mặt Trời.",
-    "a": "Sai",
+    "q": "Nơi nào trong trường dùng để mượn sách?",
+    "a": "Thư viện",
     "c": [
-      "Đúng",
-      "Sai"
+      "Bãi xe",
+      "Phòng bảo vệ",
+      "Thư viện",
+      "Nhà kho"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Gia đình và nhà trường – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Gia đình và nhà trường",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Gia đình và nhà trường”, đáp án phù hợp là “Thư viện”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Mặt Trăng là một hành tinh.",
-    "a": "Sai",
+    "q": "Khi bạn phát biểu, em cần làm gì?",
+    "a": "Lắng nghe",
     "c": [
-      "Đúng",
-      "Sai"
+      "Gây ồn",
+      "Lắng nghe",
+      "Nói chen",
+      "Chạy ra ngoài"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Gia đình và nhà trường – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Gia đình và nhà trường",
+    "sourcePage": 10,
+    "explanation": "Theo bài “Gia đình và nhà trường”, đáp án phù hợp là “Lắng nghe”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Cá hô hấp bằng phổi dưới nước.",
-    "a": "phổi",
-    "words": [
-      "Cá",
-      "hô",
-      "hấp",
-      "bằng",
-      "phổi",
-      "dưới",
-      "nước."
+    "q": "Người nông dân thường làm công việc gì?",
+    "a": "Trồng trọt và chăn nuôi",
+    "c": [
+      "Trồng trọt và chăn nuôi",
+      "Dạy học",
+      "Khám bệnh",
+      "Lái tàu"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Cộng đồng địa phương – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cộng đồng địa phương",
+    "sourcePage": 27,
+    "explanation": "Theo bài “Cộng đồng địa phương”, đáp án phù hợp là “Trồng trọt và chăn nuôi”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Con Chó",
-    "a": "Động vật",
+    "q": "Khi gặp người lao động, em nên làm gì?",
+    "a": "Lễ phép và tôn trọng",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Chê bai",
+      "Gây phiền",
+      "Nói trống không",
+      "Lễ phép và tôn trọng"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Cộng đồng địa phương – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cộng đồng địa phương",
+    "sourcePage": 27,
+    "explanation": "Theo bài “Cộng đồng địa phương”, đáp án phù hợp là “Lễ phép và tôn trọng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Cây lúa",
-    "a": "Thực vật",
+    "q": "Công trình công cộng cần được làm gì?",
+    "a": "Giữ gìn và sử dụng đúng quy định",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Vẽ bẩn",
+      "Vứt rác",
+      "Giữ gìn và sử dụng đúng quy định",
+      "Làm hỏng"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Cộng đồng địa phương – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cộng đồng địa phương",
+    "sourcePage": 27,
+    "explanation": "Theo bài “Cộng đồng địa phương”, đáp án phù hợp là “Giữ gìn và sử dụng đúng quy định”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   },
   {
-    "q": "Trái Đất quay quanh Mặt Trời.",
-    "a": "Đúng",
+    "q": "Khi qua đường, em nên làm gì?",
+    "a": "Quan sát và tuân thủ luật giao thông",
     "c": [
-      "Đúng",
-      "Sai"
+      "Chơi dưới lòng đường",
+      "Quan sát và tuân thủ luật giao thông",
+      "Chạy băng qua đường",
+      "Đi khi đèn đỏ"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Cộng đồng địa phương – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cộng đồng địa phương",
+    "sourcePage": 27,
+    "explanation": "Theo bài “Cộng đồng địa phương”, đáp án phù hợp là “Quan sát và tuân thủ luật giao thông”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Rễ cây có vai trò gì?",
+    "a": "Hút nước và chất dinh dưỡng",
+    "c": [
+      "Hút nước và chất dinh dưỡng",
+      "Phát ra âm thanh",
+      "Di chuyển cây",
+      "Thay lá"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 68,
+    "explanation": "Theo bài “Thực vật và động vật”, đáp án phù hợp là “Hút nước và chất dinh dưỡng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Bộ phận nào giúp cây tạo thức ăn?",
+    "a": "Lá",
+    "c": [
+      "Rễ",
+      "Thân",
+      "Hoa",
+      "Lá"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 68,
+    "explanation": "Theo bài “Thực vật và động vật”, đáp án phù hợp là “Lá”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Động vật được phân loại theo cơ quan di chuyển dựa vào điều gì?",
+    "a": "Cách chúng di chuyển",
+    "c": [
+      "Tên người nuôi",
+      "Giá tiền",
+      "Cách chúng di chuyển",
+      "Màu sắc quyển vở"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 68,
+    "explanation": "Theo bài “Thực vật và động vật”, đáp án phù hợp là “Cách chúng di chuyển”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để bảo vệ động vật, em nên làm gì?",
+    "a": "Không săn bắt và không phá nơi ở của chúng",
+    "c": [
+      "Bắt con non",
+      "Không săn bắt và không phá nơi ở của chúng",
+      "Ném đá",
+      "Phá tổ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 68,
+    "explanation": "Theo bài “Thực vật và động vật”, đáp án phù hợp là “Không săn bắt và không phá nơi ở của chúng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Cơ quan nào giúp đưa máu đi khắp cơ thể?",
+    "a": "Tim",
+    "c": [
+      "Tim",
+      "Phổi",
+      "Dạ dày",
+      "Tai"
+    ],
+    "type": "multiple_choice",
+    "lo": "Cơ thể và sức khỏe – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cơ thể và sức khỏe",
+    "sourcePage": 84,
+    "explanation": "Theo bài “Cơ thể và sức khỏe”, đáp án phù hợp là “Tim”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Để bảo vệ mắt, em nên làm gì?",
+    "a": "Đọc nơi đủ ánh sáng",
+    "c": [
+      "Nhìn màn hình quá lâu",
+      "Đọc khi nằm",
+      "Dụi mắt bằng tay bẩn",
+      "Đọc nơi đủ ánh sáng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Cơ thể và sức khỏe – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cơ thể và sức khỏe",
+    "sourcePage": 84,
+    "explanation": "Theo bài “Cơ thể và sức khỏe”, đáp án phù hợp là “Đọc nơi đủ ánh sáng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Thức ăn cần được bảo quản thế nào?",
+    "a": "Sạch sẽ và phù hợp",
+    "c": [
+      "Để lẫn rác",
+      "Ăn khi chưa chín",
+      "Sạch sẽ và phù hợp",
+      "Để ôi thiu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Cơ thể và sức khỏe – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cơ thể và sức khỏe",
+    "sourcePage": 84,
+    "explanation": "Theo bài “Cơ thể và sức khỏe”, đáp án phù hợp là “Sạch sẽ và phù hợp”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi bị mệt hoặc đau, em nên làm gì?",
+    "a": "Báo người lớn",
+    "c": [
+      "Chạy nhảy quá sức",
+      "Báo người lớn",
+      "Tự uống thuốc lạ",
+      "Giấu đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Cơ thể và sức khỏe – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Cơ thể và sức khỏe",
+    "sourcePage": 84,
+    "explanation": "Theo bài “Cơ thể và sức khỏe”, đáp án phù hợp là “Báo người lớn”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "La bàn dùng để làm gì?",
+    "a": "Xác định phương hướng",
+    "c": [
+      "Xác định phương hướng",
+      "Đo khối lượng",
+      "Đo thời gian",
+      "Đo nhiệt độ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 103,
+    "explanation": "Theo bài “Trái Đất và bầu trời”, đáp án phù hợp là “Xác định phương hướng”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Phần Trái Đất được Mặt Trời chiếu sáng là gì?",
+    "a": "Ban ngày",
+    "c": [
+      "Ban đêm",
+      "Mùa đông",
+      "Mưa",
+      "Ban ngày"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 103,
+    "explanation": "Theo bài “Trái Đất và bầu trời”, đáp án phù hợp là “Ban ngày”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Quả địa cầu là mô hình của gì?",
+    "a": "Trái Đất",
+    "c": [
+      "Mặt Trời",
+      "Ngôi trường",
+      "Trái Đất",
+      "Mặt Trăng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 103,
+    "explanation": "Theo bài “Trái Đất và bầu trời”, đáp án phù hợp là “Trái Đất”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
+  },
+  {
+    "q": "Khi quan sát bầu trời, em nên làm gì?",
+    "a": "Không nhìn trực tiếp vào Mặt Trời",
+    "c": [
+      "Dùng vật nhọn chỉ lên trời",
+      "Không nhìn trực tiếp vào Mặt Trời",
+      "Nhìn thẳng vào Mặt Trời lâu",
+      "Tự leo lên cao"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức Tự nhiên và Xã hội",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tự nhiên và Xã hội 3 – Kết nối tri thức với cuộc sống (tunhienvaxahoi3-ketnoitrithucvoicuocsongb4ba3_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 103,
+    "explanation": "Theo bài “Trái Đất và bầu trời”, đáp án phù hợp là “Không nhìn trực tiếp vào Mặt Trời”.",
+    "hints": [
+      "Đọc kỹ tình huống và chọn kiến thức đã học."
+    ]
   }
 ]

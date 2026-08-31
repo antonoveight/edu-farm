@@ -1,321 +1,422 @@
 [
   {
-    "q": "Nước tồn tại ở mấy thể chính trong tự nhiên?",
-    "a": "3 THỂ (LỎNG, KHÍ, RẮN)",
+    "q": "Nước có đặc điểm nào?",
+    "a": "Không màu, không mùi, không vị",
     "c": [
-      "3 THỂ (LỎNG, KHÍ, RẮN)",
-      "2 THỂ",
-      "4 THỂ",
-      "1 THỂ"
+      "Không màu, không mùi, không vị",
+      "Có màu đỏ",
+      "Có mùi thơm cố định",
+      "Có hình dạng cố định"
     ],
     "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Nhóm thức ăn nào cần ăn nhiều nhất hàng ngày cho năng lượng?",
-    "a": "BỘT ĐƯỜNG (TINH BỘT)",
-    "c": [
-      "BỘT ĐƯỜNG (TINH BỘT)",
-      "CHẤT BÉO",
-      "VITAMIN",
-      "ĐẠM"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Hiện tượng nước bốc hơi thành hơi nước, rồi ngưng tụ thành mưa gọi là gì?",
-    "a": "VÒNG TUẦN HOÀN CỦA NƯỚC",
-    "c": [
-      "VÒNG TUẦN HOÀN CỦA NƯỚC",
-      "QUANG HỢP",
-      "HÔ HẤP CỦA CÂY",
-      "THỦY TRIỀU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Nhóm thức ăn nào chứa hàm lượng chất đạm dồi dào nhất?",
-    "a": "THỊT, CÁ, TRỨNG, SỮA",
-    "c": [
-      "THỊT, CÁ, TRỨNG, SỮA",
-      "RAU XANH VÀ QUẢ CHÍN",
-      "MỠ HEO VÀ BƠ",
-      "CƠM VÀ KHOAI LANG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Chất nào sau đây dẫn điện tốt nhất?",
-    "a": "ĐỒNG",
-    "c": [
-      "ĐỒNG",
-      "NHỰA",
-      "GỖ",
-      "CAO SU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Vật nào sau đây không dẫn điện?",
-    "a": "CAO SU",
-    "c": [
-      "CAO SU",
-      "SẮT",
-      "NHÔM",
-      "ĐỒNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Điền từ vào chuỗi thức ăn: Cỏ -> Thỏ -> ___",
-    "a": "cáo",
-    "c": [
-      "cáo",
-      "sâu",
-      "lúa",
-      "nước"
-    ],
-    "type": "fill_blank",
-    "sentence": "Cỏ -> Thỏ -> ___",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Điền trạng thái của nước: Nước chuyển thành ___ khi đun sôi bốc lên.",
-    "a": "hơi nước",
-    "c": [
-      "hơi nước",
-      "nước đá",
-      "tuyết",
-      "sương"
-    ],
-    "type": "fill_blank",
-    "sentence": "Nước chuyển thành ___ khi đun sôi bốc lên.",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Thành phần nào chiếm nhiều nhất trong không khí?",
-    "a": "NI-TƠ",
-    "c": [
-      "NI-TƠ",
-      "OXY",
-      "CO2",
-      "HƠI NƯỚC"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Ánh sáng truyền theo đường như thế nào?",
-    "a": "ĐƯỜNG THẲNG",
-    "c": [
-      "ĐƯỜNG THẲNG",
-      "ĐƯỜNG CONG",
-      "ĐƯỜNG XIÊN",
-      "ĐƯỜNG ZIG-ZAG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Nước đá (0°C) khi để ngoài trời sẽ?",
-    "a": "TAN CHẢY THÀNH NƯỚC LỎNG",
-    "c": [
-      "TAN CHẢY THÀNH NƯỚC LỎNG",
-      "BIẾN THÀNH HƠI",
-      "KHÔNG ĐỔI GÌ",
-      "CỨNG HƠN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Cây xanh cần gì để thực hiện quang hợp?",
-    "a": "ÁNH SÁNG VÀ CO2",
-    "c": [
-      "ÁNH SÁNG VÀ CO2",
-      "NƯỚC VÀ MUỐI",
-      "CHỈ NƯỚC",
-      "CHỈ ĐẤT"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Âm thanh truyền qua môi trường nào?",
-    "a": "CẢ RẮN, LỎNG VÀ KHÍ",
-    "c": [
-      "CẢ RẮN, LỎNG VÀ KHÍ",
-      "CHỈ KHÔNG KHÍ",
-      "CHỈ NƯỚC",
-      "KHÔNG GIAN CHÂN KHÔNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Nước có những tính chất vật lý nào sau đây?",
-    "a": "Không màu, không mùi, không vị, không có hình dạng nhất định",
-    "c": [
-      "Không màu, không mùi, không vị, không có hình dạng nhất định",
-      "Có màu xanh, mùi thơm, vị ngọt",
-      "Có dạng hình tròn, vị mặn",
-      "Không thấm qua vải, chỉ chảy từ dưới lên"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Phương pháp nào giúp loại bỏ các chất không tan ra khỏi nước đục?",
-    "a": "Lọc nước",
-    "c": [
-      "Lọc nước",
-      "Đun sôi nước",
-      "Khử trùng bằng hóa chất",
-      "Để ngoài nắng"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Đâu là nguyên nhân chính dẫn đến ô nhiễm nguồn nước sạch?",
-    "a": "Xả nước thải sinh hoạt và công nghiệp chưa qua xử lý ra sông, hồ",
-    "c": [
-      "Xả nước thải sinh hoạt và công nghiệp chưa qua xử lý ra sông, hồ",
-      "Trồng nhiều cây xanh ven hồ",
-      "Sử dụng bình lọc nước",
-      "Dọn dẹp vệ sinh ao giếng"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Lịch sử ghi nhận triều đại nào đã có công dời đô từ Hoa Lư về Thăng Long?",
-    "a": "Triều Lý",
-    "c": [
-      "Triều Lý",
-      "Triều Trần",
-      "Triều Lê",
-      "Triều Nguyễn"
-    ],
-    "type": "multiple_choice",
-    "lo": "Khoa học: vật lý, hóa học, sinh học cơ bản lớp 4"
-  },
-  {
-    "q": "Ghép nguyên nhân và hậu quả của ô nhiễm môi trường:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Phân tích mối quan hệ nguyên nhân và hậu quả của ô nhiễm môi trường",
-    "pairs": [
-      {
-        "left": "Chặt phá rừng",
-        "right": "Lũ lụt và sạt lở đất"
-      },
-      {
-        "left": "Xả rác xuống sông",
-        "right": "Ô nhiễm nguồn nước"
-      },
-      {
-        "left": "Khói xe cộ",
-        "right": "Ô nhiễm không khí"
-      },
-      {
-        "left": "Dùng nhiều hóa chất",
-        "right": "Đất bị thoái hóa"
-      }
+    "lo": "Chất – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Chất",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Không màu, không mùi, không vị”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Sắp xếp vòng tuần hoàn của nước theo đúng thứ tự:",
-    "a": "Bốc hơi Tạo mây Mưa rơi Chảy vào sông biển",
+    "q": "Nước chảy như thế nào?",
+    "a": "Từ cao xuống thấp",
     "c": [
-      "Bốc hơi Tạo mây Mưa rơi Chảy vào sông biển"
+      "Từ thấp lên cao",
+      "Chỉ chảy sang trái",
+      "Không thể chảy",
+      "Từ cao xuống thấp"
     ],
-    "words": [
-      "Bốc",
-      "hơi",
-      "Tạo",
-      "mây",
-      "Mưa",
-      "rơi",
-      "Chảy",
-      "vào",
-      "sông",
-      "biển"
-    ],
-    "type": "reorder",
-    "lo": "Hiểu vòng tuần hoàn của nước trong tự nhiên"
+    "type": "multiple_choice",
+    "lo": "Chất – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Chất",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Từ cao xuống thấp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Trái Đất đứng im Mặt Trời.",
-    "a": "Sai",
+    "q": "Nước có thể làm gì với một số chất?",
+    "a": "Hòa tan",
     "c": [
-      "Đúng",
-      "Sai"
+      "Làm vật phát sáng",
+      "Làm vật bay lên",
+      "Hòa tan",
+      "Làm biến mất mọi vật"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Chất – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Chất",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Hòa tan”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Mặt Trăng là một hành tinh.",
-    "a": "Sai",
+    "q": "Nước cần thiết đối với ai?",
+    "a": "Con người, động vật và thực vật",
     "c": [
-      "Đúng",
-      "Sai"
+      "Chỉ thực vật",
+      "Con người, động vật và thực vật",
+      "Chỉ con người",
+      "Chỉ động vật"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Chất – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Chất",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Con người, động vật và thực vật”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Cá hô hấp bằng phổi dưới nước.",
-    "a": "phổi",
-    "words": [
-      "Cá",
-      "hô",
-      "hấp",
-      "bằng",
-      "phổi",
-      "dưới",
-      "nước."
+    "q": "Nguồn sáng tự nhiên quan trọng nhất là gì?",
+    "a": "Mặt Trời",
+    "c": [
+      "Mặt Trời",
+      "Đèn pin",
+      "Bóng điện",
+      "Ngọn nến"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Năng lượng – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Năng lượng",
+    "sourcePage": 36,
+    "explanation": "Đáp án đúng là “Mặt Trời”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Con Chó",
-    "a": "Động vật",
+    "q": "Vật phát ra ánh sáng gọi là gì?",
+    "a": "Nguồn sáng",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Vật cản sáng",
+      "Bóng tối",
+      "Gương",
+      "Nguồn sáng"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Năng lượng – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Năng lượng",
+    "sourcePage": 36,
+    "explanation": "Đáp án đúng là “Nguồn sáng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Cây lúa",
-    "a": "Thực vật",
+    "q": "Âm thanh được tạo ra khi nào?",
+    "a": "Khi vật rung động",
     "c": [
-      "Động vật",
-      "Thực vật"
+      "Khi trời tối",
+      "Khi không có không khí",
+      "Khi vật rung động",
+      "Khi vật đứng yên hoàn toàn"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Năng lượng – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Năng lượng",
+    "sourcePage": 36,
+    "explanation": "Đáp án đúng là “Khi vật rung động”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Trái Đất quay quanh Mặt Trời.",
-    "a": "Đúng",
+    "q": "Để bảo vệ tai, em cần làm gì?",
+    "a": "Không nghe âm thanh quá to lâu",
     "c": [
-      "Đúng",
-      "Sai"
+      "Đứng sát loa",
+      "Không nghe âm thanh quá to lâu",
+      "Mở loa thật to",
+      "Đeo tai nghe suốt ngày"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Năng lượng – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Năng lượng",
+    "sourcePage": 36,
+    "explanation": "Đáp án đúng là “Không nghe âm thanh quá to lâu”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Cây cần gì để sống và phát triển?",
+    "a": "Nước, không khí, ánh sáng và chất dinh dưỡng",
+    "c": [
+      "Nước, không khí, ánh sáng và chất dinh dưỡng",
+      "Chỉ đồ chơi",
+      "Chỉ tiếng nhạc",
+      "Chỉ đất khô"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 62,
+    "explanation": "Đáp án đúng là “Nước, không khí, ánh sáng và chất dinh dưỡng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Bộ phận nào của cây thường hút nước?",
+    "a": "Rễ",
+    "c": [
+      "Lá",
+      "Hoa",
+      "Quả",
+      "Rễ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 62,
+    "explanation": "Đáp án đúng là “Rễ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Động vật cần gì để sống?",
+    "a": "Thức ăn, nước và không khí",
+    "c": [
+      "Chỉ sách",
+      "Chỉ ánh sáng đèn",
+      "Thức ăn, nước và không khí",
+      "Chỉ đồ chơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 62,
+    "explanation": "Đáp án đúng là “Thức ăn, nước và không khí”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để bảo vệ động vật, em nên làm gì?",
+    "a": "Không săn bắt và bảo vệ nơi ở của chúng",
+    "c": [
+      "Ném đá",
+      "Không săn bắt và bảo vệ nơi ở của chúng",
+      "Phá tổ",
+      "Bắt con non"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực vật và động vật – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Thực vật và động vật",
+    "sourcePage": 62,
+    "explanation": "Đáp án đúng là “Không săn bắt và bảo vệ nơi ở của chúng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Cơ quan nào bơm máu đi khắp cơ thể?",
+    "a": "Tim",
+    "c": [
+      "Tim",
+      "Phổi",
+      "Dạ dày",
+      "Tai"
+    ],
+    "type": "multiple_choice",
+    "lo": "Con người và sức khỏe – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Con người và sức khỏe",
+    "sourcePage": 90,
+    "explanation": "Đáp án đúng là “Tim”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để bảo vệ mắt, em nên làm gì?",
+    "a": "Đọc ở nơi đủ ánh sáng",
+    "c": [
+      "Đọc khi nằm",
+      "Nhìn màn hình quá lâu",
+      "Dụi mắt bằng tay bẩn",
+      "Đọc ở nơi đủ ánh sáng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Con người và sức khỏe – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Con người và sức khỏe",
+    "sourcePage": 90,
+    "explanation": "Đáp án đúng là “Đọc ở nơi đủ ánh sáng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Thức ăn cần được bảo quản thế nào?",
+    "a": "Sạch sẽ và phù hợp",
+    "c": [
+      "Để lẫn với rác",
+      "Ăn khi chưa chín",
+      "Sạch sẽ và phù hợp",
+      "Để ôi thiu"
+    ],
+    "type": "multiple_choice",
+    "lo": "Con người và sức khỏe – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Con người và sức khỏe",
+    "sourcePage": 90,
+    "explanation": "Đáp án đúng là “Sạch sẽ và phù hợp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi bị đau hoặc mệt, em nên làm gì?",
+    "a": "Báo cho người lớn",
+    "c": [
+      "Chạy nhảy quá sức",
+      "Báo cho người lớn",
+      "Tự dùng thuốc lạ",
+      "Giấu đi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Con người và sức khỏe – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Con người và sức khỏe",
+    "sourcePage": 90,
+    "explanation": "Đáp án đúng là “Báo cho người lớn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Không khí có vai trò gì?",
+    "a": "Cần cho sự sống và sự cháy",
+    "c": [
+      "Cần cho sự sống và sự cháy",
+      "Không có tác dụng",
+      "Chỉ dùng để làm đồ chơi",
+      "Chỉ có ở trong nhà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 112,
+    "explanation": "Đáp án đúng là “Cần cho sự sống và sự cháy”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để giữ không khí trong lành, em nên làm gì?",
+    "a": "Trồng cây và không đốt rác",
+    "c": [
+      "Đốt rác",
+      "Xả khói bừa bãi",
+      "Chặt cây xanh",
+      "Trồng cây và không đốt rác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 112,
+    "explanation": "Đáp án đúng là “Trồng cây và không đốt rác”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Nước bốc hơi nhanh hơn khi nào?",
+    "a": "Khi trời nóng và có gió",
+    "c": [
+      "Khi để trong tủ lạnh",
+      "Khi đóng kín chai",
+      "Khi trời nóng và có gió",
+      "Khi trời lạnh hơn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 112,
+    "explanation": "Đáp án đúng là “Khi trời nóng và có gió”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Mây được hình thành từ đâu?",
+    "a": "Hơi nước ngưng tụ",
+    "c": [
+      "Đá bay lên",
+      "Hơi nước ngưng tụ",
+      "Đất tan ra",
+      "Cây biến mất"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trái Đất và bầu trời – Vận dụng kiến thức khoa học",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Khoa học 4 – Kết nối tri thức với cuộc sống (sach-giao-khoa-khoa-hoc-lop-4-ket-noi-tri-thuc-pdfac7d0_5120269.pdf) – Trái Đất và bầu trời",
+    "sourcePage": 112,
+    "explanation": "Đáp án đúng là “Hơi nước ngưng tụ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   }
 ]

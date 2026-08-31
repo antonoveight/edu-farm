@@ -1,371 +1,464 @@
 [
   {
-    "q": "Cặp từ 'đất' - 'trời' hay 'cao' - 'thấp' thuộc nhóm từ nào?",
-    "a": "TỪ TRÁI NGHĨA",
+    "q": "Trong bài “Thanh âm của gió”, khung cảnh suối được miêu tả như thế nào?",
+    "a": "Nước trong vắt, cát sỏi lấp lánh",
     "c": [
-      "TỪ TRÁI NGHĨA",
-      "TỪ ĐỒNG NGHĨA",
-      "TỪ ĐỒNG ÂM",
-      "TỪ NHIỀU NGHĨA"
+      "Nước trong vắt, cát sỏi lấp lánh",
+      "Nước đục và đầy rác",
+      "Không có cây cỏ",
+      "Chỉ có nhà cao tầng"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
+    "lo": "Đọc: Thanh âm của gió – Hiểu chi tiết bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Đọc: Thanh âm của gió",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Nước trong vắt, cát sỏi lấp lánh”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Cặp từ 'bao la' - 'mênh mông' thuộc nhóm từ nào?",
-    "a": "TỪ ĐỒNG NGHĨA",
+    "q": "Khi đọc văn bản miêu tả thiên nhiên, em cần chú ý điều gì?",
+    "a": "Những hình ảnh và âm thanh nổi bật",
     "c": [
-      "TỪ ĐỒNG NGHĨA",
-      "TỪ TRÁI NGHĨA",
-      "TỪ ĐỒNG ÂM",
-      "TỪ NHIỀU NGHĨA"
+      "Chỉ số trang",
+      "Chỉ tên tác giả",
+      "Chỉ tranh bìa",
+      "Những hình ảnh và âm thanh nổi bật"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
+    "lo": "Đọc: Thanh âm của gió – Đọc hiểu văn bản",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Đọc: Thanh âm của gió",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Những hình ảnh và âm thanh nổi bật”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ 'đường' trong 'con đường' và 'đường kính' (đồ ngọt) có quan hệ thế nào?",
-    "a": "TỪ ĐỒNG ÂM KHÁC NGHĨA",
+    "q": "Từ nào là đại từ?",
+    "a": "chúng tôi",
     "c": [
-      "TỪ ĐỒNG ÂM KHÁC NGHĨA",
-      "TỪ NHIỀU NGHĨA",
-      "TỪ ĐỒNG NGHĨA",
-      "TỪ TRÁI NGHĨA"
+      "xanh mướt",
+      "chạy nhảy",
+      "chúng tôi",
+      "cánh đồng"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
+    "lo": "Luyện từ và câu – Nhận biết đại từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “chúng tôi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Trong câu ghép 'Nếu trời mưa to thì chúng em được nghỉ học thể chất', hai vế câu nối với nhau bằng cặp quan hệ từ nào?",
-    "a": "NẾU... THÌ",
+    "q": "Từ nào là quan hệ từ?",
+    "a": "và",
     "c": [
-      "NẾU... THÌ",
-      "VÌ... NÊN",
-      "TUY... NHƯNG",
-      "MẶC DÙ... NHƯNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Biện pháp tu từ nào được dùng trong câu 'Trăng là người bạn đồng hành của những người đi xa'?",
-    "a": "ẨN DỤ",
-    "c": [
-      "ẨN DỤ",
-      "SO SÁNH",
-      "NHÂN HÓA",
-      "ĐIỆP NGỮ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Đoạn văn được cấu tạo bởi những gì?",
-    "a": "CÁC CÂU LIÊN QUAN MẬT THIẾT VỀ Ý NGHĨA",
-    "c": [
-      "CÁC CÂU LIÊN QUAN MẬT THIẾT VỀ Ý NGHĨA",
-      "CHỈ MỘT CÂU DUY NHẤT",
-      "HAI CÂU BẤT KÌ",
-      "CÁC TỪ GHI LIỀN NHAU"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Hình thức nghị luận trong văn bản là gì?",
-    "a": "TRÌNH BÀY LUẬN ĐIỂM VÀ LẬP LUẬN ĐỂ THUYẾT PHỤC",
-    "c": [
-      "TRÌNH BÀY LUẬN ĐIỂM VÀ LẬP LUẬN ĐỂ THUYẾT PHỤC",
-      "MÔ TẢ THIÊN NHIÊN",
-      "KỂ LẠI SỰ VIỆC",
-      "THƠ CA TRỮ TÌNH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Chọn từ tạo thành từ đồng nghĩa với 'bao la':",
-    "a": "mênh",
-    "c": [
-      "mênh",
-      "xanh",
-      "cao",
+      "học",
+      "và",
+      "cây",
       "đẹp"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Điền quan hệ từ: Tuy trời nắng ___ gió thổi vẫn rất mát mẻ.",
-    "a": "nhưng",
-    "c": [
-      "nhưng",
-      "và",
-      "vì",
-      "nên"
-    ],
-    "type": "fill_blank",
-    "sentence": "Tuy trời nắng ___ gió thổi vẫn rất mát mẻ.",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Điền từ thích hợp: Tiếng Việt là tiếng ___ của dân tộc ta.",
-    "a": "mẹ đẻ",
-    "c": [
-      "mẹ đẻ",
-      "nước ngoài",
-      "học đường",
-      "mới mẻ"
-    ],
-    "type": "fill_blank",
-    "sentence": "Tiếng Việt là tiếng ___ của dân tộc ta.",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Ghép các từ thành câu ghép đúng ngữ pháp:",
-    "a": "Vì trời mưa nên đường trơn",
-    "c": [
-      "Vì trời mưa nên đường trơn"
-    ],
-    "type": "typing",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Sắp xếp câu ca dao:",
-    "a": "Bầu ơi thương lấy bí cùng",
-    "c": [
-      "Bầu ơi thương lấy bí cùng"
-    ],
-    "type": "reorder",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5",
-    "words": [
-      "Bầu",
-      "ơi",
-      "thương",
-      "lấy",
-      "bí",
-      "cùng"
+    "lo": "Luyện từ và câu – Nhận biết quan hệ từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “và”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Từ đồng nghĩa với 'dũng cảm' là?",
-    "a": "CAN ĐẢM",
+    "q": "Câu nào là câu ghép?",
+    "a": "Trời mưa nên chúng em ở trong lớp.",
     "c": [
-      "CAN ĐẢM",
-      "NHÚT NHÁT",
-      "HIỀN LÀNH",
-      "KIÊN NHẪN"
+      "Trời mưa nên chúng em ở trong lớp.",
+      "Trời mưa.",
+      "Chúng em ở trong lớp.",
+      "Ôi, trời mưa!"
     ],
     "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Từ đồng nghĩa với 'chăm chỉ' là?",
-    "a": "CẦN CÙ",
-    "c": [
-      "CẦN CÙ",
-      "LƯỜI BIẾNG",
-      "VUI VẺ",
-      "THÔNG MINH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Trong câu 'Chân trời ửng hồng.', từ 'chân' mang nghĩa gì?",
-    "a": "NGHĨA CHUYỂN",
-    "c": [
-      "NGHĨA CHUYỂN",
-      "NGHĨA GỐC",
-      "NGHĨA BÓNG",
-      "NGHĨA ĐEN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Trong câu 'Bạn ấy bị đau chân.', từ 'chân' mang nghĩa gì?",
-    "a": "NGHĨA GỐC",
-    "c": [
-      "NGHĨA GỐC",
-      "NGHĨA CHUYỂN",
-      "NGHĨA BÓNG",
-      "NGHĨA ẨN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Từ đồng nghĩa với 'tươi đẹp' là?",
-    "a": "XINH ĐẸP",
-    "c": [
-      "XINH ĐẸP",
-      "XẤU XÍ",
-      "TỐI TĂM",
-      "KHÔ HÉO"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Từ nào trái nghĩa với 'nhân hậu'?",
-    "a": "ĐỘC ÁC",
-    "c": [
-      "ĐỘC ÁC",
-      "THÂN THIỆN",
-      "TỬ TẾ",
-      "HÒA ĐỒNG"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Từ nào đồng nghĩa với từ 'thanh bình'?",
-    "a": "Hòa bình, yên tĩnh",
-    "c": [
-      "Hòa bình, yên tĩnh",
-      "Ồn ào, náo nhiệt",
-      "Chiến tranh, xung đột",
-      "Nhộn nhịp, vui tươi"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Câu ghép nào dưới đây thể hiện mối quan hệ nguyên nhân - kết quả?",
-    "a": "Vì trời mưa to nên đường phố bị ngập nước.",
-    "c": [
-      "Vì trời mưa to nên đường phố bị ngập nước.",
-      "Tuy nhà nghèo nhưng Lan vẫn học giỏi.",
-      "Hễ gió thổi mạnh là diều bay cao.",
-      "Không những Nam học giỏi mà bạn ấy còn đá bóng hay."
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Trong câu: 'Những cánh buồm trắng muốt đang lướt sóng ra khơi', từ nào là vị ngữ?",
-    "a": "đang lướt sóng ra khơi",
-    "c": [
-      "đang lướt sóng ra khơi",
-      "Những cánh buồm",
-      "buồm trắng muốt",
-      "lướt sóng"
-    ],
-    "type": "multiple_choice",
-    "lo": "Đọc hiểu, văn học và sử dụng tiếng Việt nâng cao lớp 5"
-  },
-  {
-    "q": "Ghép thành ngữ với ý nghĩa đúng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Hiểu và vận dụng các thành ngữ, tục ngữ trong Tiếng Việt lớp 5",
-    "pairs": [
-      {
-        "left": "Có công mài sắt",
-        "right": "Kiên trì thì thành công"
-      },
-      {
-        "left": "Uống nước nhớ nguồn",
-        "right": "Biết ơn người đã giúp mình"
-      },
-      {
-        "left": "Học thầy không tày học bạn",
-        "right": "Học hỏi từ bạn bè rất quý"
-      },
-      {
-        "left": "Tay làm hàm nhai",
-        "right": "Chăm làm mới có ăn"
-      }
+    "lo": "Luyện từ và câu – Nhận biết câu ghép",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 35,
+    "explanation": "Đáp án đúng là “Trời mưa nên chúng em ở trong lớp.”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Sắp xếp thành câu văn có hình ảnh so sánh đúng:",
-    "a": "Bầu trời xanh như một tấm thảm khổng lồ",
+    "q": "Trong câu ghép “Trời mưa nên chúng em ở trong lớp.”, từ “nên” có tác dụng gì?",
+    "a": "Nối các vế câu",
     "c": [
-      "Bầu trời xanh như một tấm thảm khổng lồ"
+      "Đặt tên sự vật",
+      "Chỉ màu sắc",
+      "Kết thúc câu",
+      "Nối các vế câu"
     ],
-    "words": [
-      "Bầu",
-      "trời",
-      "xanh",
-      "như",
-      "một",
-      "tấm",
-      "thảm",
-      "khổng",
-      "lồ"
-    ],
-    "type": "reorder",
-    "lo": "Vận dụng biện pháp tu từ so sánh trong viết văn"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết quan hệ từ trong câu ghép",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 35,
+    "explanation": "Đáp án đúng là “Nối các vế câu”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Điền từ thích hợp: Việt Nam là đất nước ___ nghìn năm lịch sử văn hiến.",
-    "a": "hơn bốn",
+    "q": "Từ nào đồng nghĩa với “hòa bình”?",
+    "a": "bình yên",
     "c": [
-      "hơn bốn",
-      "khoảng hai",
-      "chỉ một",
-      "đúng năm"
+      "ồn ào",
+      "vội vàng",
+      "bình yên",
+      "chiến tranh"
     ],
-    "type": "fill_blank",
-    "sentence": "Việt Nam là đất nước ___ nghìn năm lịch sử văn hiến.",
-    "lo": "Hiểu biết về lịch sử và văn hóa Việt Nam qua văn bản"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Mở rộng vốn từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 48,
+    "explanation": "Đáp án đúng là “bình yên”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ \"xinh xắn\" viết đúng chính tả.",
-    "a": "Sai",
+    "q": "Từ nào trái nghĩa với “trung thực”?",
+    "a": "gian dối",
     "c": [
-      "Đúng",
-      "Sai"
+      "chăm chỉ",
+      "gian dối",
+      "thẳng thắn",
+      "thật thà"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Mở rộng vốn từ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 62,
+    "explanation": "Đáp án đúng là “gian dối”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Từ \"xuất sắc\" viết sai chính tả thành \"xuất xắc\".",
-    "a": "Sai",
+    "q": "Từ nào viết đúng chính tả?",
+    "a": "rừng xanh",
     "c": [
-      "Đúng",
-      "Sai"
+      "rừng xanh",
+      "dừng xanh",
+      "giừng xanh",
+      "rừng xang"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Chính tả – Phân biệt r/d/gi",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Chính tả",
+    "sourcePage": 74,
+    "explanation": "Đáp án đúng là “rừng xanh”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Bé học giỏi triếng Việt.",
-    "a": "triếng",
-    "words": [
-      "Bé",
-      "học",
-      "giỏi",
-      "triếng",
-      "Việt."
+    "q": "Từ nào viết đúng chính tả với âm đầu s/x?",
+    "a": "suy nghĩ",
+    "c": [
+      "xuy nghĩ",
+      "suy nghỉ",
+      "xuy nghỉ",
+      "suy nghĩ"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Chính tả – Phân biệt s/x và ng/ngh",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Chính tả",
+    "sourcePage": 86,
+    "explanation": "Đáp án đúng là “suy nghĩ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Chạy bộ",
-    "a": "Động từ",
+    "q": "Khi viết bài văn tả cảnh, em cần làm gì?",
+    "a": "Quan sát và chọn chi tiết tiêu biểu",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "Không cần mở bài",
+      "Chỉ viết một câu",
+      "Quan sát và chọn chi tiết tiêu biểu",
+      "Chép nguyên văn bài khác"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Viết – Viết văn miêu tả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Viết",
+    "sourcePage": 98,
+    "explanation": "Đáp án đúng là “Quan sát và chọn chi tiết tiêu biểu”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Ngôi trường",
-    "a": "Danh từ",
+    "q": "Bài văn tả người thường cần nêu những gì?",
+    "a": "Ngoại hình, hoạt động và tính cách",
     "c": [
-      "Danh từ",
-      "Động từ"
+      "Chỉ nơi ở",
+      "Ngoại hình, hoạt động và tính cách",
+      "Chỉ tên người",
+      "Chỉ tuổi người"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Viết – Viết văn miêu tả",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Viết",
+    "sourcePage": 114,
+    "explanation": "Đáp án đúng là “Ngoại hình, hoạt động và tính cách”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi thảo luận nhóm, em nên làm gì?",
+    "a": "Lắng nghe và nêu ý kiến tôn trọng",
+    "c": [
+      "Lắng nghe và nêu ý kiến tôn trọng",
+      "Nói át bạn",
+      "Không hợp tác",
+      "Chế giễu ý kiến khác"
+    ],
+    "type": "multiple_choice",
+    "lo": "Nói và nghe – Kĩ năng giao tiếp",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-1-kntt_5120269.pdf) – Nói và nghe",
+    "sourcePage": 126,
+    "explanation": "Đáp án đúng là “Lắng nghe và nêu ý kiến tôn trọng”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Câu chuyện “Tiếng hát của người đá” mở đầu ở đâu?",
+    "a": "Trên đỉnh núi cao ở vùng Chư Bô-đa",
+    "c": [
+      "Ở biển",
+      "Trong lớp học",
+      "Ở thành phố",
+      "Trên đỉnh núi cao ở vùng Chư Bô-đa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Tiếng hát của người đá – Nhận biết chi tiết bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Đọc: Tiếng hát của người đá",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Trên đỉnh núi cao ở vùng Chư Bô-đa”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Mỏm đá trong câu chuyện có hình giống gì?",
+    "a": "Em bé cưỡi voi",
+    "c": [
+      "Chiếc thuyền",
+      "Ngôi nhà",
+      "Em bé cưỡi voi",
+      "Con chim"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc: Tiếng hát của người đá – Nhận biết chi tiết bài đọc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Đọc: Tiếng hát của người đá",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Em bé cưỡi voi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Chủ ngữ trong câu “Những tia nắng vàng dịu sưởi ấm mỏm đá.” là gì?",
+    "a": "Những tia nắng vàng dịu",
+    "c": [
+      "sưởi ấm",
+      "Những tia nắng vàng dịu",
+      "sưởi ấm mỏm đá",
+      "mỏm đá"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết chủ ngữ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 34,
+    "explanation": "Đáp án đúng là “Những tia nắng vàng dịu”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Vị ngữ trong câu “Những tia nắng vàng dịu sưởi ấm mỏm đá.” là gì?",
+    "a": "sưởi ấm mỏm đá",
+    "c": [
+      "sưởi ấm mỏm đá",
+      "Những tia nắng vàng dịu",
+      "tia nắng",
+      "mỏm đá"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết vị ngữ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 34,
+    "explanation": "Đáp án đúng là “sưởi ấm mỏm đá”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Từ nào là từ đồng âm với “đường” trong nghĩa lối đi?",
+    "a": "đường ăn",
+    "c": [
+      "lối đi",
+      "con phố",
+      "ngõ nhỏ",
+      "đường ăn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Nhận biết từ đồng âm",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 51,
+    "explanation": "Đáp án đúng là “đường ăn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Dấu gạch ngang trong lời đối thoại thường dùng để làm gì?",
+    "a": "Đánh dấu lời nói trực tiếp của nhân vật",
+    "c": [
+      "Kết thúc câu hỏi",
+      "Nêu cảm xúc",
+      "Đánh dấu lời nói trực tiếp của nhân vật",
+      "Ngăn cách các từ cùng loại"
+    ],
+    "type": "multiple_choice",
+    "lo": "Luyện từ và câu – Sử dụng dấu câu",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Luyện từ và câu",
+    "sourcePage": 68,
+    "explanation": "Đáp án đúng là “Đánh dấu lời nói trực tiếp của nhân vật”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi viết đoạn văn nêu ý kiến, em cần có gì?",
+    "a": "Ý kiến rõ ràng và lí do phù hợp",
+    "c": [
+      "Sao chép ý kiến bất kì",
+      "Ý kiến rõ ràng và lí do phù hợp",
+      "Chỉ một từ",
+      "Không cần lí do"
+    ],
+    "type": "multiple_choice",
+    "lo": "Viết – Viết đoạn văn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Viết",
+    "sourcePage": 88,
+    "explanation": "Đáp án đúng là “Ý kiến rõ ràng và lí do phù hợp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi viết thư, em cần dùng lời xưng hô như thế nào?",
+    "a": "Phù hợp và lịch sự",
+    "c": [
+      "Phù hợp và lịch sự",
+      "Tùy tiện, thiếu lễ phép",
+      "Không cần người nhận",
+      "Chỉ dùng từ viết tắt"
+    ],
+    "type": "multiple_choice",
+    "lo": "Viết – Viết thư",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Viết",
+    "sourcePage": 103,
+    "explanation": "Đáp án đúng là “Phù hợp và lịch sự”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi đọc truyện, em cần nhận ra điều gì?",
+    "a": "Nhân vật, sự việc và ý nghĩa",
+    "c": [
+      "Chỉ số trang",
+      "Chỉ tranh bìa",
+      "Chỉ tên nhà in",
+      "Nhân vật, sự việc và ý nghĩa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Đọc hiểu – Đọc hiểu truyện",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 5, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-5-tap-2-kntt_5120269.pdf) – Đọc hiểu",
+    "sourcePage": 118,
+    "explanation": "Đáp án đúng là “Nhân vật, sự việc và ý nghĩa”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   }
 ]

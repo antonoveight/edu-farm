@@ -1,6 +1,6 @@
 const SUBJECTS = new Set([
     'math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience',
-    'music', 'art', 'physical'
+    'music', 'art', 'physical', 'history_geo'
 ]);
 const QUESTION_TYPES = new Set([
     'multiple_choice',

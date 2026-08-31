@@ -28,7 +28,7 @@ describe('game exercise rendering', () => {
         expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_ethics`] = data.ethics || []');
         expect(gameScript).toContain('QUIZ_BANK[`g${selectedGrade}_physical`] = data.physical || []');
         expect(gameScript).toContain('{ id: 4, type: "english", icon: "fa-language", name: "Tiếng Anh" }');
-        expect(gameScript).toContain("const allSubjects = ['math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience', 'music', 'art', 'physical']");
+        expect(gameScript).toContain("const allSubjects = ['math', 'viet', 'english', 'science', 'tech', 'ethics', 'experience', 'music', 'art', 'physical', 'history_geo']");
         expect(gameScript).toContain('shuffleArray(getAvailableCurriculumSubjects(Number(selectedGrade)))');
     });
 

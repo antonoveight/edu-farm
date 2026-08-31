@@ -13,7 +13,8 @@ const SUBJECTS = Object.freeze([
     { code: 'experience', name: 'Hoạt động trải nghiệm', sortOrder: 7 },
     { code: 'music', name: 'Âm nhạc', sortOrder: 8 },
     { code: 'art', name: 'Mĩ thuật', sortOrder: 9 },
-    { code: 'physical', name: 'Giáo dục thể chất', sortOrder: 10 }
+    { code: 'physical', name: 'Giáo dục thể chất', sortOrder: 10 },
+    { code: 'history_geo', name: 'Lịch sử và Địa lí', sortOrder: 11 }
 ]);
 const PUBLIC_SUBJECT_CODES = Object.freeze(SUBJECTS.map(({ code }) => code));
 const LEGACY_SUBJECT_CODES = Object.freeze(PUBLIC_SUBJECT_CODES);

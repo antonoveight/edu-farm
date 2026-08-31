@@ -1,0 +1,212 @@
+[
+  {
+    "q": "Khóa Son được đặt ở đâu?",
+    "a": "Đầu khuông nhạc",
+    "c": [
+      "Đầu khuông nhạc",
+      "Cuối khuông nhạc",
+      "Giữa trang giấy",
+      "Dưới lời bài hát"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khuông nhạc và khóa Son – Nhận biết khóa Son",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Khuông nhạc và khóa Son",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Đầu khuông nhạc”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khuông nhạc thường có bao nhiêu dòng kẻ?",
+    "a": "5 dòng kẻ",
+    "c": [
+      "3 dòng kẻ",
+      "4 dòng kẻ",
+      "6 dòng kẻ",
+      "5 dòng kẻ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khuông nhạc và khóa Son – Nhận biết khuông nhạc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Khuông nhạc và khóa Son",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “5 dòng kẻ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Tên nào là một nốt nhạc?",
+    "a": "Đô",
+    "c": [
+      "Sách",
+      "Bàn",
+      "Đô",
+      "Bút"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khuông nhạc và khóa Son – Nhận biết nốt nhạc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Khuông nhạc và khóa Son",
+    "sourcePage": 9,
+    "explanation": "Đáp án đúng là “Đô”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Dãy bảy nốt nhạc cơ bản gồm Đô, Rê, Mi, Pha, Son, La và nốt nào?",
+    "a": "Si",
+    "c": [
+      "Re",
+      "Si",
+      "Do",
+      "Fa"
+    ],
+    "type": "multiple_choice",
+    "lo": "Khuông nhạc và khóa Son – Nhận biết tên nốt",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Khuông nhạc và khóa Son",
+    "sourcePage": 9,
+    "explanation": "Đáp án đúng là “Si”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi hát kết hợp vỗ tay theo phách, em cần làm gì?",
+    "a": "Giữ đều phách",
+    "c": [
+      "Giữ đều phách",
+      "Vỗ tùy ý",
+      "Không nghe nhạc",
+      "Nói chuyện riêng"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát: Chuông gió teng keng – Thực hành nhịp phách",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Hát: Chuông gió teng keng",
+    "sourcePage": 11,
+    "explanation": "Đáp án đúng là “Giữ đều phách”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi hát cùng nhạc đệm, em cần chú ý gì?",
+    "a": "Hát đúng giai điệu và nhịp",
+    "c": [
+      "Hát thật nhanh bất kì",
+      "Bỏ qua nhịp",
+      "Làm ồn",
+      "Hát đúng giai điệu và nhịp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Hát: Chuông gió teng keng – Thực hành hát",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Hát: Chuông gió teng keng",
+    "sourcePage": 11,
+    "explanation": "Đáp án đúng là “Hát đúng giai điệu và nhịp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Âm thanh cao thấp khác nhau được thể hiện bằng gì trên khuông nhạc?",
+    "a": "Vị trí các nốt nhạc",
+    "c": [
+      "Số trang",
+      "Tên người hát",
+      "Vị trí các nốt nhạc",
+      "Màu giấy"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thường thức âm nhạc – Nhận biết cao độ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Thường thức âm nhạc",
+    "sourcePage": 28,
+    "explanation": "Đáp án đúng là “Vị trí các nốt nhạc”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi nghe bạn biểu diễn, em nên làm gì?",
+    "a": "Lắng nghe và cổ vũ lịch sự",
+    "c": [
+      "Bỏ về",
+      "Lắng nghe và cổ vũ lịch sự",
+      "Chế giễu bạn",
+      "Nói chuyện to"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thường thức âm nhạc – Ứng xử trong âm nhạc",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Thường thức âm nhạc",
+    "sourcePage": 34,
+    "explanation": "Đáp án đúng là “Lắng nghe và cổ vũ lịch sự”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Trước khi hát, em nên làm gì?",
+    "a": "Lắng nghe giai điệu và lấy hơi",
+    "c": [
+      "Lắng nghe giai điệu và lấy hơi",
+      "Hét thật to",
+      "Bỏ qua hướng dẫn",
+      "Trêu bạn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành âm nhạc – Chuẩn bị biểu diễn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Thực hành âm nhạc",
+    "sourcePage": 46,
+    "explanation": "Đáp án đúng là “Lắng nghe giai điệu và lấy hơi”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi sử dụng nhạc cụ, em cần làm gì?",
+    "a": "Dùng đúng cách và giữ gìn nhạc cụ",
+    "c": [
+      "Ném nhạc cụ",
+      "Gõ quá mạnh tùy ý",
+      "Tự ý tháo nhạc cụ",
+      "Dùng đúng cách và giữ gìn nhạc cụ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thực hành âm nhạc – Giữ gìn nhạc cụ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Âm nhạc 4 – Kết nối tri thức với cuộc sống (sgkamnhacknttaaea0_5120269.pdf) – Thực hành âm nhạc",
+    "sourcePage": 58,
+    "explanation": "Đáp án đúng là “Dùng đúng cách và giữ gìn nhạc cụ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  }
+]

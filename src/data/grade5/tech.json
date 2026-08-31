@@ -1,333 +1,422 @@
 [
   {
-    "q": "Trong lập trình Scratch, khối lệnh 'Repeat' thuộc nhóm nào?",
-    "a": "CONTROL (ĐIỀU KHIỂN)",
+    "q": "Sản phẩm công nghệ có thể giúp con người làm gì?",
+    "a": "Làm việc và sinh hoạt thuận tiện hơn",
     "c": [
-      "CONTROL (ĐIỀU KHIỂN)",
-      "MOTION (CHUYỂN ĐỘNG)",
-      "LOOKS (NGOẠI HÌNH)",
-      "SOUND (ÂM THANH)"
+      "Làm việc và sinh hoạt thuận tiện hơn",
+      "Không có tác dụng",
+      "Chỉ làm đồ chơi",
+      "Thay thế hoàn toàn con người"
     ],
     "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Khối lệnh Scratch dùng để di chuyển nhân vật tiến lên phía trước là lệnh nào?",
-    "a": "MOVE 10 STEPS",
-    "c": [
-      "MOVE 10 STEPS",
-      "TURN 15 DEGREES",
-      "SAY HELLO",
-      "PLAY SOUND"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Để bảo vệ thông tin cá nhân trên mạng, hành vi nào nên làm?",
-    "a": "ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT",
-    "c": [
-      "ĐẶT MẬT KHẨU MẠNH VÀ BẢO MẬT",
-      "CHIA SẺ ẢNH CÁ NHÂN CHO NGƯỜI LẠ",
-      "BẤM VÀO ĐƯỜNG LINK TRÚNG THƯỞNG LẠ",
-      "TIẾT LỘ ĐỊA CHỈ NHÀ CHO NGƯỜI CHƯA QUEN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Thuật ngữ 'Bug' trong lập trình máy tính có nghĩa là gì?",
-    "a": "LỖI TRONG CHƯƠNG TRÌNH",
-    "c": [
-      "LỖI TRONG CHƯƠNG TRÌNH",
-      "TÊN MỘT LỆNH ĐẶC BIỆT",
-      "MỘT LOẠI PHẦN MỀM",
-      "MỘT BỘ PHẬN CỦA MÁY TÍNH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Vòng lặp trong lập trình dùng để làm gì?",
-    "a": "LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH",
-    "c": [
-      "LẶP LẠI NHIỀU LẦN MỘT TẬP HỢP LỆNH",
-      "DỪNG CHƯƠNG TRÌNH",
-      "TẠO MÀU SẮC",
-      "VẼ HÌNH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Nhấn tổ hợp phím để TẠO MỚI (New) một tệp trống:",
-    "a": "ctrl+n",
-    "c": [
-      "ctrl+n"
-    ],
-    "type": "shortcut",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Nhấn tổ hợp phím để IN (Print) tài liệu ra máy in:",
-    "a": "ctrl+p",
-    "c": [
-      "ctrl+p"
-    ],
-    "type": "shortcut",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Luyện gõ lệnh lặp Scratch:",
-    "a": "repeat 10 times",
-    "c": [
-      "repeat 10 times"
-    ],
-    "type": "typing",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Trong Scratch, nhóm lệnh nào chứa lệnh 'khi nhấn cờ xanh'?",
-    "a": "NHÓM SỰ KIỆN",
-    "c": [
-      "NHÓM SỰ KIỆN",
-      "NHÓM CHUYỂN ĐỘNG",
-      "NHÓM NGOẠI HÌNH",
-      "NHÓM ÂM THANH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Bé nên làm gì khi nhận thấy mật khẩu tài khoản bị lộ?",
-    "a": "ĐỔI MẬT KHẨU NGAY",
-    "c": [
-      "ĐỔI MẬT KHẨU NGAY",
-      "KHÔNG LÀM GÌ CẢ",
-      "CHIA SẺ CHO BẠN BÈ",
-      "TẮT MÁY TÍNH THÔI"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Mạng máy tính toàn cầu kết nối hàng triệu thiết bị gọi là?",
-    "a": "INTERNET",
-    "c": [
-      "INTERNET",
-      "BLUETOOTH",
-      "WIFI NỘI BỘ",
-      "LAN"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Trong Scratch, lệnh nào giúp nhân vật di chuyển?",
-    "a": "DI CHUYỂN ... BƯỚC",
-    "c": [
-      "DI CHUYỂN ... BƯỚC",
-      "PHÁT TIẾNG NHẠC",
-      "ĐỔI MÀU SẮC",
-      "HIỆN RA"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Mật khẩu mạnh cần có yếu tố nào?",
-    "a": "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
-    "c": [
-      "CHỮ HOA, CHỮ THƯỜNG, SỐ VÀ KÝ TỰ ĐẶC BIỆT",
-      "CHỈ DÙNG SỐ",
-      "TÊN CỦA MÌNH",
-      "NGÀY SINH CỦA MÌNH"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "James Watt (Giêm Oát) là nhà sáng chế nổi tiếng thế giới với phát minh vĩ đại nào?",
-    "a": "Động cơ hơi nước",
-    "c": [
-      "Động cơ hơi nước",
-      "Bóng đèn điện",
-      "Ô tô chạy xăng",
-      "Điện thoại di động"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Thomas Edison (Tô-mát Ê-đi-xơn) nổi tiếng với phát minh nào làm thay đổi lịch sử chiếu sáng của nhân loại?",
-    "a": "Bóng đèn điện sợi đốt",
-    "c": [
-      "Bóng đèn điện sợi đốt",
-      "Động cơ hơi nước",
-      "Máy in",
-      "Máy bay"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Khi sử dụng điện thoại thông minh, thói quen nào có thể gây nguy hiểm nghiêm trọng đến tính mạng?",
-    "a": "Vừa sạc pin vừa sử dụng điện thoại",
-    "c": [
-      "Vừa sạc pin vừa sử dụng điện thoại",
-      "Chỉ nhắn tin khi cần thiết",
-      "Giới hạn thời gian sử dụng",
-      "Tắt wifi khi đi ngủ"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Đâu là một quy tắc ứng xử lịch sự khi giao tiếp qua điện thoại?",
-    "a": "Chào hỏi, xưng danh và nêu mục đích của cuộc gọi",
-    "c": [
-      "Chào hỏi, xưng danh và nêu mục đích của cuộc gọi",
-      "Nói trống không không xưng tên",
-      "Bất ngờ gác máy không chào",
-      "Nói thật to và gào thét vào mic"
-    ],
-    "type": "multiple_choice",
-    "lo": "Công nghệ và lập trình cơ bản, an toàn mạng lớp 5"
-  },
-  {
-    "q": "Ghép cấu trúc máy tính với thành phần đúng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Nhận biết cấu trúc và các thành phần bên trong máy tính",
-    "pairs": [
-      {
-        "left": "CPU",
-        "right": "Bộ xử lý trung tâm"
-      },
-      {
-        "left": "RAM",
-        "right": "Bộ nhớ tạm thời"
-      },
-      {
-        "left": "Ổ cứng (HDD/SSD)",
-        "right": "Lưu trữ dữ liệu lâu dài"
-      },
-      {
-        "left": "Card màn hình",
-        "right": "Xử lý hình ảnh và đồ họa"
-      }
+    "lo": "Công nghệ trong đời sống – Nhận biết vai trò công nghệ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Công nghệ trong đời sống",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Làm việc và sinh hoạt thuận tiện hơn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "Luyện gõ đoạn văn ngắn:",
-    "a": "may tinh la cong cu hoc tap",
+    "q": "Sử dụng thiết bị công nghệ quá lâu có thể gây gì?",
+    "a": "Ảnh hưởng đến sức khỏe",
     "c": [
-      "may tinh la cong cu hoc tap"
+      "Luôn tốt cho mắt",
+      "Không có ảnh hưởng",
+      "Tạo thêm thời gian ngủ",
+      "Ảnh hưởng đến sức khỏe"
     ],
-    "type": "typing",
-    "lo": "Rèn luyện kỹ năng gõ phím tốc độ và độ chính xác cao"
-  },
-  {
-    "q": "Bé hãy nhấn tổ hợp phím để LÀM MỚI (Refresh) trang web:",
-    "a": "ctrl+r",
-    "c": [
-      "ctrl+r"
-    ],
-    "type": "shortcut",
-    "lo": "Sử dụng thành thạo phím tắt trong trình duyệt web"
-  },
-  {
-    "q": "Ghép khái niệm lập trình với mô tả đúng:",
-    "a": "matching_done",
-    "c": [
-      "matching_done"
-    ],
-    "type": "matching",
-    "lo": "Hiểu các khái niệm lập trình cơ bản dành cho học sinh tiểu học",
-    "pairs": [
-      {
-        "left": "Thuật toán",
-        "right": "Dãy các bước giải quyết vấn đề"
-      },
-      {
-        "left": "Vòng lặp",
-        "right": "Thực hiện lại một khối lệnh nhiều lần"
-      },
-      {
-        "left": "Biến",
-        "right": "Ô chứa giá trị có thể thay đổi"
-      },
-      {
-        "left": "Điều kiện",
-        "right": "Kiểm tra để quyết định bước tiếp theo"
-      }
+    "type": "multiple_choice",
+    "lo": "Mặt trái khi sử dụng công nghệ – Nhận biết mặt trái của công nghệ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Mặt trái khi sử dụng công nghệ",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Ảnh hưởng đến sức khỏe”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
     ]
   },
   {
-    "q": "RAM là bộ nhớ vĩnh viễn của máy tính.",
-    "a": "Sai",
+    "q": "Chia sẻ thông tin cá nhân tùy tiện có thể gây gì?",
+    "a": "Mất an toàn thông tin",
     "c": [
-      "Đúng",
-      "Sai"
+      "Không có rủi ro",
+      "Giúp bảo mật hơn",
+      "Mất an toàn thông tin",
+      "Tăng an toàn thông tin"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Mặt trái khi sử dụng công nghệ – Sử dụng công nghệ an toàn",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Mặt trái khi sử dụng công nghệ",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Mất an toàn thông tin”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Ổ cứng là thiết bị xuất dữ liệu.",
-    "a": "Sai",
+    "q": "Để tránh lệ thuộc vào thiết bị số, em nên làm gì?",
+    "a": "Dùng đúng thời gian và tham gia hoạt động khác",
     "c": [
-      "Đúng",
-      "Sai"
+      "Dùng khi đang ăn ngủ",
+      "Dùng đúng thời gian và tham gia hoạt động khác",
+      "Dùng liên tục không nghỉ",
+      "Bỏ giao tiếp trực tiếp"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Mặt trái khi sử dụng công nghệ – Sử dụng công nghệ hợp lí",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Mặt trái khi sử dụng công nghệ",
+    "sourcePage": 11,
+    "explanation": "Đáp án đúng là “Dùng đúng thời gian và tham gia hoạt động khác”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Bàn phín dùng để gõ chữ.",
-    "a": "phín",
-    "words": [
-      "Bàn",
-      "phín",
-      "dùng",
-      "để",
-      "gõ",
-      "chữ."
+    "q": "Nhà sáng chế cần có đức tính nào?",
+    "a": "Sáng tạo và kiên trì",
+    "c": [
+      "Sáng tạo và kiên trì",
+      "Bỏ cuộc ngay",
+      "Không quan sát",
+      "Không thử nghiệm"
     ],
-    "type": "find_error",
-    "lo": "Tìm lỗi sai"
+    "type": "multiple_choice",
+    "lo": "Nhà sáng chế – Nhận biết phẩm chất nhà sáng chế",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Nhà sáng chế",
+    "sourcePage": 22,
+    "explanation": "Đáp án đúng là “Sáng tạo và kiên trì”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Chuột máy tính",
-    "a": "Phần cứng",
+    "q": "Khi tìm hiểu một sáng chế, em nên quan tâm điều gì?",
+    "a": "Vai trò của sản phẩm đối với đời sống",
     "c": [
-      "Phần cứng",
-      "Phần mềm"
+      "Chỉ màu vỏ hộp",
+      "Chỉ giá tiền",
+      "Chỉ tên người mua",
+      "Vai trò của sản phẩm đối với đời sống"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Nhà sáng chế – Tìm hiểu sản phẩm công nghệ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Nhà sáng chế",
+    "sourcePage": 24,
+    "explanation": "Đáp án đúng là “Vai trò của sản phẩm đối với đời sống”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "Trình duyệt web",
-    "a": "Phần mềm",
+    "q": "Khi tay ướt, em có nên chạm vào ổ điện không?",
+    "a": "Không",
     "c": [
-      "Phần cứng",
-      "Phần mềm"
+      "Có, nếu ở nhà",
+      "Có, nếu có bạn bên cạnh",
+      "Không",
+      "Có, nếu chạm nhanh"
     ],
-    "type": "categorize",
-    "lo": "Phân loại"
+    "type": "multiple_choice",
+    "lo": "Sử dụng điện an toàn – An toàn điện",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Sử dụng điện an toàn",
+    "sourcePage": 36,
+    "explanation": "Đáp án đúng là “Không”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   },
   {
-    "q": "RAM là bộ nhớ tạm thời của máy tính.",
-    "a": "Đúng",
+    "q": "Khi phát hiện dây điện hở, em nên làm gì?",
+    "a": "Báo ngay cho người lớn",
     "c": [
-      "Đúng",
-      "Sai"
+      "Đổ nước vào",
+      "Báo ngay cho người lớn",
+      "Tự sửa",
+      "Chạm thử"
     ],
-    "type": "true_false",
-    "lo": "Kiến thức chung"
+    "type": "multiple_choice",
+    "lo": "Sử dụng điện an toàn – An toàn điện",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Sử dụng điện an toàn",
+    "sourcePage": 37,
+    "explanation": "Đáp án đúng là “Báo ngay cho người lớn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Cây trồng cần được chăm sóc như thế nào?",
+    "a": "Tưới nước và làm cỏ phù hợp",
+    "c": [
+      "Tưới nước và làm cỏ phù hợp",
+      "Không cần nước",
+      "Bẻ cành thường xuyên",
+      "Để rác quanh gốc"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trồng cây – Chăm sóc cây trồng",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Trồng cây",
+    "sourcePage": 52,
+    "explanation": "Đáp án đúng là “Tưới nước và làm cỏ phù hợp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi dùng dụng cụ làm vườn, em cần làm gì?",
+    "a": "Sử dụng đúng cách và bảo đảm an toàn",
+    "c": [
+      "Ném dụng cụ",
+      "Đùa nghịch với dụng cụ",
+      "Dùng khi không có hướng dẫn",
+      "Sử dụng đúng cách và bảo đảm an toàn"
+    ],
+    "type": "multiple_choice",
+    "lo": "Trồng cây – An toàn lao động",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Trồng cây",
+    "sourcePage": 54,
+    "explanation": "Đáp án đúng là “Sử dụng đúng cách và bảo đảm an toàn”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi thiết kế sản phẩm, bước đầu tiên là gì?",
+    "a": "Xác định nhu cầu hoặc vấn đề cần giải quyết",
+    "c": [
+      "Bỏ qua yêu cầu",
+      "Chỉ chọn màu",
+      "Xác định nhu cầu hoặc vấn đề cần giải quyết",
+      "Làm ngẫu nhiên"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiết kế sản phẩm – Quy trình thiết kế",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Thiết kế sản phẩm",
+    "sourcePage": 66,
+    "explanation": "Đáp án đúng là “Xác định nhu cầu hoặc vấn đề cần giải quyết”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Một sản phẩm tốt cần đáp ứng điều gì?",
+    "a": "Hữu ích, an toàn và phù hợp",
+    "c": [
+      "Không cần sử dụng được",
+      "Hữu ích, an toàn và phù hợp",
+      "Chỉ thật đắt",
+      "Chỉ có màu đẹp"
+    ],
+    "type": "multiple_choice",
+    "lo": "Thiết kế sản phẩm – Đánh giá sản phẩm",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Công nghệ 5 – Kết nối tri thức với cuộc sống (sgk-cong-nghe-5-kntt_5120269.pdf) – Thiết kế sản phẩm",
+    "sourcePage": 68,
+    "explanation": "Đáp án đúng là “Hữu ích, an toàn và phù hợp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi truy cập website, trang nào thường xuất hiện đầu tiên?",
+    "a": "Trang chủ",
+    "c": [
+      "Trang chủ",
+      "Trang cuối",
+      "Trang in",
+      "Trang đăng xuất"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tìm kiếm thông tin trên website – Nhận biết trang chủ",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tìm kiếm thông tin trên website",
+    "sourcePage": 8,
+    "explanation": "Đáp án đúng là “Trang chủ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Thông tin trên website thường được sắp xếp theo gì?",
+    "a": "Chủ đề",
+    "c": [
+      "Màu ngẫu nhiên",
+      "Tên người dùng",
+      "Kích thước màn hình",
+      "Chủ đề"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tìm kiếm thông tin trên website – Tìm kiếm thông tin",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tìm kiếm thông tin trên website",
+    "sourcePage": 9,
+    "explanation": "Đáp án đúng là “Chủ đề”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Nút tìm kiếm trên website thường có biểu tượng gì?",
+    "a": "Kính lúp",
+    "c": [
+      "Cây bút",
+      "Quả bóng",
+      "Kính lúp",
+      "Ngôi nhà"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tìm kiếm thông tin trên website – Sử dụng công cụ tìm kiếm",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tìm kiếm thông tin trên website",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Kính lúp”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Để tìm thông tin trên website, em nên làm gì?",
+    "a": "Nhập từ khóa phù hợp vào ô tìm kiếm",
+    "c": [
+      "Tin mọi quảng cáo",
+      "Nhập từ khóa phù hợp vào ô tìm kiếm",
+      "Bấm ngẫu nhiên",
+      "Chia sẻ thông tin cá nhân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tìm kiếm thông tin trên website – Tìm kiếm thông tin",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tìm kiếm thông tin trên website",
+    "sourcePage": 10,
+    "explanation": "Đáp án đúng là “Nhập từ khóa phù hợp vào ô tìm kiếm”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Biểu tượng ngôi nhà trên website thường dùng để làm gì?",
+    "a": "Trở về trang chủ",
+    "c": [
+      "Trở về trang chủ",
+      "Xóa website",
+      "In trang",
+      "Tắt máy tính"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tìm kiếm thông tin trên website – Sử dụng website",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tìm kiếm thông tin trên website",
+    "sourcePage": 11,
+    "explanation": "Đáp án đúng là “Trở về trang chủ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi gặp thông tin đáng ngờ trên mạng, em nên làm gì?",
+    "a": "Hỏi người lớn trước khi tin hoặc chia sẻ",
+    "c": [
+      "Chia sẻ ngay",
+      "Bấm mọi liên kết",
+      "Gửi thông tin cá nhân",
+      "Hỏi người lớn trước khi tin hoặc chia sẻ"
+    ],
+    "type": "multiple_choice",
+    "lo": "An toàn trên mạng – Ứng xử an toàn số",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – An toàn trên mạng",
+    "sourcePage": 35,
+    "explanation": "Đáp án đúng là “Hỏi người lớn trước khi tin hoặc chia sẻ”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Khi tạo bài trình bày, em nên chọn nội dung như thế nào?",
+    "a": "Rõ ràng, phù hợp chủ đề",
+    "c": [
+      "Không có tiêu đề",
+      "Sao chép tùy ý",
+      "Rõ ràng, phù hợp chủ đề",
+      "Quá nhiều chữ nhỏ"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo sản phẩm số – Tạo sản phẩm số",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tạo sản phẩm số",
+    "sourcePage": 54,
+    "explanation": "Đáp án đúng là “Rõ ràng, phù hợp chủ đề”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
+  },
+  {
+    "q": "Trước khi chia sẻ sản phẩm số, em cần làm gì?",
+    "a": "Kiểm tra nội dung và nguồn thông tin",
+    "c": [
+      "Bỏ qua lỗi",
+      "Kiểm tra nội dung và nguồn thông tin",
+      "Chia sẻ ngay không xem lại",
+      "Đăng thông tin cá nhân"
+    ],
+    "type": "multiple_choice",
+    "lo": "Tạo sản phẩm số – Chia sẻ sản phẩm số",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tin học 5 – Kết nối tri thức với cuộc sống (sgk-tin-hoc-5-kntt_5120269.pdf) – Tạo sản phẩm số",
+    "sourcePage": 56,
+    "explanation": "Đáp án đúng là “Kiểm tra nội dung và nguồn thông tin”.",
+    "hints": [
+      "Đọc kỹ nội dung bài học và từng phương án."
+    ]
   }
 ]

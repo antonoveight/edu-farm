@@ -1,0 +1,1258 @@
+[
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “Xin chào”?",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "My name is Nam.",
+      "friend",
+      "hand"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Hello – Nhận biết từ vựng chủ đề Hello",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Hello",
+    "sourcePage": 15,
+    "explanation": "“Hello” có nghĩa là “Xin chào”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Hello)",
+    "a": "Hello",
+    "c": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Hello – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Hello",
+    "sourcePage": 15,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: Hello?",
+    "a": "H",
+    "c": [
+      "B",
+      "C",
+      "H",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Hello – Nhận biết chữ cái đầu của từ Hello",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Hello",
+    "sourcePage": 15,
+    "explanation": "Từ “Hello” bắt đầu bằng chữ H.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “Tôi tên là Nam.”?",
+    "a": "My name is Nam.",
+    "c": [
+      "music",
+      "My name is Nam.",
+      "friend",
+      "hand"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My name – Nhận biết từ vựng chủ đề My name",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My name",
+    "sourcePage": 21,
+    "explanation": "“My name is Nam.” có nghĩa là “Tôi tên là Nam.”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (My name)",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Sorry"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My name – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My name",
+    "sourcePage": 21,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: My name is Nam.?",
+    "a": "M",
+    "c": [
+      "A",
+      "B",
+      "C",
+      "M"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My name – Nhận biết chữ cái đầu của từ My name is Nam.",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My name",
+    "sourcePage": 21,
+    "explanation": "Từ “My name is Nam.” bắt đầu bằng chữ M.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “bạn”?",
+    "a": "friend",
+    "c": [
+      "music",
+      "school",
+      "friend",
+      "hand"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our friends – Nhận biết từ vựng chủ đề Our friends",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our friends",
+    "sourcePage": 27,
+    "explanation": "“friend” có nghĩa là “bạn”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Our friends)",
+    "a": "Hello",
+    "c": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our friends – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our friends",
+    "sourcePage": 27,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: friend?",
+    "a": "F",
+    "c": [
+      "F",
+      "A",
+      "B",
+      "C"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our friends – Nhận biết chữ cái đầu của từ friend",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our friends",
+    "sourcePage": 27,
+    "explanation": "Từ “friend” bắt đầu bằng chữ F.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “bàn tay”?",
+    "a": "hand",
+    "c": [
+      "music",
+      "school",
+      "book",
+      "hand"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My body – Nhận biết từ vựng chủ đề My body",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My body",
+    "sourcePage": 33,
+    "explanation": "“hand” có nghĩa là “bàn tay”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (My body)",
+    "a": "Hello",
+    "c": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My body – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My body",
+    "sourcePage": 33,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: hand?",
+    "a": "H",
+    "c": [
+      "C",
+      "H",
+      "A",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My body – Nhận biết chữ cái đầu của từ hand",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My body",
+    "sourcePage": 33,
+    "explanation": "Từ “hand” bắt đầu bằng chữ H.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “âm nhạc”?",
+    "a": "music",
+    "c": [
+      "music",
+      "school",
+      "book",
+      "kite"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My hobbies – Nhận biết từ vựng chủ đề My hobbies",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My hobbies",
+    "sourcePage": 39,
+    "explanation": "“music” có nghĩa là “âm nhạc”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (My hobbies)",
+    "a": "Hello",
+    "c": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My hobbies – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My hobbies",
+    "sourcePage": 39,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: music?",
+    "a": "M",
+    "c": [
+      "B",
+      "C",
+      "M",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: My hobbies – Nhận biết chữ cái đầu của từ music",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: My hobbies",
+    "sourcePage": 39,
+    "explanation": "Từ “music” bắt đầu bằng chữ M.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “trường học”?",
+    "a": "school",
+    "c": [
+      "blue",
+      "school",
+      "book",
+      "kite"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our school – Nhận biết từ vựng chủ đề Our school",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our school",
+    "sourcePage": 49,
+    "explanation": "“school” có nghĩa là “trường học”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Our school)",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Sorry"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our school – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our school",
+    "sourcePage": 49,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: school?",
+    "a": "S",
+    "c": [
+      "A",
+      "B",
+      "C",
+      "S"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Our school – Nhận biết chữ cái đầu của từ school",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Our school",
+    "sourcePage": 49,
+    "explanation": "Từ “school” bắt đầu bằng chữ S.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “quyển sách”?",
+    "a": "book",
+    "c": [
+      "blue",
+      "dog",
+      "book",
+      "kite"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Classroom objects – Nhận biết từ vựng chủ đề Classroom objects",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Classroom objects",
+    "sourcePage": 55,
+    "explanation": "“book” có nghĩa là “quyển sách”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Classroom objects)",
+    "a": "Hello",
+    "c": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Classroom objects – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Classroom objects",
+    "sourcePage": 55,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: book?",
+    "a": "B",
+    "c": [
+      "C",
+      "B",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Classroom objects – Nhận biết chữ cái đầu của từ book",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Classroom objects",
+    "sourcePage": 55,
+    "explanation": "Từ “book” bắt đầu bằng chữ B.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “cái diều”?",
+    "a": "kite",
+    "c": [
+      "blue",
+      "dog",
+      "mother",
+      "kite"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Toys – Nhận biết từ vựng chủ đề Toys",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Toys",
+    "sourcePage": 61,
+    "explanation": "“kite” có nghĩa là “cái diều”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Toys)",
+    "a": "Hello",
+    "c": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Toys – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Toys",
+    "sourcePage": 61,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: kite?",
+    "a": "K",
+    "c": [
+      "C",
+      "K",
+      "A",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Toys – Nhận biết chữ cái đầu của từ kite",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Toys",
+    "sourcePage": 61,
+    "explanation": "Từ “kite” bắt đầu bằng chữ K.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “màu xanh dương”?",
+    "a": "blue",
+    "c": [
+      "blue",
+      "Hello",
+      "My name is Nam.",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Colours – Nhận biết từ vựng chủ đề Colours",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Colours",
+    "sourcePage": 67,
+    "explanation": "“blue” có nghĩa là “màu xanh dương”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Colours)",
+    "a": "Hello",
+    "c": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Colours – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Colours",
+    "sourcePage": 67,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: blue?",
+    "a": "B",
+    "c": [
+      "C",
+      "B",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Colours – Nhận biết chữ cái đầu của từ blue",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Colours",
+    "sourcePage": 67,
+    "explanation": "Từ “blue” bắt đầu bằng chữ B.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “con chó”?",
+    "a": "dog",
+    "c": [
+      "hand",
+      "dog",
+      "My name is Nam.",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Animals – Nhận biết từ vựng chủ đề Animals",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Animals",
+    "sourcePage": 73,
+    "explanation": "“dog” có nghĩa là “con chó”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Animals)",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Sorry"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Animals – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Animals",
+    "sourcePage": 73,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: dog?",
+    "a": "D",
+    "c": [
+      "A",
+      "B",
+      "C",
+      "D"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Animals – Nhận biết chữ cái đầu của từ dog",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập một – Kết nối tri thức với cuộc sống (tienganh3tap1-ketnoitrithucvoicuocsongc46d7_5120269.pdf) – Unit: Animals",
+    "sourcePage": 73,
+    "explanation": "Từ “dog” bắt đầu bằng chữ D.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “mẹ”?",
+    "a": "mother",
+    "c": [
+      "hand",
+      "music",
+      "mother",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Family – Nhận biết từ vựng chủ đề Family",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Family",
+    "sourcePage": 10,
+    "explanation": "“mother” có nghĩa là “mẹ”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Family)",
+    "a": "Hello",
+    "c": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Family – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Family",
+    "sourcePage": 10,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: mother?",
+    "a": "M",
+    "c": [
+      "M",
+      "A",
+      "B",
+      "C"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Family – Nhận biết chữ cái đầu của từ mother",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Family",
+    "sourcePage": 10,
+    "explanation": "Từ “mother” bắt đầu bằng chữ M.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “cơm”?",
+    "a": "rice",
+    "c": [
+      "hand",
+      "music",
+      "school",
+      "rice"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Food – Nhận biết từ vựng chủ đề Food",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Food",
+    "sourcePage": 17,
+    "explanation": "“rice” có nghĩa là “cơm”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Food)",
+    "a": "Hello",
+    "c": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Food – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Food",
+    "sourcePage": 17,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: rice?",
+    "a": "R",
+    "c": [
+      "C",
+      "R",
+      "A",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Food – Nhận biết chữ cái đầu của từ rice",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Food",
+    "sourcePage": 17,
+    "explanation": "Từ “rice” bắt đầu bằng chữ R.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “nắng”?",
+    "a": "sunny",
+    "c": [
+      "sunny",
+      "music",
+      "school",
+      "book"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Weather – Nhận biết từ vựng chủ đề Weather",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Weather",
+    "sourcePage": 23,
+    "explanation": "“sunny” có nghĩa là “nắng”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Weather)",
+    "a": "Hello",
+    "c": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Weather – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Weather",
+    "sourcePage": 23,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: sunny?",
+    "a": "S",
+    "c": [
+      "B",
+      "C",
+      "S",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Weather – Nhận biết chữ cái đầu của từ sunny",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Weather",
+    "sourcePage": 23,
+    "explanation": "Từ “sunny” bắt đầu bằng chữ S.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “phòng ngủ”?",
+    "a": "bedroom",
+    "c": [
+      "kite",
+      "bedroom",
+      "school",
+      "book"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Rooms – Nhận biết từ vựng chủ đề Rooms",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Rooms",
+    "sourcePage": 29,
+    "explanation": "“bedroom” có nghĩa là “phòng ngủ”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Rooms)",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Sorry"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Rooms – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Rooms",
+    "sourcePage": 29,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: bedroom?",
+    "a": "B",
+    "c": [
+      "C",
+      "B",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Rooms – Nhận biết chữ cái đầu của từ bedroom",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Rooms",
+    "sourcePage": 29,
+    "explanation": "Từ “bedroom” bắt đầu bằng chữ B.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “áo sơ mi”?",
+    "a": "shirt",
+    "c": [
+      "kite",
+      "blue",
+      "shirt",
+      "book"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Clothes – Nhận biết từ vựng chủ đề Clothes",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Clothes",
+    "sourcePage": 35,
+    "explanation": "“shirt” có nghĩa là “áo sơ mi”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Clothes)",
+    "a": "Hello",
+    "c": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Clothes – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Clothes",
+    "sourcePage": 35,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: shirt?",
+    "a": "S",
+    "c": [
+      "S",
+      "A",
+      "B",
+      "C"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Clothes – Nhận biết chữ cái đầu của từ shirt",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Clothes",
+    "sourcePage": 35,
+    "explanation": "Từ “shirt” bắt đầu bằng chữ S.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “đọc”?",
+    "a": "read",
+    "c": [
+      "kite",
+      "blue",
+      "dog",
+      "read"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Daily activities – Nhận biết từ vựng chủ đề Daily activities",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Daily activities",
+    "sourcePage": 41,
+    "explanation": "“read” có nghĩa là “đọc”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Daily activities)",
+    "a": "Hello",
+    "c": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Daily activities – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Daily activities",
+    "sourcePage": 41,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: read?",
+    "a": "R",
+    "c": [
+      "C",
+      "R",
+      "A",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Daily activities – Nhận biết chữ cái đầu của từ read",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Daily activities",
+    "sourcePage": 41,
+    "explanation": "Từ “read” bắt đầu bằng chữ R.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “hai mươi”?",
+    "a": "twenty",
+    "c": [
+      "twenty",
+      "Hello",
+      "My name is Nam.",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Numbers – Nhận biết từ vựng chủ đề Numbers",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Numbers",
+    "sourcePage": 47,
+    "explanation": "“twenty” có nghĩa là “hai mươi”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Numbers)",
+    "a": "Hello",
+    "c": [
+      "Goodbye",
+      "Thank you",
+      "Sorry",
+      "Hello"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Numbers – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Numbers",
+    "sourcePage": 47,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: twenty?",
+    "a": "T",
+    "c": [
+      "B",
+      "C",
+      "T",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Numbers – Nhận biết chữ cái đầu của từ twenty",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Numbers",
+    "sourcePage": 47,
+    "explanation": "Từ “twenty” bắt đầu bằng chữ T.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “công viên”?",
+    "a": "park",
+    "c": [
+      "hand",
+      "park",
+      "My name is Nam.",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Places – Nhận biết từ vựng chủ đề Places",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Places",
+    "sourcePage": 53,
+    "explanation": "“park” có nghĩa là “công viên”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Places)",
+    "a": "Hello",
+    "c": [
+      "Hello",
+      "Goodbye",
+      "Thank you",
+      "Sorry"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Places – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Places",
+    "sourcePage": 53,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: park?",
+    "a": "P",
+    "c": [
+      "A",
+      "B",
+      "C",
+      "P"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Places – Nhận biết chữ cái đầu của từ park",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Places",
+    "sourcePage": 53,
+    "explanation": "Từ “park” bắt đầu bằng chữ P.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “xe buýt”?",
+    "a": "bus",
+    "c": [
+      "hand",
+      "music",
+      "bus",
+      "friend"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Transport – Nhận biết từ vựng chủ đề Transport",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Transport",
+    "sourcePage": 59,
+    "explanation": "“bus” có nghĩa là “xe buýt”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Transport)",
+    "a": "Hello",
+    "c": [
+      "Sorry",
+      "Hello",
+      "Goodbye",
+      "Thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Transport – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Transport",
+    "sourcePage": 59,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: bus?",
+    "a": "B",
+    "c": [
+      "C",
+      "B",
+      "A"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Transport – Nhận biết chữ cái đầu của từ bus",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Transport",
+    "sourcePage": 59,
+    "explanation": "Từ “bus” bắt đầu bằng chữ B.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  },
+  {
+    "q": "Từ tiếng Anh nào có nghĩa là “cảm ơn”?",
+    "a": "thank you",
+    "c": [
+      "hand",
+      "music",
+      "school",
+      "thank you"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Review – Nhận biết từ vựng chủ đề Review",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Review",
+    "sourcePage": 65,
+    "explanation": "“thank you” có nghĩa là “cảm ơn”.",
+    "hints": [
+      "Nhớ lại từ vựng của chủ đề."
+    ]
+  },
+  {
+    "q": "Gặp một người bạn, em có thể nói gì để chào? (Review)",
+    "a": "Hello",
+    "c": [
+      "Thank you",
+      "Sorry",
+      "Hello",
+      "Goodbye"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Review – Sử dụng mẫu câu giao tiếp đơn giản",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Review",
+    "sourcePage": 65,
+    "explanation": "“Hello” là lời chào thông dụng.",
+    "hints": [
+      "Đây là câu dùng khi gặp nhau."
+    ]
+  },
+  {
+    "q": "Chọn từ tiếng Anh bắt đầu bằng chữ cái nào: thank you?",
+    "a": "T",
+    "c": [
+      "C",
+      "T",
+      "A",
+      "B"
+    ],
+    "type": "multiple_choice",
+    "lo": "Unit: Review – Nhận biết chữ cái đầu của từ thank you",
+    "difficulty": "easy",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Anh 3, Tập hai – Kết nối tri thức với cuộc sống (tienganh3tap2-ketnoitrithucvoicuocsongdb3f5_5120269.pdf) – Unit: Review",
+    "sourcePage": 65,
+    "explanation": "Từ “thank you” bắt đầu bằng chữ T.",
+    "hints": [
+      "Nhìn chữ cái đầu tiên của từ."
+    ]
+  }
+]
