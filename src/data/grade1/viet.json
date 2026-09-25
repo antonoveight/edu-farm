@@ -151,13 +151,13 @@
     "hints": []
   },
   {
-    "q": "Âm \"b\" ghép với âm \"a\" và dấu huyền tạo thành tiếng nào sau đây?",
-    "a": "bà",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (a, b, c, e, ê và các dấu thanh đã học)?",
+    "a": "a, b, c, e, ê và các dấu thanh đã học",
     "c": [
-      "bà",
-      "bố",
-      "bé",
-      "cá"
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "a, b, c, e, ê và các dấu thanh đã học"
     ],
     "type": "multiple_choice",
     "lo": "Bài 5: Ôn tập và kể chuyện – Củng cố a, b, c, e, ê và các dấu thanh đã học",
@@ -166,7 +166,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 5: Ôn tập và kể chuyện",
     "sourcePage": 22,
-    "explanation": "Âm 'b' ghép với 'a' thành 'ba', thêm dấu huyền thành 'bà'.",
+    "explanation": "Mục lục xác định Bài 5: Ôn tập và kể chuyện là bài ôn tập các nội dung: a, b, c, e, ê và các dấu thanh đã học.",
     "hints": []
   },
   {
@@ -335,13 +335,13 @@
     "hints": []
   },
   {
-    "q": "Âm \"đ\" ghép với âm \"o\" và dấu sắc tạo thành tiếng nào sau đây?",
-    "a": "đó",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (o, ô, ơ, d, đ và các dấu thanh đã học)?",
+    "a": "o, ô, ơ, d, đ và các dấu thanh đã học",
     "c": [
-      "đó",
-      "đa",
-      "đi",
-      "đê"
+      "o, ô, ơ, d, đ và các dấu thanh đã học",
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học"
     ],
     "type": "multiple_choice",
     "lo": "Bài 10: Ôn tập và kể chuyện – Củng cố o, ô, ơ, d, đ và các dấu thanh đã học",
@@ -350,7 +350,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 10: Ôn tập và kể chuyện",
     "sourcePage": 32,
-    "explanation": "Âm 'đ' ghép với 'o' thành 'đo', thêm dấu sắc thành 'đó'.",
+    "explanation": "Mục lục xác định Bài 10: Ôn tập và kể chuyện là bài ôn tập các nội dung: o, ô, ơ, d, đ và các dấu thanh đã học.",
     "hints": []
   },
   {
@@ -576,13 +576,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa âm \"kh\"?",
-    "a": "khế",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (i, k, h, l, u, ư, ch, kh)?",
+    "a": "i, k, h, l, u, ư, ch, kh",
     "c": [
-      "khế",
-      "lá",
-      "cá",
-      "hổ"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "i, k, h, l, u, ư, ch, kh",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 15: Ôn tập và kể chuyện – Củng cố i, k, h, l, u, ư, ch, kh",
@@ -591,7 +591,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 15: Ôn tập và kể chuyện",
     "sourcePage": 42,
-    "explanation": "Từ 'khế' bắt đầu bằng âm 'kh'.",
+    "explanation": "Mục lục xác định Bài 15: Ôn tập và kể chuyện là bài ôn tập các nội dung: i, k, h, l, u, ư, ch, kh.",
     "hints": []
   },
   {
@@ -817,13 +817,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa âm \"nh\"?",
-    "a": "nhà",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (m, n, g, gi, gh, nh, ng, ngh)?",
+    "a": "m, n, g, gi, gh, nh, ng, ngh",
     "c": [
-      "nhà",
-      "gà",
-      "mèo",
-      "bò"
+      "m, n, g, gi, gh, nh, ng, ngh",
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học"
     ],
     "type": "multiple_choice",
     "lo": "Bài 20: Ôn tập và kể chuyện – Củng cố m, n, g, gi, gh, nh, ng, ngh",
@@ -832,7 +832,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 20: Ôn tập và kể chuyện",
     "sourcePage": 52,
-    "explanation": "Từ 'nhà' bắt đầu bằng âm 'nh'.",
+    "explanation": "Mục lục xác định Bài 20: Ôn tập và kể chuyện là bài ôn tập các nội dung: m, n, g, gi, gh, nh, ng, ngh.",
     "hints": []
   },
   {
@@ -1058,13 +1058,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"ưa\"?",
-    "a": "dưa",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (r, s, t, tr, th, ia, ua, ưa)?",
+    "a": "r, s, t, tr, th, ia, ua, ưa",
     "c": [
-      "dưa",
-      "tre",
-      "cá",
-      "táo"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "r, s, t, tr, th, ia, ua, ưa",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 25: Ôn tập và kể chuyện – Củng cố r, s, t, tr, th, ia, ua, ưa",
@@ -1073,7 +1073,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 25: Ôn tập và kể chuyện",
     "sourcePage": 62,
-    "explanation": "Tiếng 'dưa' có âm 'd' ghép với vần 'ưa'.",
+    "explanation": "Mục lục xác định Bài 25: Ôn tập và kể chuyện là bài ôn tập các nội dung: r, s, t, tr, th, ia, ua, ưa.",
     "hints": []
   },
   {
@@ -1228,13 +1228,13 @@
     "hints": []
   },
   {
-    "q": "Chữ \"k\" thường đi với những nguyên âm nào dưới đây?",
-    "a": "i, e, ê",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (các chữ ghi âm dễ lẫn đã học)?",
+    "a": "các chữ ghi âm dễ lẫn đã học",
     "c": [
-      "i, e, ê",
-      "a, o, u",
-      "ơ, ư, ă",
-      "ô, ơ, â"
+      "các chữ ghi âm dễ lẫn đã học",
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học"
     ],
     "type": "multiple_choice",
     "lo": "Bài 29: Luyện tập chính tả – Củng cố các chữ ghi âm dễ lẫn đã học",
@@ -1243,7 +1243,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 29: Luyện tập chính tả",
     "sourcePage": 70,
-    "explanation": "Theo quy tắc chính tả: 'k' đi với 'i, e, ê'; 'c' đi với các nguyên âm còn lại.",
+    "explanation": "Mục lục xác định Bài 29: Luyện tập chính tả là bài ôn tập các nội dung: các chữ ghi âm dễ lẫn đã học.",
     "hints": []
   },
   {
@@ -1261,13 +1261,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa âm \"ph\"?",
-    "a": "phố",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ph, qu, v, x, y và chính tả)?",
+    "a": "ph, qu, v, x, y và chính tả",
     "c": [
-      "phố",
-      "xe",
-      "quạt",
-      "vở"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "ph, qu, v, x, y và chính tả",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 30: Ôn tập và kể chuyện – Củng cố ph, qu, v, x, y và chính tả",
@@ -1276,7 +1276,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 30: Ôn tập và kể chuyện",
     "sourcePage": 72,
-    "explanation": "Từ 'phố' bắt đầu bằng âm 'ph'.",
+    "explanation": "Mục lục xác định Bài 30: Ôn tập và kể chuyện là bài ôn tập các nội dung: ph, qu, v, x, y và chính tả.",
     "hints": []
   },
   {
@@ -1597,13 +1597,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"an\"?",
-    "a": "cái bàn",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm)?",
+    "a": "an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm",
     "c": [
-      "cái bàn",
-      "cây bút",
-      "sách vở",
-      "thước kẻ"
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm"
     ],
     "type": "multiple_choice",
     "lo": "Bài 35: Ôn tập và kể chuyện – Củng cố an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm",
@@ -1612,7 +1612,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 35: Ôn tập và kể chuyện",
     "sourcePage": 82,
-    "explanation": "Tiếng 'bàn' chứa vần 'an'.",
+    "explanation": "Mục lục xác định Bài 35: Ôn tập và kể chuyện là bài ôn tập các nội dung: an, ăn, ân, on, ôn, ơn, en, ên, in, un, am, ăm, âm.",
     "hints": []
   },
   {
@@ -1933,13 +1933,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"êm\"?",
-    "a": "đêm",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi)?",
+    "a": "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
     "c": [
-      "đêm",
-      "nắng",
-      "mưa",
-      "gió"
+      "om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học"
     ],
     "type": "multiple_choice",
     "lo": "Bài 40: Ôn tập và kể chuyện – Củng cố om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi",
@@ -1948,7 +1948,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 40: Ôn tập và kể chuyện",
     "sourcePage": 92,
-    "explanation": "Tiếng 'đêm' chứa vần 'êm'.",
+    "explanation": "Mục lục xác định Bài 40: Ôn tập và kể chuyện là bài ôn tập các nội dung: om, ôm, ơm, em, êm, im, um, ai, ay, ây, oi, ôi, ơi.",
     "hints": []
   },
   {
@@ -2193,13 +2193,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"ao\"?",
-    "a": "ngôi sao",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ui, ưi, ao, eo, au, âu, êu, iu, ưu)?",
+    "a": "ui, ưi, ao, eo, au, âu, êu, iu, ưu",
     "c": [
-      "ngôi sao",
-      "mặt trăng",
-      "đám mây",
-      "ngọn núi"
+      "chỉ hình học",
+      "ui, ưi, ao, eo, au, âu, êu, iu, ưu",
+      "chỉ các chữ số",
+      "chỉ phép cộng"
     ],
     "type": "multiple_choice",
     "lo": "Bài 45: Ôn tập và kể chuyện – Củng cố ui, ưi, ao, eo, au, âu, êu, iu, ưu",
@@ -2208,7 +2208,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 45: Ôn tập và kể chuyện",
     "sourcePage": 102,
-    "explanation": "Tiếng 'sao' chứa vần 'ao'.",
+    "explanation": "Mục lục xác định Bài 45: Ôn tập và kể chuyện là bài ôn tập các nội dung: ui, ưi, ao, eo, au, âu, êu, iu, ưu.",
     "hints": []
   },
   {
@@ -2529,13 +2529,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"oc\"?",
-    "a": "con cóc",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt)?",
+    "a": "ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
     "c": [
-      "con cóc",
-      "con cá",
-      "con mèo",
-      "chú gà"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 50: Ôn tập và kể chuyện – Củng cố ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt",
@@ -2544,7 +2544,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 50: Ôn tập và kể chuyện",
     "sourcePage": 112,
-    "explanation": "Tiếng 'cóc' chứa vần 'oc'.",
+    "explanation": "Mục lục xác định Bài 50: Ôn tập và kể chuyện là bài ôn tập các nội dung: ac, ăc, âc, oc, ôc, uc, ưc, at, ăt, ât, ot, ôt, ơt.",
     "hints": []
   },
   {
@@ -2827,13 +2827,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"êt\"?",
-    "a": "con rết",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp)?",
+    "a": "et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
     "c": [
-      "con rết",
-      "con sâu",
-      "con bướm",
-      "con ong"
+      "chỉ hình học",
+      "et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
+      "chỉ các chữ số",
+      "chỉ phép cộng"
     ],
     "type": "multiple_choice",
     "lo": "Bài 55: Ôn tập và kể chuyện – Củng cố et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp",
@@ -2842,7 +2842,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 55: Ôn tập và kể chuyện",
     "sourcePage": 122,
-    "explanation": "Tiếng 'rết' chứa vần 'êt'.",
+    "explanation": "Mục lục xác định Bài 55: Ôn tập và kể chuyện là bài ôn tập các nội dung: et, êt, it, ut, ưt, ap, ăp, âp, op, ôp, ơp.",
     "hints": []
   },
   {
@@ -3163,13 +3163,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"anh\"?",
-    "a": "quả chanh",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng)?",
+    "a": "ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
     "c": [
-      "quả chanh",
-      "quả chuối",
-      "quả ổi",
-      "quả lê"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 60: Ôn tập và kể chuyện – Củng cố ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng",
@@ -3178,7 +3178,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 60: Ôn tập và kể chuyện",
     "sourcePage": 132,
-    "explanation": "Tiếng 'chanh' chứa vần 'anh'.",
+    "explanation": "Mục lục xác định Bài 60: Ôn tập và kể chuyện là bài ôn tập các nội dung: ep, êp, ip, up, anh, ênh, inh, ach, êch, ich, ang, ăng, âng.",
     "hints": []
   },
   {
@@ -3499,13 +3499,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"ong\"?",
-    "a": "chú ong",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu)?",
+    "a": "ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu",
     "c": [
-      "chú ong",
-      "chú vịt",
-      "chú mèo",
-      "chú cún"
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu"
     ],
     "type": "multiple_choice",
     "lo": "Bài 65: Ôn tập và kể chuyện – Củng cố ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu",
@@ -3514,7 +3514,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 65: Ôn tập và kể chuyện",
     "sourcePage": 142,
-    "explanation": "Tiếng 'ong' chứa vần 'ong'.",
+    "explanation": "Mục lục xác định Bài 65: Ôn tập và kể chuyện là bài ôn tập các nội dung: ong, ông, ung, ưng, iêc, iên, iêp, iêng, iêm, yên, iêt, iêu, yêu.",
     "hints": []
   },
   {
@@ -3740,13 +3740,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"uôi\"?",
-    "a": "quả chuối",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu)?",
+    "a": "uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
     "c": [
-      "quả chuối",
-      "quả cam",
-      "quả táo",
-      "quả dưa"
+      "chỉ hình học",
+      "uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
+      "chỉ các chữ số",
+      "chỉ phép cộng"
     ],
     "type": "multiple_choice",
     "lo": "Bài 70: Ôn tập và kể chuyện – Củng cố uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu",
@@ -3755,7 +3755,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 70: Ôn tập và kể chuyện",
     "sourcePage": 152,
-    "explanation": "Tiếng 'chuối' chứa vần 'uôi'.",
+    "explanation": "Mục lục xác định Bài 70: Ôn tập và kể chuyện là bài ôn tập các nội dung: uôi, uôm, uôc, uôt, uôn, uông, ươi, ươu.",
     "hints": []
   },
   {
@@ -3981,13 +3981,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"ươm\"?",
-    "a": "con bướm",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (ươc, ươt, ươm, ươp, ươn, ương, oa, oe)?",
+    "a": "ươc, ươt, ươm, ươp, ươn, ương, oa, oe",
     "c": [
-      "con bướm",
-      "con cá",
-      "con rùa",
-      "con ếch"
+      "chỉ các chữ số",
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "ươc, ươt, ươm, ươp, ươn, ương, oa, oe"
     ],
     "type": "multiple_choice",
     "lo": "Bài 75: Ôn tập và kể chuyện – Củng cố ươc, ươt, ươm, ươp, ươn, ương, oa, oe",
@@ -3996,7 +3996,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 75: Ôn tập và kể chuyện",
     "sourcePage": 162,
-    "explanation": "Tiếng 'bướm' chứa vần 'ươm'.",
+    "explanation": "Mục lục xác định Bài 75: Ôn tập và kể chuyện là bài ôn tập các nội dung: ươc, ươt, ươm, ươp, ươn, ương, oa, oe.",
     "hints": []
   },
   {
@@ -4279,13 +4279,13 @@
     "hints": []
   },
   {
-    "q": "Tiếng nào dưới đây chứa vần \"oan\"?",
-    "a": "bé ngoan",
+    "q": "Nhóm âm vần nào dưới đây xuất hiện trong bài học (oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt)?",
+    "a": "oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
     "c": [
-      "bé ngoan",
-      "chăm chỉ",
-      "vui vẻ",
-      "thật thà"
+      "chỉ phép cộng",
+      "chỉ hình học",
+      "oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
+      "chỉ các chữ số"
     ],
     "type": "multiple_choice",
     "lo": "Bài 80: Ôn tập và kể chuyện – Củng cố oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt",
@@ -4294,7 +4294,7 @@
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập một – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-1_107202616.pdf) – Bài 80: Ôn tập và kể chuyện",
     "sourcePage": 172,
-    "explanation": "Tiếng 'ngoan' chứa vần 'oan'.",
+    "explanation": "Mục lục xác định Bài 80: Ôn tập và kể chuyện là bài ôn tập các nội dung: oan, oăn, oat, oăt, oai, uê, uy, uân, uât, uyên, uyêt.",
     "hints": []
   },
   {
@@ -4312,385 +4312,385 @@
     "hints": []
   },
   {
-    "q": "Đọc câu sau: \"Năm nay, bạn Nam vừa tròn sáu tuổi và bước vào học lớp 1A.\" Hỏi: Bạn Nam học lớp nào?",
-    "a": "lớp 1A",
+    "q": "Khi đã là học sinh lớp 1, bé học thêm được kỹ năng quan trọng nào?",
+    "a": "Biết đọc sách và làm toán",
     "c": [
-      "lớp 1A",
-      "lớp 2A",
-      "lớp 3A",
-      "lớp 5A"
+      "Biết đọc sách và làm toán",
+      "Lái xe ô tô",
+      "Nấu ăn một mình",
+      "Chơi điện tử suốt ngày"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Tôi là học sinh lớp 1 – Đọc hiểu và tìm chi tiết trong bài “Tôi là học sinh lớp 1”",
+    "lo": "Chủ điểm 1 – Tôi là học sinh lớp 1 – Đọc hiểu và rút ra bài học từ bài “Tôi là học sinh lớp 1”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Tôi là học sinh lớp 1",
     "sourcePage": 4,
-    "explanation": "Theo câu văn, bạn Nam học lớp 1A.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tôi là học sinh lớp 1”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bây giờ Nam đã biết làm những gì?",
-    "a": "Đọc truyện tranh và làm toán",
+    "q": "Để trở thành học sinh lớp 1 chăm ngoan, em nên làm gì?",
+    "a": "Đi học đúng giờ và chú ý nghe cô giảng",
     "c": [
-      "Chỉ tô màu",
-      "Chỉ chơi bóng",
-      "Lái xe và nấu ăn",
-      "Đọc truyện tranh và làm toán"
+      "Nói chuyện riêng trong lớp",
+      "Đi học muộn",
+      "Không làm bài tập",
+      "Đi học đúng giờ và chú ý nghe cô giảng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Tôi là học sinh lớp 1 – Đọc hiểu và tìm chi tiết trong bài “Tôi là học sinh lớp 1”",
+    "lo": "Chủ điểm 1 – Tôi là học sinh lớp 1 – Đọc hiểu và rút ra bài học từ bài “Tôi là học sinh lớp 1”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Tôi là học sinh lớp 1",
     "sourcePage": 4,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tôi là học sinh lớp 1”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tôi là học sinh lớp 1”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao thỏ buồn?",
-    "a": "Vì bị bạn bè chê đôi tai dài và to",
+    "q": "Bài học từ câu chuyện \"Đôi tai xấu xí\" của bạn Thỏ là gì?",
+    "a": "Mỗi đặc điểm trên cơ thể đều có ích và đáng quý",
     "c": [
-      "Vì trời mưa",
-      "Vì bị đau chân",
-      "Vì bị bạn bè chê đôi tai dài và to",
-      "Vì không có cà rốt"
+      "Đôi tai dài là hoàn toàn vô dụng",
+      "Không cần lắng nghe bố mẹ",
+      "Mỗi đặc điểm trên cơ thể đều có ích và đáng quý",
+      "Nên chê bai ngoại hình của bạn bè"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Đôi tai xấu xí – Đọc hiểu và tìm chi tiết trong bài “Đôi tai xấu xí”",
+    "lo": "Chủ điểm 1 – Đôi tai xấu xí – Đọc hiểu và rút ra bài học từ bài “Đôi tai xấu xí”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Đôi tai xấu xí",
     "sourcePage": 8,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đôi tai xấu xí”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đôi tai xấu xí”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Nhờ đâu cả nhóm tìm được đường về?",
-    "a": "Nhờ đôi tai thính của thỏ nghe tiếng bố gọi",
+    "q": "Đôi tai của bạn Thỏ trong câu chuyện có tác dụng đặc biệt gì?",
+    "a": "Nghe rất thính để nhận biết âm thanh từ xa",
     "c": [
-      "Nhờ chiếc thuyền",
-      "Nhờ đôi tai thính của thỏ nghe tiếng bố gọi",
-      "Nhờ nhìn thấy cầu vồng",
-      "Nhờ gặp bác gấu"
+      "Dùng để cầm nắm đồ vật",
+      "Nghe rất thính để nhận biết âm thanh từ xa",
+      "Dùng để ngửi thức ăn",
+      "Dùng để nhìn trong bóng tối"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Đôi tai xấu xí – Đọc hiểu và tìm chi tiết trong bài “Đôi tai xấu xí”",
+    "lo": "Chủ điểm 1 – Đôi tai xấu xí – Đọc hiểu và rút ra bài học từ bài “Đôi tai xấu xí”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Đôi tai xấu xí",
     "sourcePage": 8,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đôi tai xấu xí”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đôi tai xấu xí”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Khi nhớ bạn, gió làm gì?",
-    "a": "Gõ cửa, đẩy sóng và thổi căng buồm",
+    "q": "Trong tự nhiên, ngọn gió mang lại lợi ích gì cho con người và thuyền buồm?",
+    "a": "Thổi mát và đẩy buồm ra khơi",
     "c": [
-      "Gõ cửa, đẩy sóng và thổi căng buồm",
-      "Nằm ngủ",
-      "Trốn trong hang",
-      "Đốt lửa"
+      "Thổi mát và đẩy buồm ra khơi",
+      "Làm thuyền chìm xuống đáy",
+      "Làm tắt ánh nắng mặt trời",
+      "Đốt cháy cây cối"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Bạn của gió – Đọc hiểu và tìm chi tiết trong bài “Bạn của gió”",
+    "lo": "Chủ điểm 1 – Bạn của gió – Đọc hiểu và rút ra bài học từ bài “Bạn của gió”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Bạn của gió",
     "sourcePage": 12,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bạn của gió”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bạn của gió”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Khi gió đi vắng, điều gì xảy ra?",
-    "a": "Lá lặng im, chim không giũ cánh và buồm không ra khơi",
+    "q": "Đọc câu: \"Gió nâng cánh diều bay lượn trên bầu trời.\" Từ nào chỉ sự vật bay trên cao nhờ gió?",
+    "a": "cánh diều",
     "c": [
-      "Sóng lớn hơn",
-      "Cây chạy đi",
-      "Trời có tuyết",
-      "Lá lặng im, chim không giũ cánh và buồm không ra khơi"
+      "ngọn núi",
+      "con đường",
+      "hòn đá",
+      "cánh diều"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Bạn của gió – Đọc hiểu và tìm chi tiết trong bài “Bạn của gió”",
+    "lo": "Chủ điểm 1 – Bạn của gió – Đọc hiểu và rút ra bài học từ bài “Bạn của gió”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Bạn của gió",
     "sourcePage": 12,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bạn của gió”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bạn của gió”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Khi hoẵng bị ngã, nai làm gì?",
-    "a": "Dừng lại đỡ hoẵng đứng dậy",
+    "q": "Khi thấy bạn mình bị ngã trong lúc thi chạy hoặc vui chơi, em nên làm gì?",
+    "a": "Dừng lại đỡ bạn đứng dậy",
     "c": [
-      "Cười bạn",
-      "Bỏ cuộc thi",
-      "Dừng lại đỡ hoẵng đứng dậy",
-      "Chạy nhanh về đích"
+      "Bỏ mặc bạn để chạy về đích",
+      "Trách mắng bạn",
+      "Dừng lại đỡ bạn đứng dậy",
+      "Cười nhạo bạn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Giải thưởng tình bạn – Đọc hiểu và tìm chi tiết trong bài “Giải thưởng tình bạn”",
+    "lo": "Chủ điểm 1 – Giải thưởng tình bạn – Đọc hiểu và rút ra bài học từ bài “Giải thưởng tình bạn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Giải thưởng tình bạn",
     "sourcePage": 14,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Giải thưởng tình bạn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Giải thưởng tình bạn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao nai và hoẵng được trao giải thưởng?",
-    "a": "Vì tình bạn và biết giúp đỡ nhau",
+    "q": "Câu chuyện \"Giải thưởng tình bạn\" khuyên chúng ta điều gì?",
+    "a": "Biết yêu thương và giúp đỡ bạn bè khi gặp khó khăn",
     "c": [
-      "Vì có áo đẹp",
-      "Vì tình bạn và biết giúp đỡ nhau",
-      "Vì về đích đầu tiên",
-      "Vì chạy một mình"
+      "Tranh giành phần thưởng bằng mọi cách",
+      "Biết yêu thương và giúp đỡ bạn bè khi gặp khó khăn",
+      "Chỉ lo cho bản thân mình",
+      "Không bao giờ nhường bạn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Giải thưởng tình bạn – Đọc hiểu và tìm chi tiết trong bài “Giải thưởng tình bạn”",
+    "lo": "Chủ điểm 1 – Giải thưởng tình bạn – Đọc hiểu và rút ra bài học từ bài “Giải thưởng tình bạn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Giải thưởng tình bạn",
     "sourcePage": 14,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Giải thưởng tình bạn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Giải thưởng tình bạn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Những ai đến mừng sinh nhật voi con?",
-    "a": "Thỏ trắng, gấu đen, khỉ vàng, sóc nâu và vẹt",
+    "q": "Khi được bạn bè đến chúc mừng và tặng quà sinh nhật như voi con, bé nên làm gì?",
+    "a": "Nói lời cảm ơn chân thành với các bạn",
     "c": [
-      "Thỏ trắng, gấu đen, khỉ vàng, sóc nâu và vẹt",
-      "Chỉ có hổ",
-      "Cá và tôm",
-      "Không có ai"
+      "Nói lời cảm ơn chân thành với các bạn",
+      "Giành lấy quà rồi bỏ chạy",
+      "Chê bai quà của các bạn",
+      "Khóc nhè không nhận"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Sinh nhật của voi con – Đọc hiểu và tìm chi tiết trong bài “Sinh nhật của voi con”",
+    "lo": "Chủ điểm 1 – Sinh nhật của voi con – Đọc hiểu và rút ra bài học từ bài “Sinh nhật của voi con”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Sinh nhật của voi con",
     "sourcePage": 18,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Sinh nhật của voi con”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Sinh nhật của voi con”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Voi con làm gì để cảm ơn các bạn?",
-    "a": "Huơ vòi mấy vòng",
+    "q": "Trong các bạn đến mừng sinh nhật voi con, loài vật nào nổi tiếng leo trèo nhanh nhẹn trên cành cây?",
+    "a": "Khỉ vàng",
     "c": [
-      "Ngủ tiếp",
-      "Chạy ra khỏi nhà",
-      "Giấu quà",
-      "Huơ vòi mấy vòng"
+      "Cá chép",
+      "Rùa đá",
+      "Cua biển",
+      "Khỉ vàng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 1 – Sinh nhật của voi con – Đọc hiểu và tìm chi tiết trong bài “Sinh nhật của voi con”",
+    "lo": "Chủ điểm 1 – Sinh nhật của voi con – Đọc hiểu và rút ra bài học từ bài “Sinh nhật của voi con”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 1 – Sinh nhật của voi con",
     "sourcePage": 18,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Sinh nhật của voi con”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Sinh nhật của voi con”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Mẹ dặn Nam làm gì khi lo lắng?",
-    "a": "Áp bàn tay có nụ hôn của mẹ lên má",
+    "q": "Khi lần đầu đến trường còn bỡ ngỡ hoặc lo lắng, em nên làm gì?",
+    "a": "Nhớ lời dặn yêu thương của bố mẹ để tự tin bước vào lớp",
     "c": [
-      "Giấu bàn tay",
-      "Không vào lớp",
-      "Áp bàn tay có nụ hôn của mẹ lên má",
-      "Chạy về nhà"
+      "Bỏ chạy về nhà",
+      "Không chịu vào lớp học",
+      "Nhớ lời dặn yêu thương của bố mẹ để tự tin bước vào lớp",
+      "Ngồi khóc ở cổng trường"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Nụ hôn trên bàn tay – Đọc hiểu và tìm chi tiết trong bài “Nụ hôn trên bàn tay”",
+    "lo": "Chủ điểm 2 – Nụ hôn trên bàn tay – Đọc hiểu và rút ra bài học từ bài “Nụ hôn trên bàn tay”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Nụ hôn trên bàn tay",
     "sourcePage": 24,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nụ hôn trên bàn tay”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nụ hôn trên bàn tay”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Sau khi chào mẹ, Nam làm gì?",
-    "a": "Tung tăng bước vào lớp",
+    "q": "Tình cảm của bố mẹ dành cho con cái trong bài đọc được thể hiện qua điều gì?",
+    "a": "Sự quan tâm, vỗ về và yêu thương ấm áp",
     "c": [
-      "Chạy ra công viên",
-      "Tung tăng bước vào lớp",
-      "Ngồi khóc ở cổng",
-      "Đi về nhà"
+      "Sự bỏ mặc con một mình",
+      "Sự quan tâm, vỗ về và yêu thương ấm áp",
+      "Sự thờ ơ, không để ý",
+      "Sự tức giận, quát mắng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Nụ hôn trên bàn tay – Đọc hiểu và tìm chi tiết trong bài “Nụ hôn trên bàn tay”",
+    "lo": "Chủ điểm 2 – Nụ hôn trên bàn tay – Đọc hiểu và rút ra bài học từ bài “Nụ hôn trên bàn tay”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Nụ hôn trên bàn tay",
     "sourcePage": 24,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nụ hôn trên bàn tay”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nụ hôn trên bàn tay”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Khi em bé khóc hoặc ngã, người anh nên làm gì?",
-    "a": "Dỗ dành và nâng em dịu dàng",
+    "q": "Theo bài thơ \"Làm anh\", người làm anh chị trong nhà nên đối xử với em nhỏ như thế nào?",
+    "a": "Nhường nhịn và dỗ dành em dịu dàng",
     "c": [
-      "Dỗ dành và nâng em dịu dàng",
-      "Trêu em",
-      "Bỏ đi chơi",
-      "Giành đồ chơi"
+      "Nhường nhịn và dỗ dành em dịu dàng",
+      "Tranh giành đồ chơi với em",
+      "Quát mắng và trêu chọc em",
+      "Bỏ mặc em khi em khóc"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Làm anh – Đọc hiểu và tìm chi tiết trong bài “Làm anh”",
+    "lo": "Chủ điểm 2 – Làm anh – Đọc hiểu và rút ra bài học từ bài “Làm anh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Làm anh",
     "sourcePage": 28,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Làm anh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Làm anh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao làm anh tuy khó mà vui?",
-    "a": "Vì yêu em bé",
+    "q": "Tại sao làm anh chị chăm sóc em nhỏ tuy vất vả nhưng lại rất vui?",
+    "a": "Vì xuất phát từ tình yêu thương em bé",
     "c": [
-      "Vì được nhiều quà",
-      "Vì không cần nhường em",
-      "Vì không phải giúp ai",
-      "Vì yêu em bé"
+      "Vì được nhiều đồ chơi hơn",
+      "Vì không phải học bài",
+      "Vì được đi chơi cả ngày",
+      "Vì xuất phát từ tình yêu thương em bé"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Làm anh – Đọc hiểu và tìm chi tiết trong bài “Làm anh”",
+    "lo": "Chủ điểm 2 – Làm anh – Đọc hiểu và rút ra bài học từ bài “Làm anh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Làm anh",
     "sourcePage": 28,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Làm anh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Làm anh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Mẹ chuẩn bị gì cho chuyến đi núi?",
-    "a": "Quần áo, thức ăn, nước uống và thuốc chống côn trùng",
+    "q": "Khi cùng gia đình đi dã ngoại hoặc leo núi, chúng ta cần chuẩn bị những gì?",
+    "a": "Nước uống, thức ăn nhẹ và đồ bảo hộ an toàn",
     "c": [
-      "Chỉ sách vở",
-      "Không chuẩn bị gì",
-      "Quần áo, thức ăn, nước uống và thuốc chống côn trùng",
-      "Chỉ đồ chơi"
+      "Chỉ mang bánh kẹo ngọt",
+      "Không cần chuẩn bị gì",
+      "Nước uống, thức ăn nhẹ và đồ bảo hộ an toàn",
+      "Chỉ mang đồ chơi điện tử"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Cả nhà đi chơi núi – Đọc hiểu và tìm chi tiết trong bài “Cả nhà đi chơi núi”",
+    "lo": "Chủ điểm 2 – Cả nhà đi chơi núi – Đọc hiểu và rút ra bài học từ bài “Cả nhà đi chơi núi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Cả nhà đi chơi núi",
     "sourcePage": 30,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cả nhà đi chơi núi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cả nhà đi chơi núi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ở đoạn đường dốc và khúc khuỷu, bố làm gì?",
-    "a": "Cõng Đức",
+    "q": "Khi đi dã ngoại ở nơi đồi núi, để đảm bảo an toàn em cần chú ý điều gì?",
+    "a": "Đi sát cạnh người lớn và nghe theo lời bố mẹ",
     "c": [
-      "Để Đức ở lại",
-      "Cõng Đức",
-      "Quay về nhà",
-      "Đi xe đạp"
+      "Tách xa khỏi gia đình",
+      "Đi sát cạnh người lớn và nghe theo lời bố mẹ",
+      "Tự ý chạy một mình vào bụi rậm",
+      "Trèo lên mỏm đá chênh vênh"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Cả nhà đi chơi núi – Đọc hiểu và tìm chi tiết trong bài “Cả nhà đi chơi núi”",
+    "lo": "Chủ điểm 2 – Cả nhà đi chơi núi – Đọc hiểu và rút ra bài học từ bài “Cả nhà đi chơi núi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Cả nhà đi chơi núi",
     "sourcePage": 30,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cả nhà đi chơi núi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cả nhà đi chơi núi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao bạn nhỏ bảo chích choè đừng hót?",
-    "a": "Vì bà đang ốm và cần ngủ",
+    "q": "Bài thơ \"Quạt cho bà ngủ\" thể hiện tình cảm gì của bạn nhỏ đối với bà?",
+    "a": "Lòng hiếu thảo và sự chăm sóc ân cần dành cho bà",
     "c": [
-      "Vì bà đang ốm và cần ngủ",
-      "Vì chim hót dở",
-      "Vì trời mưa",
-      "Vì bạn muốn đi chơi"
+      "Lòng hiếu thảo và sự chăm sóc ân cần dành cho bà",
+      "Sự lười biếng, không muốn học bài",
+      "Sự thờ ơ với người thân",
+      "Thích trêu chọc chim chích choè"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Quạt cho bà ngủ – Đọc hiểu và tìm chi tiết trong bài “Quạt cho bà ngủ”",
+    "lo": "Chủ điểm 2 – Quạt cho bà ngủ – Đọc hiểu và rút ra bài học từ bài “Quạt cho bà ngủ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Quạt cho bà ngủ",
     "sourcePage": 34,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Quạt cho bà ngủ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Quạt cho bà ngủ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bạn nhỏ làm gì khi bà ngủ?",
-    "a": "Quạt đều cho bà",
+    "q": "Khi người thân trong gia đình bị ốm hoặc cần nghỉ ngơi, em nên làm gì?",
+    "a": "Giữ im lặng và hỏi thăm, chăm sóc nhẹ nhàng",
     "c": [
-      "Bật nhạc lớn",
-      "Chạy nhảy",
-      "Gọi bà dậy",
-      "Quạt đều cho bà"
+      "Bật nhạc thật to và chạy nhảy nô đùa",
+      "La hét gọi người thân dậy",
+      "Không quan tâm gì",
+      "Giữ im lặng và hỏi thăm, chăm sóc nhẹ nhàng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Quạt cho bà ngủ – Đọc hiểu và tìm chi tiết trong bài “Quạt cho bà ngủ”",
+    "lo": "Chủ điểm 2 – Quạt cho bà ngủ – Đọc hiểu và rút ra bài học từ bài “Quạt cho bà ngủ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Quạt cho bà ngủ",
     "sourcePage": 34,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Quạt cho bà ngủ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Quạt cho bà ngủ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ngày Gia đình Việt Nam là ngày nào?",
+    "q": "Ngày Gia đình Việt Nam hằng năm là ngày nào?",
     "a": "28 tháng 6",
     "c": [
       "1 tháng 6",
@@ -4699,1254 +4699,1254 @@
       "1 tháng 1"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Bữa cơm gia đình – Đọc hiểu và tìm chi tiết trong bài “Bữa cơm gia đình”",
+    "lo": "Chủ điểm 2 – Bữa cơm gia đình – Đọc hiểu và rút ra bài học từ bài “Bữa cơm gia đình”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Bữa cơm gia đình",
     "sourcePage": 36,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bữa cơm gia đình”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bữa cơm gia đình”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Gia đình Chi chuẩn bị bữa cơm như thế nào?",
-    "a": "Mỗi người cùng làm một việc để giúp mẹ",
+    "q": "Để bữa cơm gia đình thêm ấm cúng và vui vẻ, các thành viên nên làm gì?",
+    "a": "Mỗi người cùng giúp một tay chuẩn bị và dọn dẹp",
     "c": [
-      "Không ai dọn dẹp",
-      "Mỗi người cùng làm một việc để giúp mẹ",
-      "Chỉ mẹ làm mọi việc",
-      "Cả nhà đi vắng"
+      "Bỏ bữa không ăn cùng gia đình",
+      "Mỗi người cùng giúp một tay chuẩn bị và dọn dẹp",
+      "Chỉ để một mình mẹ làm hết",
+      "Vừa ăn vừa xem điện thoại một mình"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Bữa cơm gia đình – Đọc hiểu và tìm chi tiết trong bài “Bữa cơm gia đình”",
+    "lo": "Chủ điểm 2 – Bữa cơm gia đình – Đọc hiểu và rút ra bài học từ bài “Bữa cơm gia đình”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Bữa cơm gia đình",
     "sourcePage": 36,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bữa cơm gia đình”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bữa cơm gia đình”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Trước ngõ nhà bạn nhỏ có hoa gì?",
-    "a": "Hoa xoan",
+    "q": "Trong bài thơ \"Ngôi nhà\", tình yêu ngôi nhà của bạn nhỏ được gắn liền với tình cảm lớn lao nào?",
+    "a": "Tình yêu quê hương, đất nước",
     "c": [
-      "Hoa xoan",
-      "Hoa sen",
-      "Hoa phượng",
-      "Hoa súng"
+      "Tình yêu quê hương, đất nước",
+      "Tình yêu bánh kẹo",
+      "Tình yêu trò chơi điện tử",
+      "Tình yêu xe đồ chơi"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Ngôi nhà – Đọc hiểu và tìm chi tiết trong bài “Ngôi nhà”",
+    "lo": "Chủ điểm 2 – Ngôi nhà – Đọc hiểu và rút ra bài học từ bài “Ngôi nhà”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Ngôi nhà",
     "sourcePage": 40,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ngôi nhà”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ngôi nhà”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bạn nhỏ yêu ngôi nhà như yêu điều gì?",
-    "a": "Yêu đất nước",
+    "q": "Để giữ gìn ngôi nhà của mình luôn sạch sẽ và gọn gàng, em nên làm gì?",
+    "a": "Thường xuyên quét dọn và sắp xếp đồ đạc ngăn nắp",
     "c": [
-      "Yêu đồ chơi",
-      "Yêu bánh kẹo",
-      "Yêu chiếc xe",
-      "Yêu đất nước"
+      "Vứt rác bừa bãi ra sàn nhà",
+      "Vẽ bậy lên tường phòng",
+      "Bày đồ chơi khắp nơi không dọn",
+      "Thường xuyên quét dọn và sắp xếp đồ đạc ngăn nắp"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 2 – Ngôi nhà – Đọc hiểu và tìm chi tiết trong bài “Ngôi nhà”",
+    "lo": "Chủ điểm 2 – Ngôi nhà – Đọc hiểu và rút ra bài học từ bài “Ngôi nhà”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 2 – Ngôi nhà",
     "sourcePage": 40,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ngôi nhà”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ngôi nhà”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ai dẫn bạn nhỏ đến trường trong ngày đầu đi học?",
-    "a": "Mẹ",
+    "q": "Trong bài \"Tôi đi học\", vì sao con đường quen thuộc hằng ngày bỗng trở nên mới lạ?",
+    "a": "Vì hôm nay bạn nhỏ lần đầu tiên được mẹ đưa đến trường",
     "c": [
-      "Anh trai",
-      "Bạn cùng lớp",
-      "Mẹ",
-      "Bố"
+      "Vì trời đổ cơn mưa to",
+      "Vì bạn nhỏ bị lạc đường",
+      "Vì hôm nay bạn nhỏ lần đầu tiên được mẹ đưa đến trường",
+      "Vì con đường mới được mở rộng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Tôi đi học – Đọc hiểu và tìm chi tiết trong bài “Tôi đi học”",
+    "lo": "Chủ điểm 3 – Tôi đi học – Đọc hiểu và rút ra bài học từ bài “Tôi đi học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Tôi đi học",
     "sourcePage": 44,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tôi đi học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tôi đi học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao cảnh vật quen thuộc bỗng thấy lạ?",
-    "a": "Vì lòng bạn nhỏ đang có sự thay đổi lớn: hôm nay đi học",
+    "q": "Trong ngày đầu tiên đi học, tâm trạng chung của các bạn nhỏ là gì?",
+    "a": "Bỡ ngỡ, hồi hộp nhưng đầy háo hức",
     "c": [
-      "Vì bạn quên đường",
-      "Vì lòng bạn nhỏ đang có sự thay đổi lớn: hôm nay đi học",
-      "Vì con đường mới xây",
-      "Vì trời tối"
+      "Chỉ muốn đi ngủ tiếp",
+      "Bỡ ngỡ, hồi hộp nhưng đầy háo hức",
+      "Buồn bã và tức giận",
+      "Hoàn toàn không quan tâm"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Tôi đi học – Đọc hiểu và tìm chi tiết trong bài “Tôi đi học”",
+    "lo": "Chủ điểm 3 – Tôi đi học – Đọc hiểu và rút ra bài học từ bài “Tôi đi học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Tôi đi học",
     "sourcePage": 44,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tôi đi học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tôi đi học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao hôm nay bạn nhỏ đi học một mình?",
-    "a": "Vì mẹ lên nương",
+    "q": "Trong bài thơ \"Đi học\", hình ảnh thiên nhiên nào che mát cho bạn nhỏ trên đường đến trường?",
+    "a": "Cây cọ xoè búp che như chiếc ô",
     "c": [
-      "Vì mẹ lên nương",
-      "Vì trường đóng cửa",
-      "Vì bạn không có mẹ",
-      "Vì trời mưa"
+      "Cây cọ xoè búp che như chiếc ô",
+      "Tấm bạt nhựa lớn",
+      "Đám mây đen dày",
+      "Cơn mưa rào"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Đi học – Đọc hiểu và tìm chi tiết trong bài “Đi học”",
+    "lo": "Chủ điểm 3 – Đi học – Đọc hiểu và rút ra bài học từ bài “Đi học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Đi học",
     "sourcePage": 48,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đi học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đi học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Trường của bạn nhỏ có đặc điểm gì?",
-    "a": "Be bé, nằm lặng giữa rừng cây",
+    "q": "Bài thơ \"Đi học\" ca ngợi điều gì ở các bạn nhỏ vùng cao?",
+    "a": "Tinh thần chăm chỉ và yêu thích đến trường học chữ",
     "c": [
-      "Rất lớn giữa thành phố",
-      "Ở trên biển",
-      "Ở trong hang",
-      "Be bé, nằm lặng giữa rừng cây"
+      "Thói quen trốn học đi chơi",
+      "Sở thích đi săn thú rừng",
+      "Lười biếng không làm bài",
+      "Tinh thần chăm chỉ và yêu thích đến trường học chữ"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Đi học – Đọc hiểu và tìm chi tiết trong bài “Đi học”",
+    "lo": "Chủ điểm 3 – Đi học – Đọc hiểu và rút ra bài học từ bài “Đi học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Đi học",
     "sourcePage": 48,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đi học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đi học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đọc câu sau: \"Bạn Hà vẽ tặng cô giáo một bức tranh bông hoa bốn cánh thật đẹp.\" Hỏi: Bức tranh của Hà vẽ hình gì?",
-    "a": "Bông hoa bốn cánh",
+    "q": "Bức tranh bông hoa trong bài \"Hoa yêu thương\" thể hiện tình cảm gì của học sinh?",
+    "a": "Lòng biết ơn và kính trọng cô giáo kính yêu",
     "c": [
-      "Ngôi nhà",
-      "Cầu vồng",
-      "Bông hoa bốn cánh",
-      "Con thuyền"
+      "Muốn đòi phần thưởng lớn",
+      "Sợ bị cô giáo phạt",
+      "Lòng biết ơn và kính trọng cô giáo kính yêu",
+      "Muốn khoe tài vẽ tranh đẹp"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Hoa yêu thương – Đọc hiểu và tìm chi tiết trong bài “Hoa yêu thương”",
+    "lo": "Chủ điểm 3 – Hoa yêu thương – Đọc hiểu và rút ra bài học từ bài “Hoa yêu thương”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Hoa yêu thương",
     "sourcePage": 50,
-    "explanation": "Theo câu văn, bạn Hà vẽ một bức tranh bông hoa bốn cánh.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hoa yêu thương”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đọc câu sau: \"Ở chính giữa nhụy hoa, Hà vẽ hình cô giáo đang cười tươi rạng rỡ.\" Hỏi: Ở giữa nhụy hoa là hình ảnh của ai?",
-    "a": "Cô giáo đang cười tươi",
+    "q": "Để bày tỏ lòng biết ơn đối với thầy cô giáo, việc làm thiết thực nhất của học sinh là gì?",
+    "a": "Chăm ngoan, lễ phép và cố gắng học tốt",
     "c": [
-      "Một chú mèo",
-      "Cô giáo đang cười tươi",
-      "Bạn Hà",
-      "Bác bảo vệ"
+      "Không làm bài tập về nhà",
+      "Chăm ngoan, lễ phép và cố gắng học tốt",
+      "Chỉ tặng quà đắt tiền",
+      "Nói chuyện riêng trong giờ học"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Hoa yêu thương – Đọc hiểu và tìm chi tiết trong bài “Hoa yêu thương”",
+    "lo": "Chủ điểm 3 – Hoa yêu thương – Đọc hiểu và rút ra bài học từ bài “Hoa yêu thương”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Hoa yêu thương",
     "sourcePage": 50,
-    "explanation": "Theo câu văn, giữa nhụy hoa là hình ảnh cô giáo đang cười tươi.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hoa yêu thương”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Tán lá bàng được so sánh với gì?",
-    "a": "Một chiếc ô xanh mướt",
+    "q": "Cây bàng trên sân trường mang lại lợi ích gì cho các bạn học sinh?",
+    "a": "Tỏa bóng mát che nắng cho các bạn vui chơi",
     "c": [
-      "Một chiếc ô xanh mướt",
-      "Một chiếc thuyền",
-      "Một quả bóng",
-      "Một ngọn núi"
+      "Tỏa bóng mát che nắng cho các bạn vui chơi",
+      "Cho quả ngọt ăn mỗi ngày",
+      "Dùng để đốt lửa sưởi ấm",
+      "Làm tối cả sân trường"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Cây bàng và lớp học – Đọc hiểu và tìm chi tiết trong bài “Cây bàng và lớp học”",
+    "lo": "Chủ điểm 3 – Cây bàng và lớp học – Đọc hiểu và rút ra bài học từ bài “Cây bàng và lớp học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Cây bàng và lớp học",
     "sourcePage": 54,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cây bàng và lớp học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cây bàng và lớp học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Thứ Hai, cây bàng vui vì điều gì?",
-    "a": "Lớp học lại tưng bừng và có các bạn",
+    "q": "Đọc câu: \"Tán lá bàng như một chiếc ô xanh xoè rộng.\" Hình ảnh chiếc ô xanh được so sánh với bộ phận nào?",
+    "a": "Tán lá bàng",
     "c": [
-      "Trời mưa lớn",
-      "Sân trường vắng",
-      "Không có tiếng cô",
-      "Lớp học lại tưng bừng và có các bạn"
+      "Gốc cây bàng",
+      "Rễ cây dưới đất",
+      "Bàn ghế lớp học",
+      "Tán lá bàng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Cây bàng và lớp học – Đọc hiểu và tìm chi tiết trong bài “Cây bàng và lớp học”",
+    "lo": "Chủ điểm 3 – Cây bàng và lớp học – Đọc hiểu và rút ra bài học từ bài “Cây bàng và lớp học”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Cây bàng và lớp học",
     "sourcePage": 54,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cây bàng và lớp học”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cây bàng và lớp học”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Hằng ngày, trống trường giúp học sinh việc gì?",
-    "a": "Ra vào lớp đúng giờ",
+    "q": "Tiếng trống trường hằng ngày có vai trò quan trọng gì đối với thầy cô và học sinh?",
+    "a": "Báo hiệu giờ vào lớp, giờ ra chơi và tan học đúng giờ",
     "c": [
-      "Tưới cây",
-      "Chở học sinh",
-      "Ra vào lớp đúng giờ",
-      "Nấu bữa trưa"
+      "Báo hiệu trời sắp mưa bão",
+      "Kêu gọi đi mua đồ ăn",
+      "Báo hiệu giờ vào lớp, giờ ra chơi và tan học đúng giờ",
+      "Phát bài hát ru ngủ"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Bác trống trường – Đọc hiểu và tìm chi tiết trong bài “Bác trống trường”",
+    "lo": "Chủ điểm 3 – Bác trống trường – Đọc hiểu và rút ra bài học từ bài “Bác trống trường”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Bác trống trường",
     "sourcePage": 56,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bác trống trường”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bác trống trường”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ngày khai trường, tiếng trống báo hiệu điều gì?",
-    "a": "Một năm học mới",
+    "q": "Tiếng trống rộn rã trong ngày khai giảng báo hiệu điều gì?",
+    "a": "Một năm học mới chính thức bắt đầu",
     "c": [
-      "Đến giờ ngủ",
-      "Một năm học mới",
-      "Kì nghỉ hè bắt đầu",
-      "Trời sắp mưa"
+      "Trường học chuẩn bị đóng cửa",
+      "Một năm học mới chính thức bắt đầu",
+      "Kỳ nghỉ hè đã đến",
+      "Đến giờ đi ngủ trưa"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Bác trống trường – Đọc hiểu và tìm chi tiết trong bài “Bác trống trường”",
+    "lo": "Chủ điểm 3 – Bác trống trường – Đọc hiểu và rút ra bài học từ bài “Bác trống trường”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Bác trống trường",
     "sourcePage": 56,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bác trống trường”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bác trống trường”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Những trò chơi nào được nhắc trong bài?",
-    "a": "Nhảy dây và đá cầu",
+    "q": "Trong giờ ra chơi ở trường học, các bạn nên tham gia các hoạt động như thế nào?",
+    "a": "Chơi những trò chơi lành mạnh, an toàn và đoàn kết",
     "c": [
-      "Nhảy dây và đá cầu",
-      "Bơi và chèo thuyền",
-      "Cờ vua và câu cá",
-      "Trượt tuyết và leo núi"
+      "Chơi những trò chơi lành mạnh, an toàn và đoàn kết",
+      "Đánh nhau và xô đẩy bạn bè",
+      "Trèo cây cao nguy hiểm",
+      "Chạy ra ngoài cổng trường"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Giờ ra chơi – Đọc hiểu và tìm chi tiết trong bài “Giờ ra chơi”",
+    "lo": "Chủ điểm 3 – Giờ ra chơi – Đọc hiểu và rút ra bài học từ bài “Giờ ra chơi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Giờ ra chơi",
     "sourcePage": 60,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Giờ ra chơi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Giờ ra chơi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Khi giờ chơi chấm dứt, các bạn làm gì?",
-    "a": "Xếp hàng nhanh vào lớp",
+    "q": "Khi tiếng trống hoặc chuông báo hết giờ ra chơi vang lên, học sinh cần làm gì?",
+    "a": "Nhanh chóng xếp hàng ngay ngắn và trật tự vào lớp",
     "c": [
-      "Tiếp tục chơi",
-      "Đi về nhà",
-      "Chạy ra cổng",
-      "Xếp hàng nhanh vào lớp"
+      "Tiếp tục chơi đùa ngoài sân",
+      "Chạy ùa vào lớp gây ồn ào",
+      "Trốn đi chơi tiếp",
+      "Nhanh chóng xếp hàng ngay ngắn và trật tự vào lớp"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 3 – Giờ ra chơi – Đọc hiểu và tìm chi tiết trong bài “Giờ ra chơi”",
+    "lo": "Chủ điểm 3 – Giờ ra chơi – Đọc hiểu và rút ra bài học từ bài “Giờ ra chơi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 3 – Giờ ra chơi",
     "sourcePage": 60,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Giờ ra chơi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Giờ ra chơi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vi trùng từ tay đi vào cơ thể bằng cách nào?",
-    "a": "Theo thức ăn đi vào cơ thể",
+    "q": "Vì sao chúng ta luôn phải rửa tay sạch sẽ trước khi ăn cơm?",
+    "a": "Để ngăn vi khuẩn xâm nhập vào cơ thể gây bệnh",
     "c": [
-      "Theo ánh sáng",
-      "Theo quần áo sạch",
-      "Theo thức ăn đi vào cơ thể",
-      "Theo tiếng nói"
+      "Để làm tay mát hơn",
+      "Không cần rửa cũng được",
+      "Để ngăn vi khuẩn xâm nhập vào cơ thể gây bệnh",
+      "Để làm bàn tay có mùi thơm thôi"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Rửa tay trước khi ăn – Đọc hiểu và tìm chi tiết trong bài “Rửa tay trước khi ăn”",
+    "lo": "Chủ điểm 4 – Rửa tay trước khi ăn – Đọc hiểu và rút ra bài học từ bài “Rửa tay trước khi ăn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Rửa tay trước khi ăn",
     "sourcePage": 64,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Rửa tay trước khi ăn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Rửa tay trước khi ăn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Cần rửa tay thế nào để phòng bệnh?",
-    "a": "Rửa bằng xà phòng với nước sạch",
+    "q": "Cách rửa tay đúng chuẩn vệ sinh và phòng tránh dịch bệnh là gì?",
+    "a": "Rửa kỹ bằng xà phòng dưới vòi nước sạch",
     "c": [
-      "Không cần rửa",
-      "Rửa bằng xà phòng với nước sạch",
-      "Chỉ lau vào áo",
-      "Rửa bằng nước bẩn"
+      "Chỉ ngửi tay xem có mùi không",
+      "Rửa kỹ bằng xà phòng dưới vòi nước sạch",
+      "Chỉ lau nhẹ vào vạt áo",
+      "Rửa qua bằng nước bẩn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Rửa tay trước khi ăn – Đọc hiểu và tìm chi tiết trong bài “Rửa tay trước khi ăn”",
+    "lo": "Chủ điểm 4 – Rửa tay trước khi ăn – Đọc hiểu và rút ra bài học từ bài “Rửa tay trước khi ăn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Rửa tay trước khi ăn",
     "sourcePage": 64,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Rửa tay trước khi ăn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Rửa tay trước khi ăn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Lời chào được so sánh với những gì?",
-    "a": "Bông hoa, cơn gió mát và bàn tay",
+    "q": "Bài thơ \"Lời chào đi trước\" khuyên các bạn nhỏ hình thành thói quen tốt nào?",
+    "a": "Biết chào hỏi lễ phép khi gặp mọi người",
     "c": [
-      "Bông hoa, cơn gió mát và bàn tay",
-      "Cơn mưa và hòn đá",
-      "Chiếc xe và con đường",
-      "Quyển vở và bút chì"
+      "Biết chào hỏi lễ phép khi gặp mọi người",
+      "Nói trống không với người lớn",
+      "Im lặng và quay mặt đi chỗ khác",
+      "Chỉ chào khi được cho quà"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Lời chào đi trước – Đọc hiểu và tìm chi tiết trong bài “Lời chào đi trước”",
+    "lo": "Chủ điểm 4 – Lời chào đi trước – Đọc hiểu và rút ra bài học từ bài “Lời chào đi trước”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Lời chào đi trước",
     "sourcePage": 68,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lời chào đi trước”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lời chào đi trước”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bài thơ nhắc bạn mang theo điều gì khi đi đâu?",
-    "a": "Lời chào",
+    "q": "Khi đến trường gặp thầy cô hay về nhà gặp ông bà bố mẹ, hành động đẹp đầu tiên là gì?",
+    "a": "Khoanh tay chào hỏi lễ phép",
     "c": [
-      "Đồ chơi",
-      "Bánh kẹo",
-      "Chiếc gối",
-      "Lời chào"
+      "Chạy thẳng vào nhà không nói gì",
+      "Hét to đòi đồ chơi",
+      "Quay lưng đi chỗ khác",
+      "Khoanh tay chào hỏi lễ phép"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Lời chào đi trước – Đọc hiểu và tìm chi tiết trong bài “Lời chào đi trước”",
+    "lo": "Chủ điểm 4 – Lời chào đi trước – Đọc hiểu và rút ra bài học từ bài “Lời chào đi trước”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Lời chào đi trước",
     "sourcePage": 68,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lời chào đi trước”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lời chào đi trước”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Dê mẹ dặn đàn dê con khi nào mới được mở cửa?",
-    "a": "Khi nghe đúng tiếng mẹ",
+    "q": "Câu chuyện \"Khi mẹ vắng nhà\" dạy cho các bạn nhỏ bài học an toàn quan trọng nào?",
+    "a": "Tuyệt đối không mở cửa cho người lạ khi ở nhà một mình",
     "c": [
-      "Khi sói giả giọng",
-      "Khi trời tối",
-      "Khi nghe đúng tiếng mẹ",
-      "Khi bất cứ ai gọi"
+      "Đi theo người lạ ra ngoài đường",
+      "Mời người lạ vào nhà chơi",
+      "Tuyệt đối không mở cửa cho người lạ khi ở nhà một mình",
+      "Mở cửa ngay cho bất kỳ ai gõ cửa"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Khi mẹ vắng nhà – Đọc hiểu và tìm chi tiết trong bài “Khi mẹ vắng nhà”",
+    "lo": "Chủ điểm 4 – Khi mẹ vắng nhà – Đọc hiểu và rút ra bài học từ bài “Khi mẹ vắng nhà”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Khi mẹ vắng nhà",
     "sourcePage": 70,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Khi mẹ vắng nhà”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Khi mẹ vắng nhà”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đàn dê con làm gì khi sói giả giọng mẹ?",
-    "a": "Không mở cửa",
+    "q": "Đàn dê con trong câu chuyện được khen ngợi vì đức tính gì?",
+    "a": "Ngoan ngoãn nghe lời mẹ và luôn có ý thức cảnh giác",
     "c": [
-      "Rời khỏi nhà",
-      "Không mở cửa",
-      "Mở cửa ngay",
-      "Đi theo sói"
+      "Thích trốn ra ngoài chơi",
+      "Ngoan ngoãn nghe lời mẹ và luôn có ý thức cảnh giác",
+      "Dại dột nghe lời chó sói",
+      "Hay cãi lời mẹ dặn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Khi mẹ vắng nhà – Đọc hiểu và tìm chi tiết trong bài “Khi mẹ vắng nhà”",
+    "lo": "Chủ điểm 4 – Khi mẹ vắng nhà – Đọc hiểu và rút ra bài học từ bài “Khi mẹ vắng nhà”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Khi mẹ vắng nhà",
     "sourcePage": 70,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Khi mẹ vắng nhà”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Khi mẹ vắng nhà”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bố cho Nam và em đi chơi ở đâu?",
-    "a": "Công viên",
+    "q": "Khi không may bị lạc ở nơi đông người như siêu thị hay công viên, em nên làm gì?",
+    "a": "Đứng yên chỗ dễ nhìn hoặc nhờ bảo vệ, công an giúp đỡ",
     "c": [
-      "Công viên",
-      "Bãi biển",
-      "Nhà ga",
-      "Thư viện"
+      "Đứng yên chỗ dễ nhìn hoặc nhờ bảo vệ, công an giúp đỡ",
+      "Khóc nhè và chạy lung tung",
+      "Đi theo người lạ cho quà bánh",
+      "Trốn vào góc tối vắng vẻ"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Nếu không may bị lạc – Đọc hiểu và tìm chi tiết trong bài “Nếu không may bị lạc”",
+    "lo": "Chủ điểm 4 – Nếu không may bị lạc – Đọc hiểu và rút ra bài học từ bài “Nếu không may bị lạc”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Nếu không may bị lạc",
     "sourcePage": 74,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nếu không may bị lạc”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nếu không may bị lạc”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Nhờ lời bố dặn, Nam tìm lại gia đình bằng cách nào?",
-    "a": "Đi theo biển chỉ lối ra cổng có lá cờ lớn",
+    "q": "Để phòng tránh bị lạc và dễ tìm người thân, trẻ nhỏ cần ghi nhớ điều gì?",
+    "a": "Ghi nhớ số điện thoại của bố mẹ và địa chỉ nhà mình",
     "c": [
-      "Đi theo người lạ",
-      "Chạy sâu vào công viên",
-      "Ngồi im ở chỗ vắng",
-      "Đi theo biển chỉ lối ra cổng có lá cờ lớn"
+      "Tên các nhân vật hoạt hình",
+      "Số điểm trò chơi điện tử",
+      "Không cần nhớ điều gì",
+      "Ghi nhớ số điện thoại của bố mẹ và địa chỉ nhà mình"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Nếu không may bị lạc – Đọc hiểu và tìm chi tiết trong bài “Nếu không may bị lạc”",
+    "lo": "Chủ điểm 4 – Nếu không may bị lạc – Đọc hiểu và rút ra bài học từ bài “Nếu không may bị lạc”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Nếu không may bị lạc",
     "sourcePage": 74,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nếu không may bị lạc”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nếu không may bị lạc”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đèn giao thông có mấy màu?",
-    "a": "Ba màu: đỏ, vàng, xanh",
+    "q": "Cột đèn tín hiệu giao thông gồm có những màu nào?",
+    "a": "Đỏ, vàng và xanh lá cây",
     "c": [
-      "Bốn màu",
-      "Một màu",
-      "Ba màu: đỏ, vàng, xanh",
-      "Hai màu"
+      "Vàng, hồng và trắng",
+      "Đen, nâu và cam",
+      "Đỏ, vàng và xanh lá cây",
+      "Đỏ, tím và xanh dương"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Đèn giao thông – Đọc hiểu và tìm chi tiết trong bài “Đèn giao thông”",
+    "lo": "Chủ điểm 4 – Đèn giao thông – Đọc hiểu và rút ra bài học từ bài “Đèn giao thông”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Đèn giao thông",
     "sourcePage": 78,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đèn giao thông”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đèn giao thông”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đèn vàng báo hiệu điều gì?",
-    "a": "Đi chậm lại trước khi dừng hẳn",
+    "q": "Khi tham gia giao thông, người đi đường phải làm gì khi thấy tín hiệu đèn đỏ?",
+    "a": "Dừng lại trước vạch quy định",
     "c": [
-      "Quay đầu ngay",
-      "Đi chậm lại trước khi dừng hẳn",
-      "Đi thật nhanh",
-      "Được đi tự do"
+      "Quay đầu xe bỏ chạy",
+      "Dừng lại trước vạch quy định",
+      "Đi thật nhanh qua ngã tư",
+      "Bấm còi to rồi vượt lên"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 4 – Đèn giao thông – Đọc hiểu và tìm chi tiết trong bài “Đèn giao thông”",
+    "lo": "Chủ điểm 4 – Đèn giao thông – Đọc hiểu và rút ra bài học từ bài “Đèn giao thông”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 4 – Đèn giao thông",
     "sourcePage": 78,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Đèn giao thông”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Đèn giao thông”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bồ câu cứu kiến bằng cách nào?",
-    "a": "Thả một chiếc lá xuống nước cho kiến bám vào",
+    "q": "Ý nghĩa tốt đẹp của câu chuyện \"Kiến và chim bồ câu\" là gì?",
+    "a": "Biết giúp đỡ nhau khi hoạn nạn và luôn ghi nhớ ơn nghĩa",
     "c": [
-      "Thả một chiếc lá xuống nước cho kiến bám vào",
-      "Đẩy kiến xuống sâu hơn",
-      "Gọi thợ săn",
-      "Bay đi"
+      "Biết giúp đỡ nhau khi hoạn nạn và luôn ghi nhớ ơn nghĩa",
+      "Chỉ nên chơi với kẻ mạnh hơn mình",
+      "Không bao giờ cứu giúp ai",
+      "Lừa dối bạn bè để có lợi"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Kiến và chim bồ câu – Đọc hiểu và tìm chi tiết trong bài “Kiến và chim bồ câu”",
+    "lo": "Chủ điểm 5 – Kiến và chim bồ câu – Đọc hiểu và rút ra bài học từ bài “Kiến và chim bồ câu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Kiến và chim bồ câu",
     "sourcePage": 84,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Kiến và chim bồ câu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Kiến và chim bồ câu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Kiến cứu bồ câu bằng cách nào?",
-    "a": "Cắn chân người thợ săn",
+    "q": "Trong câu chuyện, bạn Kiến đã làm gì để cứu bạn Bồ Câu khỏi người thợ săn?",
+    "a": "Cắn vào chân người thợ săn làm chệch mũi tên",
     "c": [
-      "Giấu chiếc lá",
-      "Kêu bồ câu ngủ",
-      "Bẻ cành cây",
-      "Cắn chân người thợ săn"
+      "Bay lên bầu trời che mắt thợ săn",
+      "Ném đá vào người thợ săn",
+      "Kêu to làm thợ săn giật mình",
+      "Cắn vào chân người thợ săn làm chệch mũi tên"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Kiến và chim bồ câu – Đọc hiểu và tìm chi tiết trong bài “Kiến và chim bồ câu”",
+    "lo": "Chủ điểm 5 – Kiến và chim bồ câu – Đọc hiểu và rút ra bài học từ bài “Kiến và chim bồ câu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Kiến và chim bồ câu",
     "sourcePage": 84,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Kiến và chim bồ câu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Kiến và chim bồ câu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Nhờ có rễ, hoa, quả và lá như thế nào?",
-    "a": "Hoa nở đẹp, quả trĩu cành và lá biếc xanh",
+    "q": "Bộ phận rễ cây có nhiệm vụ tự nhiên quan trọng nào đối với sự sống của cây?",
+    "a": "Hút nước và chất dinh dưỡng trong đất để nuôi cây",
     "c": [
-      "Đều rơi ngay",
-      "Không thay đổi",
-      "Hoa nở đẹp, quả trĩu cành và lá biếc xanh",
-      "Đều khô héo"
+      "Thụ phấn để kết thành quả ngọt",
+      "Bảo vệ các loài chim làm tổ",
+      "Hút nước và chất dinh dưỡng trong đất để nuôi cây",
+      "Hứng ánh nắng mặt trời trên cao"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Câu chuyện của rễ – Đọc hiểu và tìm chi tiết trong bài “Câu chuyện của rễ”",
+    "lo": "Chủ điểm 5 – Câu chuyện của rễ – Đọc hiểu và rút ra bài học từ bài “Câu chuyện của rễ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Câu chuyện của rễ",
     "sourcePage": 88,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Câu chuyện của rễ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Câu chuyện của rễ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đức tính đáng quý của rễ là gì?",
-    "a": "Khiêm nhường, lặng lẽ làm đẹp cho đời",
+    "q": "Phẩm chất của bộ rễ trong câu chuyện nhắc nhở chúng ta điều gì?",
+    "a": "Đức tính khiêm tốn, chăm chỉ cống hiến thầm lặng cho đời",
     "c": [
-      "Nóng nảy",
-      "Khiêm nhường, lặng lẽ làm đẹp cho đời",
-      "Hay khoe khoang",
-      "Lười biếng"
+      "Tranh công của người khác",
+      "Đức tính khiêm tốn, chăm chỉ cống hiến thầm lặng cho đời",
+      "Thói quen khoe khoang và kiêu ngạo",
+      "Lười biếng không chịu làm việc"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Câu chuyện của rễ – Đọc hiểu và tìm chi tiết trong bài “Câu chuyện của rễ”",
+    "lo": "Chủ điểm 5 – Câu chuyện của rễ – Đọc hiểu và rút ra bài học từ bài “Câu chuyện của rễ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Câu chuyện của rễ",
     "sourcePage": 88,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Câu chuyện của rễ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Câu chuyện của rễ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao sói lúc nào cũng buồn bực?",
-    "a": "Vì hay gây gổ nên không có bạn bè",
+    "q": "Theo câu chuyện \"Câu hỏi của sói\", điều gì giúp chúng ta luôn cảm thấy vui tươi và yêu đời?",
+    "a": "Có tấm lòng nhân hậu, hòa đồng và được bạn bè yêu quý",
     "c": [
-      "Vì hay gây gổ nên không có bạn bè",
-      "Vì không biết leo cây",
-      "Vì trời mưa",
-      "Vì không có thức ăn"
+      "Có tấm lòng nhân hậu, hòa đồng và được bạn bè yêu quý",
+      "Hay gây gổ và bắt nạt người khác",
+      "Sống ích kỷ một mình",
+      "Tranh giành đồ của bạn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Câu hỏi của sói – Đọc hiểu và tìm chi tiết trong bài “Câu hỏi của sói”",
+    "lo": "Chủ điểm 5 – Câu hỏi của sói – Đọc hiểu và rút ra bài học từ bài “Câu hỏi của sói”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Câu hỏi của sói",
     "sourcePage": 90,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Câu hỏi của sói”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Câu hỏi của sói”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao sóc luôn vui vẻ?",
-    "a": "Vì có nhiều bạn tốt",
+    "q": "Vì sao nhân vật Chó Sói trong câu chuyện lúc nào cũng cảm thấy buồn bực, cô đơn?",
+    "a": "Vì tính tình hung dữ, hay gây gổ nên không ai dám kết bạn",
     "c": [
-      "Vì luôn ngủ",
-      "Vì làm sói sợ",
-      "Vì ở một mình",
-      "Vì có nhiều bạn tốt"
+      "Vì không biết trèo cây",
+      "Vì thời tiết quá lạnh",
+      "Vì không có thức ăn ngon",
+      "Vì tính tình hung dữ, hay gây gổ nên không ai dám kết bạn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Câu hỏi của sói – Đọc hiểu và tìm chi tiết trong bài “Câu hỏi của sói”",
+    "lo": "Chủ điểm 5 – Câu hỏi của sói – Đọc hiểu và rút ra bài học từ bài “Câu hỏi của sói”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Câu hỏi của sói",
     "sourcePage": 90,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Câu hỏi của sói”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Câu hỏi của sói”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao các bác nông dân không đến cứu khi sói xuất hiện thật?",
-    "a": "Vì chú bé đã nhiều lần nói dối",
+    "q": "Bài học quý giá nhất từ câu chuyện \"Chú bé chăn cừu\" là gì?",
+    "a": "Phải luôn trung thực, không được nói dối làm mất lòng tin",
     "c": [
-      "Vì đang ngủ",
-      "Vì không có sói",
-      "Vì chú bé đã nhiều lần nói dối",
-      "Vì không nghe thấy"
+      "Không nên đi chăn cừu ngoài đồng",
+      "Không bao giờ được nhờ người khác giúp",
+      "Phải luôn trung thực, không được nói dối làm mất lòng tin",
+      "Nên nói dối để trêu đùa cho vui"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Chú bé chăn cừu – Đọc hiểu và tìm chi tiết trong bài “Chú bé chăn cừu”",
+    "lo": "Chủ điểm 5 – Chú bé chăn cừu – Đọc hiểu và rút ra bài học từ bài “Chú bé chăn cừu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Chú bé chăn cừu",
     "sourcePage": 94,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Chú bé chăn cừu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Chú bé chăn cừu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bài học chính của câu chuyện là gì?",
-    "a": "Không nên nói dối vì sẽ mất lòng tin",
+    "q": "Hậu quả mà chú bé chăn cừu phải gánh chịu do thói quen nói dối là gì?",
+    "a": "Khi gặp nguy hiểm thật sự thì không còn ai tin để giúp đỡ",
     "c": [
-      "Không cần giúp ai",
-      "Không nên nói dối vì sẽ mất lòng tin",
-      "Nên trêu người khác",
-      "Nên kêu cứu giả"
+      "Không có hậu quả gì xảy ra",
+      "Khi gặp nguy hiểm thật sự thì không còn ai tin để giúp đỡ",
+      "Được mọi người thưởng thêm nhiều quà",
+      "Được các bác khen ngợi là thông minh"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Chú bé chăn cừu – Đọc hiểu và tìm chi tiết trong bài “Chú bé chăn cừu”",
+    "lo": "Chủ điểm 5 – Chú bé chăn cừu – Đọc hiểu và rút ra bài học từ bài “Chú bé chăn cừu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Chú bé chăn cừu",
     "sourcePage": 94,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Chú bé chăn cừu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Chú bé chăn cừu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Tiếng từ vách núi đáp lại gấu con là hiện tượng gì?",
-    "a": "Tiếng vọng",
+    "q": "Câu chuyện \"Tiếng vọng của núi\" gửi gắm thông điệp ứng xử nào trong cuộc sống?",
+    "a": "Khi trao đi yêu thương và lời nói tốt đẹp, em sẽ nhận lại sự yêu thương",
     "c": [
-      "Tiếng vọng",
-      "Tiếng mưa",
-      "Tiếng chuông",
-      "Tiếng nhạc"
+      "Khi trao đi yêu thương và lời nói tốt đẹp, em sẽ nhận lại sự yêu thương",
+      "Muốn người khác quý thì phải quát thật to",
+      "Nên nói những lời chê bai khó nghe",
+      "Không nên trò chuyện với ai"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Tiếng vọng của núi – Đọc hiểu và tìm chi tiết trong bài “Tiếng vọng của núi”",
+    "lo": "Chủ điểm 5 – Tiếng vọng của núi – Đọc hiểu và rút ra bài học từ bài “Tiếng vọng của núi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Tiếng vọng của núi",
     "sourcePage": 98,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tiếng vọng của núi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tiếng vọng của núi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Sau khi nói “Tôi yêu bạn” với núi, gấu con cảm thấy thế nào?",
-    "a": "Bật cười vui vẻ",
+    "q": "Hiện tượng âm thanh dội lại khi ta nói to trước vách núi hoặc trong hang động gọi là gì?",
+    "a": "Tiếng vọng của âm thanh",
     "c": [
-      "Tủi thân hơn",
-      "Sợ hãi",
-      "Tức giận",
-      "Bật cười vui vẻ"
+      "Tiếng sấm sét",
+      "Tiếng mưa rơi",
+      "Tiếng gió rít",
+      "Tiếng vọng của âm thanh"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 5 – Tiếng vọng của núi – Đọc hiểu và tìm chi tiết trong bài “Tiếng vọng của núi”",
+    "lo": "Chủ điểm 5 – Tiếng vọng của núi – Đọc hiểu và rút ra bài học từ bài “Tiếng vọng của núi”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 5 – Tiếng vọng của núi",
     "sourcePage": 98,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tiếng vọng của núi”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tiếng vọng của núi”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ngoài bay xa, hải âu còn có khả năng gì?",
-    "a": "Bơi rất giỏi nhờ chân có màng",
+    "q": "Loài chim hải âu có đặc điểm cơ thể đặc biệt nào giúp chúng bơi lội giỏi trên biển?",
+    "a": "Chân có màng bơi như chân vịt",
     "c": [
-      "Leo cây bằng tay",
-      "Chạy dưới đất rất lâu",
-      "Bơi rất giỏi nhờ chân có màng",
-      "Đào hang"
+      "Có cánh ngắn và dày",
+      "Có đuôi xoè tròn như công",
+      "Chân có màng bơi như chân vịt",
+      "Có bộ móng vuốt sắc nhọn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Loài chim của biển cả – Đọc hiểu và tìm chi tiết trong bài “Loài chim của biển cả”",
+    "lo": "Chủ điểm 6 – Loài chim của biển cả – Đọc hiểu và rút ra bài học từ bài “Loài chim của biển cả”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Loài chim của biển cả",
     "sourcePage": 104,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Loài chim của biển cả”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Loài chim của biển cả”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao hải âu được gọi là loài chim báo bão?",
-    "a": "Khi sắp có bão, chúng bay thành đàn tìm nơi trú ẩn",
+    "q": "Vì sao chim hải âu thường được gọi là loài chim báo bão của biển cả?",
+    "a": "Vì trước khi bão đến, chúng bay thành đàn tìm nơi trú ẩn",
     "c": [
-      "Vì chúng không biết bay",
-      "Khi sắp có bão, chúng bay thành đàn tìm nơi trú ẩn",
-      "Vì chúng tạo ra bão",
-      "Vì lông đổi màu đỏ"
+      "Vì chúng kêu gào suốt đêm",
+      "Vì trước khi bão đến, chúng bay thành đàn tìm nơi trú ẩn",
+      "Vì chim hải âu tạo ra sóng gió",
+      "Vì lông của chúng đổi sang màu đen"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Loài chim của biển cả – Đọc hiểu và tìm chi tiết trong bài “Loài chim của biển cả”",
+    "lo": "Chủ điểm 6 – Loài chim của biển cả – Đọc hiểu và rút ra bài học từ bài “Loài chim của biển cả”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Loài chim của biển cả",
     "sourcePage": 104,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Loài chim của biển cả”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Loài chim của biển cả”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Cầu vồng thường xuất hiện khi nào?",
-    "a": "Khi vừa mưa lại có nắng",
+    "q": "Hiện tượng cầu vồng trên bầu trời thường xuất hiện trong điều kiện thời tiết nào?",
+    "a": "Khi trời vừa tạnh mưa và có ánh nắng chiếu qua hạt nước",
     "c": [
-      "Khi vừa mưa lại có nắng",
-      "Giữa đêm không trăng",
-      "Khi trời hoàn toàn khô",
-      "Trong phòng kín"
+      "Khi trời vừa tạnh mưa và có ánh nắng chiếu qua hạt nước",
+      "Vào ban đêm không có trăng sao",
+      "Khi trời có sương mù dày đặc giữa trưa",
+      "Khi trời mùa đông có tuyết rơi"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Bảy sắc cầu vồng – Đọc hiểu và tìm chi tiết trong bài “Bảy sắc cầu vồng”",
+    "lo": "Chủ điểm 6 – Bảy sắc cầu vồng – Đọc hiểu và rút ra bài học từ bài “Bảy sắc cầu vồng”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Bảy sắc cầu vồng",
     "sourcePage": 108,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Bảy sắc cầu vồng”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bảy sắc cầu vồng”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Cầu vồng sau cơn mưa gồm 7 sắc màu rực rỡ nào sau đây?",
-    "a": "Đỏ, cam, vàng, lục, lam, chàm, tím",
+    "q": "Cầu vồng trên bầu trời gồm có bao nhiêu màu sắc chính?",
+    "a": "7 màu sắc",
     "c": [
-      "Đỏ, cam, vàng, lục, lam, chàm, tím",
-      "Đỏ, đen, trắng, hồng, xám",
-      "Cam, nâu, xám, vàng, đen",
-      "Chỉ có hai màu xanh và đỏ"
+      "3 màu sắc",
+      "5 màu sắc",
+      "10 màu sắc",
+      "7 màu sắc"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Bảy sắc cầu vồng – Đọc hiểu và tìm chi tiết trong bài “Bảy sắc cầu vồng”",
+    "lo": "Chủ điểm 6 – Bảy sắc cầu vồng – Đọc hiểu và rút ra bài học từ bài “Bảy sắc cầu vồng”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Bảy sắc cầu vồng",
     "sourcePage": 108,
-    "explanation": "7 sắc cầu vồng theo thứ tự là: Đỏ, cam, vàng, lục, lam, chàm, tím.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Bảy sắc cầu vồng”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Hổ ăn gì và sống ở đâu?",
-    "a": "Ăn thịt và sống trong rừng",
+    "q": "Con hổ thường được mệnh danh là gì trong thế giới loài vật?",
+    "a": "Chúa tể rừng xanh (Chúa sơn lâm)",
     "c": [
-      "Ăn hạt và sống trong nhà",
-      "Ăn lá và sống trên trời",
-      "Ăn thịt và sống trong rừng",
-      "Ăn cỏ và sống dưới nước"
+      "Bạn nhỏ của nhà nông",
+      "Thần của biển cả",
+      "Chúa tể rừng xanh (Chúa sơn lâm)",
+      "Vua của các loài chim"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Chúa tể rừng xanh – Đọc hiểu và tìm chi tiết trong bài “Chúa tể rừng xanh”",
+    "lo": "Chủ điểm 6 – Chúa tể rừng xanh – Đọc hiểu và rút ra bài học từ bài “Chúa tể rừng xanh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Chúa tể rừng xanh",
     "sourcePage": 110,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Chúa tể rừng xanh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Chúa tể rừng xanh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đặc điểm nào giúp hổ săn mồi?",
-    "a": "Răng và vuốt sắc, chân khoẻ, di chuyển nhanh",
+    "q": "Đặc điểm tự nhiên nổi bật nào giúp hổ săn mồi hiệu quả trong rừng?",
+    "a": "Răng và móng vuốt sắc nhọn, bước đi êm và chạy nhanh",
     "c": [
-      "Mai cứng",
-      "Răng và vuốt sắc, chân khoẻ, di chuyển nhanh",
-      "Cánh rộng",
-      "Vây dài"
+      "Chiếc mỏ dài và nhọn",
+      "Răng và móng vuốt sắc nhọn, bước đi êm và chạy nhanh",
+      "Bộ lông màu trắng tinh khôi",
+      "Đôi cánh rộng biết bay lượn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Chúa tể rừng xanh – Đọc hiểu và tìm chi tiết trong bài “Chúa tể rừng xanh”",
+    "lo": "Chủ điểm 6 – Chúa tể rừng xanh – Đọc hiểu và rút ra bài học từ bài “Chúa tể rừng xanh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Chúa tể rừng xanh",
     "sourcePage": 110,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Chúa tể rừng xanh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Chúa tể rừng xanh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Chim công biểu diễn tiết mục gì?",
-    "a": "Điệu múa tuyệt đẹp",
+    "q": "Trong thế giới loài vật, chim công nổi tiếng với vẻ đẹp đặc trưng nào?",
+    "a": "Bộ lông đuôi sặc sỡ xoè rộng như chiếc quạt hoa",
     "c": [
-      "Điệu múa tuyệt đẹp",
-      "Khoét tổ",
-      "Đu cây",
-      "Bắt chước tiếng"
+      "Bộ lông đuôi sặc sỡ xoè rộng như chiếc quạt hoa",
+      "Khả năng bơi lội dưới nước sâu",
+      "Chiếc mỏ cứng dùng để đục gỗ",
+      "Tiếng gầm rú vang dội núi rừng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Cuộc thi tài năng rừng xanh – Đọc hiểu và tìm chi tiết trong bài “Cuộc thi tài năng rừng xanh”",
+    "lo": "Chủ điểm 6 – Cuộc thi tài năng rừng xanh – Đọc hiểu và rút ra bài học từ bài “Cuộc thi tài năng rừng xanh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Cuộc thi tài năng rừng xanh",
     "sourcePage": 114,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cuộc thi tài năng rừng xanh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cuộc thi tài năng rừng xanh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Voọc xám làm mọi người trầm trồ với tiết mục gì?",
-    "a": "Đu cây điêu luyện",
+    "q": "Ý nghĩa của câu chuyện \"Cuộc thi tài năng rừng xanh\" là gì?",
+    "a": "Mỗi loài vật, mỗi con người đều có thế mạnh và tài năng riêng",
     "c": [
-      "Hót ngao ngao",
-      "Múa xoè đuôi",
-      "Khoét tổ",
-      "Đu cây điêu luyện"
+      "Chỉ ai múa đẹp mới có tài năng",
+      "Không nên tham gia thi thố",
+      "Ai cũng phải có tài giống hệt nhau",
+      "Mỗi loài vật, mỗi con người đều có thế mạnh và tài năng riêng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Cuộc thi tài năng rừng xanh – Đọc hiểu và tìm chi tiết trong bài “Cuộc thi tài năng rừng xanh”",
+    "lo": "Chủ điểm 6 – Cuộc thi tài năng rừng xanh – Đọc hiểu và rút ra bài học từ bài “Cuộc thi tài năng rừng xanh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Cuộc thi tài năng rừng xanh",
     "sourcePage": 114,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cuộc thi tài năng rừng xanh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cuộc thi tài năng rừng xanh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao cây liễu không dễ bị gió làm gãy?",
-    "a": "Thân dẻo dai, cành mềm mại chuyển động theo gió",
+    "q": "Nhờ đặc tính nào mà cây liễu đứng vững trước gió to bão lớn mà không bị gãy đổ?",
+    "a": "Cành mềm dẻo và uyển chuyển nương theo chiều gió",
     "c": [
-      "Cây trốn dưới đất",
-      "Không có cành",
-      "Thân dẻo dai, cành mềm mại chuyển động theo gió",
-      "Thân bằng sắt"
+      "Lá cây rụng hết vào mùa hè",
+      "Cây trốn sâu dưới lòng đất",
+      "Cành mềm dẻo và uyển chuyển nương theo chiều gió",
+      "Thân cây bằng kim loại cứng"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Cây liễu dẻo dai – Đọc hiểu và tìm chi tiết trong bài “Cây liễu dẻo dai”",
+    "lo": "Chủ điểm 6 – Cây liễu dẻo dai – Đọc hiểu và rút ra bài học từ bài “Cây liễu dẻo dai”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Cây liễu dẻo dai",
     "sourcePage": 118,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cây liễu dẻo dai”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cây liễu dẻo dai”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao liễu là loài cây dễ trồng?",
-    "a": "Cắm cành xuống đất có thể mọc thành cây non",
+    "q": "Cây liễu rủ thường được trồng nhiều ở đâu để tạo cảnh quan xanh mát, thơ mộng?",
+    "a": "Ven bờ hồ, bờ sông và công viên",
     "c": [
-      "Không cần ánh sáng",
-      "Cắm cành xuống đất có thể mọc thành cây non",
-      "Không cần đất",
-      "Chỉ sống trong nước"
+      "Dưới đáy biển sâu",
+      "Ven bờ hồ, bờ sông và công viên",
+      "Trên đỉnh núi tuyết lạnh",
+      "Giữa sa mạc khô cằn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 6 – Cây liễu dẻo dai – Đọc hiểu và tìm chi tiết trong bài “Cây liễu dẻo dai”",
+    "lo": "Chủ điểm 6 – Cây liễu dẻo dai – Đọc hiểu và rút ra bài học từ bài “Cây liễu dẻo dai”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 6 – Cây liễu dẻo dai",
     "sourcePage": 118,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cây liễu dẻo dai”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cây liễu dẻo dai”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Buổi sáng, bé thấy tia nắng ở đâu?",
-    "a": "Trong lòng tay, trên bàn học và trên tán cây",
+    "q": "Ánh nắng mặt trời buổi sáng sớm mang lại lợi ích tuyệt vời nào cho sức khỏe?",
+    "a": "Cung cấp vitamin D giúp xương chắc khỏe và sảng khoái",
     "c": [
-      "Trong lòng tay, trên bàn học và trên tán cây",
-      "Dưới đáy biển",
-      "Trong tủ kín",
-      "Dưới lòng đất"
+      "Cung cấp vitamin D giúp xương chắc khỏe và sảng khoái",
+      "Làm đen da và gây bỏng rát",
+      "Gây buồn ngủ suốt cả ngày",
+      "Làm hỏng thị lực của mắt"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Tia nắng đi đâu? – Đọc hiểu và tìm chi tiết trong bài “Tia nắng đi đâu?”",
+    "lo": "Chủ điểm 7 – Tia nắng đi đâu? – Đọc hiểu và rút ra bài học từ bài “Tia nắng đi đâu?”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Tia nắng đi đâu?",
     "sourcePage": 124,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tia nắng đi đâu?”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tia nắng đi đâu?”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Theo bé, buổi tối tia nắng ngủ ở đâu?",
-    "a": "Ở nhà nắng",
+    "q": "Mặt trời mọc vào buổi nào và ở hướng nào?",
+    "a": "Mọc vào buổi sáng ở hướng Đông",
     "c": [
-      "Trong cặp sách",
-      "Dưới ao",
-      "Trên xe buýt",
-      "Ở nhà nắng"
+      "Mọc vào buổi tối ở hướng Tây",
+      "Mọc vào nửa đêm ở hướng Bắc",
+      "Mọc vào buổi trưa ở hướng Nam",
+      "Mọc vào buổi sáng ở hướng Đông"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Tia nắng đi đâu? – Đọc hiểu và tìm chi tiết trong bài “Tia nắng đi đâu?”",
+    "lo": "Chủ điểm 7 – Tia nắng đi đâu? – Đọc hiểu và rút ra bài học từ bài “Tia nắng đi đâu?”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Tia nắng đi đâu?",
     "sourcePage": 124,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Tia nắng đi đâu?”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Tia nắng đi đâu?”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Trong giấc mơ, ông mặt trời làm gì?",
-    "a": "Mang túi hoa nắng rải khắp nơi",
-    "c": [
-      "Đi ngủ",
-      "Trốn sau núi",
-      "Mang túi hoa nắng rải khắp nơi",
-      "Mang mưa đá"
-    ],
-    "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Trong giấc mơ buổi sáng – Đọc hiểu và tìm chi tiết trong bài “Trong giấc mơ buổi sáng”",
-    "difficulty": "medium",
-    "status": "published",
-    "sourceType": "book",
-    "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Trong giấc mơ buổi sáng",
-    "sourcePage": 126,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Trong giấc mơ buổi sáng”.",
-    "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
-    ]
-  },
-  {
-    "q": "Ai gọi bạn nhỏ dậy học bài?",
+    "q": "Vào mỗi buổi sáng sớm ở làng quê, con vật nào thường cất tiếng gáy vang báo hiệu ngày mới?",
     "a": "Chú gà trống",
     "c": [
-      "Bác gấu",
+      "Con cá vàng",
+      "Chú cún con",
       "Chú gà trống",
-      "Chú mèo",
-      "Con cá"
+      "Chú mèo mướp"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Trong giấc mơ buổi sáng – Đọc hiểu và tìm chi tiết trong bài “Trong giấc mơ buổi sáng”",
+    "lo": "Chủ điểm 7 – Trong giấc mơ buổi sáng – Đọc hiểu và rút ra bài học từ bài “Trong giấc mơ buổi sáng”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Trong giấc mơ buổi sáng",
     "sourcePage": 126,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Trong giấc mơ buổi sáng”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Trong giấc mơ buổi sáng”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Buổi sáng, điều gì đánh thức mọi vật?",
-    "a": "Những tia nắng",
+    "q": "Thói quen buổi sáng nào giúp học sinh luôn khỏe mạnh và tỉnh táo trước khi đến lớp?",
+    "a": "Thức dậy sớm tập thể dục, vệ sinh cá nhân và ăn sáng đầy đủ",
     "c": [
-      "Những tia nắng",
-      "Tiếng mưa đá",
-      "Bóng tối",
-      "Tuyết rơi"
+      "Chạy vội vàng không rửa mặt",
+      "Thức dậy sớm tập thể dục, vệ sinh cá nhân và ăn sáng đầy đủ",
+      "Ngủ nướng đến sát giờ rồi nhịn ăn sáng",
+      "Nằm trên giường xem điện thoại"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Ngày mới bắt đầu – Đọc hiểu và tìm chi tiết trong bài “Ngày mới bắt đầu”",
+    "lo": "Chủ điểm 7 – Trong giấc mơ buổi sáng – Đọc hiểu và rút ra bài học từ bài “Trong giấc mơ buổi sáng”",
+    "difficulty": "medium",
+    "status": "published",
+    "sourceType": "book",
+    "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Trong giấc mơ buổi sáng",
+    "sourcePage": 126,
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Trong giấc mơ buổi sáng”.",
+    "hints": [
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
+    ]
+  },
+  {
+    "q": "Để bắt đầu một ngày mới tràn đầy năng lượng, việc đầu tiên bé nên làm sau khi thức dậy là gì?",
+    "a": "Gấp chăn gối gọn gàng và đánh răng, rửa mặt sạch sẽ",
+    "c": [
+      "Gấp chăn gối gọn gàng và đánh răng, rửa mặt sạch sẽ",
+      "Chơi điện tử ngay trên giường",
+      "Khóc nhè đòi bố mẹ bế",
+      "Để nguyên chăn gối bừa bãi rồi đi chơi"
+    ],
+    "type": "multiple_choice",
+    "lo": "Chủ điểm 7 – Ngày mới bắt đầu – Đọc hiểu và rút ra bài học từ bài “Ngày mới bắt đầu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Ngày mới bắt đầu",
     "sourcePage": 128,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ngày mới bắt đầu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ngày mới bắt đầu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Sau khi thức dậy, bé làm gì?",
-    "a": "Chuẩn bị đến trường",
+    "q": "Đọc câu: \"Bình minh thức giấc, chim hót líu lo trên cành.\" Từ \"bình minh\" chỉ khoảng thời gian nào?",
+    "a": "Lúc sáng sớm khi mặt trời vừa mọc",
     "c": [
-      "Đi ngủ tiếp",
-      "Ra sông bơi",
-      "Trốn trong nhà",
-      "Chuẩn bị đến trường"
+      "Buổi trưa nắng gắt",
+      "Buổi chiều hoàng hôn",
+      "Lúc nửa đêm thanh vắng",
+      "Lúc sáng sớm khi mặt trời vừa mọc"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Ngày mới bắt đầu – Đọc hiểu và tìm chi tiết trong bài “Ngày mới bắt đầu”",
+    "lo": "Chủ điểm 7 – Ngày mới bắt đầu – Đọc hiểu và rút ra bài học từ bài “Ngày mới bắt đầu”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Ngày mới bắt đầu",
     "sourcePage": 128,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ngày mới bắt đầu”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ngày mới bắt đầu”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bạn nhỏ hỏi mẹ về những gì?",
-    "a": "Gió, màu trời, trăng rằm và chú Cuội",
+    "q": "Hình ảnh chú Cuội ngồi dưới gốc cây đa thường gắn liền với sự vật nào trên bầu trời đêm?",
+    "a": "Mặt trăng tròn vào đêm rằm",
     "c": [
-      "Chỉ bài toán",
-      "Chỉ món ăn",
-      "Gió, màu trời, trăng rằm và chú Cuội",
-      "Chỉ đồ chơi"
+      "Đám mây đen kịt",
+      "Ánh mặt trời ban trưa",
+      "Mặt trăng tròn vào đêm rằm",
+      "Ngôi sao băng bay qua"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Hỏi mẹ – Đọc hiểu và tìm chi tiết trong bài “Hỏi mẹ”",
+    "lo": "Chủ điểm 7 – Hỏi mẹ – Đọc hiểu và rút ra bài học từ bài “Hỏi mẹ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Hỏi mẹ",
     "sourcePage": 132,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hỏi mẹ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hỏi mẹ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Theo bạn nhỏ, vì sao phi công bay lên thăm Cuội?",
-    "a": "Vì Cuội buồn",
+    "q": "Khi tò mò muốn khám phá và hiểu biết thêm về thế giới xung quanh, các bạn nhỏ nên làm gì?",
+    "a": "Hăng hái học hỏi và lễ phép hỏi han ông bà, cha mẹ, thầy cô",
     "c": [
-      "Vì trên đó có trường học",
-      "Vì Cuội buồn",
-      "Vì Cuội gọi mưa",
-      "Vì phi công lạc đường"
+      "Không cần quan tâm tìm hiểu",
+      "Hăng hái học hỏi và lễ phép hỏi han ông bà, cha mẹ, thầy cô",
+      "Giấu kín không nói với ai",
+      "Tự làm những thí nghiệm nguy hiểm"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Hỏi mẹ – Đọc hiểu và tìm chi tiết trong bài “Hỏi mẹ”",
+    "lo": "Chủ điểm 7 – Hỏi mẹ – Đọc hiểu và rút ra bài học từ bài “Hỏi mẹ”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Hỏi mẹ",
     "sourcePage": 132,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hỏi mẹ”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hỏi mẹ”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ngày trước, cò kiếm ăn ở đâu?",
-    "a": "Ở ao, hồ và đầm",
+    "q": "Hình ảnh con cò chăm chỉ kiếm ăn bên ruộng đồng là biểu tượng quen thuộc của nơi nào?",
+    "a": "Làng quê thanh bình của Việt Nam",
     "c": [
-      "Ở ao, hồ và đầm",
-      "Trong nhà máy",
-      "Trên đường cao tốc",
-      "Trong lớp học"
+      "Làng quê thanh bình của Việt Nam",
+      "Khu đô thị cao tầng hiện đại",
+      "Nhà máy công nghiệp sầm uất",
+      "Đáy đại dương sâu thẳm"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Những cánh cò – Đọc hiểu và tìm chi tiết trong bài “Những cánh cò”",
+    "lo": "Chủ điểm 7 – Những cánh cò – Đọc hiểu và rút ra bài học từ bài “Những cánh cò”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Những cánh cò",
     "sourcePage": 134,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Những cánh cò”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Những cánh cò”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Điều gì khiến đàn cò rời đi?",
-    "a": "Mất nơi kiếm ăn và tiếng ồn làm chúng sợ",
+    "q": "Để các loài chim muông và đàn cò có nơi sinh sống bình yên, con người cần làm gì?",
+    "a": "Bảo vệ môi trường tự nhiên trong lành và không săn bắt trái phép",
     "c": [
-      "Có quá nhiều cây",
-      "Trời luôn mát",
-      "Được cho thêm thức ăn",
-      "Mất nơi kiếm ăn và tiếng ồn làm chúng sợ"
+      "Phá huỷ ao hồ và đốn chặt rừng cây",
+      "Bắn súng cao su xua đuổi chim",
+      "Xả rác thải bừa bãi xuống nguồn nước",
+      "Bảo vệ môi trường tự nhiên trong lành và không săn bắt trái phép"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Những cánh cò – Đọc hiểu và tìm chi tiết trong bài “Những cánh cò”",
+    "lo": "Chủ điểm 7 – Những cánh cò – Đọc hiểu và rút ra bài học từ bài “Những cánh cò”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Những cánh cò",
     "sourcePage": 134,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Những cánh cò”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Những cánh cò”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Đọc đoạn thơ: \"Trên đồng cỏ xanh tươi / Đàn trâu đang gặm cỏ / Chú bò vàng thong thả / Bầy bướm lượn chập chờn.\" Những con vật nào được nhắc đến trong đoạn thơ?",
-    "a": "Trâu, bò và bướm",
+    "q": "Vào mùa hè oi ả ở làng quê, âm thanh tự nhiên nào thường cất lên râm ran khắp các vòm cây?",
+    "a": "Tiếng ve sầu kêu hè",
     "c": [
-      "Trâu, bò và bướm",
-      "Cá, tôm và cua",
-      "Gấu và sói",
-      "Hổ, báo và voi"
+      "Tiếng sấm sét mùa xuân",
+      "Tiếng chim hót trong gió tuyết",
+      "Tiếng ve sầu kêu hè",
+      "Tiếng ếch kêu mùa đông"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Buổi trưa hè – Đọc hiểu và tìm chi tiết trong bài “Buổi trưa hè”",
+    "lo": "Chủ điểm 7 – Buổi trưa hè – Đọc hiểu và rút ra bài học từ bài “Buổi trưa hè”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Buổi trưa hè",
     "sourcePage": 138,
-    "explanation": "Đoạn thơ nhắc đến đàn trâu, chú bò vàng và bầy bướm.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Buổi trưa hè”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Từ ngữ nào cho thấy buổi trưa hè yên tĩnh?",
-    "a": "Lim dim, nằm im, êm ả",
+    "q": "Từ nào dưới đây gợi tả sự yên tĩnh, thanh bình của cảnh vật vào buổi trưa hè?",
+    "a": "êm ả",
     "c": [
-      "Tíu tít, rộn ràng",
-      "Lim dim, nằm im, êm ả",
-      "Ồn ào, náo nhiệt",
-      "Vun vút, dõng dạc"
+      "ầm ĩ",
+      "êm ả",
+      "náo nhiệt",
+      "ồn ào"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Buổi trưa hè – Đọc hiểu và tìm chi tiết trong bài “Buổi trưa hè”",
+    "lo": "Chủ điểm 7 – Buổi trưa hè – Đọc hiểu và rút ra bài học từ bài “Buổi trưa hè”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Buổi trưa hè",
     "sourcePage": 138,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Buổi trưa hè”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Buổi trưa hè”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Những hình ảnh nào cho thấy hoa phượng nở nhiều?",
-    "a": "Rừng rực trên cành, cả dãy phố và một trời hoa đỏ",
+    "q": "Hoa phượng vĩ nở đỏ rực trên sân trường là dấu hiệu báo hiệu mùa nào trong năm đã đến?",
+    "a": "Mùa hè",
     "c": [
-      "Rừng rực trên cành, cả dãy phố và một trời hoa đỏ",
-      "Chỉ một nụ nhỏ",
-      "Không có bông nào",
-      "Chỉ có lá xanh"
+      "Mùa hè",
+      "Mùa đông",
+      "Mùa xuân",
+      "Mùa thu"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Hoa phượng – Đọc hiểu và tìm chi tiết trong bài “Hoa phượng”",
+    "lo": "Chủ điểm 7 – Hoa phượng – Đọc hiểu và rút ra bài học từ bài “Hoa phượng”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Hoa phượng",
     "sourcePage": 140,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hoa phượng”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hoa phượng”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Hoa phượng trong bài được trồng ở đâu?",
-    "a": "Trên dãy phố",
+    "q": "Vì sao hoa phượng vĩ còn được các bạn học trò thân thương gọi là \"Hoa học trò\"?",
+    "a": "Vì hoa nở rộ vào dịp kết thúc năm học và gắn liền với trường lớp",
     "c": [
-      "Dưới biển",
-      "Trong hang",
-      "Trên đỉnh núi tuyết",
-      "Trên dãy phố"
+      "Vì hoa nở vào dịp Tết Nguyên đán",
+      "Vì cánh hoa dùng để làm mực viết",
+      "Vì chỉ có học sinh mới được trồng hoa",
+      "Vì hoa nở rộ vào dịp kết thúc năm học và gắn liền với trường lớp"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 7 – Hoa phượng – Đọc hiểu và tìm chi tiết trong bài “Hoa phượng”",
+    "lo": "Chủ điểm 7 – Hoa phượng – Đọc hiểu và rút ra bài học từ bài “Hoa phượng”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 7 – Hoa phượng",
     "sourcePage": 140,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Hoa phượng”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Hoa phượng”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
@@ -5954,251 +5954,251 @@
     "a": "Đổ nước đầy hố để quả bưởi nổi lên",
     "c": [
       "Bỏ quả bưởi lại",
-      "Đào hố sâu hơn",
+      "Dùng đất đá lấp đầy hố",
       "Đổ nước đầy hố để quả bưởi nổi lên",
-      "Nhảy xuống hố"
+      "Nhảy xuống hố nguy hiểm"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Cậu bé thông minh – Đọc hiểu và tìm chi tiết trong bài “Cậu bé thông minh”",
+    "lo": "Chủ điểm 8 – Cậu bé thông minh – Đọc hiểu và rút ra bài học từ bài “Cậu bé thông minh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Cậu bé thông minh",
     "sourcePage": 144,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cậu bé thông minh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cậu bé thông minh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Cậu bé Vinh sau này trở thành ai?",
-    "a": "Nhà toán học Lương Thế Vinh",
+    "q": "Cậu bé thông minh trong câu chuyện sau này lớn lên trở thành danh nhân kiệt xuất nào?",
+    "a": "Trạng Lường (Nhà toán học Lương Thế Vinh)",
     "c": [
-      "Một nhạc sĩ",
-      "Nhà toán học Lương Thế Vinh",
-      "Một thuỷ thủ",
-      "Một đầu bếp"
+      "Trạng Trình Nguyễn Bỉnh Khiêm",
+      "Trạng Lường (Nhà toán học Lương Thế Vinh)",
+      "Nhà bác học Lê Quý Đôn",
+      "Thầy giáo Chu Văn An"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Cậu bé thông minh – Đọc hiểu và tìm chi tiết trong bài “Cậu bé thông minh”",
+    "lo": "Chủ điểm 8 – Cậu bé thông minh – Đọc hiểu và rút ra bài học từ bài “Cậu bé thông minh”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Cậu bé thông minh",
     "sourcePage": 144,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Cậu bé thông minh”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Cậu bé thông minh”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Lính cứu hoả dập đám cháy bằng cách nào?",
-    "a": "Dùng vòi phun nước",
+    "q": "Công việc của những người lính cứu hoả có đặc điểm và ý nghĩa như thế nào?",
+    "a": "Rất dũng cảm, sẵn sàng đối mặt nguy hiểm để dập lửa cứu người",
     "c": [
-      "Dùng vòi phun nước",
-      "Dùng giấy",
-      "Dùng quạt",
-      "Dùng cát đồ chơi"
+      "Rất dũng cảm, sẵn sàng đối mặt nguy hiểm để dập lửa cứu người",
+      "Rất nhàn hạ và không có nguy hiểm gì",
+      "Chỉ làm việc trong phòng máy lạnh",
+      "Chỉ lái xe đi dạo phố"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Lính cứu hoả – Đọc hiểu và tìm chi tiết trong bài “Lính cứu hoả”",
+    "lo": "Chủ điểm 8 – Lính cứu hoả – Đọc hiểu và rút ra bài học từ bài “Lính cứu hoả”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Lính cứu hoả",
     "sourcePage": 148,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lính cứu hoả”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lính cứu hoả”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Công việc cứu hoả có đặc điểm gì?",
-    "a": "Nguy hiểm và cần sự dũng cảm",
+    "q": "Khi phát hiện có đám cháy khẩn cấp xảy ra, số điện thoại tổng đài cứu hỏa cần gọi ngay là số nào?",
+    "a": "Số 114",
     "c": [
-      "Rất nhàn và không nguy hiểm",
-      "Chỉ làm trong lớp học",
-      "Không cần dụng cụ",
-      "Nguy hiểm và cần sự dũng cảm"
+      "Số 113",
+      "Số 115",
+      "Số 112",
+      "Số 114"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Lính cứu hoả – Đọc hiểu và tìm chi tiết trong bài “Lính cứu hoả”",
+    "lo": "Chủ điểm 8 – Lính cứu hoả – Đọc hiểu và rút ra bài học từ bài “Lính cứu hoả”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Lính cứu hoả",
     "sourcePage": 148,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lính cứu hoả”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lính cứu hoả”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bạn nhỏ muốn làm thuỷ thủ để làm gì?",
-    "a": "Lái tàu vượt sóng và qua đại dương",
+    "q": "Ước mơ trở thành bác sĩ trong tương lai thể hiện mong muốn tốt đẹp nào?",
+    "a": "Khám chữa bệnh và bảo vệ sức khỏe cho mọi người",
     "c": [
-      "Nấu bánh",
-      "Dạy học",
-      "Lái tàu vượt sóng và qua đại dương",
-      "Trồng lúa"
+      "Để bắt nạt bệnh nhân",
+      "Chỉ để kiếm thật nhiều tiền",
+      "Khám chữa bệnh và bảo vệ sức khỏe cho mọi người",
+      "Để được dùng thuốc tuỳ ý"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Lớn lên bạn làm gì? – Đọc hiểu và tìm chi tiết trong bài “Lớn lên bạn làm gì?”",
+    "lo": "Chủ điểm 8 – Lớn lên bạn làm gì? – Đọc hiểu và rút ra bài học từ bài “Lớn lên bạn làm gì?”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Lớn lên bạn làm gì?",
     "sourcePage": 152,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lớn lên bạn làm gì?”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lớn lên bạn làm gì?”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bạn nhỏ muốn làm đầu bếp để làm gì?",
-    "a": "Làm bánh đẹp và nấu món mì ngon",
+    "q": "Để sau này lớn lên thực hiện được những ước mơ nghề nghiệp cao đẹp, ngay từ bây giờ em cần làm gì?",
+    "a": "Chăm chỉ học tập, rèn luyện thân thể và giữ đạo đức tốt",
     "c": [
-      "Chữa cháy",
-      "Làm bánh đẹp và nấu món mì ngon",
-      "Lái tàu",
-      "Gieo hạt"
+      "Lười biếng không cần đến trường",
+      "Chăm chỉ học tập, rèn luyện thân thể và giữ đạo đức tốt",
+      "Suốt ngày chơi trò chơi điện tử",
+      "Chỉ ngồi chờ lớn lên tự làm được"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Lớn lên bạn làm gì? – Đọc hiểu và tìm chi tiết trong bài “Lớn lên bạn làm gì?”",
+    "lo": "Chủ điểm 8 – Lớn lên bạn làm gì? – Đọc hiểu và rút ra bài học từ bài “Lớn lên bạn làm gì?”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Lớn lên bạn làm gì?",
     "sourcePage": 152,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Lớn lên bạn làm gì?”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Lớn lên bạn làm gì?”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vào mùa lúa chín, ruộng bậc thang Sa Pa có màu gì?",
-    "a": "Màu vàng trải dài",
+    "q": "Vì sao người dân vùng cao Tây Bắc lại làm những thửa ruộng uốn lượn theo sườn núi gọi là ruộng bậc thang?",
+    "a": "Để giữ nước và đất canh tác trồng lúa trên sườn đồi dốc",
     "c": [
-      "Màu vàng trải dài",
-      "Màu tím",
-      "Màu đen",
-      "Màu trắng"
+      "Để giữ nước và đất canh tác trồng lúa trên sườn đồi dốc",
+      "Để làm đường đua xe ô tô",
+      "Để nước chảy trôi hết đất màu",
+      "Chỉ để ngắm cảnh chụp ảnh"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Ruộng bậc thang ở Sa Pa – Đọc hiểu và tìm chi tiết trong bài “Ruộng bậc thang ở Sa Pa”",
+    "lo": "Chủ điểm 8 – Ruộng bậc thang ở Sa Pa – Đọc hiểu và rút ra bài học từ bài “Ruộng bậc thang ở Sa Pa”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Ruộng bậc thang ở Sa Pa",
     "sourcePage": 154,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ruộng bậc thang ở Sa Pa”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ruộng bậc thang ở Sa Pa”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Ai tạo nên những khu ruộng bậc thang?",
-    "a": "Người Mông, Dao, Hà Nhì sống ở Sa Pa",
+    "q": "Vào mùa lúa chín rộ, những thửa ruộng bậc thang tuyệt đẹp ở Sa Pa khoác lên mình màu sắc nào?",
+    "a": "Màu vàng óng ả trải dài bát ngát",
     "c": [
-      "Khách du lịch",
-      "Thuỷ thủ",
-      "Lính cứu hoả",
-      "Người Mông, Dao, Hà Nhì sống ở Sa Pa"
+      "Màu tím biếc",
+      "Màu đen sẫm",
+      "Màu xanh da trời",
+      "Màu vàng óng ả trải dài bát ngát"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Ruộng bậc thang ở Sa Pa – Đọc hiểu và tìm chi tiết trong bài “Ruộng bậc thang ở Sa Pa”",
+    "lo": "Chủ điểm 8 – Ruộng bậc thang ở Sa Pa – Đọc hiểu và rút ra bài học từ bài “Ruộng bậc thang ở Sa Pa”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Ruộng bậc thang ở Sa Pa",
     "sourcePage": 154,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Ruộng bậc thang ở Sa Pa”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Ruộng bậc thang ở Sa Pa”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Bài đồng dao nhắc chúng ta nhớ ơn ai?",
-    "a": "Những người làm ra thức ăn và giúp đỡ cuộc sống",
+    "q": "Câu tục ngữ \"Ăn quả nhớ kẻ trồng cây\" khuyên dạy chúng ta đạo lý sống nào?",
+    "a": "Lòng biết ơn sâu sắc đối với những người đã tạo ra thành quả cho ta hưởng",
     "c": [
-      "Không cần nhớ ai",
-      "Chỉ người nổi tiếng",
-      "Những người làm ra thức ăn và giúp đỡ cuộc sống",
-      "Chỉ người bán đồ chơi"
+      "Hái quả xong phá bỏ cây đi",
+      "Không cần nhớ ai giúp đỡ mình",
+      "Lòng biết ơn sâu sắc đối với những người đã tạo ra thành quả cho ta hưởng",
+      "Chỉ biết hưởng thụ mà không cần cảm ơn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Nhớ ơn – Đọc hiểu và tìm chi tiết trong bài “Nhớ ơn”",
+    "lo": "Chủ điểm 8 – Nhớ ơn – Đọc hiểu và rút ra bài học từ bài “Nhớ ơn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Nhớ ơn",
     "sourcePage": 156,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nhớ ơn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nhớ ơn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Việc nào thể hiện lòng biết ơn?",
-    "a": "Trân trọng thành quả và nói lời cảm ơn",
+    "q": "Hành động nào dưới đây thể hiện lòng biết ơn của học sinh đối với cha mẹ và thầy cô?",
+    "a": "Ngoan ngoãn, lễ phép và chăm chỉ học hành thành người tốt",
     "c": [
-      "Làm hỏng đồ vật",
-      "Trân trọng thành quả và nói lời cảm ơn",
-      "Lãng phí thức ăn",
-      "Chê bai người lao động"
+      "Lười biếng không làm bài tập",
+      "Ngoan ngoãn, lễ phép và chăm chỉ học hành thành người tốt",
+      "Vòi vĩnh đồ chơi đắt tiền",
+      "Cãi lời người lớn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Nhớ ơn – Đọc hiểu và tìm chi tiết trong bài “Nhớ ơn”",
+    "lo": "Chủ điểm 8 – Nhớ ơn – Đọc hiểu và rút ra bài học từ bài “Nhớ ơn”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Nhớ ơn",
     "sourcePage": 156,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Nhớ ơn”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Nhớ ơn”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Những bãi biển nổi tiếng trong bài thuộc các nơi nào?",
-    "a": "Thanh Hoá, Đà Nẵng và Khánh Hoà",
+    "q": "Nước Việt Nam ta có bờ biển dài với nhiều bãi biển đẹp. Khi đi tắm biển, hành động nào giúp bảo vệ môi trường biển?",
+    "a": "Không xả rác bừa bãi ra bãi cát và mặt biển",
     "c": [
-      "Thanh Hoá, Đà Nẵng và Khánh Hoà",
-      "Sa Pa, Hà Giang và Lào Cai",
-      "Hà Nội và Bắc Ninh",
-      "Chỉ ở nước ngoài"
+      "Không xả rác bừa bãi ra bãi cát và mặt biển",
+      "Vứt túi ni lông và vỏ chai xuống nước",
+      "Bẻ san hô dưới biển mang về",
+      "Chôn rác xuống bãi cát"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Du lịch biển Việt Nam – Đọc hiểu và tìm chi tiết trong bài “Du lịch biển Việt Nam”",
+    "lo": "Chủ điểm 8 – Du lịch biển Việt Nam – Đọc hiểu và rút ra bài học từ bài “Du lịch biển Việt Nam”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Du lịch biển Việt Nam",
     "sourcePage": 158,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Du lịch biển Việt Nam”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Du lịch biển Việt Nam”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   },
   {
-    "q": "Vì sao hình dạng đồi cát ở Mũi Né luôn thay đổi?",
-    "a": "Vì cát bay",
+    "q": "Để đảm bảo an toàn tuyệt đối khi đi tắm biển cùng gia đình, em cần lưu ý điều gì?",
+    "a": "Luôn mặc áo phao và tắm ở vùng an toàn dưới sự giám sát của người lớn",
     "c": [
-      "Vì có tuyết",
-      "Vì cây mọc nhanh",
-      "Vì người xây nhà",
-      "Vì cát bay"
+      "Tự bơi ra thật xa vùng nước sâu",
+      "Không cần người lớn đi cùng",
+      "Nhảy xuống biển khi có sóng to gió lớn",
+      "Luôn mặc áo phao và tắm ở vùng an toàn dưới sự giám sát của người lớn"
     ],
     "type": "multiple_choice",
-    "lo": "Chủ điểm 8 – Du lịch biển Việt Nam – Đọc hiểu và tìm chi tiết trong bài “Du lịch biển Việt Nam”",
+    "lo": "Chủ điểm 8 – Du lịch biển Việt Nam – Đọc hiểu và rút ra bài học từ bài “Du lịch biển Việt Nam”",
     "difficulty": "medium",
     "status": "published",
     "sourceType": "book",
     "sourceRef": "SGK Tiếng Việt 1, Tập hai – Kết nối tri thức với cuộc sống (sgk-tieng-viet-1-thong-nhat-tu-nam-2026-tap-2_107202616.pdf) – Chủ điểm 8 – Du lịch biển Việt Nam",
     "sourcePage": 158,
-    "explanation": "Chi tiết này được nêu trong bài đọc “Du lịch biển Việt Nam”.",
+    "explanation": "Kiến thức và bài học này được khai thác từ bài đọc “Du lịch biển Việt Nam”.",
     "hints": [
-      "Nhớ lại nhân vật, sự việc hoặc hình ảnh chính của bài đọc."
+      "Nhớ lại nhân vật, sự việc và ý nghĩa chính của bài đọc."
     ]
   }
 ]
